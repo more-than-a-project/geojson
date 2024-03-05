@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-NB",
+        "flag": null,
+        "name": "Nusa Tenggara Barat"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.3710228,
+            -9.105955
+          ],
+          [
+            117.0080247,
+            -9.3098441
+          ],
+          [
+            115.9591791,
+            -9.1164082
+          ],
+          [
+            115.5700063,
+            -9.0204038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-NB",
+        "flag": null,
+        "name": "Nusa Tenggara Barat"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.6975688,
+            -7.5120245
+          ],
+          [
+            115.8324222,
+            -7.9398045
+          ],
+          [
+            115.8200787,
+            -8.473547
+          ],
+          [
+            115.7143427,
+            -8.6376154
+          ],
+          [
+            115.6762677,
+            -8.9060885
+          ],
+          [
+            115.5700063,
+            -9.0204038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-NB",
+        "flag": null,
+        "name": "Nusa Tenggara Barat"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.6975688,
+            -7.5120245
+          ],
+          [
+            116.343821,
+            -7.5601103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-NB",
+        "flag": null,
+        "name": "Nusa Tenggara Barat"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.4887427,
+            -7.917258
+          ],
+          [
+            116.8288823,
+            -7.9722136
+          ],
+          [
+            116.343821,
+            -7.5601103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-NB",
+        "flag": null,
+        "name": "Nusa Tenggara Barat"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.3710228,
+            -9.105955
+          ],
+          [
+            119.2870782,
+            -8.9591195
+          ],
+          [
+            119.3051784,
+            -8.5888274
+          ],
+          [
+            119.3732356,
+            -8.3982394
+          ],
+          [
+            119.4887427,
+            -7.917258
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.4965658,
+            47.2067135
+          ],
+          [
+            9.4905005,
+            47.1979422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.4905005,
+            47.1979422
+          ],
+          [
+            9.4878765,
+            47.1901944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.4878765,
+            47.1901944
+          ],
+          [
+            9.4950763,
+            47.1569405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.4950763,
+            47.1569405
+          ],
+          [
+            9.5026522,
+            47.1468825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5026522,
+            47.1468825
+          ],
+          [
+            9.5145259,
+            47.1219427
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5145259,
+            47.1219427
+          ],
+          [
+            9.5164145,
+            47.1150869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5164145,
+            47.1150869
+          ],
+          [
+            9.5127623,
+            47.0851435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5127623,
+            47.0851435
+          ],
+          [
+            9.4740884,
+            47.0663892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.4757865,
+            47.0517524
+          ],
+          [
+            9.4740884,
+            47.0663892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.4757865,
+            47.0517524
+          ],
+          [
+            9.5296755,
+            47.0628507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5296755,
+            47.0628507
+          ],
+          [
+            9.5305992,
+            47.0630449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5305992,
+            47.0630449
+          ],
+          [
+            9.5397528,
+            47.0651482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5397528,
+            47.0651482
+          ],
+          [
+            9.5569197,
+            47.0485165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.588064,
+            47.0548518
+          ],
+          [
+            9.5569197,
+            47.0485165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.588064,
+            47.0548518
+          ],
+          [
+            9.603472,
+            47.0617744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.603472,
+            47.0617744
+          ],
+          [
+            9.6070544,
+            47.0607725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6115263,
+            47.0794026
+          ],
+          [
+            9.6070544,
+            47.0607725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6335324,
+            47.0834247
+          ],
+          [
+            9.6115263,
+            47.0794026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6335324,
+            47.0834247
+          ],
+          [
+            9.635374,
+            47.0906322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6209049,
+            47.1106166
+          ],
+          [
+            9.635374,
+            47.0906322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6246703,
+            47.1176116
+          ],
+          [
+            9.6209049,
+            47.1106166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6205668,
+            47.1516405
+          ],
+          [
+            9.6350038,
+            47.1280857
+          ],
+          [
+            9.6246703,
+            47.1176116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5914268,
+            47.164571
+          ],
+          [
+            9.6205668,
+            47.1516405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5646263,
+            47.1702461
+          ],
+          [
+            9.5914268,
+            47.164571
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5666218,
+            47.1726738
+          ],
+          [
+            9.5646263,
+            47.1702461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5730911,
+            47.187826
+          ],
+          [
+            9.5666218,
+            47.1726738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.579003,
+            47.1952079
+          ],
+          [
+            9.5730911,
+            47.187826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5848092,
+            47.2045706
+          ],
+          [
+            9.579003,
+            47.1952079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5632402,
+            47.2219583
+          ],
+          [
+            9.5848092,
+            47.2045706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5576199,
+            47.2314552
+          ],
+          [
+            9.5632402,
+            47.2219583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5674105,
+            47.240918
+          ],
+          [
+            9.5576199,
+            47.2314552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5559307,
+            47.25247
+          ],
+          [
+            9.5674105,
+            47.240918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5448234,
+            47.2581942
+          ],
+          [
+            9.5559307,
+            47.25247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5320848,
+            47.269468
+          ],
+          [
+            9.5448234,
+            47.2581942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5307487,
+            47.270581
+          ],
+          [
+            9.5320848,
+            47.269468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5307487,
+            47.270581
+          ],
+          [
+            9.5303761,
+            47.2694757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5303761,
+            47.2694757
+          ],
+          [
+            9.5103331,
+            47.2318006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "name": "Liechtenstein"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5103331,
+            47.2318006
+          ],
+          [
+            9.4965658,
+            47.2067135
+          ]
+        ]
+      }
+    }
+  ]
+}

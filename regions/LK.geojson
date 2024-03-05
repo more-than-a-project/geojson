@@ -1,0 +1,631 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.7041961,
+            6.228
+          ],
+          [
+            81.8676444,
+            6.384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.8676444,
+            6.384
+          ],
+          [
+            81.9466685,
+            6.515
+          ],
+          [
+            82.0182878,
+            6.702
+          ],
+          [
+            82.0795634,
+            7.0
+          ],
+          [
+            82.0611499,
+            7.124
+          ],
+          [
+            82.0665074,
+            7.342
+          ],
+          [
+            82.0152941,
+            7.512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.0152941,
+            7.512
+          ],
+          [
+            81.9874457,
+            7.638
+          ],
+          [
+            81.9411477,
+            7.745
+          ],
+          [
+            81.8617003,
+            7.872
+          ],
+          [
+            81.7835569,
+            7.946
+          ],
+          [
+            81.7333051,
+            8.081
+          ],
+          [
+            81.6602871,
+            8.162
+          ],
+          [
+            81.6122778,
+            8.276
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.6122778,
+            8.276
+          ],
+          [
+            81.5887245,
+            8.41
+          ],
+          [
+            81.5288595,
+            8.595
+          ],
+          [
+            81.4224798,
+            8.698
+          ],
+          [
+            81.3658851,
+            8.845
+          ],
+          [
+            81.2794009,
+            8.919
+          ],
+          [
+            81.2395089,
+            8.991
+          ],
+          [
+            81.1270854,
+            9.1103396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            81.1270854,
+            9.1103396
+          ],
+          [
+            80.9762496,
+            9.41
+          ],
+          [
+            80.7654171,
+            9.6014582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.7654171,
+            9.6014582
+          ],
+          [
+            80.5027356,
+            9.809
+          ],
+          [
+            80.3765658,
+            9.983
+          ],
+          [
+            80.3095467,
+            10.018
+          ],
+          [
+            80.2061201,
+            10.035
+          ],
+          [
+            79.946845,
+            10.007
+          ],
+          [
+            79.7581394,
+            9.933
+          ],
+          [
+            79.6284348,
+            9.819
+          ],
+          [
+            79.576918,
+            9.738
+          ],
+          [
+            79.5071162,
+            9.689
+          ],
+          [
+            79.4508731,
+            9.58
+          ],
+          [
+            79.421989,
+            9.5665226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.421989,
+            9.5665226
+          ],
+          [
+            79.4623914,
+            9.4749949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.4623914,
+            9.4749949
+          ],
+          [
+            79.5116667,
+            9.3633333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5116667,
+            9.3633333
+          ],
+          [
+            79.5333333,
+            9.2166667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5333333,
+            9.2166667
+          ],
+          [
+            79.5333333,
+            9.1
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.5333333,
+            9.1
+          ],
+          [
+            79.4924888,
+            8.8978796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.4924888,
+            8.8978796
+          ],
+          [
+            79.5821952,
+            8.872
+          ],
+          [
+            79.6926032,
+            8.873
+          ],
+          [
+            79.7145532,
+            8.856
+          ],
+          [
+            79.7144158,
+            8.785
+          ],
+          [
+            79.7370876,
+            8.713
+          ],
+          [
+            79.6792821,
+            8.6886857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.6792821,
+            8.6886857
+          ],
+          [
+            79.6292434,
+            8.645
+          ],
+          [
+            79.5917971,
+            8.58
+          ],
+          [
+            79.5733925,
+            8.394
+          ],
+          [
+            79.5088988,
+            8.293
+          ],
+          [
+            79.4908192,
+            8.217
+          ],
+          [
+            79.5074197,
+            8.021
+          ],
+          [
+            79.5969143,
+            7.677
+          ],
+          [
+            79.5886144,
+            7.523
+          ],
+          [
+            79.628312,
+            7.273
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.628312,
+            7.273
+          ],
+          [
+            79.6175313,
+            7.177
+          ],
+          [
+            79.6553147,
+            7.025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.6553147,
+            7.025
+          ],
+          [
+            79.6405218,
+            6.909
+          ],
+          [
+            79.7038097,
+            6.669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.7038097,
+            6.669
+          ],
+          [
+            79.7624888,
+            6.529
+          ],
+          [
+            79.7930985,
+            6.375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.7930985,
+            6.375
+          ],
+          [
+            79.8795247,
+            6.108
+          ],
+          [
+            79.9758368,
+            5.968
+          ],
+          [
+            80.1411141,
+            5.833
+          ],
+          [
+            80.3305934,
+            5.769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3305934,
+            5.769
+          ],
+          [
+            80.5937674,
+            5.719
+          ],
+          [
+            80.7968892,
+            5.7755012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LK",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "name": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.7968892,
+            5.7755012
+          ],
+          [
+            80.9042761,
+            5.849
+          ],
+          [
+            80.9942147,
+            5.886
+          ],
+          [
+            81.19244,
+            5.931
+          ],
+          [
+            81.4138805,
+            6.021
+          ],
+          [
+            81.7041961,
+            6.228
+          ]
+        ]
+      }
+    }
+  ]
+}

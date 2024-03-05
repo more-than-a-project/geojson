@@ -1,0 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
+        "name": "Gibraltar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.3518028,
+            36.1548102
+          ],
+          [
+            -5.3453466,
+            36.1550376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
+        "name": "Gibraltar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.3453466,
+            36.1550376
+          ],
+          [
+            -5.3451873,
+            36.15498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
+        "name": "Gibraltar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.3451873,
+            36.15498
+          ],
+          [
+            -5.3394741,
+            36.1530599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
+        "name": "Gibraltar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.3394741,
+            36.1530599
+          ],
+          [
+            -5.3388535,
+            36.1528477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
+        "name": "Gibraltar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.3518028,
+            36.1548102
+          ],
+          [
+            -5.4006553,
+            36.1483668
+          ],
+          [
+            -5.3853382,
+            36.0937314
+          ],
+          [
+            -5.3570753,
+            36.0595515
+          ],
+          [
+            -5.3027324,
+            36.0725925
+          ],
+          [
+            -5.2788016,
+            36.1168656
+          ],
+          [
+            -5.2767611,
+            36.1494904
+          ],
+          [
+            -5.3388535,
+            36.1528477
+          ]
+        ]
+      }
+    }
+  ]
+}

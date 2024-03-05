@@ -1,0 +1,3837 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6658027,
+            11.0490169
+          ],
+          [
+            -83.6082175,
+            11.1249164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.27517,
+            11.2506194
+          ],
+          [
+            -83.49625,
+            11.2343611
+          ],
+          [
+            -83.6082175,
+            11.1249164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9989303,
+            11.7916599
+          ],
+          [
+            -83.27517,
+            11.2506194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9089658,
+            12.6259848
+          ],
+          [
+            -82.7748056,
+            12.3558489
+          ],
+          [
+            -82.7618047,
+            12.2601221
+          ],
+          [
+            -82.7817163,
+            12.193107
+          ],
+          [
+            -82.9989303,
+            11.7916599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9886323,
+            12.7855113
+          ],
+          [
+            -82.9089658,
+            12.6259848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.1185737,
+            13.0489065
+          ],
+          [
+            -82.9886323,
+            12.7855113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.839554,
+            13.6161616
+          ],
+          [
+            -83.1185737,
+            13.0489065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.4882329,
+            14.8872476
+          ],
+          [
+            -82.4768115,
+            14.815318
+          ],
+          [
+            -82.5000096,
+            14.6105894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.5000096,
+            14.6105894
+          ],
+          [
+            -82.5324821,
+            14.3361629
+          ],
+          [
+            -82.6128646,
+            14.0804802
+          ],
+          [
+            -82.839554,
+            13.6161616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.4882329,
+            14.8872476
+          ],
+          [
+            -82.5655556,
+            14.9458333
+          ],
+          [
+            -82.8341667,
+            14.9536111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.1442044,
+            14.9982783
+          ],
+          [
+            -83.0999663,
+            15.0142362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.0999663,
+            15.0142362
+          ],
+          [
+            -82.8816667,
+            15.0902778
+          ],
+          [
+            -82.869987,
+            15.0180702
+          ],
+          [
+            -82.8341667,
+            14.9536111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.5292892,
+            14.9919589
+          ],
+          [
+            -83.4998004,
+            15.0111926
+          ],
+          [
+            -83.4619152,
+            14.9809537
+          ],
+          [
+            -83.4204362,
+            14.9903205
+          ],
+          [
+            -83.4021692,
+            15.0297034
+          ],
+          [
+            -83.3483095,
+            14.9952598
+          ],
+          [
+            -83.342801,
+            15.0103212
+          ],
+          [
+            -83.2764056,
+            15.0059973
+          ],
+          [
+            -83.2776979,
+            14.9876604
+          ],
+          [
+            -83.2353059,
+            14.9822815
+          ],
+          [
+            -83.1985565,
+            14.9990298
+          ],
+          [
+            -83.1442044,
+            14.9982783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.5568619,
+            14.9410278
+          ],
+          [
+            -83.5382086,
+            14.9411661
+          ],
+          [
+            -83.5475035,
+            14.9575253
+          ],
+          [
+            -83.5290199,
+            14.9500651
+          ],
+          [
+            -83.5409425,
+            14.9752304
+          ],
+          [
+            -83.5243757,
+            14.9748774
+          ],
+          [
+            -83.5292892,
+            14.9919589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.8915802,
+            14.7662804
+          ],
+          [
+            -83.8425088,
+            14.7737468
+          ],
+          [
+            -83.829162,
+            14.7968049
+          ],
+          [
+            -83.809968,
+            14.7895967
+          ],
+          [
+            -83.7836576,
+            14.8236786
+          ],
+          [
+            -83.7581341,
+            14.8065039
+          ],
+          [
+            -83.7527171,
+            14.8314017
+          ],
+          [
+            -83.7298261,
+            14.8206741
+          ],
+          [
+            -83.7318104,
+            14.8409493
+          ],
+          [
+            -83.7217037,
+            14.8295551
+          ],
+          [
+            -83.7108447,
+            14.8428723
+          ],
+          [
+            -83.7006387,
+            14.8245088
+          ],
+          [
+            -83.6999819,
+            14.850317
+          ],
+          [
+            -83.722334,
+            14.853365
+          ],
+          [
+            -83.6979565,
+            14.8596568
+          ],
+          [
+            -83.6940397,
+            14.8801174
+          ],
+          [
+            -83.6824944,
+            14.8664532
+          ],
+          [
+            -83.6441655,
+            14.8823526
+          ],
+          [
+            -83.615744,
+            14.8745057
+          ],
+          [
+            -83.6146117,
+            14.8999271
+          ],
+          [
+            -83.5931438,
+            14.9040727
+          ],
+          [
+            -83.5986274,
+            14.9197169
+          ],
+          [
+            -83.5600005,
+            14.9123635
+          ],
+          [
+            -83.5568619,
+            14.9410278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.9261135,
+            14.7479888
+          ],
+          [
+            -83.9364346,
+            14.7772828
+          ],
+          [
+            -83.8915802,
+            14.7662804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.1102767,
+            14.7912107
+          ],
+          [
+            -84.0820384,
+            14.7870925
+          ],
+          [
+            -84.0803634,
+            14.7572573
+          ],
+          [
+            -84.0440637,
+            14.7758732
+          ],
+          [
+            -84.0334088,
+            14.746985
+          ],
+          [
+            -83.9972997,
+            14.7616767
+          ],
+          [
+            -83.9883135,
+            14.7486999
+          ],
+          [
+            -83.9443103,
+            14.7593887
+          ],
+          [
+            -83.9261135,
+            14.7479888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.3806248,
+            14.6844833
+          ],
+          [
+            -84.3615621,
+            14.7172416
+          ],
+          [
+            -84.344455,
+            14.7018574
+          ],
+          [
+            -84.3494034,
+            14.6798227
+          ],
+          [
+            -84.309876,
+            14.6846663
+          ],
+          [
+            -84.2969449,
+            14.6629351
+          ],
+          [
+            -84.2768698,
+            14.6621507
+          ],
+          [
+            -84.2578865,
+            14.6784497
+          ],
+          [
+            -84.2718613,
+            14.7344069
+          ],
+          [
+            -84.2328912,
+            14.7612003
+          ],
+          [
+            -84.2279817,
+            14.7336756
+          ],
+          [
+            -84.1885433,
+            14.7157803
+          ],
+          [
+            -84.0973988,
+            14.7292097
+          ],
+          [
+            -84.1102767,
+            14.7912107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.7880244,
+            14.8144692
+          ],
+          [
+            -84.7867298,
+            14.7942423
+          ],
+          [
+            -84.7497797,
+            14.7697577
+          ],
+          [
+            -84.7521107,
+            14.753105
+          ],
+          [
+            -84.766675,
+            14.7615955
+          ],
+          [
+            -84.7724176,
+            14.7491533
+          ],
+          [
+            -84.7423339,
+            14.7493296
+          ],
+          [
+            -84.7448125,
+            14.7153539
+          ],
+          [
+            -84.7007489,
+            14.6912098
+          ],
+          [
+            -84.7016823,
+            14.6649309
+          ],
+          [
+            -84.6719849,
+            14.6955374
+          ],
+          [
+            -84.6654487,
+            14.6725954
+          ],
+          [
+            -84.5855856,
+            14.6676088
+          ],
+          [
+            -84.574919,
+            14.6518872
+          ],
+          [
+            -84.5267701,
+            14.6577483
+          ],
+          [
+            -84.5333235,
+            14.6327441
+          ],
+          [
+            -84.5082843,
+            14.6369361
+          ],
+          [
+            -84.4718524,
+            14.615845
+          ],
+          [
+            -84.4631911,
+            14.6325035
+          ],
+          [
+            -84.4146398,
+            14.6415574
+          ],
+          [
+            -84.3806248,
+            14.6844833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.8164487,
+            14.8291322
+          ],
+          [
+            -84.7880244,
+            14.8144692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.0002122,
+            14.7247906
+          ],
+          [
+            -84.9602258,
+            14.7573703
+          ],
+          [
+            -84.92746,
+            14.7591445
+          ],
+          [
+            -84.898932,
+            14.8158044
+          ],
+          [
+            -84.8524225,
+            14.8127031
+          ],
+          [
+            -84.8164487,
+            14.8291322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.0506876,
+            14.6526786
+          ],
+          [
+            -85.0205327,
+            14.6871187
+          ],
+          [
+            -85.0285953,
+            14.7029574
+          ],
+          [
+            -85.0002122,
+            14.7247906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.0236064,
+            14.6098721
+          ],
+          [
+            -85.0431131,
+            14.6104952
+          ],
+          [
+            -85.0245451,
+            14.6377764
+          ],
+          [
+            -85.0506876,
+            14.6526786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.0638235,
+            14.560285
+          ],
+          [
+            -85.0236064,
+            14.6098721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.1482487,
+            14.5000351
+          ],
+          [
+            -85.1464033,
+            14.5769589
+          ],
+          [
+            -85.1227544,
+            14.5859504
+          ],
+          [
+            -85.0968441,
+            14.5531379
+          ],
+          [
+            -85.0638235,
+            14.560285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.1815953,
+            14.3327296
+          ],
+          [
+            -85.1923228,
+            14.3295903
+          ],
+          [
+            -85.1973929,
+            14.3652222
+          ],
+          [
+            -85.2211619,
+            14.3767788
+          ],
+          [
+            -85.1811677,
+            14.4283474
+          ],
+          [
+            -85.184319,
+            14.4678743
+          ],
+          [
+            -85.1482487,
+            14.5000351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.5701267,
+            14.0645585
+          ],
+          [
+            -85.5549081,
+            14.0633601
+          ],
+          [
+            -85.5610728,
+            14.0508624
+          ],
+          [
+            -85.5193946,
+            14.0474557
+          ],
+          [
+            -85.5048537,
+            14.0884472
+          ],
+          [
+            -85.4936582,
+            14.0760688
+          ],
+          [
+            -85.4549968,
+            14.1139096
+          ],
+          [
+            -85.4300737,
+            14.106613
+          ],
+          [
+            -85.404112,
+            14.1231207
+          ],
+          [
+            -85.39797,
+            14.1627759
+          ],
+          [
+            -85.3748202,
+            14.1835549
+          ],
+          [
+            -85.3829742,
+            14.2216742
+          ],
+          [
+            -85.3614647,
+            14.2128694
+          ],
+          [
+            -85.3398818,
+            14.2488479
+          ],
+          [
+            -85.2677035,
+            14.2619187
+          ],
+          [
+            -85.1849598,
+            14.2500841
+          ],
+          [
+            -85.1529168,
+            14.2999934
+          ],
+          [
+            -85.1803923,
+            14.3158892
+          ],
+          [
+            -85.1815953,
+            14.3327296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6649005,
+            14.0081879
+          ],
+          [
+            -85.6246197,
+            14.0088942
+          ],
+          [
+            -85.5701267,
+            14.0645585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.7522875,
+            13.8323034
+          ],
+          [
+            -85.7335791,
+            13.8615623
+          ],
+          [
+            -85.7641268,
+            13.8847662
+          ],
+          [
+            -85.7533676,
+            13.9677958
+          ],
+          [
+            -85.7067698,
+            13.9929919
+          ],
+          [
+            -85.6776363,
+            13.979365
+          ],
+          [
+            -85.6649005,
+            14.0081879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.8217379,
+            13.8527316
+          ],
+          [
+            -85.7549858,
+            13.8464502
+          ],
+          [
+            -85.7522875,
+            13.8323034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.9148996,
+            13.910151
+          ],
+          [
+            -85.8922645,
+            13.9043885
+          ],
+          [
+            -85.8819267,
+            13.9296155
+          ],
+          [
+            -85.8454181,
+            13.9176303
+          ],
+          [
+            -85.8217379,
+            13.8527316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0420179,
+            13.9961019
+          ],
+          [
+            -85.9185172,
+            13.9375955
+          ],
+          [
+            -85.9148996,
+            13.910151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0269357,
+            14.0776065
+          ],
+          [
+            -86.0034911,
+            14.0701697
+          ],
+          [
+            -86.0420179,
+            13.9961019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0387797,
+            14.0767126
+          ],
+          [
+            -86.0269357,
+            14.0776065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0429325,
+            14.0695681
+          ],
+          [
+            -86.0387797,
+            14.0767126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0770712,
+            14.0629738
+          ],
+          [
+            -86.0429325,
+            14.0695681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.2569115,
+            13.8804667
+          ],
+          [
+            -86.2253992,
+            13.908072
+          ],
+          [
+            -86.2177415,
+            13.9367989
+          ],
+          [
+            -86.1860033,
+            13.9553576
+          ],
+          [
+            -86.1906984,
+            13.9840344
+          ],
+          [
+            -86.1709677,
+            13.9796635
+          ],
+          [
+            -86.1407362,
+            13.9995061
+          ],
+          [
+            -86.1516516,
+            14.0357814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.1516516,
+            14.0357814
+          ],
+          [
+            -86.0770712,
+            14.0629738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.2905083,
+            13.8523228
+          ],
+          [
+            -86.2783013,
+            13.8759596
+          ],
+          [
+            -86.2569115,
+            13.8804667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.3986118,
+            13.7630361
+          ],
+          [
+            -86.3781246,
+            13.7713103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.3781246,
+            13.7713103
+          ],
+          [
+            -86.3322636,
+            13.7691299
+          ],
+          [
+            -86.2962201,
+            13.8160856
+          ],
+          [
+            -86.3029385,
+            13.8387098
+          ],
+          [
+            -86.2905083,
+            13.8523228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.490016,
+            13.7687991
+          ],
+          [
+            -86.4536978,
+            13.7898467
+          ],
+          [
+            -86.4376096,
+            13.7628393
+          ],
+          [
+            -86.3986118,
+            13.7630361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5748448,
+            13.7914108
+          ],
+          [
+            -86.5373315,
+            13.8050142
+          ],
+          [
+            -86.5216062,
+            13.7801821
+          ],
+          [
+            -86.490016,
+            13.7687991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5757029,
+            13.7909809
+          ],
+          [
+            -86.5748448,
+            13.7914108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5818775,
+            13.7860595
+          ],
+          [
+            -86.5757029,
+            13.7909809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5818775,
+            13.7860595
+          ],
+          [
+            -86.6545037,
+            13.7773823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.6545037,
+            13.7773823
+          ],
+          [
+            -86.6661095,
+            13.7843421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.749444,
+            13.565278
+          ],
+          [
+            -86.7698964,
+            13.5769012
+          ],
+          [
+            -86.7550503,
+            13.6514387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7247484,
+            13.4473496
+          ],
+          [
+            -86.749444,
+            13.565278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7627713,
+            13.768968
+          ],
+          [
+            -86.7235528,
+            13.7870165
+          ],
+          [
+            -86.6661095,
+            13.7843421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7627713,
+            13.768968
+          ],
+          [
+            -86.7636779,
+            13.7677131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7636779,
+            13.7677131
+          ],
+          [
+            -86.7691711,
+            13.7002711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7550503,
+            13.6514387
+          ],
+          [
+            -86.7860641,
+            13.6622495
+          ],
+          [
+            -86.7691711,
+            13.7002711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7105353,
+            13.3591594
+          ],
+          [
+            -86.7443797,
+            13.4019471
+          ],
+          [
+            -86.7247484,
+            13.4473496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7078145,
+            13.3231156
+          ],
+          [
+            -86.7105353,
+            13.3591594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7541965,
+            13.2676256
+          ],
+          [
+            -86.7116825,
+            13.2957009
+          ],
+          [
+            -86.7078145,
+            13.3231156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.778472,
+            13.2850801
+          ],
+          [
+            -86.7541965,
+            13.2676256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.778472,
+            13.2850801
+          ],
+          [
+            -86.8284436,
+            13.3133747
+          ],
+          [
+            -86.8678799,
+            13.3045283
+          ],
+          [
+            -86.8755353,
+            13.2802105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.8755353,
+            13.2802105
+          ],
+          [
+            -86.8930298,
+            13.2730079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.8930298,
+            13.2730079
+          ],
+          [
+            -86.9151447,
+            13.2611869
+          ],
+          [
+            -86.9130014,
+            13.2432695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9130014,
+            13.2432695
+          ],
+          [
+            -86.9098567,
+            13.2275565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9098567,
+            13.2275565
+          ],
+          [
+            -86.9093909,
+            13.2248784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9093909,
+            13.2248784
+          ],
+          [
+            -86.9225541,
+            13.2238958
+          ],
+          [
+            -86.9319124,
+            13.1888312
+          ],
+          [
+            -86.9215433,
+            13.1668482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9215433,
+            13.1668482
+          ],
+          [
+            -86.9132606,
+            13.1516716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9132606,
+            13.1516716
+          ],
+          [
+            -86.9337112,
+            13.1264491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9337112,
+            13.1264491
+          ],
+          [
+            -86.9157317,
+            13.0984022
+          ],
+          [
+            -86.9539982,
+            13.0637426
+          ],
+          [
+            -86.9627684,
+            13.0330528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9627684,
+            13.0330528
+          ],
+          [
+            -86.9779664,
+            13.0209729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9779664,
+            13.0209729
+          ],
+          [
+            -87.0185638,
+            12.9997804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0185638,
+            12.9997804
+          ],
+          [
+            -87.023828,
+            12.9972292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.023828,
+            12.9972292
+          ],
+          [
+            -87.0290378,
+            12.9860671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0290378,
+            12.9860671
+          ],
+          [
+            -87.038255,
+            12.986308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.038255,
+            12.986308
+          ],
+          [
+            -87.0504663,
+            12.9809715
+          ],
+          [
+            -87.0647156,
+            13.0021014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0647156,
+            13.0021014
+          ],
+          [
+            -87.0647078,
+            13.0023762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.1059693,
+            12.9998856
+          ],
+          [
+            -87.0647078,
+            13.0023762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.120887,
+            12.9989852
+          ],
+          [
+            -87.1059693,
+            12.9998856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.1299674,
+            12.9984656
+          ],
+          [
+            -87.120887,
+            12.9989852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.1349295,
+            12.9981817
+          ],
+          [
+            -87.1299674,
+            12.9984656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.1607978,
+            12.9967014
+          ],
+          [
+            -87.1349295,
+            12.9981817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.3083303,
+            12.9876708
+          ],
+          [
+            -87.1607978,
+            12.9967014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.3083303,
+            12.9876708
+          ],
+          [
+            -87.3103925,
+            12.9875763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.3103925,
+            12.9875763
+          ],
+          [
+            -87.394492,
+            12.9837207
+          ],
+          [
+            -87.4113717,
+            13.0115853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.4113717,
+            13.0115853
+          ],
+          [
+            -87.4943895,
+            13.0876354
+          ],
+          [
+            -87.5458489,
+            13.1780817
+          ],
+          [
+            -87.5971467,
+            13.1706956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.5971467,
+            13.1706956
+          ],
+          [
+            -87.6329253,
+            13.1259932
+          ],
+          [
+            -87.6867518,
+            13.1224182
+          ],
+          [
+            -87.8044757,
+            13.0731786
+          ],
+          [
+            -87.82518,
+            13.0153051
+          ],
+          [
+            -87.8915935,
+            12.9521929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.3849376,
+            12.4026616
+          ],
+          [
+            -87.4779918,
+            12.4494597
+          ],
+          [
+            -87.5933263,
+            12.5947709
+          ],
+          [
+            -87.8419038,
+            12.7748278
+          ],
+          [
+            -87.8889881,
+            12.8601785
+          ],
+          [
+            -87.8915935,
+            12.9521929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.197734,
+            12.2385797
+          ],
+          [
+            -87.3165877,
+            12.3090587
+          ],
+          [
+            -87.3849376,
+            12.4026616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9521979,
+            12.0835181
+          ],
+          [
+            -87.197734,
+            12.2385797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.8542641,
+            11.8953713
+          ],
+          [
+            -86.9521979,
+            12.0835181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.756253,
+            11.7591922
+          ],
+          [
+            -86.8542641,
+            11.8953713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5835772,
+            11.5745271
+          ],
+          [
+            -86.6678667,
+            11.6400796
+          ],
+          [
+            -86.7158244,
+            11.7242922
+          ],
+          [
+            -86.756253,
+            11.7591922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.4973267,
+            11.492918
+          ],
+          [
+            -86.5835772,
+            11.5745271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.3748871,
+            11.4141685
+          ],
+          [
+            -86.4973267,
+            11.492918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.3317621,
+            11.3703479
+          ],
+          [
+            -86.3748871,
+            11.4141685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0681342,
+            11.1551197
+          ],
+          [
+            -86.3317621,
+            11.3703479
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0223471,
+            11.0970809
+          ],
+          [
+            -86.0681342,
+            11.1551197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6931366,
+            11.078908
+          ],
+          [
+            -85.7026612,
+            11.0641181
+          ],
+          [
+            -85.7864167,
+            11.0649167
+          ],
+          [
+            -85.8568889,
+            11.04575
+          ],
+          [
+            -85.9553889,
+            11.0869167
+          ],
+          [
+            -86.0223471,
+            11.0970809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6929174,
+            11.0791931
+          ],
+          [
+            -85.6931366,
+            11.078908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6339117,
+            11.1788034
+          ],
+          [
+            -85.6929174,
+            11.0791931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6153548,
+            11.2100804
+          ],
+          [
+            -85.6339117,
+            11.1788034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6122577,
+            11.2153044
+          ],
+          [
+            -85.6153548,
+            11.2100804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6099005,
+            11.2195684
+          ],
+          [
+            -85.6122577,
+            11.2153044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.530422,
+            11.1761788
+          ],
+          [
+            -85.5603954,
+            11.2100435
+          ],
+          [
+            -85.6099005,
+            11.2195684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.5277231,
+            11.1731293
+          ],
+          [
+            -85.530422,
+            11.1761788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.4238078,
+            11.1288229
+          ],
+          [
+            -85.5277231,
+            11.1731293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.2300116,
+            11.0636723
+          ],
+          [
+            -85.3571706,
+            11.1262044
+          ],
+          [
+            -85.4238078,
+            11.1288229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.1793408,
+            11.0447316
+          ],
+          [
+            -85.2300116,
+            11.0636723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.1323372,
+            11.0268226
+          ],
+          [
+            -85.1793408,
+            11.0447316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.1257054,
+            11.023812
+          ],
+          [
+            -85.1323372,
+            11.0268226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.1002537,
+            11.0146973
+          ],
+          [
+            -85.1257054,
+            11.023812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.9914824,
+            10.9734122
+          ],
+          [
+            -85.1002537,
+            11.0146973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.881528,
+            10.9611425
+          ],
+          [
+            -84.9102332,
+            10.943439
+          ],
+          [
+            -84.9914824,
+            10.9734122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.741757,
+            11.046462
+          ],
+          [
+            -84.881528,
+            10.9611425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.4859338,
+            11.0009122
+          ],
+          [
+            -84.5641731,
+            11.0330822
+          ],
+          [
+            -84.5744214,
+            11.0506353
+          ],
+          [
+            -84.6057254,
+            11.037882
+          ],
+          [
+            -84.6805456,
+            11.084402
+          ],
+          [
+            -84.741757,
+            11.046462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.4500298,
+            10.9620993
+          ],
+          [
+            -84.4859338,
+            11.0009122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.3587405,
+            10.9958256
+          ],
+          [
+            -84.4197724,
+            10.9553641
+          ],
+          [
+            -84.4500298,
+            10.9620993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.3042587,
+            10.9160687
+          ],
+          [
+            -84.3508279,
+            10.9505141
+          ],
+          [
+            -84.3419391,
+            10.9742398
+          ],
+          [
+            -84.3587405,
+            10.9958256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.1959486,
+            10.7848772
+          ],
+          [
+            -84.2376763,
+            10.8160817
+          ],
+          [
+            -84.2153442,
+            10.8382902
+          ],
+          [
+            -84.2256868,
+            10.8739416
+          ],
+          [
+            -84.3042587,
+            10.9160687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.1612816,
+            10.7853718
+          ],
+          [
+            -84.1959486,
+            10.7848772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.1465266,
+            10.7866657
+          ],
+          [
+            -84.1612816,
+            10.7853718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.9917392,
+            10.7573438
+          ],
+          [
+            -84.023239,
+            10.7921906
+          ],
+          [
+            -84.0352929,
+            10.7715175
+          ],
+          [
+            -84.0551841,
+            10.7783946
+          ],
+          [
+            -84.071736,
+            10.7596047
+          ],
+          [
+            -84.1023052,
+            10.7743316
+          ],
+          [
+            -84.125348,
+            10.7644821
+          ],
+          [
+            -84.1465266,
+            10.7866657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.9908004,
+            10.7551119
+          ],
+          [
+            -83.9917392,
+            10.7573438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.935748,
+            10.7145498
+          ],
+          [
+            -83.9908004,
+            10.7551119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.9190835,
+            10.709806
+          ],
+          [
+            -83.935748,
+            10.7145498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.7647921,
+            10.7687086
+          ],
+          [
+            -83.7926683,
+            10.7692383
+          ],
+          [
+            -83.8627839,
+            10.7174962
+          ],
+          [
+            -83.9190835,
+            10.709806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.7631368,
+            10.7717098
+          ],
+          [
+            -83.7647921,
+            10.7687086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.7615493,
+            10.7739772
+          ],
+          [
+            -83.7631368,
+            10.7717098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.7257589,
+            10.7837254
+          ],
+          [
+            -83.7615493,
+            10.7739772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6784102,
+            10.9154513
+          ],
+          [
+            -83.6608967,
+            10.8174254
+          ],
+          [
+            -83.6711157,
+            10.7969024
+          ],
+          [
+            -83.7257589,
+            10.7837254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6978401,
+            10.9395972
+          ],
+          [
+            -83.6784102,
+            10.9154513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6976473,
+            10.9403789
+          ],
+          [
+            -83.6978401,
+            10.9395972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6658027,
+            11.0490169
+          ],
+          [
+            -83.6976473,
+            10.9403789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6672753,
+            10.9302315
+          ],
+          [
+            -83.6731479,
+            10.9341968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6672753,
+            10.9302315
+          ],
+          [
+            -83.6675062,
+            10.9297876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6675062,
+            10.9297876
+          ],
+          [
+            -83.6756477,
+            10.9259701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6733683,
+            10.933718
+          ],
+          [
+            -83.6731479,
+            10.9341968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6756417,
+            10.9304064
+          ],
+          [
+            -83.6733683,
+            10.933718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6756013,
+            10.9301933
+          ],
+          [
+            -83.6756417,
+            10.9304064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6759279,
+            10.9259706
+          ],
+          [
+            -83.6756013,
+            10.9301933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "name": "Nicaragua"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6756477,
+            10.9259701
+          ],
+          [
+            -83.6759279,
+            10.9259706
+          ]
+        ]
+      }
+    }
+  ]
+}

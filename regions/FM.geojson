@@ -1,0 +1,3339 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            158.0956806,
+            7.1952667
+          ],
+          [
+            158.0121083,
+            7.1489667
+          ],
+          [
+            157.9236444,
+            7.2433361
+          ],
+          [
+            157.7854,
+            7.28815
+          ],
+          [
+            157.7028056,
+            7.2788944
+          ],
+          [
+            157.6315778,
+            7.2380333
+          ],
+          [
+            157.5744556,
+            7.1534444
+          ],
+          [
+            157.566925,
+            7.0464972
+          ],
+          [
+            157.6127972,
+            6.9437333
+          ],
+          [
+            157.7047389,
+            6.8654361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            158.4130944,
+            7.1831722
+          ],
+          [
+            158.3381278,
+            7.2396444
+          ],
+          [
+            158.2579,
+            7.2586944
+          ],
+          [
+            158.173075,
+            7.2444028
+          ],
+          [
+            158.0956806,
+            7.1952667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            158.5335972,
+            6.9846444
+          ],
+          [
+            158.5023056,
+            7.0874861
+          ],
+          [
+            158.4130944,
+            7.1831722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            158.3596806,
+            6.5814944
+          ],
+          [
+            158.4341167,
+            6.6260194
+          ],
+          [
+            158.5504639,
+            6.7656889
+          ],
+          [
+            158.5689111,
+            6.8648
+          ],
+          [
+            158.5335972,
+            6.9846444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            157.7047389,
+            6.8654361
+          ],
+          [
+            157.6973361,
+            6.7671417
+          ],
+          [
+            157.7381722,
+            6.648725
+          ],
+          [
+            157.7786389,
+            6.5875889
+          ],
+          [
+            157.8427639,
+            6.5411278
+          ],
+          [
+            157.9522167,
+            6.5218139
+          ],
+          [
+            158.1080639,
+            6.5825583
+          ],
+          [
+            158.2631389,
+            6.5575694
+          ],
+          [
+            158.3596806,
+            6.5814944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            163.0910333,
+            5.5612833
+          ],
+          [
+            162.9656389,
+            5.5742639
+          ],
+          [
+            162.8351694,
+            5.5242417
+          ],
+          [
+            162.7257194,
+            5.4095361
+          ],
+          [
+            162.7009139,
+            5.3394972
+          ],
+          [
+            162.6992333,
+            5.2719083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            162.6992333,
+            5.2719083
+          ],
+          [
+            162.7284222,
+            5.1893528
+          ],
+          [
+            162.77865,
+            5.1249333
+          ],
+          [
+            162.8461972,
+            5.0849556
+          ],
+          [
+            162.9430306,
+            5.0645194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            162.9430306,
+            5.0645194
+          ],
+          [
+            163.038525,
+            5.0608778
+          ],
+          [
+            163.1318778,
+            5.10275
+          ],
+          [
+            163.1983139,
+            5.1781722
+          ],
+          [
+            163.2364694,
+            5.2949806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            163.2364694,
+            5.2949806
+          ],
+          [
+            163.2300278,
+            5.3791972
+          ],
+          [
+            163.1972833,
+            5.4668806
+          ],
+          [
+            163.1553389,
+            5.5211278
+          ],
+          [
+            163.0910333,
+            5.5612833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.8341278,
+            9.4620278
+          ],
+          [
+            137.8323417,
+            9.3963694
+          ],
+          [
+            137.852625,
+            9.3309861
+          ],
+          [
+            137.9390306,
+            9.2430111
+          ],
+          [
+            138.061625,
+            9.2203139
+          ],
+          [
+            138.1928139,
+            9.2796333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.1928139,
+            9.2796333
+          ],
+          [
+            138.2443861,
+            9.3148444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.2443861,
+            9.3148444
+          ],
+          [
+            138.3554556,
+            9.3981222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.3554556,
+            9.3981222
+          ],
+          [
+            138.4132889,
+            9.5367083
+          ],
+          [
+            138.4108889,
+            9.5993306
+          ],
+          [
+            138.3849528,
+            9.6710528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.3849528,
+            9.6710528
+          ],
+          [
+            138.3114806,
+            9.7987667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.3114806,
+            9.7987667
+          ],
+          [
+            138.2280778,
+            9.8503611
+          ],
+          [
+            138.1179722,
+            9.8559306
+          ],
+          [
+            138.0131917,
+            9.7990917
+          ],
+          [
+            137.9496417,
+            9.7117389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.9496417,
+            9.7117389
+          ],
+          [
+            137.9204222,
+            9.6721694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.9204222,
+            9.6721694
+          ],
+          [
+            137.8975667,
+            9.6351389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.8975667,
+            9.6351389
+          ],
+          [
+            137.8453889,
+            9.5173944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.8453889,
+            9.5173944
+          ],
+          [
+            137.8341278,
+            9.4620278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.2291694,
+            7.710975
+          ],
+          [
+            146.1616194,
+            7.7187278
+          ],
+          [
+            146.0879361,
+            7.7014028
+          ],
+          [
+            146.06805,
+            7.790125
+          ],
+          [
+            146.0180889,
+            7.8573972
+          ],
+          [
+            145.94705,
+            7.8985028
+          ],
+          [
+            145.8595361,
+            7.9083056
+          ],
+          [
+            145.7777778,
+            7.8819694
+          ],
+          [
+            145.6945639,
+            7.8168639
+          ],
+          [
+            145.6554944,
+            7.7479333
+          ],
+          [
+            145.6460944,
+            7.6651139
+          ],
+          [
+            145.6757194,
+            7.5770194
+          ],
+          [
+            145.7369528,
+            7.51445
+          ],
+          [
+            145.8397306,
+            7.4789583
+          ],
+          [
+            145.9269389,
+            7.4847444
+          ],
+          [
+            145.9480778,
+            7.3701194
+          ],
+          [
+            146.0001778,
+            7.2773361
+          ],
+          [
+            146.0528778,
+            7.2301056
+          ],
+          [
+            146.1141667,
+            7.2048472
+          ],
+          [
+            146.187525,
+            7.2011444
+          ],
+          [
+            146.2551667,
+            7.222525
+          ],
+          [
+            146.3049889,
+            7.2587444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.3049889,
+            7.2587444
+          ],
+          [
+            146.41805,
+            7.2531472
+          ],
+          [
+            146.508975,
+            7.2952528
+          ],
+          [
+            146.5711056,
+            7.3807583
+          ],
+          [
+            146.5821333,
+            7.4924806
+          ],
+          [
+            146.5466722,
+            7.5774167
+          ],
+          [
+            146.4319611,
+            7.6983
+          ],
+          [
+            146.3429278,
+            7.7264917
+          ],
+          [
+            146.2291694,
+            7.710975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.1459722,
+            8.3659111
+          ],
+          [
+            137.2097306,
+            8.2672972
+          ],
+          [
+            137.2975722,
+            8.212825
+          ],
+          [
+            137.3332972,
+            8.1582361
+          ],
+          [
+            137.3874833,
+            8.1158167
+          ],
+          [
+            137.4868028,
+            8.0913972
+          ],
+          [
+            137.5970861,
+            8.1226194
+          ],
+          [
+            137.6657889,
+            8.1778222
+          ],
+          [
+            137.7077361,
+            8.2549556
+          ],
+          [
+            137.7184806,
+            8.33295
+          ],
+          [
+            137.7031806,
+            8.4067444
+          ],
+          [
+            137.7626583,
+            8.4744111
+          ],
+          [
+            137.7898694,
+            8.5479056
+          ],
+          [
+            137.7893806,
+            8.6170556
+          ],
+          [
+            137.7679556,
+            8.6789028
+          ],
+          [
+            137.7107056,
+            8.7503778
+          ],
+          [
+            137.6221472,
+            8.7952306
+          ],
+          [
+            137.5365972,
+            8.80475
+          ],
+          [
+            137.4455056,
+            8.7776528
+          ],
+          [
+            137.3342,
+            8.7013556
+          ],
+          [
+            137.2519917,
+            8.6672944
+          ],
+          [
+            137.1972444,
+            8.6160639
+          ],
+          [
+            137.1386778,
+            8.4747028
+          ],
+          [
+            137.1459722,
+            8.3659111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.3652194,
+            9.9940667
+          ],
+          [
+            139.3851278,
+            9.8321583
+          ],
+          [
+            139.4826528,
+            9.6691389
+          ],
+          [
+            139.5488556,
+            9.6078167
+          ],
+          [
+            139.655875,
+            9.5742
+          ],
+          [
+            139.7683389,
+            9.5972361
+          ],
+          [
+            139.82575,
+            9.6419639
+          ],
+          [
+            139.8726583,
+            9.7110694
+          ],
+          [
+            139.9728139,
+            9.7386139
+          ],
+          [
+            140.0334639,
+            9.7729944
+          ],
+          [
+            140.0838278,
+            9.8341556
+          ],
+          [
+            140.1153556,
+            9.9334611
+          ],
+          [
+            140.0997611,
+            10.0252528
+          ],
+          [
+            140.0531056,
+            10.092425
+          ],
+          [
+            139.955075,
+            10.1450917
+          ],
+          [
+            139.8405778,
+            10.2567667
+          ],
+          [
+            139.7271611,
+            10.2922528
+          ],
+          [
+            139.6560389,
+            10.2871389
+          ],
+          [
+            139.5142222,
+            10.2416556
+          ],
+          [
+            139.4347139,
+            10.1936556
+          ],
+          [
+            139.3723167,
+            10.1049111
+          ],
+          [
+            139.3652194,
+            9.9940667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.4119667,
+            9.5768778
+          ],
+          [
+            140.4925722,
+            9.5532972
+          ],
+          [
+            140.5722556,
+            9.5607444
+          ],
+          [
+            140.6465639,
+            9.5992194
+          ],
+          [
+            140.7051917,
+            9.6654083
+          ],
+          [
+            140.7308917,
+            9.7379472
+          ],
+          [
+            140.7247972,
+            9.8246611
+          ],
+          [
+            140.6902306,
+            9.8923444
+          ],
+          [
+            140.6291028,
+            9.9456861
+          ],
+          [
+            140.5564167,
+            9.97095
+          ],
+          [
+            140.4706833,
+            9.9660111
+          ],
+          [
+            140.3936611,
+            9.9293778
+          ],
+          [
+            140.3360694,
+            9.8656472
+          ],
+          [
+            140.3086444,
+            9.7924861
+          ],
+          [
+            140.3114694,
+            9.7049389
+          ],
+          [
+            140.3481167,
+            9.6303944
+          ],
+          [
+            140.4119667,
+            9.5768778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.1528361,
+            8.0395139
+          ],
+          [
+            140.2032139,
+            7.9881556
+          ],
+          [
+            140.3025278,
+            7.9360917
+          ],
+          [
+            140.4001333,
+            7.9107861
+          ],
+          [
+            140.4741861,
+            7.9177667
+          ],
+          [
+            140.5438389,
+            7.9529444
+          ],
+          [
+            140.5965139,
+            8.0144556
+          ],
+          [
+            140.6195167,
+            8.0820611
+          ],
+          [
+            140.6147194,
+            8.1662611
+          ],
+          [
+            140.5628028,
+            8.2603361
+          ],
+          [
+            140.4903778,
+            8.3207806
+          ],
+          [
+            140.364425,
+            8.3587861
+          ],
+          [
+            140.2756083,
+            8.3515472
+          ],
+          [
+            140.1884389,
+            8.3051444
+          ],
+          [
+            140.1311667,
+            8.2236889
+          ],
+          [
+            140.1201528,
+            8.123425
+          ],
+          [
+            140.1528361,
+            8.0395139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            142.8004611,
+            6.6100722
+          ],
+          [
+            142.8448611,
+            6.5413722
+          ],
+          [
+            142.9241056,
+            6.4913889
+          ],
+          [
+            143.0746306,
+            6.4768889
+          ],
+          [
+            143.1398472,
+            6.4850722
+          ],
+          [
+            143.2108028,
+            6.5224333
+          ],
+          [
+            143.2636861,
+            6.5877222
+          ],
+          [
+            143.285075,
+            6.6608778
+          ],
+          [
+            143.2786889,
+            6.7393694
+          ],
+          [
+            143.2394028,
+            6.8160667
+          ],
+          [
+            143.1699056,
+            6.871875
+          ],
+          [
+            143.0602556,
+            6.9054639
+          ],
+          [
+            142.9759194,
+            6.9011361
+          ],
+          [
+            142.880675,
+            6.8568472
+          ],
+          [
+            142.8163417,
+            6.7895611
+          ],
+          [
+            142.7877972,
+            6.7046333
+          ],
+          [
+            142.8004611,
+            6.6100722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            143.6181556,
+            7.3433944
+          ],
+          [
+            143.63595,
+            7.2686222
+          ],
+          [
+            143.6955417,
+            7.1801472
+          ],
+          [
+            143.774675,
+            7.1330972
+          ],
+          [
+            143.8575889,
+            7.1228806
+          ],
+          [
+            143.9813833,
+            7.1525056
+          ],
+          [
+            144.0503583,
+            7.19675
+          ],
+          [
+            144.0985667,
+            7.2666389
+          ],
+          [
+            144.1180222,
+            7.3680722
+          ],
+          [
+            144.0979806,
+            7.4597556
+          ],
+          [
+            144.0505639,
+            7.5285806
+          ],
+          [
+            143.9858556,
+            7.5702528
+          ],
+          [
+            143.9022139,
+            7.5847889
+          ],
+          [
+            143.7769889,
+            7.5690861
+          ],
+          [
+            143.6995167,
+            7.5267
+          ],
+          [
+            143.6356528,
+            7.4406167
+          ],
+          [
+            143.6181556,
+            7.3433944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.2466833,
+            7.1749528
+          ],
+          [
+            144.2852639,
+            7.1090056
+          ],
+          [
+            144.3519722,
+            7.058775
+          ],
+          [
+            144.4431694,
+            7.0381722
+          ],
+          [
+            144.5180889,
+            7.0452278
+          ],
+          [
+            144.5910194,
+            7.0834278
+          ],
+          [
+            144.6406111,
+            7.1431167
+          ],
+          [
+            144.6641694,
+            7.2168028
+          ],
+          [
+            144.6580222,
+            7.2961944
+          ],
+          [
+            144.6156917,
+            7.3802833
+          ],
+          [
+            144.546225,
+            7.4389611
+          ],
+          [
+            144.4618694,
+            7.4626333
+          ],
+          [
+            144.3766722,
+            7.4514083
+          ],
+          [
+            144.3048083,
+            7.4110861
+          ],
+          [
+            144.2521472,
+            7.3418917
+          ],
+          [
+            144.2317806,
+            7.2635806
+          ],
+          [
+            144.2466833,
+            7.1749528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.2926194,
+            8.5817611
+          ],
+          [
+            144.3107417,
+            8.5010667
+          ],
+          [
+            144.3553833,
+            8.4384389
+          ],
+          [
+            144.4345444,
+            8.3908639
+          ],
+          [
+            144.5161306,
+            8.3744889
+          ],
+          [
+            144.5961833,
+            8.3914722
+          ],
+          [
+            144.6720889,
+            8.4452194
+          ],
+          [
+            144.7154389,
+            8.5121528
+          ],
+          [
+            144.7298333,
+            8.5964472
+          ],
+          [
+            144.7124917,
+            8.6718472
+          ],
+          [
+            144.6638417,
+            8.7394944
+          ],
+          [
+            144.5830472,
+            8.7940333
+          ],
+          [
+            144.4911472,
+            8.8110139
+          ],
+          [
+            144.415375,
+            8.7928833
+          ],
+          [
+            144.3457972,
+            8.7409306
+          ],
+          [
+            144.3067806,
+            8.6731639
+          ],
+          [
+            144.2926194,
+            8.5817611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.1762306,
+            9.2276083
+          ],
+          [
+            145.1938833,
+            9.1496722
+          ],
+          [
+            145.2462472,
+            9.0756222
+          ],
+          [
+            145.3149778,
+            9.0342833
+          ],
+          [
+            145.3907833,
+            9.0225278
+          ],
+          [
+            145.4708417,
+            9.0420833
+          ],
+          [
+            145.5361583,
+            9.0903417
+          ],
+          [
+            145.5762917,
+            9.1555694
+          ],
+          [
+            145.5894889,
+            9.231875
+          ],
+          [
+            145.5731722,
+            9.3075194
+          ],
+          [
+            145.5294806,
+            9.3726944
+          ],
+          [
+            145.4660917,
+            9.4167194
+          ],
+          [
+            145.3804667,
+            9.4350278
+          ],
+          [
+            145.3028333,
+            9.419625
+          ],
+          [
+            145.2356722,
+            9.3750417
+          ],
+          [
+            145.1914944,
+            9.3090667
+          ],
+          [
+            145.1762306,
+            9.2276083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.8227417,
+            7.3624722
+          ],
+          [
+            146.8451611,
+            7.2812111
+          ],
+          [
+            146.8978806,
+            7.2168361
+          ],
+          [
+            146.972175,
+            7.179275
+          ],
+          [
+            147.0498889,
+            7.1735528
+          ],
+          [
+            147.1268778,
+            7.1987417
+          ],
+          [
+            147.1971806,
+            7.2547139
+          ],
+          [
+            147.2352417,
+            7.328425
+          ],
+          [
+            147.2414611,
+            7.4066056
+          ],
+          [
+            147.2151917,
+            7.4851306
+          ],
+          [
+            147.1651278,
+            7.5424056
+          ],
+          [
+            147.0921083,
+            7.5796028
+          ],
+          [
+            147.0162889,
+            7.5879167
+          ],
+          [
+            146.9366139,
+            7.56555
+          ],
+          [
+            146.8712639,
+            7.51265
+          ],
+          [
+            146.8320444,
+            7.4390833
+          ],
+          [
+            146.8227417,
+            7.3624722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.4889333,
+            8.0625806
+          ],
+          [
+            146.5089111,
+            7.9815167
+          ],
+          [
+            146.5699528,
+            7.907225
+          ],
+          [
+            146.6518278,
+            7.8669722
+          ],
+          [
+            146.7416028,
+            7.8613583
+          ],
+          [
+            146.82335,
+            7.8891944
+          ],
+          [
+            146.9054083,
+            7.9595361
+          ],
+          [
+            146.9444528,
+            8.0303944
+          ],
+          [
+            146.9522778,
+            8.1173528
+          ],
+          [
+            146.9261111,
+            8.1941944
+          ],
+          [
+            146.8729556,
+            8.2539306
+          ],
+          [
+            146.799225,
+            8.2891222
+          ],
+          [
+            146.7127,
+            8.2930861
+          ],
+          [
+            146.6142389,
+            8.2630333
+          ],
+          [
+            146.5518667,
+            8.2189833
+          ],
+          [
+            146.502975,
+            8.144825
+          ],
+          [
+            146.4889333,
+            8.0625806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.4435472,
+            8.0877472
+          ],
+          [
+            147.4670528,
+            8.0087139
+          ],
+          [
+            147.5159944,
+            7.9486528
+          ],
+          [
+            147.5839333,
+            7.9105611
+          ],
+          [
+            147.6624889,
+            7.9008056
+          ],
+          [
+            147.7400389,
+            7.9223389
+          ],
+          [
+            147.8035444,
+            7.9729667
+          ],
+          [
+            147.842075,
+            8.0445
+          ],
+          [
+            147.8502639,
+            8.1180278
+          ],
+          [
+            147.8293111,
+            8.1952833
+          ],
+          [
+            147.7770139,
+            8.2620222
+          ],
+          [
+            147.7075028,
+            8.3000583
+          ],
+          [
+            147.6263222,
+            8.3086556
+          ],
+          [
+            147.5475722,
+            8.28435
+          ],
+          [
+            147.4926528,
+            8.2398528
+          ],
+          [
+            147.4529444,
+            8.1694333
+          ],
+          [
+            147.4435472,
+            8.0877472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.2543472,
+            5.4377472
+          ],
+          [
+            153.2778472,
+            5.3582833
+          ],
+          [
+            153.3636417,
+            5.2338
+          ],
+          [
+            153.554825,
+            5.1028583
+          ],
+          [
+            153.6750194,
+            5.0827389
+          ],
+          [
+            153.7828528,
+            5.1189528
+          ],
+          [
+            153.9038528,
+            5.213675
+          ],
+          [
+            153.9348111,
+            5.277325
+          ],
+          [
+            153.9425778,
+            5.3400917
+          ],
+          [
+            154.0124333,
+            5.4383111
+          ],
+          [
+            154.021875,
+            5.5406944
+          ],
+          [
+            153.9793917,
+            5.639225
+          ],
+          [
+            153.8776861,
+            5.7232806
+          ],
+          [
+            153.7927861,
+            5.7556417
+          ],
+          [
+            153.7198528,
+            5.7612389
+          ],
+          [
+            153.6294667,
+            5.819725
+          ],
+          [
+            153.5360194,
+            5.8267472
+          ],
+          [
+            153.4552528,
+            5.7956278
+          ],
+          [
+            153.3769472,
+            5.7262889
+          ],
+          [
+            153.271175,
+            5.5446528
+          ],
+          [
+            153.2543472,
+            5.4377472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            152.9127333,
+            5.8961028
+          ],
+          [
+            152.9454722,
+            5.8106222
+          ],
+          [
+            153.0140361,
+            5.7391917
+          ],
+          [
+            153.0944444,
+            5.6996528
+          ],
+          [
+            153.1769778,
+            5.6925472
+          ],
+          [
+            153.2520444,
+            5.7166139
+          ],
+          [
+            153.3171861,
+            5.7743361
+          ],
+          [
+            153.3512889,
+            5.8495611
+          ],
+          [
+            153.3554861,
+            5.9448778
+          ],
+          [
+            153.3275889,
+            6.0293806
+          ],
+          [
+            153.2729,
+            6.0904278
+          ],
+          [
+            153.2006583,
+            6.1247583
+          ],
+          [
+            153.1143278,
+            6.1309333
+          ],
+          [
+            153.023,
+            6.1078278
+          ],
+          [
+            152.9599139,
+            6.0589667
+          ],
+          [
+            152.9187472,
+            5.9836694
+          ],
+          [
+            152.9127333,
+            5.8961028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            152.3698667,
+            6.9758389
+          ],
+          [
+            152.4009694,
+            6.8843556
+          ],
+          [
+            152.4773667,
+            6.8107806
+          ],
+          [
+            152.52645,
+            6.7072722
+          ],
+          [
+            152.5794667,
+            6.6613111
+          ],
+          [
+            152.6494361,
+            6.6337528
+          ],
+          [
+            152.7504222,
+            6.6376583
+          ],
+          [
+            152.8243528,
+            6.6723972
+          ],
+          [
+            152.9144194,
+            6.7827556
+          ],
+          [
+            152.9430194,
+            6.8512389
+          ],
+          [
+            152.9393472,
+            6.9521222
+          ],
+          [
+            152.8932944,
+            7.0329778
+          ],
+          [
+            152.8348778,
+            7.0775861
+          ],
+          [
+            152.7423639,
+            7.1106389
+          ],
+          [
+            152.6832389,
+            7.1682361
+          ],
+          [
+            152.620625,
+            7.1955972
+          ],
+          [
+            152.5273139,
+            7.1966139
+          ],
+          [
+            152.4354083,
+            7.1484528
+          ],
+          [
+            152.3831694,
+            7.0722222
+          ],
+          [
+            152.3698667,
+            6.9758389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2456139,
+            7.2507528
+          ],
+          [
+            151.2859194,
+            7.1823639
+          ],
+          [
+            151.3490583,
+            7.1301361
+          ],
+          [
+            151.4785139,
+            7.0920861
+          ],
+          [
+            151.5675194,
+            7.0318139
+          ],
+          [
+            151.6590861,
+            7.0217944
+          ],
+          [
+            151.7257861,
+            6.9228833
+          ],
+          [
+            151.8203944,
+            6.8379444
+          ],
+          [
+            151.903,
+            6.7949722
+          ],
+          [
+            151.9974361,
+            6.7870583
+          ],
+          [
+            152.0835444,
+            6.8169778
+          ],
+          [
+            152.1474917,
+            6.874825
+          ],
+          [
+            152.2012056,
+            6.9765417
+          ],
+          [
+            152.2080833,
+            7.0517889
+          ],
+          [
+            152.1865139,
+            7.1262167
+          ],
+          [
+            152.2221694,
+            7.193725
+          ],
+          [
+            152.2328333,
+            7.2774083
+          ],
+          [
+            152.1616806,
+            7.6142111
+          ],
+          [
+            152.1134472,
+            7.71275
+          ],
+          [
+            152.0382194,
+            7.7928417
+          ],
+          [
+            151.9017417,
+            7.8676972
+          ],
+          [
+            151.7434306,
+            7.8835028
+          ],
+          [
+            151.6199139,
+            7.8529194
+          ],
+          [
+            151.5502444,
+            7.8092278
+          ],
+          [
+            151.5093306,
+            7.759225
+          ],
+          [
+            151.4807722,
+            7.6726806
+          ],
+          [
+            151.4391611,
+            7.6189444
+          ],
+          [
+            151.3265972,
+            7.5558472
+          ],
+          [
+            151.2645833,
+            7.4853694
+          ],
+          [
+            151.2390889,
+            7.4014028
+          ],
+          [
+            151.2456139,
+            7.2507528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.8646916,
+            8.909289
+          ],
+          [
+            149.89105,
+            8.8400139
+          ],
+          [
+            149.941725,
+            8.7839944
+          ],
+          [
+            150.0119278,
+            8.7497444
+          ],
+          [
+            150.0927528,
+            8.7447389
+          ],
+          [
+            150.1202444,
+            8.6864056
+          ],
+          [
+            150.1688194,
+            8.6352528
+          ],
+          [
+            150.1645361,
+            8.5581722
+          ],
+          [
+            150.1861778,
+            8.4913722
+          ],
+          [
+            150.2619472,
+            8.4117556
+          ],
+          [
+            150.3714917,
+            8.3696306
+          ],
+          [
+            150.4478278,
+            8.3654083
+          ],
+          [
+            150.5360972,
+            8.3981528
+          ],
+          [
+            150.5964528,
+            8.4594306
+          ],
+          [
+            150.6228722,
+            8.5223278
+          ],
+          [
+            150.625325,
+            8.60115
+          ],
+          [
+            150.5994278,
+            8.6728972
+          ],
+          [
+            150.5449667,
+            8.7367528
+          ],
+          [
+            150.5212222,
+            8.8486472
+          ],
+          [
+            150.4236667,
+            8.9559028
+          ],
+          [
+            150.3379944,
+            8.9969722
+          ],
+          [
+            150.3068361,
+            9.0941556
+          ],
+          [
+            150.2396944,
+            9.159225
+          ],
+          [
+            150.1712417,
+            9.1853806
+          ],
+          [
+            150.0969167,
+            9.1861111
+          ],
+          [
+            149.9576472,
+            9.1181028
+          ],
+          [
+            149.8780778,
+            9.0245083
+          ],
+          [
+            149.8646916,
+            8.909289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.477675,
+            8.5755865
+          ],
+          [
+            149.5032139,
+            8.4793528
+          ],
+          [
+            149.5572417,
+            8.4129861
+          ],
+          [
+            149.631975,
+            8.374225
+          ],
+          [
+            149.7236667,
+            8.3696139
+          ],
+          [
+            149.7962361,
+            8.3961194
+          ],
+          [
+            149.8562278,
+            8.4511111
+          ],
+          [
+            149.9009417,
+            8.5578306
+          ],
+          [
+            149.9044333,
+            8.6330556
+          ],
+          [
+            149.8801944,
+            8.7037333
+          ],
+          [
+            149.8253139,
+            8.7663222
+          ],
+          [
+            149.7569611,
+            8.8002917
+          ],
+          [
+            149.6771028,
+            8.8062306
+          ],
+          [
+            149.5996889,
+            8.7802528
+          ],
+          [
+            149.5264889,
+            8.7172722
+          ],
+          [
+            149.4886056,
+            8.651325
+          ],
+          [
+            149.477675,
+            8.5755865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            148.9717222,
+            7.3229139
+          ],
+          [
+            149.0332417,
+            7.2148889
+          ],
+          [
+            149.107725,
+            7.1609833
+          ],
+          [
+            149.2113083,
+            7.1454083
+          ],
+          [
+            149.3066139,
+            7.1800083
+          ],
+          [
+            149.3757972,
+            7.2505417
+          ],
+          [
+            149.4038056,
+            7.3342028
+          ],
+          [
+            149.5252778,
+            7.3558417
+          ],
+          [
+            149.5758472,
+            7.3926639
+          ],
+          [
+            149.6159222,
+            7.4491944
+          ],
+          [
+            149.6344028,
+            7.5159472
+          ],
+          [
+            149.6378583,
+            7.6458528
+          ],
+          [
+            149.6006806,
+            7.7577667
+          ],
+          [
+            149.5454417,
+            7.8123806
+          ],
+          [
+            149.4634944,
+            7.8444361
+          ],
+          [
+            149.3794722,
+            7.8407167
+          ],
+          [
+            149.3128417,
+            7.8107139
+          ],
+          [
+            149.22515,
+            7.7102278
+          ],
+          [
+            149.1898972,
+            7.5736028
+          ],
+          [
+            149.0801167,
+            7.5535139
+          ],
+          [
+            149.0042556,
+            7.4900306
+          ],
+          [
+            148.9705861,
+            7.4158167
+          ],
+          [
+            148.9717222,
+            7.3229139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.0941,
+            6.6717194
+          ],
+          [
+            149.1138528,
+            6.5884778
+          ],
+          [
+            149.1622222,
+            6.5233111
+          ],
+          [
+            149.2344306,
+            6.4815417
+          ],
+          [
+            149.3194611,
+            6.4723694
+          ],
+          [
+            149.3975889,
+            6.4971583
+          ],
+          [
+            149.4645806,
+            6.5565528
+          ],
+          [
+            149.5038,
+            6.6453722
+          ],
+          [
+            149.5086333,
+            6.7193556
+          ],
+          [
+            149.4856306,
+            6.7944861
+          ],
+          [
+            149.4328111,
+            6.8583556
+          ],
+          [
+            149.3585,
+            6.8960417
+          ],
+          [
+            149.2828806,
+            6.902475
+          ],
+          [
+            149.2091806,
+            6.8817333
+          ],
+          [
+            149.1434083,
+            6.8297111
+          ],
+          [
+            149.1050917,
+            6.7607333
+          ],
+          [
+            149.0941,
+            6.6717194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            160.4883194,
+            6.1915222
+          ],
+          [
+            160.5156806,
+            6.1154611
+          ],
+          [
+            160.5775389,
+            6.0390361
+          ],
+          [
+            160.6540361,
+            6.0013306
+          ],
+          [
+            160.735625,
+            5.9971056
+          ],
+          [
+            160.8071417,
+            6.0215639
+          ],
+          [
+            160.868475,
+            6.0751111
+          ],
+          [
+            160.9103833,
+            6.1614417
+          ],
+          [
+            160.9179361,
+            6.2455389
+          ],
+          [
+            160.8890667,
+            6.3278056
+          ],
+          [
+            160.8355056,
+            6.3853417
+          ],
+          [
+            160.7572111,
+            6.425225
+          ],
+          [
+            160.6667139,
+            6.4326528
+          ],
+          [
+            160.5852528,
+            6.4034667
+          ],
+          [
+            160.5266583,
+            6.3480611
+          ],
+          [
+            160.492125,
+            6.2704861
+          ],
+          [
+            160.4883194,
+            6.1915222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            159.547475,
+            6.6262833
+          ],
+          [
+            159.5792,
+            6.5501917
+          ],
+          [
+            159.6460583,
+            6.4885306
+          ],
+          [
+            159.7358278,
+            6.4608778
+          ],
+          [
+            159.8221778,
+            6.4716306
+          ],
+          [
+            159.8959833,
+            6.5161278
+          ],
+          [
+            159.9419528,
+            6.57665
+          ],
+          [
+            159.9720806,
+            6.6769278
+          ],
+          [
+            159.9626,
+            6.7603111
+          ],
+          [
+            159.9211056,
+            6.8317139
+          ],
+          [
+            159.8577139,
+            6.8791806
+          ],
+          [
+            159.7711028,
+            6.9012667
+          ],
+          [
+            159.6872278,
+            6.8918194
+          ],
+          [
+            159.6225194,
+            6.8559583
+          ],
+          [
+            159.5712611,
+            6.7930444
+          ],
+          [
+            159.5480917,
+            6.7223472
+          ],
+          [
+            159.547475,
+            6.6262833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            156.9534694,
+            5.7383694
+          ],
+          [
+            156.9984444,
+            5.6525417
+          ],
+          [
+            157.0716472,
+            5.5987194
+          ],
+          [
+            157.1456,
+            5.5798222
+          ],
+          [
+            157.3362694,
+            5.5732
+          ],
+          [
+            157.4335778,
+            5.6027889
+          ],
+          [
+            157.496275,
+            5.6516694
+          ],
+          [
+            157.54115,
+            5.7316361
+          ],
+          [
+            157.54775,
+            5.8152833
+          ],
+          [
+            157.51115,
+            5.9206444
+          ],
+          [
+            157.4455389,
+            5.9992639
+          ],
+          [
+            157.3504667,
+            6.0498333
+          ],
+          [
+            157.2470694,
+            6.0552556
+          ],
+          [
+            157.0977028,
+            5.9966944
+          ],
+          [
+            157.004025,
+            5.9335139
+          ],
+          [
+            156.952275,
+            5.8396306
+          ],
+          [
+            156.9534694,
+            5.7383694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            154.948225,
+            7.5151694
+          ],
+          [
+            154.9796333,
+            7.4405583
+          ],
+          [
+            155.1166694,
+            7.2712861
+          ],
+          [
+            155.2129444,
+            7.2283944
+          ],
+          [
+            155.3941389,
+            7.2091139
+          ],
+          [
+            155.512925,
+            7.2610139
+          ],
+          [
+            155.5902556,
+            7.3722944
+          ],
+          [
+            155.6141167,
+            7.4577306
+          ],
+          [
+            155.6097333,
+            7.6286667
+          ],
+          [
+            155.5637611,
+            7.7261056
+          ],
+          [
+            155.4681194,
+            7.8034639
+          ],
+          [
+            155.3818639,
+            7.8214528
+          ],
+          [
+            155.2832833,
+            7.8012944
+          ],
+          [
+            155.1269361,
+            7.8259889
+          ],
+          [
+            155.0401056,
+            7.7906306
+          ],
+          [
+            154.9756389,
+            7.7203389
+          ],
+          [
+            154.9513167,
+            7.6467194
+          ],
+          [
+            154.948225,
+            7.5151694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            154.0410667,
+            8.0716194
+          ],
+          [
+            154.0684194,
+            7.9922583
+          ],
+          [
+            154.1241694,
+            7.9314361
+          ],
+          [
+            154.2404,
+            7.8679694
+          ],
+          [
+            154.336125,
+            7.8623028
+          ],
+          [
+            154.4154,
+            7.8942694
+          ],
+          [
+            154.4808028,
+            7.9628806
+          ],
+          [
+            154.5128806,
+            8.0492528
+          ],
+          [
+            154.5109417,
+            8.1562889
+          ],
+          [
+            154.4825694,
+            8.2286306
+          ],
+          [
+            154.4131361,
+            8.3065056
+          ],
+          [
+            154.3372361,
+            8.3427694
+          ],
+          [
+            154.2531444,
+            8.3457278
+          ],
+          [
+            154.162925,
+            8.3144222
+          ],
+          [
+            154.1017917,
+            8.2634222
+          ],
+          [
+            154.0481278,
+            8.1563611
+          ],
+          [
+            154.0410667,
+            8.0716194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            154.515775,
+            1.0175389
+          ],
+          [
+            154.5584611,
+            0.938375
+          ],
+          [
+            154.6577417,
+            0.8584722
+          ],
+          [
+            154.7379889,
+            0.8271361
+          ],
+          [
+            154.8230861,
+            0.8283472
+          ],
+          [
+            154.9144111,
+            0.8680722
+          ],
+          [
+            154.9756667,
+            0.9326361
+          ],
+          [
+            155.0085944,
+            1.0242667
+          ],
+          [
+            155.0047972,
+            1.1311917
+          ],
+          [
+            154.9656861,
+            1.2121889
+          ],
+          [
+            154.8807389,
+            1.2817694
+          ],
+          [
+            154.7880917,
+            1.3078694
+          ],
+          [
+            154.6914861,
+            1.2953667
+          ],
+          [
+            154.6022111,
+            1.2567917
+          ],
+          [
+            154.5409472,
+            1.1906611
+          ],
+          [
+            154.5106389,
+            1.1084778
+          ],
+          [
+            154.515775,
+            1.0175389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            154.7089556,
+            3.8242861
+          ],
+          [
+            154.7299889,
+            3.7418556
+          ],
+          [
+            154.7842722,
+            3.6710194
+          ],
+          [
+            154.85735,
+            3.6306028
+          ],
+          [
+            154.9469389,
+            3.6202083
+          ],
+          [
+            155.0420639,
+            3.6419111
+          ],
+          [
+            155.1190889,
+            3.6958083
+          ],
+          [
+            155.1657083,
+            3.7724028
+          ],
+          [
+            155.1769667,
+            3.8536028
+          ],
+          [
+            155.1550917,
+            3.9405417
+          ],
+          [
+            155.0953472,
+            4.0195
+          ],
+          [
+            155.0179611,
+            4.0637056
+          ],
+          [
+            154.9229528,
+            4.0757417
+          ],
+          [
+            154.839125,
+            4.0534583
+          ],
+          [
+            154.7676639,
+            3.9973444
+          ],
+          [
+            154.7220028,
+            3.9197083
+          ],
+          [
+            154.7089556,
+            3.8242861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "name": "Micronesia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.13165,
+            8.5356028
+          ],
+          [
+            151.1685194,
+            8.4293083
+          ],
+          [
+            151.2495722,
+            8.3563528
+          ],
+          [
+            151.3177611,
+            8.335275
+          ],
+          [
+            151.3851972,
+            8.3382111
+          ],
+          [
+            151.4466056,
+            8.3620806
+          ],
+          [
+            151.4969111,
+            8.4041806
+          ],
+          [
+            151.5322333,
+            8.3432833
+          ],
+          [
+            151.6130361,
+            8.2677056
+          ],
+          [
+            151.6891694,
+            8.2342056
+          ],
+          [
+            151.76935,
+            8.2282639
+          ],
+          [
+            151.8949056,
+            8.2812194
+          ],
+          [
+            152.0071167,
+            8.3711278
+          ],
+          [
+            152.1331194,
+            8.3624056
+          ],
+          [
+            152.2251472,
+            8.4074583
+          ],
+          [
+            152.2975417,
+            8.414175
+          ],
+          [
+            152.3600083,
+            8.441025
+          ],
+          [
+            152.5132556,
+            8.5802806
+          ],
+          [
+            152.5410778,
+            8.6425889
+          ],
+          [
+            152.54665,
+            8.7173861
+          ],
+          [
+            152.510925,
+            8.8396278
+          ],
+          [
+            152.4397861,
+            8.9300389
+          ],
+          [
+            152.3354972,
+            8.97785
+          ],
+          [
+            152.2146861,
+            8.9866694
+          ],
+          [
+            152.0575139,
+            8.9272861
+          ],
+          [
+            152.0085722,
+            8.8752361
+          ],
+          [
+            151.9798583,
+            8.8075
+          ],
+          [
+            151.9309611,
+            8.7809528
+          ],
+          [
+            151.7992444,
+            8.8134833
+          ],
+          [
+            151.6891722,
+            8.8110194
+          ],
+          [
+            151.6009417,
+            8.7652556
+          ],
+          [
+            151.5105167,
+            8.6722944
+          ],
+          [
+            151.4643083,
+            8.7198917
+          ],
+          [
+            151.3946333,
+            8.7531611
+          ],
+          [
+            151.3221444,
+            8.7596139
+          ],
+          [
+            151.2536306,
+            8.742725
+          ],
+          [
+            151.1619056,
+            8.6632361
+          ],
+          [
+            151.1372667,
+            8.60455
+          ],
+          [
+            151.13165,
+            8.5356028
+          ]
+        ]
+      }
+    }
+  ]
+}

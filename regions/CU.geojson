@@ -1,0 +1,767 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.2148263,
+            22.0329712
+          ],
+          [
+            -77.9339641,
+            22.4950246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.2148263,
+            22.0329712
+          ],
+          [
+            -77.0080848,
+            21.8225678
+          ],
+          [
+            -76.7738212,
+            21.7018421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.7738212,
+            21.7018421
+          ],
+          [
+            -76.2800787,
+            21.4577193
+          ],
+          [
+            -76.2046924,
+            21.4410353
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.2046924,
+            21.4410353
+          ],
+          [
+            -75.637714,
+            21.3133119
+          ],
+          [
+            -74.8087691,
+            20.8719826
+          ],
+          [
+            -74.6179856,
+            20.7866179
+          ],
+          [
+            -74.5667325,
+            20.745504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.5667325,
+            20.745504
+          ],
+          [
+            -74.0707322,
+            20.4635937
+          ],
+          [
+            -73.9901134,
+            20.3910785
+          ],
+          [
+            -73.9494763,
+            20.3326403
+          ],
+          [
+            -73.9190004,
+            20.2160675
+          ],
+          [
+            -73.9260497,
+            20.1576248
+          ],
+          [
+            -73.9666447,
+            20.0676753
+          ],
+          [
+            -74.1123064,
+            19.9231795
+          ],
+          [
+            -74.2232759,
+            19.8724359
+          ],
+          [
+            -74.9908951,
+            19.7079539
+          ],
+          [
+            -75.3786217,
+            19.6759486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.3786217,
+            19.6759486
+          ],
+          [
+            -75.6172332,
+            19.6912689
+          ],
+          [
+            -75.8823976,
+            19.7612369
+          ],
+          [
+            -76.0295866,
+            19.755368
+          ],
+          [
+            -76.1940075,
+            19.778501
+          ],
+          [
+            -76.3460584,
+            19.7543933
+          ],
+          [
+            -76.6940101,
+            19.7427675
+          ],
+          [
+            -77.0251239,
+            19.6844253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.0251239,
+            19.6844253
+          ],
+          [
+            -77.1229706,
+            19.6902494
+          ],
+          [
+            -77.3650295,
+            19.6482323
+          ],
+          [
+            -77.6475692,
+            19.6279233
+          ],
+          [
+            -77.8139942,
+            19.6442497
+          ],
+          [
+            -77.9135688,
+            19.7093825
+          ],
+          [
+            -78.2648908,
+            20.1239992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.2648908,
+            20.1239992
+          ],
+          [
+            -78.4604118,
+            20.3496106
+          ],
+          [
+            -78.7784539,
+            20.4599548
+          ],
+          [
+            -79.0412084,
+            20.6129497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.0412084,
+            20.6129497
+          ],
+          [
+            -79.6142605,
+            20.9842841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.6142605,
+            20.9842841
+          ],
+          [
+            -79.7315661,
+            21.1048823
+          ],
+          [
+            -79.9560491,
+            21.4112765
+          ],
+          [
+            -80.2228643,
+            21.4151395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2228643,
+            21.4151395
+          ],
+          [
+            -80.6805045,
+            21.4272075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.6805045,
+            21.4272075
+          ],
+          [
+            -81.1024885,
+            21.42798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.1024885,
+            21.42798
+          ],
+          [
+            -81.6067984,
+            21.3797224
+          ],
+          [
+            -82.1698607,
+            21.2767445
+          ],
+          [
+            -82.5000154,
+            21.2585798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.5000154,
+            21.2585798
+          ],
+          [
+            -82.8966691,
+            21.2376291
+          ],
+          [
+            -83.1093767,
+            21.2688442
+          ],
+          [
+            -83.566208,
+            21.4691361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.566208,
+            21.4691361
+          ],
+          [
+            -84.0465356,
+            21.6889638
+          ],
+          [
+            -84.3703692,
+            21.5770442
+          ],
+          [
+            -84.5033593,
+            21.5528666
+          ],
+          [
+            -84.9858414,
+            21.6369999
+          ],
+          [
+            -85.1079939,
+            21.7149163
+          ],
+          [
+            -85.1565165,
+            21.7970219
+          ],
+          [
+            -85.1679702,
+            21.8665258
+          ],
+          [
+            -85.1335441,
+            21.9813291
+          ],
+          [
+            -84.9486268,
+            22.2436155
+          ],
+          [
+            -84.8920589,
+            22.3683461
+          ],
+          [
+            -84.6205462,
+            22.6229849
+          ],
+          [
+            -84.3841675,
+            22.7431391
+          ],
+          [
+            -84.3168014,
+            22.8028828
+          ],
+          [
+            -84.2202269,
+            22.8584625
+          ],
+          [
+            -83.7069852,
+            23.0817855
+          ],
+          [
+            -83.4491558,
+            23.1469729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.4491558,
+            23.1469729
+          ],
+          [
+            -82.6072626,
+            23.3079812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.6072626,
+            23.3079812
+          ],
+          [
+            -82.500002,
+            23.329764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.500002,
+            23.329764
+          ],
+          [
+            -82.3159513,
+            23.3728348
+          ],
+          [
+            -82.0885035,
+            23.3857728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.0885035,
+            23.3857728
+          ],
+          [
+            -81.6665189,
+            23.415886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.6665189,
+            23.415886
+          ],
+          [
+            -80.9167213,
+            23.4816972
+          ],
+          [
+            -80.4080407,
+            23.4376088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.4080407,
+            23.4376088
+          ],
+          [
+            -80.2629666,
+            23.4185915
+          ],
+          [
+            -79.6721354,
+            23.1308131
+          ],
+          [
+            -79.3055696,
+            23.0231525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.3055696,
+            23.0231525
+          ],
+          [
+            -78.8259963,
+            22.8821741
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8259963,
+            22.8821741
+          ],
+          [
+            -78.7729586,
+            22.8682739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.4635744,
+            22.745819
+          ],
+          [
+            -78.7729586,
+            22.8682739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "name": "Cuba"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.9339641,
+            22.4950246
+          ],
+          [
+            -78.21325,
+            22.6425833
+          ],
+          [
+            -78.4635744,
+            22.745819
+          ]
+        ]
+      }
+    }
+  ]
+}

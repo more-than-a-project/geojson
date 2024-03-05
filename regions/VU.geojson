@@ -1,0 +1,301 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+        "name": "Vanuatu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            168.2989258,
+            -14.5889212
+          ],
+          [
+            168.4857385,
+            -15.8768792
+          ],
+          [
+            168.5514787,
+            -16.0711417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+        "name": "Vanuatu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            166.3405258,
+            -14.1379648
+          ],
+          [
+            166.3399756,
+            -13.0695071
+          ],
+          [
+            166.3650751,
+            -12.9783293
+          ],
+          [
+            166.4130591,
+            -12.919795
+          ],
+          [
+            166.4782531,
+            -12.88307
+          ],
+          [
+            166.5638803,
+            -12.8718918
+          ],
+          [
+            167.7017217,
+            -13.0624318
+          ],
+          [
+            167.7918428,
+            -13.1159876
+          ],
+          [
+            167.8394488,
+            -13.1908623
+          ],
+          [
+            168.2640932,
+            -14.3758835
+          ],
+          [
+            168.2989258,
+            -14.5889212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+        "name": "Vanuatu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            166.7322798,
+            -15.9432003
+          ],
+          [
+            166.5855968,
+            -15.7378736
+          ],
+          [
+            166.4431937,
+            -15.4327189
+          ],
+          [
+            166.3355255,
+            -14.8608354
+          ],
+          [
+            166.3405258,
+            -14.1379648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+        "name": "Vanuatu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            167.4605951,
+            -16.9799185
+          ],
+          [
+            167.2873815,
+            -16.6989327
+          ],
+          [
+            166.7322798,
+            -15.9432003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+        "name": "Vanuatu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            168.3537551,
+            -18.3437402
+          ],
+          [
+            167.9769814,
+            -17.8150115
+          ],
+          [
+            167.4605951,
+            -16.9799185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+        "name": "Vanuatu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            169.3132685,
+            -18.3500116
+          ],
+          [
+            169.4652855,
+            -18.5652109
+          ],
+          [
+            170.3796779,
+            -19.3594103
+          ],
+          [
+            170.4452114,
+            -19.4673536
+          ],
+          [
+            170.447337,
+            -19.5543176
+          ],
+          [
+            170.4276772,
+            -19.6254791
+          ],
+          [
+            170.0912903,
+            -20.2986409
+          ],
+          [
+            170.0121182,
+            -20.3987722
+          ],
+          [
+            169.9166341,
+            -20.4453394
+          ],
+          [
+            169.7288553,
+            -20.459761
+          ],
+          [
+            169.6435732,
+            -20.4280236
+          ],
+          [
+            169.5824904,
+            -20.3703676
+          ],
+          [
+            169.0601248,
+            -19.6133142
+          ],
+          [
+            168.8027813,
+            -18.9691078
+          ],
+          [
+            168.3537551,
+            -18.3437402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+        "name": "Vanuatu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            168.7339464,
+            -16.6093344
+          ],
+          [
+            168.85739,
+            -16.9968094
+          ],
+          [
+            168.8096923,
+            -17.6352329
+          ],
+          [
+            169.3132685,
+            -18.3500116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VU",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+        "name": "Vanuatu"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            168.5514787,
+            -16.0711417
+          ],
+          [
+            168.7339464,
+            -16.6093344
+          ]
+        ]
+      }
+    }
+  ]
+}

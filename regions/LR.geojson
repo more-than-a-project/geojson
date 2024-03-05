@@ -1,0 +1,4547 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.6080764,
+            6.755
+          ],
+          [
+            -11.5866772,
+            6.7356105
+          ],
+          [
+            -11.5562995,
+            6.6354494
+          ],
+          [
+            -11.4783916,
+            6.5447612
+          ],
+          [
+            -11.0959554,
+            6.3722117
+          ],
+          [
+            -11.0186114,
+            6.3237641
+          ],
+          [
+            -10.9947584,
+            6.2174963
+          ],
+          [
+            -10.9118902,
+            6.1314672
+          ],
+          [
+            -10.7714106,
+            6.0484157
+          ],
+          [
+            -10.5182022,
+            5.9759191
+          ],
+          [
+            -10.4553968,
+            5.9276015
+          ],
+          [
+            -10.3754559,
+            5.8960079
+          ],
+          [
+            -10.32458,
+            5.8343405
+          ],
+          [
+            -10.2499612,
+            5.7911219
+          ],
+          [
+            -10.1512836,
+            5.6554352
+          ],
+          [
+            -9.9968746,
+            5.5444604
+          ],
+          [
+            -9.7269473,
+            5.2838065
+          ],
+          [
+            -9.6654229,
+            5.2465573
+          ],
+          [
+            -9.6086077,
+            5.1702266
+          ],
+          [
+            -9.4331329,
+            5.0030931
+          ],
+          [
+            -9.2613746,
+            4.9026474
+          ],
+          [
+            -9.1346739,
+            4.8059956
+          ],
+          [
+            -8.9954686,
+            4.7632293
+          ],
+          [
+            -8.8097702,
+            4.6308193
+          ],
+          [
+            -8.6720931,
+            4.5587145
+          ],
+          [
+            -8.606817,
+            4.5456111
+          ],
+          [
+            -8.5543285,
+            4.5031064
+          ],
+          [
+            -8.4273422,
+            4.4523621
+          ],
+          [
+            -8.3273489,
+            4.3877239
+          ],
+          [
+            -8.049974,
+            4.3298061
+          ],
+          [
+            -7.8805616,
+            4.2164868
+          ],
+          [
+            -7.7824979,
+            4.173223
+          ],
+          [
+            -7.6174898,
+            4.1555907
+          ],
+          [
+            -7.52699,
+            4.1622419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.5067464,
+            6.9283732
+          ],
+          [
+            -11.6080764,
+            6.755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.50621,
+            6.9292226
+          ],
+          [
+            -11.5067464,
+            6.9283732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.50621,
+            6.9292226
+          ],
+          [
+            -11.5057164,
+            6.9290629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.5057164,
+            6.9290629
+          ],
+          [
+            -11.4596453,
+            6.9235524
+          ],
+          [
+            -11.418093,
+            6.9381626
+          ],
+          [
+            -11.432173,
+            6.9693731
+          ],
+          [
+            -11.408167,
+            6.9896311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.408167,
+            6.9896311
+          ],
+          [
+            -11.376284,
+            7.0127936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.376284,
+            7.0127936
+          ],
+          [
+            -11.3632616,
+            7.0491344
+          ],
+          [
+            -11.3745885,
+            7.0714211
+          ],
+          [
+            -11.3341973,
+            7.0768658
+          ],
+          [
+            -11.3347689,
+            7.110392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.3347689,
+            7.110392
+          ],
+          [
+            -11.33345,
+            7.1113667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.33345,
+            7.1113667
+          ],
+          [
+            -11.3521613,
+            7.1418996
+          ],
+          [
+            -11.3280032,
+            7.1485629
+          ],
+          [
+            -11.3104034,
+            7.210294
+          ],
+          [
+            -11.2941309,
+            7.1963935
+          ],
+          [
+            -11.2792918,
+            7.2221962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.2792918,
+            7.2221962
+          ],
+          [
+            -11.2676441,
+            7.2365766
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.2600292,
+            7.2310603
+          ],
+          [
+            -11.2676441,
+            7.2365766
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.2035309,
+            7.2530989
+          ],
+          [
+            -11.2600292,
+            7.2310603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.1794836,
+            7.2681313
+          ],
+          [
+            -11.2035309,
+            7.2530989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.1836165,
+            7.2746077
+          ],
+          [
+            -11.1794836,
+            7.2681313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.1613436,
+            7.3059403
+          ],
+          [
+            -11.1836165,
+            7.2746077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.1486492,
+            7.31898
+          ],
+          [
+            -11.1613436,
+            7.3059403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.1424059,
+            7.3336644
+          ],
+          [
+            -11.1486492,
+            7.31898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.1447402,
+            7.3375762
+          ],
+          [
+            -11.1424059,
+            7.3336644
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.1448398,
+            7.338713
+          ],
+          [
+            -11.1447402,
+            7.3375762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.1419569,
+            7.3425229
+          ],
+          [
+            -11.1448398,
+            7.338713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.1385852,
+            7.345552
+          ],
+          [
+            -11.1419569,
+            7.3425229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.1329999,
+            7.3483032
+          ],
+          [
+            -11.1385852,
+            7.345552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.1329999,
+            7.3483032
+          ],
+          [
+            -11.1276014,
+            7.3535092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.1269102,
+            7.3589003
+          ],
+          [
+            -11.1276014,
+            7.3535092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.0920991,
+            7.3923838
+          ],
+          [
+            -11.1269102,
+            7.3589003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.0920991,
+            7.3923838
+          ],
+          [
+            -11.0496543,
+            7.4123523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -11.0496543,
+            7.4123523
+          ],
+          [
+            -11.0504283,
+            7.4127635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.8534382,
+            7.5427304
+          ],
+          [
+            -10.9222877,
+            7.4974561
+          ],
+          [
+            -10.9329522,
+            7.5136668
+          ],
+          [
+            -11.0504283,
+            7.4127635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.7940172,
+            7.5993222
+          ],
+          [
+            -10.8178393,
+            7.5957741
+          ],
+          [
+            -10.8267598,
+            7.562922
+          ],
+          [
+            -10.8534382,
+            7.5427304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.6047955,
+            7.7778349
+          ],
+          [
+            -10.7016441,
+            7.7360224
+          ],
+          [
+            -10.7478177,
+            7.6616062
+          ],
+          [
+            -10.7753957,
+            7.6535124
+          ],
+          [
+            -10.7940172,
+            7.5993222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.6050222,
+            7.9209161
+          ],
+          [
+            -10.6047955,
+            7.7778349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.6051653,
+            8.0405416
+          ],
+          [
+            -10.6050222,
+            7.9209161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.5898439,
+            8.0451153
+          ],
+          [
+            -10.6051653,
+            8.0405416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.5281575,
+            8.1251431
+          ],
+          [
+            -10.5898439,
+            8.0451153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.4424546,
+            8.1544683
+          ],
+          [
+            -10.5011122,
+            8.1454221
+          ],
+          [
+            -10.5281575,
+            8.1251431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.427361,
+            8.1494275
+          ],
+          [
+            -10.4424546,
+            8.1544683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.351673,
+            8.1501633
+          ],
+          [
+            -10.37717,
+            8.1656731
+          ],
+          [
+            -10.388852,
+            8.1498451
+          ],
+          [
+            -10.427361,
+            8.1494275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.301531,
+            8.1970151
+          ],
+          [
+            -10.318904,
+            8.1948931
+          ],
+          [
+            -10.351673,
+            8.1501633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.320212,
+            8.2847571
+          ],
+          [
+            -10.294938,
+            8.2238061
+          ],
+          [
+            -10.301531,
+            8.1970151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.286204,
+            8.3726601
+          ],
+          [
+            -10.301131,
+            8.2974691
+          ],
+          [
+            -10.320212,
+            8.2847571
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.274611,
+            8.4725211
+          ],
+          [
+            -10.286204,
+            8.3726601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.274611,
+            8.4725211
+          ],
+          [
+            -10.2799137,
+            8.4849994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.2636351,
+            8.486651
+          ],
+          [
+            -10.2799137,
+            8.4849994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.0585291,
+            8.4287006
+          ],
+          [
+            -10.045973,
+            8.4986959
+          ],
+          [
+            -10.074924,
+            8.5181963
+          ],
+          [
+            -10.1016221,
+            8.5129965
+          ],
+          [
+            -10.1192891,
+            8.5350058
+          ],
+          [
+            -10.1273667,
+            8.5227275
+          ],
+          [
+            -10.1622512,
+            8.5260361
+          ],
+          [
+            -10.2074891,
+            8.4790125
+          ],
+          [
+            -10.2286524,
+            8.4819436
+          ],
+          [
+            -10.2269352,
+            8.493879
+          ],
+          [
+            -10.2636351,
+            8.486651
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.0585094,
+            8.4279243
+          ],
+          [
+            -10.0585291,
+            8.4287006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.007271,
+            8.4418366
+          ],
+          [
+            -10.0585094,
+            8.4279243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.9411195,
+            8.4865714
+          ],
+          [
+            -10.007271,
+            8.4418366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.9004868,
+            8.4991356
+          ],
+          [
+            -9.9411195,
+            8.4865714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.8517349,
+            8.4980565
+          ],
+          [
+            -9.9004868,
+            8.4991356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.8458219,
+            8.4835299
+          ],
+          [
+            -9.8517349,
+            8.4980565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.8377901,
+            8.4923713
+          ],
+          [
+            -9.8458219,
+            8.4835299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.7985448,
+            8.5052564
+          ],
+          [
+            -9.8377901,
+            8.4923713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.7722632,
+            8.551315
+          ],
+          [
+            -9.7977379,
+            8.5320635
+          ],
+          [
+            -9.7985448,
+            8.5052564
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.7703856,
+            8.5515048
+          ],
+          [
+            -9.7722632,
+            8.551315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.7497352,
+            8.5446477
+          ],
+          [
+            -9.7703856,
+            8.5515048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.7497352,
+            8.5446477
+          ],
+          [
+            -9.7461112,
+            8.5395937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.7461112,
+            8.5395937
+          ],
+          [
+            -9.7250892,
+            8.5258577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.7250892,
+            8.5258577
+          ],
+          [
+            -9.7307672,
+            8.5115187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.7307672,
+            8.5115187
+          ],
+          [
+            -9.7435802,
+            8.5095907
+          ],
+          [
+            -9.7382822,
+            8.4881357
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.7382822,
+            8.4881357
+          ],
+          [
+            -9.7311088,
+            8.4692586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.7311088,
+            8.4692586
+          ],
+          [
+            -9.7177237,
+            8.4392777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.7177237,
+            8.4392777
+          ],
+          [
+            -9.7134442,
+            8.4390267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.6984522,
+            8.4578767
+          ],
+          [
+            -9.7134442,
+            8.4390267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.6979002,
+            8.4841587
+          ],
+          [
+            -9.6984522,
+            8.4578767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.6979002,
+            8.4841587
+          ],
+          [
+            -9.6658722,
+            8.5017677
+          ],
+          [
+            -9.6469122,
+            8.4908687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.6469122,
+            8.4908687
+          ],
+          [
+            -9.654472,
+            8.4739737
+          ],
+          [
+            -9.629891,
+            8.4732127
+          ],
+          [
+            -9.620021,
+            8.4542487
+          ],
+          [
+            -9.642588,
+            8.4295237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.642588,
+            8.4295237
+          ],
+          [
+            -9.659162,
+            8.4078957
+          ],
+          [
+            -9.648202,
+            8.3973587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.590912,
+            8.4249247
+          ],
+          [
+            -9.600207,
+            8.4079967
+          ],
+          [
+            -9.648202,
+            8.3973587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.590912,
+            8.4249247
+          ],
+          [
+            -9.547763,
+            8.3799967
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.547763,
+            8.3799967
+          ],
+          [
+            -9.4915955,
+            8.3653087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.4915955,
+            8.3653087
+          ],
+          [
+            -9.4871723,
+            8.3600396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.4871723,
+            8.3600396
+          ],
+          [
+            -9.4798866,
+            8.3400037
+          ],
+          [
+            -9.5191322,
+            8.3168528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.5147107,
+            8.3103107
+          ],
+          [
+            -9.5191322,
+            8.3168528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.490934,
+            8.2749947
+          ],
+          [
+            -9.50258,
+            8.2814157
+          ],
+          [
+            -9.495715,
+            8.3046897
+          ],
+          [
+            -9.5147107,
+            8.3103107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.490934,
+            8.2749947
+          ],
+          [
+            -9.489888,
+            8.2645737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.489888,
+            8.2645737
+          ],
+          [
+            -9.510813,
+            8.2442027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.462533,
+            8.1770337
+          ],
+          [
+            -9.515257,
+            8.1886537
+          ],
+          [
+            -9.499879,
+            8.2373917
+          ],
+          [
+            -9.510813,
+            8.2442027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.462533,
+            8.1770337
+          ],
+          [
+            -9.4613905,
+            8.1407085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.4613905,
+            8.1407085
+          ],
+          [
+            -9.4408365,
+            8.0831025
+          ],
+          [
+            -9.4608065,
+            8.0443705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.4593755,
+            8.0424315
+          ],
+          [
+            -9.4608065,
+            8.0443705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.4201535,
+            8.0650195
+          ],
+          [
+            -9.4593755,
+            8.0424315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.4059395,
+            8.0461005
+          ],
+          [
+            -9.4201535,
+            8.0650195
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.4059395,
+            8.0461005
+          ],
+          [
+            -9.4053625,
+            8.0256595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.4053625,
+            8.0256595
+          ],
+          [
+            -9.4425935,
+            7.9764875
+          ],
+          [
+            -9.4396115,
+            7.8908535
+          ],
+          [
+            -9.4164315,
+            7.8318325
+          ],
+          [
+            -9.3936825,
+            7.8021435
+          ],
+          [
+            -9.3791105,
+            7.8097375
+          ],
+          [
+            -9.3617396,
+            7.7634263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.3617396,
+            7.7634263
+          ],
+          [
+            -9.3492241,
+            7.746473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.3492241,
+            7.746473
+          ],
+          [
+            -9.379831,
+            7.6585595
+          ],
+          [
+            -9.3639802,
+            7.613648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.3639802,
+            7.613648
+          ],
+          [
+            -9.4248966,
+            7.4728941
+          ],
+          [
+            -9.468057,
+            7.4297827
+          ],
+          [
+            -9.4809891,
+            7.3658752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.2934756,
+            7.4240659
+          ],
+          [
+            -9.3605009,
+            7.4334598
+          ],
+          [
+            -9.3633411,
+            7.4141829
+          ],
+          [
+            -9.4035429,
+            7.3883493
+          ],
+          [
+            -9.4178967,
+            7.4274516
+          ],
+          [
+            -9.468016,
+            7.3953729
+          ],
+          [
+            -9.4809891,
+            7.3658752
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.280582,
+            7.375182
+          ],
+          [
+            -9.2934756,
+            7.4240659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.206986,
+            7.389297
+          ],
+          [
+            -9.280582,
+            7.375182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.206986,
+            7.389297
+          ],
+          [
+            -9.203392,
+            7.362458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.203392,
+            7.362458
+          ],
+          [
+            -9.20303,
+            7.318606
+          ],
+          [
+            -9.167925,
+            7.278508
+          ],
+          [
+            -9.141812,
+            7.27194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.141812,
+            7.27194
+          ],
+          [
+            -9.1241096,
+            7.2739402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.1241096,
+            7.2739402
+          ],
+          [
+            -9.1265241,
+            7.2559439
+          ],
+          [
+            -9.1048316,
+            7.2348068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.1048316,
+            7.2348068
+          ],
+          [
+            -9.1081887,
+            7.1906045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.0915055,
+            7.2028695
+          ],
+          [
+            -9.1081887,
+            7.1906045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.053931,
+            7.218756
+          ],
+          [
+            -9.0702177,
+            7.1983529
+          ],
+          [
+            -9.0915055,
+            7.2028695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.053931,
+            7.218756
+          ],
+          [
+            -9.0414905,
+            7.2336049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.0414905,
+            7.2336049
+          ],
+          [
+            -9.024588,
+            7.2470127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.0116792,
+            7.2435179
+          ],
+          [
+            -9.024588,
+            7.2470127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.9860026,
+            7.2481575
+          ],
+          [
+            -9.0116792,
+            7.2435179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.9828211,
+            7.2540325
+          ],
+          [
+            -8.9860026,
+            7.2481575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.9609581,
+            7.2634118
+          ],
+          [
+            -8.9828211,
+            7.2540325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.9441421,
+            7.2888118
+          ],
+          [
+            -8.9436095,
+            7.2654525
+          ],
+          [
+            -8.957808,
+            7.2746741
+          ],
+          [
+            -8.9609581,
+            7.2634118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.9441421,
+            7.2888118
+          ],
+          [
+            -8.9176461,
+            7.2956278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8389745,
+            7.3099785
+          ],
+          [
+            -8.8372852,
+            7.2764553
+          ],
+          [
+            -8.871676,
+            7.2559331
+          ],
+          [
+            -8.9054319,
+            7.2560777
+          ],
+          [
+            -8.9176461,
+            7.2956278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8536109,
+            7.3485722
+          ],
+          [
+            -8.8389745,
+            7.3099785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8414779,
+            7.3614256
+          ],
+          [
+            -8.8536109,
+            7.3485722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8140802,
+            7.4079582
+          ],
+          [
+            -8.8414779,
+            7.3614256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7896889,
+            7.415935
+          ],
+          [
+            -8.8140802,
+            7.4079582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7270259,
+            7.4968072
+          ],
+          [
+            -8.7785947,
+            7.4527429
+          ],
+          [
+            -8.7796367,
+            7.4121422
+          ],
+          [
+            -8.7896889,
+            7.415935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7102551,
+            7.5116146
+          ],
+          [
+            -8.7270259,
+            7.4968072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7067407,
+            7.515036
+          ],
+          [
+            -8.7102551,
+            7.5116146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7236312,
+            7.5750055
+          ],
+          [
+            -8.7067407,
+            7.515036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.6764353,
+            7.6957383
+          ],
+          [
+            -8.6811692,
+            7.6708741
+          ],
+          [
+            -8.714138,
+            7.6413637
+          ],
+          [
+            -8.7045255,
+            7.6244883
+          ],
+          [
+            -8.7236312,
+            7.5750055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.6764353,
+            7.6957383
+          ],
+          [
+            -8.581785,
+            7.6957766
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.581785,
+            7.6957766
+          ],
+          [
+            -8.5538849,
+            7.6957521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.558759,
+            7.625998
+          ],
+          [
+            -8.570165,
+            7.63227
+          ],
+          [
+            -8.5538849,
+            7.6957521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.558759,
+            7.625998
+          ],
+          [
+            -8.5037377,
+            7.5841892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5037377,
+            7.5841892
+          ],
+          [
+            -8.4710168,
+            7.5571723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4710168,
+            7.5571723
+          ],
+          [
+            -8.453217,
+            7.531077
+          ],
+          [
+            -8.424538,
+            7.533071
+          ],
+          [
+            -8.423593,
+            7.510089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.423593,
+            7.510089
+          ],
+          [
+            -8.4107152,
+            7.4712047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4107152,
+            7.4712047
+          ],
+          [
+            -8.4146203,
+            7.430978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4146203,
+            7.430978
+          ],
+          [
+            -8.4136478,
+            7.4252586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4136478,
+            7.4252586
+          ],
+          [
+            -8.4000221,
+            7.4123737
+          ],
+          [
+            -8.3990334,
+            7.350258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3990334,
+            7.350258
+          ],
+          [
+            -8.395863,
+            7.328309
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.395863,
+            7.328309
+          ],
+          [
+            -8.355716,
+            7.27283
+          ],
+          [
+            -8.369097,
+            7.246788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.369097,
+            7.246788
+          ],
+          [
+            -8.340452,
+            7.226533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.340452,
+            7.226533
+          ],
+          [
+            -8.3359173,
+            7.2084147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3359173,
+            7.2084147
+          ],
+          [
+            -8.2873444,
+            7.1865727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.2873444,
+            7.1865727
+          ],
+          [
+            -8.2803506,
+            7.1545916
+          ],
+          [
+            -8.3027959,
+            7.1357474
+          ],
+          [
+            -8.3043702,
+            7.0798627
+          ],
+          [
+            -8.2931554,
+            7.022467
+          ],
+          [
+            -8.2747237,
+            7.0044835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.2747237,
+            7.0044835
+          ],
+          [
+            -8.3271476,
+            6.9707876
+          ],
+          [
+            -8.317744,
+            6.924684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.317744,
+            6.924684
+          ],
+          [
+            -8.3106477,
+            6.9066802
+          ],
+          [
+            -8.3365884,
+            6.8855202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3365884,
+            6.8855202
+          ],
+          [
+            -8.3102536,
+            6.8557492
+          ],
+          [
+            -8.3294243,
+            6.8376986
+          ],
+          [
+            -8.3203538,
+            6.8149159
+          ],
+          [
+            -8.3484822,
+            6.7970965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3484822,
+            6.7970965
+          ],
+          [
+            -8.3429335,
+            6.7618265
+          ],
+          [
+            -8.3590252,
+            6.7679344
+          ],
+          [
+            -8.3676873,
+            6.7425212
+          ],
+          [
+            -8.3866886,
+            6.7379303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3866886,
+            6.7379303
+          ],
+          [
+            -8.383995,
+            6.7216418
+          ],
+          [
+            -8.395337,
+            6.727964
+          ],
+          [
+            -8.4109455,
+            6.7104101
+          ],
+          [
+            -8.4049403,
+            6.6854739
+          ],
+          [
+            -8.4336863,
+            6.6624627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4336863,
+            6.6624627
+          ],
+          [
+            -8.4439044,
+            6.6667242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4439044,
+            6.6667242
+          ],
+          [
+            -8.4527595,
+            6.6406014
+          ],
+          [
+            -8.48765,
+            6.6312522
+          ],
+          [
+            -8.4874326,
+            6.6134072
+          ],
+          [
+            -8.5089994,
+            6.6158447
+          ],
+          [
+            -8.5108714,
+            6.595673
+          ],
+          [
+            -8.5402265,
+            6.6089129
+          ],
+          [
+            -8.5302933,
+            6.575491
+          ],
+          [
+            -8.5417686,
+            6.5596611
+          ],
+          [
+            -8.5634617,
+            6.5701505
+          ],
+          [
+            -8.5693972,
+            6.557407
+          ],
+          [
+            -8.5561822,
+            6.5525451
+          ],
+          [
+            -8.5714516,
+            6.52305
+          ],
+          [
+            -8.5957407,
+            6.5255159
+          ],
+          [
+            -8.6014675,
+            6.5054445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.6014675,
+            6.5054445
+          ],
+          [
+            -8.5500405,
+            6.4987733
+          ],
+          [
+            -8.4818525,
+            6.4342483
+          ],
+          [
+            -8.4565995,
+            6.4701243
+          ],
+          [
+            -8.4579675,
+            6.5028674
+          ],
+          [
+            -8.4032973,
+            6.4388706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4032973,
+            6.4388706
+          ],
+          [
+            -8.412295,
+            6.4281663
+          ],
+          [
+            -8.3849166,
+            6.3860098
+          ],
+          [
+            -8.4137692,
+            6.3728695
+          ],
+          [
+            -8.3999677,
+            6.3599551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3999677,
+            6.3599551
+          ],
+          [
+            -8.3887218,
+            6.3508093
+          ],
+          [
+            -8.341246,
+            6.378804
+          ],
+          [
+            -8.3049982,
+            6.3487306
+          ],
+          [
+            -8.2851681,
+            6.3533957
+          ],
+          [
+            -8.2682035,
+            6.3358816
+          ],
+          [
+            -8.2866304,
+            6.3285328
+          ],
+          [
+            -8.2752698,
+            6.3244786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.2752698,
+            6.3244786
+          ],
+          [
+            -8.2001905,
+            6.3100416
+          ],
+          [
+            -8.1752972,
+            6.2796495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.1752972,
+            6.2796495
+          ],
+          [
+            -8.0061773,
+            6.3225004
+          ],
+          [
+            -7.9933514,
+            6.2965358
+          ],
+          [
+            -7.9601533,
+            6.2853128
+          ],
+          [
+            -7.9491608,
+            6.3002108
+          ],
+          [
+            -7.9316476,
+            6.2813646
+          ],
+          [
+            -7.9211916,
+            6.2931716
+          ],
+          [
+            -7.9138298,
+            6.2733742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.9138298,
+            6.2733742
+          ],
+          [
+            -7.901391,
+            6.2829116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.901391,
+            6.2829116
+          ],
+          [
+            -7.8942254,
+            6.2576651
+          ],
+          [
+            -7.822518,
+            6.1930388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.822518,
+            6.1930388
+          ],
+          [
+            -7.84441,
+            6.1915766
+          ],
+          [
+            -7.8337576,
+            6.1622898
+          ],
+          [
+            -7.8518638,
+            6.1514291
+          ],
+          [
+            -7.851266,
+            6.075621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.851266,
+            6.075621
+          ],
+          [
+            -7.8324243,
+            6.0966935
+          ],
+          [
+            -7.8131038,
+            6.0837563
+          ],
+          [
+            -7.8015447,
+            6.0928316
+          ],
+          [
+            -7.7899247,
+            6.0723573
+          ],
+          [
+            -7.7988138,
+            6.055516
+          ],
+          [
+            -7.7693484,
+            6.0359481
+          ],
+          [
+            -7.7887511,
+            6.0200636
+          ],
+          [
+            -7.7899638,
+            5.9828
+          ],
+          [
+            -7.6881369,
+            5.8981968
+          ],
+          [
+            -7.6764493,
+            5.9069699
+          ],
+          [
+            -7.6885647,
+            5.9277274
+          ],
+          [
+            -7.6665525,
+            5.9527908
+          ],
+          [
+            -7.6624071,
+            5.9147544
+          ],
+          [
+            -7.6434658,
+            5.9110955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.6434658,
+            5.9110955
+          ],
+          [
+            -7.6017685,
+            5.8878106
+          ],
+          [
+            -7.5814854,
+            5.8967489
+          ],
+          [
+            -7.5545466,
+            5.8676652
+          ],
+          [
+            -7.5765872,
+            5.8654632
+          ],
+          [
+            -7.5494654,
+            5.831155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.5494654,
+            5.831155
+          ],
+          [
+            -7.5165855,
+            5.8558464
+          ],
+          [
+            -7.5223098,
+            5.8370727
+          ],
+          [
+            -7.4766732,
+            5.8113822
+          ],
+          [
+            -7.465409,
+            5.8622874
+          ],
+          [
+            -7.4226266,
+            5.8382118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.4226266,
+            5.8382118
+          ],
+          [
+            -7.4426514,
+            5.8008331
+          ],
+          [
+            -7.4285339,
+            5.7714572
+          ],
+          [
+            -7.4441791,
+            5.7568994
+          ],
+          [
+            -7.4307947,
+            5.6957712
+          ],
+          [
+            -7.4177865,
+            5.6940498
+          ],
+          [
+            -7.3955945,
+            5.639211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.3955945,
+            5.639211
+          ],
+          [
+            -7.3974422,
+            5.6275928
+          ],
+          [
+            -7.3761441,
+            5.6225185
+          ],
+          [
+            -7.3724802,
+            5.5824827
+          ],
+          [
+            -7.3951267,
+            5.5794577
+          ],
+          [
+            -7.3980826,
+            5.5480375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.3980826,
+            5.5480375
+          ],
+          [
+            -7.3813739,
+            5.5263957
+          ],
+          [
+            -7.4047868,
+            5.5212285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.4047868,
+            5.5212285
+          ],
+          [
+            -7.3907253,
+            5.5086458
+          ],
+          [
+            -7.4228753,
+            5.4759399
+          ],
+          [
+            -7.4202939,
+            5.4294372
+          ],
+          [
+            -7.4399249,
+            5.4434044
+          ],
+          [
+            -7.4490835,
+            5.4296481
+          ],
+          [
+            -7.4000775,
+            5.3650212
+          ],
+          [
+            -7.3758402,
+            5.3867453
+          ],
+          [
+            -7.3831439,
+            5.344596
+          ],
+          [
+            -7.3677577,
+            5.3301391
+          ],
+          [
+            -7.3932098,
+            5.3121981
+          ],
+          [
+            -7.3907033,
+            5.2890524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.3907033,
+            5.2890524
+          ],
+          [
+            -7.4203555,
+            5.2577973
+          ],
+          [
+            -7.4276818,
+            5.2816356
+          ],
+          [
+            -7.4146605,
+            5.2985923
+          ],
+          [
+            -7.4601272,
+            5.2742858
+          ],
+          [
+            -7.4725083,
+            5.2810949
+          ],
+          [
+            -7.4651289,
+            5.2457607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.4651289,
+            5.2457607
+          ],
+          [
+            -7.4835266,
+            5.2173902
+          ],
+          [
+            -7.4687359,
+            5.1976817
+          ],
+          [
+            -7.4834472,
+            5.1266076
+          ],
+          [
+            -7.5069345,
+            5.0963226
+          ],
+          [
+            -7.5170755,
+            5.1086235
+          ],
+          [
+            -7.537017,
+            5.0944511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.537017,
+            5.0944511
+          ],
+          [
+            -7.5567266,
+            5.0774765
+          ],
+          [
+            -7.5421092,
+            4.9962211
+          ],
+          [
+            -7.5581749,
+            4.9734826
+          ],
+          [
+            -7.5342298,
+            4.9569302
+          ],
+          [
+            -7.5260977,
+            4.9206086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.5260977,
+            4.9206086
+          ],
+          [
+            -7.5787913,
+            4.9108383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.5787913,
+            4.9108383
+          ],
+          [
+            -7.5992113,
+            4.8960306
+          ],
+          [
+            -7.5824419,
+            4.8296062
+          ],
+          [
+            -7.5926782,
+            4.8226115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.5926782,
+            4.8226115
+          ],
+          [
+            -7.5935636,
+            4.8083777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.5935636,
+            4.8083777
+          ],
+          [
+            -7.588155,
+            4.7952665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.588155,
+            4.7952665
+          ],
+          [
+            -7.5645331,
+            4.7859452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.5645331,
+            4.7859452
+          ],
+          [
+            -7.557627,
+            4.6926979
+          ],
+          [
+            -7.5706653,
+            4.6856729
+          ],
+          [
+            -7.559442,
+            4.6687627
+          ],
+          [
+            -7.5761195,
+            4.6551532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.5761195,
+            4.6551532
+          ],
+          [
+            -7.5478397,
+            4.6119061
+          ],
+          [
+            -7.5734999,
+            4.583875
+          ],
+          [
+            -7.5519428,
+            4.511487
+          ],
+          [
+            -7.5671245,
+            4.4609728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.5671245,
+            4.4609728
+          ],
+          [
+            -7.5393606,
+            4.4377891
+          ],
+          [
+            -7.5654799,
+            4.3906556
+          ],
+          [
+            -7.5297198,
+            4.3623725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "LR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "name": "Liberia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.5297198,
+            4.3623725
+          ],
+          [
+            -7.52699,
+            4.1622419
+          ]
+        ]
+      }
+    }
+  ]
+}

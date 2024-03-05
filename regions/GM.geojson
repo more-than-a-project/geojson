@@ -1,0 +1,1805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.5548576,
+            13.5933333
+          ],
+          [
+            -16.8672281,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.5548576,
+            13.5933333
+          ],
+          [
+            -16.5465852,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.5465852,
+            13.5933333
+          ],
+          [
+            -16.5449739,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.5449739,
+            13.5933333
+          ],
+          [
+            -16.5430126,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.5430126,
+            13.5933333
+          ],
+          [
+            -16.5409006,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.5409006,
+            13.5933333
+          ],
+          [
+            -16.5304575,
+            13.5933124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.5304575,
+            13.5933124
+          ],
+          [
+            -16.5160886,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.5160886,
+            13.5933333
+          ],
+          [
+            -16.507626,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.507626,
+            13.5933333
+          ],
+          [
+            -16.4603013,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.4603013,
+            13.5933333
+          ],
+          [
+            -16.4273992,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.4273992,
+            13.5933333
+          ],
+          [
+            -16.4220965,
+            13.5917086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.4220965,
+            13.5917086
+          ],
+          [
+            -16.4099009,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.4099009,
+            13.5933333
+          ],
+          [
+            -16.3065434,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.3065434,
+            13.5933333
+          ],
+          [
+            -16.177804,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.177804,
+            13.5933333
+          ],
+          [
+            -16.0851434,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.0851434,
+            13.5933333
+          ],
+          [
+            -15.9891414,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.9891414,
+            13.5933333
+          ],
+          [
+            -15.9066462,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.9066462,
+            13.5933333
+          ],
+          [
+            -15.849924,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.849924,
+            13.5933333
+          ],
+          [
+            -15.7545419,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.7545419,
+            13.5933333
+          ],
+          [
+            -15.5849219,
+            13.5933333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.5849219,
+            13.5933333
+          ],
+          [
+            -15.4743814,
+            13.6006132
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.4743814,
+            13.6006132
+          ],
+          [
+            -15.4707799,
+            13.6157132
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.4707799,
+            13.6157132
+          ],
+          [
+            -15.4622741,
+            13.6356994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.4622741,
+            13.6356994
+          ],
+          [
+            -15.4096835,
+            13.7447048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.4096835,
+            13.7447048
+          ],
+          [
+            -15.3817156,
+            13.768062
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.3817156,
+            13.768062
+          ],
+          [
+            -15.3229229,
+            13.7925863
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.3229229,
+            13.7925863
+          ],
+          [
+            -15.2796405,
+            13.7772987
+          ],
+          [
+            -15.2649855,
+            13.7409744
+          ],
+          [
+            -15.2056122,
+            13.754565
+          ],
+          [
+            -15.114772,
+            13.8108691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.114772,
+            13.8108691
+          ],
+          [
+            -15.0702897,
+            13.8253137
+          ],
+          [
+            -15.025081,
+            13.8086107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.025081,
+            13.8086107
+          ],
+          [
+            -14.9938959,
+            13.7961145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.9938959,
+            13.7961145
+          ],
+          [
+            -14.9088982,
+            13.8019641
+          ],
+          [
+            -14.828889,
+            13.756667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.828889,
+            13.756667
+          ],
+          [
+            -14.791944,
+            13.653333
+          ],
+          [
+            -14.7347862,
+            13.6214695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.7347862,
+            13.6214695
+          ],
+          [
+            -14.718611,
+            13.611944
+          ],
+          [
+            -14.6424215,
+            13.6512904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.6424215,
+            13.6512904
+          ],
+          [
+            -14.5735426,
+            13.6579332
+          ],
+          [
+            -14.5245676,
+            13.6445882
+          ],
+          [
+            -14.485278,
+            13.598889
+          ],
+          [
+            -14.4720655,
+            13.5348432
+          ],
+          [
+            -14.4488473,
+            13.5275458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.4488473,
+            13.5275458
+          ],
+          [
+            -14.440833,
+            13.517778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.440833,
+            13.517778
+          ],
+          [
+            -14.337778,
+            13.453889
+          ],
+          [
+            -14.2389723,
+            13.4796622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.2389723,
+            13.4796622
+          ],
+          [
+            -14.2048758,
+            13.5125315
+          ],
+          [
+            -14.0951252,
+            13.5536232
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.0951252,
+            13.5536232
+          ],
+          [
+            -14.0705543,
+            13.5630589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.0705543,
+            13.5630589
+          ],
+          [
+            -14.0305543,
+            13.5561139
+          ],
+          [
+            -13.9733313,
+            13.5830589
+          ],
+          [
+            -13.9138873,
+            13.5666699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -13.9138873,
+            13.5666699
+          ],
+          [
+            -13.866121,
+            13.5073262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -13.866121,
+            13.5073262
+          ],
+          [
+            -13.808056,
+            13.453056
+          ],
+          [
+            -13.802778,
+            13.384444
+          ],
+          [
+            -13.867222,
+            13.322778
+          ],
+          [
+            -13.9430036,
+            13.322265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -13.9430036,
+            13.322265
+          ],
+          [
+            -14.0215216,
+            13.2997698
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.0215216,
+            13.2997698
+          ],
+          [
+            -14.1168076,
+            13.279764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.1168076,
+            13.279764
+          ],
+          [
+            -14.1375,
+            13.254444
+          ],
+          [
+            -14.1962075,
+            13.2293611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.1962075,
+            13.2293611
+          ],
+          [
+            -14.2713194,
+            13.2429723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.2713194,
+            13.2429723
+          ],
+          [
+            -14.3496858,
+            13.2293554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.3496858,
+            13.2293554
+          ],
+          [
+            -14.4142636,
+            13.2533647
+          ],
+          [
+            -14.45951,
+            13.3002034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.45951,
+            13.3002034
+          ],
+          [
+            -14.5493341,
+            13.3245032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.5493341,
+            13.3245032
+          ],
+          [
+            -14.5780739,
+            13.3587414
+          ],
+          [
+            -14.6390081,
+            13.3406182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.6390081,
+            13.3406182
+          ],
+          [
+            -14.6594558,
+            13.3421974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.6594558,
+            13.3421974
+          ],
+          [
+            -14.7479455,
+            13.3926654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.7479455,
+            13.3926654
+          ],
+          [
+            -14.7604971,
+            13.4174204
+          ],
+          [
+            -14.8018717,
+            13.4159463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.8018717,
+            13.4159463
+          ],
+          [
+            -14.8526208,
+            13.4459656
+          ],
+          [
+            -14.9072641,
+            13.4495362
+          ],
+          [
+            -14.9801346,
+            13.4812823
+          ],
+          [
+            -15.0730648,
+            13.5607695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.0730648,
+            13.5607695
+          ],
+          [
+            -15.0901227,
+            13.6004628
+          ],
+          [
+            -15.1412885,
+            13.5827524
+          ],
+          [
+            -15.1665577,
+            13.5522372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.1665577,
+            13.5522372
+          ],
+          [
+            -15.170184,
+            13.5500433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.170184,
+            13.5500433
+          ],
+          [
+            -15.1972607,
+            13.5294825
+          ],
+          [
+            -15.2287617,
+            13.4191213
+          ],
+          [
+            -15.2911118,
+            13.3707836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.2911118,
+            13.3707836
+          ],
+          [
+            -15.3390825,
+            13.3602493
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.3390825,
+            13.3602493
+          ],
+          [
+            -15.3447952,
+            13.359491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.3447952,
+            13.359491
+          ],
+          [
+            -15.3796445,
+            13.3557882
+          ],
+          [
+            -15.4811079,
+            13.3894425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.4811079,
+            13.3894425
+          ],
+          [
+            -15.5147265,
+            13.3938069
+          ],
+          [
+            -15.5399786,
+            13.3734457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.5399786,
+            13.3734457
+          ],
+          [
+            -15.5711939,
+            13.353991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.5711939,
+            13.353991
+          ],
+          [
+            -15.6831064,
+            13.3709658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.6831064,
+            13.3709658
+          ],
+          [
+            -15.7218542,
+            13.3517439
+          ],
+          [
+            -15.8036057,
+            13.3494677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.8036057,
+            13.3494677
+          ],
+          [
+            -15.8036057,
+            13.2650293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.8036057,
+            13.2650293
+          ],
+          [
+            -15.8036057,
+            13.2408096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.8036057,
+            13.2408096
+          ],
+          [
+            -15.8036057,
+            13.2285982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.8036057,
+            13.2285982
+          ],
+          [
+            -15.8036057,
+            13.166667
+          ],
+          [
+            -15.8472876,
+            13.166667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.8472876,
+            13.166667
+          ],
+          [
+            -15.8950019,
+            13.166667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -15.8950019,
+            13.166667
+          ],
+          [
+            -16.0372476,
+            13.166667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.0372476,
+            13.166667
+          ],
+          [
+            -16.3968588,
+            13.166667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.3968588,
+            13.166667
+          ],
+          [
+            -16.6794693,
+            13.166667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.6794693,
+            13.166667
+          ],
+          [
+            -16.7094223,
+            13.1542921
+          ],
+          [
+            -16.6995282,
+            13.1340851
+          ],
+          [
+            -16.7254405,
+            13.1217466
+          ],
+          [
+            -16.7186599,
+            13.1086122
+          ],
+          [
+            -16.7356329,
+            13.1118932
+          ],
+          [
+            -16.7292364,
+            13.0805533
+          ],
+          [
+            -16.7457183,
+            13.0653927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.7471609,
+            13.0639503
+          ],
+          [
+            -16.7457183,
+            13.0653927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.9486313,
+            13.0575
+          ],
+          [
+            -16.7471609,
+            13.0639503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "name": "Gambia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.9486313,
+            13.0575
+          ],
+          [
+            -16.9758374,
+            13.0575
+          ],
+          [
+            -16.9886385,
+            13.1199122
+          ],
+          [
+            -17.0201046,
+            13.4165743
+          ],
+          [
+            -16.970891,
+            13.5196917
+          ],
+          [
+            -16.8672281,
+            13.5933333
+          ]
+        ]
+      }
+    }
+  ]
+}

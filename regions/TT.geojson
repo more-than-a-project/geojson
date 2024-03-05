@@ -1,0 +1,775 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.729444,
+            10.9479173
+          ],
+          [
+            -60.7188095,
+            11.5208215
+          ],
+          [
+            -60.5411254,
+            11.5628372
+          ],
+          [
+            -60.4763009,
+            11.5575437
+          ],
+          [
+            -60.4002972,
+            11.5269378
+          ],
+          [
+            -60.3314843,
+            11.4508241
+          ],
+          [
+            -60.2909443,
+            11.3211968
+          ],
+          [
+            -60.305234,
+            11.2182275
+          ],
+          [
+            -60.8115608,
+            10.0301006
+          ],
+          [
+            -60.8592411,
+            9.97879
+          ],
+          [
+            -60.9134973,
+            9.9494745
+          ],
+          [
+            -61.0920041,
+            9.8856048
+          ],
+          [
+            -61.1918763,
+            9.8732106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.729444,
+            10.9479173
+          ],
+          [
+            -61.7306278,
+            10.9061804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.7306278,
+            10.9061804
+          ],
+          [
+            -61.7666242,
+            10.8039119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.7666242,
+            10.8039119
+          ],
+          [
+            -61.7848803,
+            10.7597451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.7848803,
+            10.7597451
+          ],
+          [
+            -61.789739,
+            10.7474478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.789739,
+            10.7474478
+          ],
+          [
+            -61.7926774,
+            10.7400106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.7926774,
+            10.7400106
+          ],
+          [
+            -61.802829,
+            10.6969238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.802829,
+            10.6969238
+          ],
+          [
+            -61.8028339,
+            10.6952524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8028339,
+            10.6952524
+          ],
+          [
+            -61.802868,
+            10.6835405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.802868,
+            10.6835405
+          ],
+          [
+            -61.8028874,
+            10.6768954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8028874,
+            10.6768954
+          ],
+          [
+            -61.8029106,
+            10.6689181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8029106,
+            10.6689181
+          ],
+          [
+            -61.8029386,
+            10.6593222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8029386,
+            10.6593222
+          ],
+          [
+            -61.8028328,
+            10.6129402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8028328,
+            10.6129402
+          ],
+          [
+            -61.8028265,
+            10.6101771
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8028265,
+            10.6101771
+          ],
+          [
+            -61.8027989,
+            10.5981164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8027989,
+            10.5981164
+          ],
+          [
+            -61.8120916,
+            10.5888456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8120916,
+            10.5888456
+          ],
+          [
+            -61.8240603,
+            10.5887899
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8240603,
+            10.5887899
+          ],
+          [
+            -61.8269533,
+            10.5887764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8269533,
+            10.5887764
+          ],
+          [
+            -61.8672202,
+            10.5770104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8672202,
+            10.5770104
+          ],
+          [
+            -61.8686787,
+            10.573426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8686787,
+            10.573426
+          ],
+          [
+            -61.8706511,
+            10.5685784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8706511,
+            10.5685784
+          ],
+          [
+            -61.8887238,
+            10.5241579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8887238,
+            10.5241579
+          ],
+          [
+            -61.8947454,
+            10.5093559
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.8947454,
+            10.5093559
+          ],
+          [
+            -61.9218733,
+            10.4426633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.9218733,
+            10.4426633
+          ],
+          [
+            -62.0286149,
+            10.1801059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.0286149,
+            10.1801059
+          ],
+          [
+            -62.0606552,
+            10.1012523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.0606552,
+            10.1012523
+          ],
+          [
+            -62.0795984,
+            10.0546227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.0795984,
+            10.0546227
+          ],
+          [
+            -62.0039755,
+            10.0186145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.0039755,
+            10.0186145
+          ],
+          [
+            -61.9004758,
+            9.9948691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.9004758,
+            9.9948691
+          ],
+          [
+            -61.7375416,
+            9.986667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.7375416,
+            9.986667
+          ],
+          [
+            -61.5048022,
+            9.9706061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.5048022,
+            9.9706061
+          ],
+          [
+            -61.207427,
+            9.874531
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "name": "Trinidad and Tobago"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.207427,
+            9.874531
+          ],
+          [
+            -61.1918763,
+            9.8732106
+          ]
+        ]
+      }
+    }
+  ]
+}

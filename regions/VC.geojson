@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VC",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+        "name": "Saint Vincent and the Grenadines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.2104846,
+            12.3983584
+          ],
+          [
+            -61.380711,
+            12.5270094
+          ],
+          [
+            -61.5388477,
+            12.5591002
+          ],
+          [
+            -61.663148,
+            12.6097247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VC",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+        "name": "Saint Vincent and the Grenadines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.663148,
+            12.6097247
+          ],
+          [
+            -61.6645712,
+            12.610332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VC",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+        "name": "Saint Vincent and the Grenadines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.6645712,
+            12.610332
+          ],
+          [
+            -61.4422475,
+            13.3822672
+          ],
+          [
+            -61.318002,
+            13.5371472
+          ],
+          [
+            -61.2257638,
+            13.5774787
+          ],
+          [
+            -61.1372732,
+            13.5821047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VC",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+        "name": "Saint Vincent and the Grenadines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.1372732,
+            13.5821047
+          ],
+          [
+            -60.9827451,
+            13.5092693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "VC",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+        "name": "Saint Vincent and the Grenadines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.9827451,
+            13.5092693
+          ],
+          [
+            -60.9402996,
+            13.4457991
+          ],
+          [
+            -60.9137944,
+            13.3515393
+          ],
+          [
+            -60.9241133,
+            12.9227669
+          ],
+          [
+            -61.0819288,
+            12.5237033
+          ],
+          [
+            -61.2104846,
+            12.3983584
+          ]
+        ]
+      }
+    }
+  ]
+}

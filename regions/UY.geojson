@@ -1,0 +1,4303 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.3694181,
+            -33.7443703
+          ],
+          [
+            -53.1775796,
+            -33.8694284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.4223444,
+            -33.7434649
+          ],
+          [
+            -53.3694181,
+            -33.7443703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.4230171,
+            -33.7431011
+          ],
+          [
+            -53.4223444,
+            -33.7434649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.4414072,
+            -33.6999123
+          ],
+          [
+            -53.4230171,
+            -33.7431011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.4393442,
+            -33.6936242
+          ],
+          [
+            -53.4414072,
+            -33.6999123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.4785589,
+            -33.6915052
+          ],
+          [
+            -53.4393442,
+            -33.6936242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.5227346,
+            -33.6892689
+          ],
+          [
+            -53.4785589,
+            -33.6915052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.5227346,
+            -33.6892689
+          ],
+          [
+            -53.53235,
+            -33.6888045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.53235,
+            -33.6888045
+          ],
+          [
+            -53.5307659,
+            -33.6786188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.5307659,
+            -33.6786188
+          ],
+          [
+            -53.5324837,
+            -33.6026288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.5324837,
+            -33.6026288
+          ],
+          [
+            -53.5311439,
+            -33.6012444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.5311439,
+            -33.6012444
+          ],
+          [
+            -53.522522,
+            -33.5133083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.522522,
+            -33.5133083
+          ],
+          [
+            -53.5078861,
+            -33.3531528
+          ],
+          [
+            -53.5181889,
+            -33.153425
+          ],
+          [
+            -53.4443806,
+            -33.0529611
+          ],
+          [
+            -53.2442916,
+            -32.9344539
+          ],
+          [
+            -53.3093119,
+            -32.9184307
+          ],
+          [
+            -53.2945389,
+            -32.8993139
+          ],
+          [
+            -53.1849556,
+            -32.8504306
+          ],
+          [
+            -53.145689,
+            -32.7920226
+          ],
+          [
+            -53.0858018,
+            -32.7883496
+          ],
+          [
+            -53.0755833,
+            -32.7408806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.1822649,
+            -32.653096
+          ],
+          [
+            -53.0755833,
+            -32.7408806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.3761853,
+            -32.5703704
+          ],
+          [
+            -53.2907802,
+            -32.6210134
+          ],
+          [
+            -53.2499248,
+            -32.6040957
+          ],
+          [
+            -53.2403117,
+            -32.6272303
+          ],
+          [
+            -53.2063039,
+            -32.6405675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.2063039,
+            -32.6405675
+          ],
+          [
+            -53.1822649,
+            -32.653096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.4164363,
+            -32.5688039
+          ],
+          [
+            -53.3881931,
+            -32.5869186
+          ],
+          [
+            -53.3761853,
+            -32.5703704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.6444984,
+            -32.3284312
+          ],
+          [
+            -53.6332453,
+            -32.3542366
+          ],
+          [
+            -53.6452054,
+            -32.3838542
+          ],
+          [
+            -53.6160603,
+            -32.3966795
+          ],
+          [
+            -53.6150311,
+            -32.416573
+          ],
+          [
+            -53.587484,
+            -32.4383444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.587484,
+            -32.4383444
+          ],
+          [
+            -53.5276621,
+            -32.4885397
+          ],
+          [
+            -53.4642318,
+            -32.4844607
+          ],
+          [
+            -53.4580632,
+            -32.521807
+          ],
+          [
+            -53.4164363,
+            -32.5688039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.6765651,
+            -32.2382187
+          ],
+          [
+            -53.677794,
+            -32.2585979
+          ],
+          [
+            -53.6428934,
+            -32.2966626
+          ],
+          [
+            -53.6571292,
+            -32.315709
+          ],
+          [
+            -53.6444984,
+            -32.3284312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.7249851,
+            -32.0976758
+          ],
+          [
+            -53.7442234,
+            -32.1154139
+          ],
+          [
+            -53.7257422,
+            -32.1405512
+          ],
+          [
+            -53.7350015,
+            -32.1518768
+          ],
+          [
+            -53.7177493,
+            -32.1531004
+          ],
+          [
+            -53.7114997,
+            -32.1984681
+          ],
+          [
+            -53.6765651,
+            -32.2382187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.8773447,
+            -31.9965244
+          ],
+          [
+            -53.8497759,
+            -32.0006422
+          ],
+          [
+            -53.8525885,
+            -32.029963
+          ],
+          [
+            -53.8363127,
+            -32.0490642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.8363127,
+            -32.0490642
+          ],
+          [
+            -53.7249851,
+            -32.0976758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.9469283,
+            -31.9547254
+          ],
+          [
+            -53.8773447,
+            -31.9965244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.0364478,
+            -31.8974169
+          ],
+          [
+            -53.9697222,
+            -31.917655
+          ],
+          [
+            -53.9725846,
+            -31.939514
+          ],
+          [
+            -53.9469283,
+            -31.9547254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.1538751,
+            -31.8785554
+          ],
+          [
+            -54.088944,
+            -31.9353242
+          ],
+          [
+            -54.0364478,
+            -31.8974169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.1558116,
+            -31.8758586
+          ],
+          [
+            -54.1538751,
+            -31.8785554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.1572123,
+            -31.8750576
+          ],
+          [
+            -54.1558116,
+            -31.8758586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.1572821,
+            -31.8750121
+          ],
+          [
+            -54.1572123,
+            -31.8750576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.1591471,
+            -31.8731478
+          ],
+          [
+            -54.1572821,
+            -31.8750121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.1591471,
+            -31.8731478
+          ],
+          [
+            -54.1664472,
+            -31.8675852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.1664472,
+            -31.8675852
+          ],
+          [
+            -54.1746699,
+            -31.8617561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.1746699,
+            -31.8617561
+          ],
+          [
+            -54.2205452,
+            -31.8274264
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.2205452,
+            -31.8274264
+          ],
+          [
+            -54.4545898,
+            -31.6528443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.4545898,
+            -31.6528443
+          ],
+          [
+            -54.4563823,
+            -31.6517575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.4936965,
+            -31.5586934
+          ],
+          [
+            -54.4526551,
+            -31.5996738
+          ],
+          [
+            -54.4666472,
+            -31.6128601
+          ],
+          [
+            -54.4563823,
+            -31.6517575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.7015547,
+            -31.4354445
+          ],
+          [
+            -54.6705906,
+            -31.454056
+          ],
+          [
+            -54.5865499,
+            -31.4565453
+          ],
+          [
+            -54.5752544,
+            -31.4822908
+          ],
+          [
+            -54.5157036,
+            -31.5101944
+          ],
+          [
+            -54.4936965,
+            -31.5586934
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.7015547,
+            -31.4354445
+          ],
+          [
+            -54.7059043,
+            -31.4391853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.7059043,
+            -31.4391853
+          ],
+          [
+            -54.7198077,
+            -31.4380405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.7198077,
+            -31.4380405
+          ],
+          [
+            -54.7520532,
+            -31.4244384
+          ],
+          [
+            -54.8365021,
+            -31.4419535
+          ],
+          [
+            -54.8860239,
+            -31.3772721
+          ],
+          [
+            -54.940683,
+            -31.3806382
+          ],
+          [
+            -54.9350173,
+            -31.3564716
+          ],
+          [
+            -54.9600156,
+            -31.3514627
+          ],
+          [
+            -54.9530858,
+            -31.3319001
+          ],
+          [
+            -54.9786147,
+            -31.317021
+          ],
+          [
+            -55.0022476,
+            -31.2692518
+          ],
+          [
+            -55.0317133,
+            -31.2697996
+          ],
+          [
+            -55.0356705,
+            -31.2840988
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.0356705,
+            -31.2840988
+          ],
+          [
+            -55.057172,
+            -31.3318111
+          ],
+          [
+            -55.0742642,
+            -31.3321214
+          ],
+          [
+            -55.1520975,
+            -31.2932367
+          ],
+          [
+            -55.1690407,
+            -31.2696755
+          ],
+          [
+            -55.2398427,
+            -31.2605956
+          ],
+          [
+            -55.2498926,
+            -31.2060568
+          ],
+          [
+            -55.2825439,
+            -31.1939562
+          ],
+          [
+            -55.2707414,
+            -31.1769613
+          ],
+          [
+            -55.2907169,
+            -31.1636744
+          ],
+          [
+            -55.2912232,
+            -31.142332
+          ],
+          [
+            -55.3401814,
+            -31.1314114
+          ],
+          [
+            -55.3275444,
+            -31.0881856
+          ],
+          [
+            -55.3597535,
+            -31.067514
+          ],
+          [
+            -55.3496137,
+            -31.0392173
+          ],
+          [
+            -55.3853832,
+            -31.0213982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.3853832,
+            -31.0213982
+          ],
+          [
+            -55.4228674,
+            -31.0181994
+          ],
+          [
+            -55.4411732,
+            -30.9597388
+          ],
+          [
+            -55.4784006,
+            -30.9537718
+          ],
+          [
+            -55.5092508,
+            -30.9136361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5092508,
+            -30.9136361
+          ],
+          [
+            -55.5129273,
+            -30.9004483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5129273,
+            -30.9004483
+          ],
+          [
+            -55.5248268,
+            -30.8979887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5248268,
+            -30.8979887
+          ],
+          [
+            -55.5290945,
+            -30.8993386
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5290945,
+            -30.8993386
+          ],
+          [
+            -55.5335643,
+            -30.8972652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5335643,
+            -30.8972652
+          ],
+          [
+            -55.5461459,
+            -30.8899855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5461459,
+            -30.8899855
+          ],
+          [
+            -55.5523711,
+            -30.8788762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5523711,
+            -30.8788762
+          ],
+          [
+            -55.5525029,
+            -30.8774014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5525029,
+            -30.8774014
+          ],
+          [
+            -55.5589321,
+            -30.8704005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5589321,
+            -30.8704005
+          ],
+          [
+            -55.5608069,
+            -30.8692159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5608069,
+            -30.8692159
+          ],
+          [
+            -55.5616563,
+            -30.869126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5616563,
+            -30.869126
+          ],
+          [
+            -55.564045,
+            -30.8534368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.564045,
+            -30.8534368
+          ],
+          [
+            -55.566847,
+            -30.8477591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.566847,
+            -30.8477591
+          ],
+          [
+            -55.5843926,
+            -30.8359793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.5843926,
+            -30.8359793
+          ],
+          [
+            -55.6583011,
+            -30.8643002
+          ],
+          [
+            -55.6423096,
+            -30.9115171
+          ],
+          [
+            -55.6660666,
+            -30.9539605
+          ],
+          [
+            -55.7237544,
+            -30.9427531
+          ],
+          [
+            -55.7281466,
+            -30.9793913
+          ],
+          [
+            -55.7731863,
+            -30.9970666
+          ],
+          [
+            -55.7765635,
+            -31.015532
+          ],
+          [
+            -55.8124873,
+            -31.0146866
+          ],
+          [
+            -55.8251119,
+            -31.0377652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8251119,
+            -31.0377652
+          ],
+          [
+            -55.8590616,
+            -31.0504639
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8590616,
+            -31.0504639
+          ],
+          [
+            -55.8758942,
+            -31.0728391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8758942,
+            -31.0728391
+          ],
+          [
+            -55.9004425,
+            -31.0675769
+          ],
+          [
+            -55.9327765,
+            -31.0871218
+          ],
+          [
+            -55.9810399,
+            -31.0733275
+          ],
+          [
+            -55.9926769,
+            -31.0849878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9926769,
+            -31.0849878
+          ],
+          [
+            -56.0097224,
+            -31.0825954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.0097224,
+            -31.0825954
+          ],
+          [
+            -56.0096651,
+            -31.0812599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.0096651,
+            -31.0812599
+          ],
+          [
+            -56.0130451,
+            -30.9897904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.0130451,
+            -30.9897904
+          ],
+          [
+            -56.0082007,
+            -30.8942586
+          ],
+          [
+            -55.9896733,
+            -30.859283
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9896733,
+            -30.859283
+          ],
+          [
+            -56.0214369,
+            -30.7920148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.0214369,
+            -30.7920148
+          ],
+          [
+            -56.061837,
+            -30.7745645
+          ],
+          [
+            -56.0682705,
+            -30.7467955
+          ],
+          [
+            -56.0885862,
+            -30.7572475
+          ],
+          [
+            -56.1067041,
+            -30.731674
+          ],
+          [
+            -56.1289855,
+            -30.7352622
+          ],
+          [
+            -56.1317321,
+            -30.7138023
+          ],
+          [
+            -56.1504896,
+            -30.7047648
+          ],
+          [
+            -56.1377103,
+            -30.6833029
+          ],
+          [
+            -56.1811796,
+            -30.6315306
+          ],
+          [
+            -56.1707387,
+            -30.6151738
+          ],
+          [
+            -56.2192005,
+            -30.6075087
+          ],
+          [
+            -56.2356739,
+            -30.5740713
+          ],
+          [
+            -56.2609527,
+            -30.585086
+          ],
+          [
+            -56.2576583,
+            -30.5619539
+          ],
+          [
+            -56.2811028,
+            -30.5606539
+          ],
+          [
+            -56.289042,
+            -30.5318685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.289042,
+            -30.5318685
+          ],
+          [
+            -56.2919262,
+            -30.5196737
+          ],
+          [
+            -56.3295001,
+            -30.5288467
+          ],
+          [
+            -56.3562875,
+            -30.4910477
+          ],
+          [
+            -56.3670928,
+            -30.5029455
+          ],
+          [
+            -56.3888318,
+            -30.49366
+          ],
+          [
+            -56.4068461,
+            -30.4651006
+          ],
+          [
+            -56.3971262,
+            -30.4494946
+          ],
+          [
+            -56.4534482,
+            -30.4225559
+          ],
+          [
+            -56.4443529,
+            -30.4126544
+          ],
+          [
+            -56.4612643,
+            -30.3848644
+          ],
+          [
+            -56.4898716,
+            -30.3984177
+          ],
+          [
+            -56.5186734,
+            -30.3601715
+          ],
+          [
+            -56.5455735,
+            -30.360877
+          ],
+          [
+            -56.5418915,
+            -30.3123596
+          ],
+          [
+            -56.5564068,
+            -30.3195277
+          ],
+          [
+            -56.5764377,
+            -30.2888161
+          ],
+          [
+            -56.6186953,
+            -30.3005447
+          ],
+          [
+            -56.6095262,
+            -30.2678752
+          ],
+          [
+            -56.6396126,
+            -30.2585256
+          ],
+          [
+            -56.6244158,
+            -30.2461545
+          ],
+          [
+            -56.6671379,
+            -30.2203315
+          ],
+          [
+            -56.6451617,
+            -30.207706
+          ],
+          [
+            -56.6588203,
+            -30.200645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.6588203,
+            -30.200645
+          ],
+          [
+            -56.6977144,
+            -30.2047841
+          ],
+          [
+            -56.7053473,
+            -30.1764182
+          ],
+          [
+            -56.780085,
+            -30.1606965
+          ],
+          [
+            -56.7796864,
+            -30.1275108
+          ],
+          [
+            -56.8070476,
+            -30.1038591
+          ],
+          [
+            -56.8846647,
+            -30.0874992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.8846647,
+            -30.0874992
+          ],
+          [
+            -56.9049725,
+            -30.1135498
+          ],
+          [
+            -56.9166693,
+            -30.0967124
+          ],
+          [
+            -56.9923287,
+            -30.0860216
+          ],
+          [
+            -57.0463126,
+            -30.105381
+          ],
+          [
+            -57.0684047,
+            -30.1005399
+          ],
+          [
+            -57.0669088,
+            -30.0853962
+          ],
+          [
+            -57.0906994,
+            -30.1210879
+          ],
+          [
+            -57.1155694,
+            -30.1136301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.1155694,
+            -30.1136301
+          ],
+          [
+            -57.1058672,
+            -30.1352585
+          ],
+          [
+            -57.1291476,
+            -30.1409982
+          ],
+          [
+            -57.1446946,
+            -30.1688849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.1446946,
+            -30.1688849
+          ],
+          [
+            -57.1679753,
+            -30.1980882
+          ],
+          [
+            -57.1553174,
+            -30.2344952
+          ],
+          [
+            -57.203642,
+            -30.2854231
+          ],
+          [
+            -57.2487989,
+            -30.2895811
+          ],
+          [
+            -57.2597789,
+            -30.267152
+          ],
+          [
+            -57.2830119,
+            -30.2943225
+          ],
+          [
+            -57.3135012,
+            -30.2578208
+          ],
+          [
+            -57.353,
+            -30.285
+          ],
+          [
+            -57.3610021,
+            -30.2717789
+          ],
+          [
+            -57.3763256,
+            -30.2780489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.3763256,
+            -30.2780489
+          ],
+          [
+            -57.3896379,
+            -30.3028435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.3896379,
+            -30.3028435
+          ],
+          [
+            -57.4198294,
+            -30.3024554
+          ],
+          [
+            -57.4200186,
+            -30.2864511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.4200186,
+            -30.2864511
+          ],
+          [
+            -57.4291742,
+            -30.2748663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.4291742,
+            -30.2748663
+          ],
+          [
+            -57.4836587,
+            -30.2666507
+          ],
+          [
+            -57.4989472,
+            -30.2884113
+          ],
+          [
+            -57.5243102,
+            -30.2856931
+          ],
+          [
+            -57.5664853,
+            -30.2589908
+          ],
+          [
+            -57.5608741,
+            -30.2113426
+          ],
+          [
+            -57.6130802,
+            -30.1895195
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.6130802,
+            -30.1895195
+          ],
+          [
+            -57.6489299,
+            -30.1939068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.6498519,
+            -30.1939009
+          ],
+          [
+            -57.6489299,
+            -30.1939068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.6508745,
+            -30.193719
+          ],
+          [
+            -57.6498519,
+            -30.1939009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.65406,
+            -30.1953898
+          ],
+          [
+            -57.6508745,
+            -30.193719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.65406,
+            -30.1953898
+          ],
+          [
+            -57.6459235,
+            -30.2106602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.6437095,
+            -30.2126848
+          ],
+          [
+            -57.6459235,
+            -30.2106602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.6437095,
+            -30.2126848
+          ],
+          [
+            -57.6152444,
+            -30.2557773
+          ],
+          [
+            -57.6428505,
+            -30.3418053
+          ],
+          [
+            -57.7635614,
+            -30.4167177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.7635614,
+            -30.4167177
+          ],
+          [
+            -57.7949017,
+            -30.4470294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.7949017,
+            -30.4470294
+          ],
+          [
+            -57.8421642,
+            -30.4687066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8421642,
+            -30.4687066
+          ],
+          [
+            -57.854495,
+            -30.4772623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8575697,
+            -30.4808037
+          ],
+          [
+            -57.854495,
+            -30.4772623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8575697,
+            -30.4808037
+          ],
+          [
+            -57.8898408,
+            -30.5155832
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.885418,
+            -30.5131189
+          ],
+          [
+            -57.8898408,
+            -30.5155832
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8852109,
+            -30.5148849
+          ],
+          [
+            -57.885418,
+            -30.5131189
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8848869,
+            -30.5166932
+          ],
+          [
+            -57.8852109,
+            -30.5148849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8871539,
+            -30.5367318
+          ],
+          [
+            -57.8848869,
+            -30.5166932
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8866434,
+            -30.5398211
+          ],
+          [
+            -57.8871539,
+            -30.5367318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8866434,
+            -30.5398211
+          ],
+          [
+            -57.8879997,
+            -30.5604699
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8879997,
+            -30.5604699
+          ],
+          [
+            -57.8879314,
+            -30.5632413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8876144,
+            -30.5669425
+          ],
+          [
+            -57.8879314,
+            -30.5632413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8876144,
+            -30.5669425
+          ],
+          [
+            -57.8870809,
+            -30.5702587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8870809,
+            -30.5702587
+          ],
+          [
+            -57.8831139,
+            -30.5929644
+          ],
+          [
+            -57.8464374,
+            -30.6207544
+          ],
+          [
+            -57.8408923,
+            -30.6641531
+          ],
+          [
+            -57.8092602,
+            -30.6946339
+          ],
+          [
+            -57.8092299,
+            -30.7296717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8092299,
+            -30.7296717
+          ],
+          [
+            -57.8003528,
+            -30.7774991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8003528,
+            -30.7774991
+          ],
+          [
+            -57.8064358,
+            -30.8257931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8064358,
+            -30.8257931
+          ],
+          [
+            -57.8068346,
+            -30.8767488
+          ],
+          [
+            -57.825653,
+            -30.9128522
+          ],
+          [
+            -57.8469692,
+            -30.9197996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.8469692,
+            -30.9197996
+          ],
+          [
+            -57.8918982,
+            -30.9069748
+          ],
+          [
+            -57.9140618,
+            -30.9290515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.9140618,
+            -30.9290515
+          ],
+          [
+            -57.9035244,
+            -30.9443439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.9035244,
+            -30.9443439
+          ],
+          [
+            -57.8617126,
+            -31.0433735
+          ],
+          [
+            -57.919249,
+            -31.1304026
+          ],
+          [
+            -57.9130554,
+            -31.2117737
+          ],
+          [
+            -57.9243376,
+            -31.2371543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.9243376,
+            -31.2371543
+          ],
+          [
+            -57.9504864,
+            -31.287991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.9504864,
+            -31.287991
+          ],
+          [
+            -57.9970828,
+            -31.3611038
+          ],
+          [
+            -57.9805422,
+            -31.3905033
+          ],
+          [
+            -58.0467316,
+            -31.4293827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.0467316,
+            -31.4293827
+          ],
+          [
+            -58.0820185,
+            -31.4564703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.0820185,
+            -31.4564703
+          ],
+          [
+            -58.0826157,
+            -31.4775679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.0826157,
+            -31.4775679
+          ],
+          [
+            -58.034162,
+            -31.5098009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.034162,
+            -31.5098009
+          ],
+          [
+            -58.0032581,
+            -31.5326109
+          ],
+          [
+            -57.9807111,
+            -31.580292
+          ],
+          [
+            -57.9861979,
+            -31.6056758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.9861979,
+            -31.6056758
+          ],
+          [
+            -58.0369841,
+            -31.7272013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.0369841,
+            -31.7272013
+          ],
+          [
+            -58.0371584,
+            -31.7548279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.0371584,
+            -31.7548279
+          ],
+          [
+            -58.0871298,
+            -31.8217648
+          ],
+          [
+            -58.1957489,
+            -31.8563597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1957489,
+            -31.8563597
+          ],
+          [
+            -58.2068217,
+            -31.8718997
+          ],
+          [
+            -58.1949121,
+            -31.9105664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1949121,
+            -31.9105664
+          ],
+          [
+            -58.1902204,
+            -31.9218512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1902204,
+            -31.9218512
+          ],
+          [
+            -58.1594753,
+            -31.9466637
+          ],
+          [
+            -58.1393678,
+            -32.0158471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1393678,
+            -32.0158471
+          ],
+          [
+            -58.1432985,
+            -32.061182
+          ],
+          [
+            -58.1710227,
+            -32.1047736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1710227,
+            -32.1047736
+          ],
+          [
+            -58.1774058,
+            -32.1678407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1774058,
+            -32.1678407
+          ],
+          [
+            -58.1454688,
+            -32.2007521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1454688,
+            -32.2007521
+          ],
+          [
+            -58.1005653,
+            -32.2555087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1005653,
+            -32.2555087
+          ],
+          [
+            -58.1004009,
+            -32.3018975
+          ],
+          [
+            -58.1220209,
+            -32.3384306
+          ],
+          [
+            -58.1845831,
+            -32.380614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1845831,
+            -32.380614
+          ],
+          [
+            -58.2024196,
+            -32.4683185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.2024196,
+            -32.4683185
+          ],
+          [
+            -58.1961504,
+            -32.4861143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1961504,
+            -32.4861143
+          ],
+          [
+            -58.1521072,
+            -32.6203518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1521072,
+            -32.6203518
+          ],
+          [
+            -58.1386354,
+            -32.7610671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1386354,
+            -32.7610671
+          ],
+          [
+            -58.1193503,
+            -32.8178607
+          ],
+          [
+            -58.1158733,
+            -32.9184037
+          ],
+          [
+            -58.087818,
+            -32.9577705
+          ],
+          [
+            -58.0847223,
+            -32.9927425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.0847223,
+            -32.9927425
+          ],
+          [
+            -58.0975072,
+            -33.0192272
+          ],
+          [
+            -58.1435305,
+            -33.044303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1435305,
+            -33.044303
+          ],
+          [
+            -58.1776746,
+            -33.0775562
+          ],
+          [
+            -58.3651043,
+            -33.1230437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3651043,
+            -33.1230437
+          ],
+          [
+            -58.4041894,
+            -33.1793972
+          ],
+          [
+            -58.4097592,
+            -33.2358753
+          ],
+          [
+            -58.3905455,
+            -33.2796342
+          ],
+          [
+            -58.4317238,
+            -33.3634764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4317238,
+            -33.3634764
+          ],
+          [
+            -58.4413462,
+            -33.440866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4413462,
+            -33.440866
+          ],
+          [
+            -58.4383607,
+            -33.5174974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4383607,
+            -33.5174974
+          ],
+          [
+            -58.4456691,
+            -33.5418108
+          ],
+          [
+            -58.4938031,
+            -33.5814646
+          ],
+          [
+            -58.4879335,
+            -33.6058521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4879335,
+            -33.6058521
+          ],
+          [
+            -58.4347009,
+            -33.7203792
+          ],
+          [
+            -58.4322506,
+            -33.8414691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4322506,
+            -33.8414691
+          ],
+          [
+            -58.4235671,
+            -33.9162984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4235671,
+            -33.9162984
+          ],
+          [
+            -58.3873832,
+            -33.9854186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3873832,
+            -33.9854186
+          ],
+          [
+            -58.3770747,
+            -33.999879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3770747,
+            -33.999879
+          ],
+          [
+            -58.3449883,
+            -34.0383543
+          ],
+          [
+            -58.3387204,
+            -34.0732912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3387204,
+            -34.0732912
+          ],
+          [
+            -58.3166609,
+            -34.1500078
+          ],
+          [
+            -58.235277,
+            -34.2081911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.235277,
+            -34.2081911
+          ],
+          [
+            -58.1349261,
+            -34.2709676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1349261,
+            -34.2709676
+          ],
+          [
+            -58.0916503,
+            -34.2949952
+          ],
+          [
+            -57.939952,
+            -34.4433494
+          ],
+          [
+            -57.9349852,
+            -34.5497966
+          ],
+          [
+            -57.9516645,
+            -34.6666683
+          ],
+          [
+            -57.5333413,
+            -34.7833342
+          ],
+          [
+            -57.3333356,
+            -34.8666525
+          ],
+          [
+            -57.0000014,
+            -35.18333
+          ],
+          [
+            -56.7166876,
+            -35.171659
+          ],
+          [
+            -55.8671648,
+            -35.6330637
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8671648,
+            -35.6330637
+          ],
+          [
+            -55.7050296,
+            -35.7824829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.7050296,
+            -35.7824829
+          ],
+          [
+            -54.9374326,
+            -35.221812
+          ],
+          [
+            -54.8372198,
+            -35.2286218
+          ],
+          [
+            -54.7783822,
+            -35.2154602
+          ],
+          [
+            -54.6886578,
+            -35.1647175
+          ],
+          [
+            -54.6496081,
+            -35.1167536
+          ],
+          [
+            -54.6249351,
+            -35.0413187
+          ],
+          [
+            -54.4967742,
+            -35.0142788
+          ],
+          [
+            -54.4363169,
+            -34.9705436
+          ],
+          [
+            -54.1822198,
+            -34.8654232
+          ],
+          [
+            -54.0336369,
+            -34.8441886
+          ],
+          [
+            -53.557974,
+            -34.5317099
+          ],
+          [
+            -53.3146842,
+            -34.1537565
+          ],
+          [
+            -53.2338177,
+            -33.9847191
+          ],
+          [
+            -53.2311627,
+            -33.9120364
+          ],
+          [
+            -53.1775796,
+            -33.8694284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1148273,
+            -33.0240831
+          ],
+          [
+            -58.0878711,
+            -32.9965279
+          ],
+          [
+            -58.1001006,
+            -32.9516227
+          ],
+          [
+            -58.1106645,
+            -32.9728704
+          ],
+          [
+            -58.1148273,
+            -33.0240831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1148763,
+            -32.9746692
+          ],
+          [
+            -58.1166995,
+            -32.9904875
+          ],
+          [
+            -58.1116623,
+            -32.9760161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1124669,
+            -32.9714212
+          ],
+          [
+            -58.1018025,
+            -32.9530936
+          ],
+          [
+            -58.1129068,
+            -32.9315451
+          ],
+          [
+            -58.1148763,
+            -32.9746692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1116623,
+            -32.9760161
+          ],
+          [
+            -58.1124669,
+            -32.9714212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1258109,
+            -33.0111804
+          ],
+          [
+            -58.1262481,
+            -33.0075838
+          ],
+          [
+            -58.1249043,
+            -33.0040355
+          ],
+          [
+            -58.1244162,
+            -33.0079415
+          ],
+          [
+            -58.1258109,
+            -33.0111804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1297484,
+            -33.0291295
+          ],
+          [
+            -58.1334794,
+            -33.0333638
+          ],
+          [
+            -58.1333211,
+            -33.0347129
+          ],
+          [
+            -58.1254864,
+            -33.0294938
+          ],
+          [
+            -58.1297484,
+            -33.0291295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1158841,
+            -32.9903525
+          ],
+          [
+            -58.1287801,
+            -33.0255134
+          ],
+          [
+            -58.123472,
+            -33.0288574
+          ],
+          [
+            -58.1084704,
+            -33.0040254
+          ],
+          [
+            -58.1158841,
+            -32.9903525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1264251,
+            -33.0278387
+          ],
+          [
+            -58.1264171,
+            -33.0275969
+          ],
+          [
+            -58.1272043,
+            -33.0277037
+          ],
+          [
+            -58.1271453,
+            -33.0278173
+          ],
+          [
+            -58.1264251,
+            -33.0278387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.1099671,
+            -33.0230307
+          ],
+          [
+            -58.1095004,
+            -33.0229789
+          ],
+          [
+            -58.1065218,
+            -33.020721
+          ],
+          [
+            -58.1078991,
+            -33.0205028
+          ],
+          [
+            -58.1099671,
+            -33.0230307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.2533728,
+            -34.1752385
+          ],
+          [
+            -58.2546913,
+            -34.175884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.2457646,
+            -34.1750777
+          ],
+          [
+            -58.2533728,
+            -34.1752385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.2439142,
+            -34.1747829
+          ],
+          [
+            -58.2457646,
+            -34.1750777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.2444353,
+            -34.1877963
+          ],
+          [
+            -58.2439142,
+            -34.1747829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.2586312,
+            -34.1813256
+          ],
+          [
+            -58.2444353,
+            -34.1877963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "UY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "name": "Uruguay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.2546913,
+            -34.175884
+          ],
+          [
+            -58.2586312,
+            -34.1813256
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,4481 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            52.0015052,
+            19.0005032
+          ],
+          [
+            52.0000004,
+            19.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            52.0000004,
+            19.0
+          ],
+          [
+            50.7833333,
+            18.7888889
+          ],
+          [
+            50.3884468,
+            18.7480998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.3884468,
+            18.7480998
+          ],
+          [
+            49.8339443,
+            18.6908068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.8339443,
+            18.6908068
+          ],
+          [
+            49.1166667,
+            18.6166667
+          ],
+          [
+            48.588208,
+            18.3614142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.588208,
+            18.3614142
+          ],
+          [
+            48.1833333,
+            18.1666667
+          ],
+          [
+            47.6000003,
+            17.4499994
+          ],
+          [
+            47.4666667,
+            17.1166667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.4666667,
+            17.1166667
+          ],
+          [
+            47.1833333,
+            16.95
+          ],
+          [
+            47.0,
+            16.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.0,
+            16.95
+          ],
+          [
+            46.9949288,
+            16.9567675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.9949288,
+            16.9567675
+          ],
+          [
+            46.75,
+            17.2833333
+          ],
+          [
+            46.3824615,
+            17.2353935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.3824615,
+            17.2353935
+          ],
+          [
+            46.1,
+            17.25
+          ],
+          [
+            45.4,
+            17.3333333
+          ],
+          [
+            45.2166667,
+            17.4333333
+          ],
+          [
+            44.8884903,
+            17.4350131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.8884903,
+            17.4350131
+          ],
+          [
+            44.6500068,
+            17.4343362
+          ],
+          [
+            44.5666667,
+            17.4055556
+          ],
+          [
+            44.4666667,
+            17.4333333
+          ],
+          [
+            44.3661111,
+            17.4333333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.3661111,
+            17.4333333
+          ],
+          [
+            44.3345516,
+            17.4296009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.3345516,
+            17.4296009
+          ],
+          [
+            44.1380556,
+            17.4088889
+          ],
+          [
+            44.1108333,
+            17.3663889
+          ],
+          [
+            44.0666667,
+            17.4058333
+          ],
+          [
+            44.0232778,
+            17.3913056
+          ],
+          [
+            44.0113611,
+            17.4024722
+          ],
+          [
+            43.9666667,
+            17.3305556
+          ],
+          [
+            43.9054665,
+            17.3416635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.9054665,
+            17.3416635
+          ],
+          [
+            43.8319444,
+            17.3388889
+          ],
+          [
+            43.7888948,
+            17.3749999
+          ],
+          [
+            43.7204387,
+            17.3700006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.7204387,
+            17.3700006
+          ],
+          [
+            43.680026,
+            17.3696344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.680026,
+            17.3696344
+          ],
+          [
+            43.6178056,
+            17.4261111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6178056,
+            17.4261111
+          ],
+          [
+            43.4846389,
+            17.5451111
+          ],
+          [
+            43.4196111,
+            17.5658333
+          ],
+          [
+            43.3755556,
+            17.544
+          ],
+          [
+            43.3544292,
+            17.5560987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.3544292,
+            17.5560987
+          ],
+          [
+            43.3209306,
+            17.5327428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.3209306,
+            17.5327428
+          ],
+          [
+            43.3031293,
+            17.5284313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.3031293,
+            17.5284313
+          ],
+          [
+            43.24075,
+            17.4805278
+          ],
+          [
+            43.2564683,
+            17.4578029
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2564683,
+            17.4578029
+          ],
+          [
+            43.2255,
+            17.4261667
+          ],
+          [
+            43.2470556,
+            17.4015
+          ],
+          [
+            43.2280278,
+            17.3855278
+          ],
+          [
+            43.326,
+            17.3283611
+          ],
+          [
+            43.3364999,
+            17.3040003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.3364999,
+            17.3040003
+          ],
+          [
+            43.2672222,
+            17.2922222
+          ],
+          [
+            43.2017222,
+            17.2588056
+          ],
+          [
+            43.2151859,
+            17.2126498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2151859,
+            17.2126498
+          ],
+          [
+            43.1708333,
+            17.1726667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.1708333,
+            17.1726667
+          ],
+          [
+            43.1778889,
+            17.1307222
+          ],
+          [
+            43.1580278,
+            17.1140556
+          ],
+          [
+            43.1601667,
+            17.0869722
+          ],
+          [
+            43.1852778,
+            17.0986111
+          ],
+          [
+            43.2307837,
+            17.0645089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2307837,
+            17.0645089
+          ],
+          [
+            43.2408307,
+            17.0272888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2408307,
+            17.0272888
+          ],
+          [
+            43.2027222,
+            17.0100833
+          ],
+          [
+            43.1792222,
+            17.0258333
+          ],
+          [
+            43.1780556,
+            16.9633333
+          ],
+          [
+            43.1946667,
+            16.9445278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.1946667,
+            16.9445278
+          ],
+          [
+            43.1375,
+            16.9105833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.1375,
+            16.9105833
+          ],
+          [
+            43.139456,
+            16.9020712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.139456,
+            16.9020712
+          ],
+          [
+            43.1799722,
+            16.8490556
+          ],
+          [
+            43.2212963,
+            16.8382216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2212963,
+            16.8382216
+          ],
+          [
+            43.2226999,
+            16.8317869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2226999,
+            16.8317869
+          ],
+          [
+            43.2325556,
+            16.8069444
+          ],
+          [
+            43.2666111,
+            16.7949444
+          ],
+          [
+            43.2530556,
+            16.7697222
+          ],
+          [
+            43.2754722,
+            16.7468611
+          ],
+          [
+            43.2263056,
+            16.7458889
+          ],
+          [
+            43.2116667,
+            16.7096944
+          ],
+          [
+            43.2276389,
+            16.7019444
+          ],
+          [
+            43.2347222,
+            16.6428333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2347222,
+            16.6428333
+          ],
+          [
+            43.2109431,
+            16.6473829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2109431,
+            16.6473829
+          ],
+          [
+            43.1994253,
+            16.6507814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.1994253,
+            16.6507814
+          ],
+          [
+            43.1764722,
+            16.6596667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.1764722,
+            16.6596667
+          ],
+          [
+            43.1286111,
+            16.6715278
+          ],
+          [
+            43.1444167,
+            16.6286389
+          ],
+          [
+            43.1245318,
+            16.5594132
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.1245318,
+            16.5594132
+          ],
+          [
+            43.1207222,
+            16.5285833
+          ],
+          [
+            42.9921667,
+            16.5216944
+          ],
+          [
+            42.9503056,
+            16.4969722
+          ],
+          [
+            42.9379722,
+            16.4507222
+          ],
+          [
+            42.9564722,
+            16.4021389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.9564722,
+            16.4021389
+          ],
+          [
+            42.8306111,
+            16.3795278
+          ],
+          [
+            42.7721389,
+            16.4041111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.7557172,
+            16.29
+          ],
+          [
+            42.15,
+            16.4041111
+          ],
+          [
+            42.7721389,
+            16.4041111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.6801489,
+            16.29
+          ],
+          [
+            41.7557172,
+            16.29
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.6801489,
+            16.29
+          ],
+          [
+            41.5168388,
+            16.4046812
+          ],
+          [
+            41.3151037,
+            16.6563117
+          ],
+          [
+            41.2249899,
+            16.804857
+          ],
+          [
+            40.8406961,
+            17.5677206
+          ],
+          [
+            40.5948399,
+            17.9733765
+          ],
+          [
+            40.5127788,
+            18.1763799
+          ],
+          [
+            40.4606046,
+            18.4278958
+          ],
+          [
+            40.319309,
+            18.6235435
+          ],
+          [
+            40.0146997,
+            18.8408643
+          ],
+          [
+            39.9631433,
+            18.8937108
+          ],
+          [
+            39.8229461,
+            19.4050134
+          ],
+          [
+            39.7240616,
+            19.6403718
+          ],
+          [
+            39.2942625,
+            20.1817449
+          ],
+          [
+            39.0780824,
+            20.6507876
+          ],
+          [
+            38.9812529,
+            20.8169656
+          ],
+          [
+            38.8374958,
+            21.007849
+          ],
+          [
+            38.631753,
+            21.6089426
+          ],
+          [
+            38.5379164,
+            21.8017077
+          ],
+          [
+            38.5430588,
+            22.0663385
+          ],
+          [
+            38.6358106,
+            22.3611746
+          ],
+          [
+            38.4113133,
+            22.6746635
+          ],
+          [
+            38.3938566,
+            22.7499226
+          ],
+          [
+            38.3891398,
+            22.9782723
+          ],
+          [
+            38.087575,
+            23.3637278
+          ],
+          [
+            37.8726117,
+            23.5115141
+          ],
+          [
+            37.4999999,
+            24.0242039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.4999999,
+            24.0242039
+          ],
+          [
+            37.2910296,
+            24.1550669
+          ],
+          [
+            37.0389802,
+            24.2251991
+          ],
+          [
+            36.9672976,
+            24.2944642
+          ],
+          [
+            36.6546382,
+            25.1241382
+          ],
+          [
+            36.5020319,
+            25.2721888
+          ],
+          [
+            36.2739087,
+            25.5678467
+          ],
+          [
+            36.2605812,
+            25.6661696
+          ],
+          [
+            36.3089583,
+            25.820553
+          ],
+          [
+            36.2777499,
+            25.9645054
+          ],
+          [
+            36.1722198,
+            26.0719176
+          ],
+          [
+            36.0656945,
+            26.2630924
+          ],
+          [
+            35.8877741,
+            26.4434334
+          ],
+          [
+            35.5895381,
+            26.8479684
+          ],
+          [
+            35.5071821,
+            27.0524579
+          ],
+          [
+            35.4275844,
+            27.1510419
+          ],
+          [
+            35.3327083,
+            27.319863
+          ],
+          [
+            34.9727201,
+            27.6359563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9727201,
+            27.6359563
+          ],
+          [
+            34.6799188,
+            27.7001248
+          ],
+          [
+            34.5190343,
+            27.7135302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.5190343,
+            27.7135302
+          ],
+          [
+            34.4770733,
+            27.7897044
+          ],
+          [
+            34.4571718,
+            27.9005095
+          ],
+          [
+            34.4634781,
+            28.0132072
+          ],
+          [
+            34.4970153,
+            28.0806205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4970153,
+            28.0806205
+          ],
+          [
+            34.5358436,
+            28.193184
+          ],
+          [
+            34.5451971,
+            28.2770909
+          ],
+          [
+            34.6687621,
+            28.5505708
+          ],
+          [
+            34.7367598,
+            28.8415992
+          ],
+          [
+            34.7335623,
+            28.9051801
+          ],
+          [
+            34.7615666,
+            28.9526575
+          ],
+          [
+            34.7679933,
+            29.0820283
+          ],
+          [
+            34.8157516,
+            29.1930159
+          ],
+          [
+            34.8306406,
+            29.2696994
+          ],
+          [
+            34.8844372,
+            29.3751955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.8844372,
+            29.3751955
+          ],
+          [
+            34.9606351,
+            29.3573827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.5023236,
+            29.2744157
+          ],
+          [
+            34.9606351,
+            29.3573827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.5512323,
+            29.2668295
+          ],
+          [
+            35.5023236,
+            29.2744157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.7371031,
+            29.2379941
+          ],
+          [
+            35.5512323,
+            29.2668295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.778215,
+            29.2292166
+          ],
+          [
+            35.7371031,
+            29.2379941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.3660269,
+            29.9755853
+          ],
+          [
+            36.7849032,
+            29.8679012
+          ],
+          [
+            36.7360779,
+            29.7889886
+          ],
+          [
+            36.6809221,
+            29.7494058
+          ],
+          [
+            36.6244587,
+            29.6368563
+          ],
+          [
+            36.4493379,
+            29.4303741
+          ],
+          [
+            36.3417408,
+            29.3801086
+          ],
+          [
+            36.0728117,
+            29.183401
+          ],
+          [
+            35.778215,
+            29.2292166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.5016142,
+            29.9998026
+          ],
+          [
+            37.3660269,
+            29.9755853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.2539084,
+            31.261127
+          ],
+          [
+            37.9971461,
+            30.5006607
+          ],
+          [
+            37.6655574,
+            30.3326227
+          ],
+          [
+            37.5016142,
+            29.9998026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.0061712,
+            31.5006395
+          ],
+          [
+            37.2539084,
+            31.261127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.7975097,
+            31.7030947
+          ],
+          [
+            37.0061712,
+            31.5006395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.9642454,
+            31.7442153
+          ],
+          [
+            37.7975097,
+            31.7030947
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.9642454,
+            31.7442153
+          ],
+          [
+            37.9845884,
+            31.7447187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.9845884,
+            31.7447187
+          ],
+          [
+            39.0063116,
+            32.0006304
+          ],
+          [
+            39.2008198,
+            32.1542832
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.2008198,
+            32.1542832
+          ],
+          [
+            40.1495621,
+            31.9940336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.1495621,
+            31.9940336
+          ],
+          [
+            40.2033597,
+            31.9847158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.2033597,
+            31.9847158
+          ],
+          [
+            40.4132544,
+            31.9480762
+          ],
+          [
+            41.4407261,
+            31.3732074
+          ],
+          [
+            42.1099751,
+            31.0945648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.1099751,
+            31.0945648
+          ],
+          [
+            42.2159958,
+            31.0200047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.2159958,
+            31.0200047
+          ],
+          [
+            42.7057499,
+            30.6731185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.7057499,
+            30.6731185
+          ],
+          [
+            42.9754614,
+            30.480252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.9754614,
+            30.480252
+          ],
+          [
+            43.6388397,
+            30.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.6388397,
+            30.0
+          ],
+          [
+            43.8129654,
+            29.8725986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.8129654,
+            29.8725986
+          ],
+          [
+            44.715219,
+            29.1960325
+          ],
+          [
+            44.7422971,
+            29.1923875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.7422971,
+            29.1923875
+          ],
+          [
+            44.9997039,
+            29.1737095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.9997039,
+            29.1737095
+          ],
+          [
+            45.1719841,
+            29.1592544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.1719841,
+            29.1592544
+          ],
+          [
+            46.0507298,
+            29.0924669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.0507298,
+            29.0924669
+          ],
+          [
+            46.4245353,
+            29.0585661
+          ],
+          [
+            46.5526837,
+            29.1002727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.5526837,
+            29.1002727
+          ],
+          [
+            47.4757326,
+            28.9896682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.4757326,
+            28.9896682
+          ],
+          [
+            47.5392474,
+            28.8999922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.5392474,
+            28.8999922
+          ],
+          [
+            47.5846975,
+            28.8356125
+          ],
+          [
+            47.5919377,
+            28.7027437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.5919377,
+            28.7027437
+          ],
+          [
+            47.6053743,
+            28.6548893
+          ],
+          [
+            47.7090384,
+            28.5430864
+          ],
+          [
+            47.7044606,
+            28.5243622
+          ],
+          [
+            48.4303629,
+            28.5343022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.4303629,
+            28.5343022
+          ],
+          [
+            48.5672119,
+            28.624542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.5672119,
+            28.624542
+          ],
+          [
+            48.6694435,
+            28.672689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.6694435,
+            28.672689
+          ],
+          [
+            48.6965193,
+            28.6220323
+          ],
+          [
+            49.1325419,
+            28.3343502
+          ],
+          [
+            49.2812535,
+            28.1265888
+          ],
+          [
+            49.5222122,
+            27.8470988
+          ],
+          [
+            49.6069213,
+            27.7744087
+          ],
+          [
+            49.6486288,
+            27.8454157
+          ],
+          [
+            49.7461261,
+            27.9095994
+          ],
+          [
+            49.8608469,
+            27.9222568
+          ],
+          [
+            49.9784788,
+            27.8744507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.9784788,
+            27.8744507
+          ],
+          [
+            49.9834428,
+            27.8818035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.3668919,
+            27.887085
+          ],
+          [
+            49.9834428,
+            27.8818035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.3668919,
+            27.887085
+          ],
+          [
+            50.389787,
+            27.8473454
+          ],
+          [
+            50.4025614,
+            27.7714468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.4025614,
+            27.7714468
+          ],
+          [
+            50.3621812,
+            27.6635189
+          ],
+          [
+            50.2619816,
+            27.5919176
+          ],
+          [
+            50.1398311,
+            27.5800086
+          ],
+          [
+            50.0419624,
+            27.6168271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.0419624,
+            27.6168271
+          ],
+          [
+            50.0130595,
+            27.5449488
+          ],
+          [
+            50.0716354,
+            27.5018066
+          ],
+          [
+            50.3947619,
+            27.1097899
+          ],
+          [
+            50.4300538,
+            27.0461994
+          ],
+          [
+            50.4886122,
+            26.5842718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.4387466,
+            26.5574956
+          ],
+          [
+            50.4886122,
+            26.5842718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.3956897,
+            26.5343705
+          ],
+          [
+            50.4387466,
+            26.5574956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.3875768,
+            26.5300127
+          ],
+          [
+            50.3956897,
+            26.5343705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.3798987,
+            26.4432053
+          ],
+          [
+            50.3875768,
+            26.5300127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.3128754,
+            26.1954434
+          ],
+          [
+            50.3417434,
+            26.3733463
+          ],
+          [
+            50.3767434,
+            26.4075129
+          ],
+          [
+            50.3798987,
+            26.4432053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.3128754,
+            26.1954434
+          ],
+          [
+            50.3276875,
+            26.1907135
+          ],
+          [
+            50.3113729,
+            26.1736804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.27952,
+            26.02602
+          ],
+          [
+            50.2697989,
+            26.0797357
+          ],
+          [
+            50.3113729,
+            26.1736804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.5292426,
+            25.5939031
+          ],
+          [
+            50.4167428,
+            25.6983474
+          ],
+          [
+            50.3661874,
+            25.8189028
+          ],
+          [
+            50.3042431,
+            25.8791805
+          ],
+          [
+            50.27952,
+            26.02602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.5675,
+            25.5761111
+          ],
+          [
+            50.5292426,
+            25.5939031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.8117253,
+            24.7445458
+          ],
+          [
+            50.7853534,
+            24.8939773
+          ],
+          [
+            50.7062307,
+            24.9228824
+          ],
+          [
+            50.7135066,
+            25.0425387
+          ],
+          [
+            50.6659227,
+            25.137385
+          ],
+          [
+            50.6152259,
+            25.4783809
+          ],
+          [
+            50.5732086,
+            25.5413947
+          ],
+          [
+            50.5675,
+            25.5761111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.0985345,
+            24.4707534
+          ],
+          [
+            50.9944841,
+            24.5039738
+          ],
+          [
+            50.928351,
+            24.54682
+          ],
+          [
+            50.8117253,
+            24.7445458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1235006,
+            24.4748195
+          ],
+          [
+            51.0985345,
+            24.4707534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.3021759,
+            24.5054905
+          ],
+          [
+            51.1235006,
+            24.4748195
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.30264,
+            24.5064035
+          ],
+          [
+            51.3021759,
+            24.5054905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.4681294,
+            24.6389042
+          ],
+          [
+            51.3961689,
+            24.6284363
+          ],
+          [
+            51.3760168,
+            24.5783651
+          ],
+          [
+            51.30264,
+            24.5064035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.5861217,
+            24.6641886
+          ],
+          [
+            51.4681294,
+            24.6389042
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.5861217,
+            24.6641886
+          ],
+          [
+            51.5846698,
+            24.5988054
+          ],
+          [
+            51.5476605,
+            24.5311155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.5476605,
+            24.5311155
+          ],
+          [
+            51.4664537,
+            24.4624886
+          ],
+          [
+            51.4160714,
+            24.3931939
+          ],
+          [
+            51.5084348,
+            24.3450052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.5084348,
+            24.3450052
+          ],
+          [
+            51.5899445,
+            24.2535697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.5899445,
+            24.2535697
+          ],
+          [
+            51.5900332,
+            24.2019919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.5900332,
+            24.2019919
+          ],
+          [
+            51.596585,
+            24.11989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.596585,
+            24.11989
+          ],
+          [
+            51.5967079,
+            24.1196868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.5967079,
+            24.1196868
+          ],
+          [
+            51.6354012,
+            24.0740331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.6354012,
+            24.0740331
+          ],
+          [
+            51.9203648,
+            23.7374931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.9203648,
+            23.7374931
+          ],
+          [
+            52.5068906,
+            23.0288128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            52.5068906,
+            23.0288128
+          ],
+          [
+            52.5795457,
+            22.9410105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            52.5795457,
+            22.9410105
+          ],
+          [
+            52.5810404,
+            22.9392035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            52.5810404,
+            22.9392035
+          ],
+          [
+            52.5861253,
+            22.9386213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            52.5861253,
+            22.9386213
+          ],
+          [
+            53.1385302,
+            22.8753546
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.1385302,
+            22.8753546
+          ],
+          [
+            53.372937,
+            22.8483519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.372937,
+            22.8483519
+          ],
+          [
+            54.3877542,
+            22.7259249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.3877542,
+            22.7259249
+          ],
+          [
+            54.6535943,
+            22.6927844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.6535943,
+            22.6927844
+          ],
+          [
+            55.1373379,
+            22.6316214
+          ],
+          [
+            55.2113705,
+            22.7054225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.2113705,
+            22.7054225
+          ],
+          [
+            55.2140494,
+            22.7012826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.2140494,
+            22.7012826
+          ],
+          [
+            55.221465,
+            22.6898223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.221465,
+            22.6898223
+          ],
+          [
+            55.2382856,
+            22.6638236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.2382856,
+            22.6638236
+          ],
+          [
+            55.2548549,
+            22.6382086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.2548549,
+            22.6382086
+          ],
+          [
+            55.2753063,
+            22.6065854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.2753063,
+            22.6065854
+          ],
+          [
+            55.2970153,
+            22.5730097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.2970153,
+            22.5730097
+          ],
+          [
+            55.3206539,
+            22.5364403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3206539,
+            22.5364403
+          ],
+          [
+            55.3369853,
+            22.5111697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3369853,
+            22.5111697
+          ],
+          [
+            55.3571193,
+            22.4800087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3571193,
+            22.4800087
+          ],
+          [
+            55.3822217,
+            22.4411483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.3822217,
+            22.4411483
+          ],
+          [
+            55.4053624,
+            22.4053152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4053624,
+            22.4053152
+          ],
+          [
+            55.4291218,
+            22.3685143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4291218,
+            22.3685143
+          ],
+          [
+            55.4549921,
+            22.3284328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4549921,
+            22.3284328
+          ],
+          [
+            55.4816034,
+            22.2871913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4816034,
+            22.2871913
+          ],
+          [
+            55.5272929,
+            22.2128039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.5272929,
+            22.2128039
+          ],
+          [
+            55.5461464,
+            22.1843692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.5461464,
+            22.1843692
+          ],
+          [
+            55.6327653,
+            22.0526941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.6327653,
+            22.0526941
+          ],
+          [
+            55.6666851,
+            22.0000149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.6666851,
+            22.0000149
+          ],
+          [
+            55.5147153,
+            21.544505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.5147153,
+            21.544505
+          ],
+          [
+            55.4792994,
+            21.4381566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4792994,
+            21.4381566
+          ],
+          [
+            55.4317412,
+            21.3017192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4317412,
+            21.3017192
+          ],
+          [
+            55.4212922,
+            21.2704362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4212922,
+            21.2704362
+          ],
+          [
+            55.4210582,
+            21.269831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4210582,
+            21.269831
+          ],
+          [
+            55.4207022,
+            21.2688282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.4207022,
+            21.2688282
+          ],
+          [
+            55.0,
+            20.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.0,
+            20.0
+          ],
+          [
+            54.9886203,
+            19.9962185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.9886203,
+            19.9962185
+          ],
+          [
+            54.936842,
+            19.9790114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.936842,
+            19.9790114
+          ],
+          [
+            54.8579395,
+            19.9527868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.8579395,
+            19.9527868
+          ],
+          [
+            54.7852279,
+            19.928616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.7852279,
+            19.928616
+          ],
+          [
+            54.71267,
+            19.9044925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.71267,
+            19.9044925
+          ],
+          [
+            54.6441778,
+            19.8817174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.6441778,
+            19.8817174
+          ],
+          [
+            54.5699805,
+            19.8570416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.5699805,
+            19.8570416
+          ],
+          [
+            54.4943838,
+            19.8318964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.4943838,
+            19.8318964
+          ],
+          [
+            54.4406323,
+            19.814015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.4406323,
+            19.814015
+          ],
+          [
+            54.3615177,
+            19.7876925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.3615177,
+            19.7876925
+          ],
+          [
+            54.3116993,
+            19.7711149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.3116993,
+            19.7711149
+          ],
+          [
+            54.2608833,
+            19.7542037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.2608833,
+            19.7542037
+          ],
+          [
+            54.2088397,
+            19.736882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.2088397,
+            19.736882
+          ],
+          [
+            54.1571462,
+            19.719675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.1571462,
+            19.719675
+          ],
+          [
+            54.1055492,
+            19.7024983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.1055492,
+            19.7024983
+          ],
+          [
+            54.0520726,
+            19.6846939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.0520726,
+            19.6846939
+          ],
+          [
+            53.9947492,
+            19.6656066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.9947492,
+            19.6656066
+          ],
+          [
+            53.9376244,
+            19.6465832
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.9376244,
+            19.6465832
+          ],
+          [
+            53.8828686,
+            19.6283465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.8828686,
+            19.6283465
+          ],
+          [
+            53.8270175,
+            19.6097429
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.8270175,
+            19.6097429
+          ],
+          [
+            53.7484146,
+            19.5835572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.7484146,
+            19.5835572
+          ],
+          [
+            53.6670399,
+            19.5564436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.6670399,
+            19.5564436
+          ],
+          [
+            53.6027625,
+            19.5350236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.6027625,
+            19.5350236
+          ],
+          [
+            53.5503631,
+            19.5175597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.5503631,
+            19.5175597
+          ],
+          [
+            53.4827529,
+            19.4950234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.4827529,
+            19.4950234
+          ],
+          [
+            53.4260838,
+            19.4761317
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.4260838,
+            19.4761317
+          ],
+          [
+            53.4257345,
+            19.4760152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.4257345,
+            19.4760152
+          ],
+          [
+            53.3754597,
+            19.4592534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.3754597,
+            19.4592534
+          ],
+          [
+            53.3235866,
+            19.4419568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.3235866,
+            19.4419568
+          ],
+          [
+            53.2739612,
+            19.425408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.2739612,
+            19.425408
+          ],
+          [
+            53.2222565,
+            19.408164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.2222565,
+            19.408164
+          ],
+          [
+            53.1699627,
+            19.3907216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.1699627,
+            19.3907216
+          ],
+          [
+            53.0899189,
+            19.3640198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.0899189,
+            19.3640198
+          ],
+          [
+            52.0168371,
+            19.0056295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            52.0168371,
+            19.0056295
+          ],
+          [
+            52.0015052,
+            19.0005032
+          ]
+        ]
+      }
+    }
+  ]
+}

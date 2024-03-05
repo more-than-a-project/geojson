@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "DM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+        "name": "Dominica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.6798235,
+            15.644411
+          ],
+          [
+            -61.6819285,
+            15.4920564
+          ],
+          [
+            -61.5979214,
+            15.2828215
+          ],
+          [
+            -61.5609937,
+            15.1286379
+          ],
+          [
+            -61.4813509,
+            15.0421834
+          ],
+          [
+            -61.3490238,
+            15.0074943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "DM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+        "name": "Dominica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.1589127,
+            15.0792459
+          ],
+          [
+            -61.3490238,
+            15.0074943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "DM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+        "name": "Dominica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.1383333,
+            15.7016667
+          ],
+          [
+            -61.083421,
+            15.6300299
+          ],
+          [
+            -61.0436767,
+            15.541066
+          ],
+          [
+            -61.0346416,
+            15.3150813
+          ],
+          [
+            -61.0442149,
+            15.2375483
+          ],
+          [
+            -61.083955,
+            15.144618
+          ],
+          [
+            -61.1589127,
+            15.0792459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "DM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+        "name": "Dominica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.1383333,
+            15.7016667
+          ],
+          [
+            -61.3236111,
+            15.7341667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "DM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+        "name": "Dominica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.3236111,
+            15.7341667
+          ],
+          [
+            -61.4425,
+            15.7872222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "DM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+        "name": "Dominica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.4425,
+            15.7872222
+          ],
+          [
+            -61.6798235,
+            15.644411
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "AG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+        "name": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.9425689,
+            16.7740488
+          ],
+          [
+            -62.1471855,
+            16.8835951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "AG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+        "name": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.1471855,
+            16.8835951
+          ],
+          [
+            -62.2563093,
+            16.8740822
+          ],
+          [
+            -62.4474949,
+            16.7556732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "AG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+        "name": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.4474949,
+            16.7556732
+          ],
+          [
+            -62.5190304,
+            16.8162184
+          ],
+          [
+            -62.5548313,
+            16.8974346
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "AG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+        "name": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.5548313,
+            16.8974346
+          ],
+          [
+            -62.4379847,
+            17.0396036
+          ],
+          [
+            -62.4018896,
+            17.1124891
+          ],
+          [
+            -62.3762149,
+            17.2995691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "AG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+        "name": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.3762149,
+            17.2995691
+          ],
+          [
+            -62.061357,
+            17.8301082
+          ],
+          [
+            -61.9743308,
+            17.9121874
+          ],
+          [
+            -61.8900274,
+            17.9446255
+          ],
+          [
+            -61.8165798,
+            17.9437573
+          ],
+          [
+            -61.7220256,
+            17.9123347
+          ],
+          [
+            -61.5808197,
+            17.7724211
+          ],
+          [
+            -61.5287112,
+            17.6707516
+          ],
+          [
+            -61.4946188,
+            17.433002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "AG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+        "name": "Antigua and Barbuda"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -61.4946188,
+            17.433002
+          ],
+          [
+            -61.447737,
+            17.0734203
+          ],
+          [
+            -61.4817088,
+            16.9577139
+          ],
+          [
+            -61.549149,
+            16.8804363
+          ],
+          [
+            -61.6486091,
+            16.8183875
+          ],
+          [
+            -61.9425689,
+            16.7740488
+          ]
+        ]
+      }
+    }
+  ]
+}

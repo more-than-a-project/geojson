@@ -1,0 +1,237 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "AI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
+        "name": "Anguilla"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.3605643,
+            18.0615454
+          ],
+          [
+            -63.3789926,
+            18.1026598
+          ],
+          [
+            -63.4329509,
+            18.1438542
+          ],
+          [
+            -63.4741148,
+            18.2111646
+          ],
+          [
+            -63.485814,
+            18.2857672
+          ],
+          [
+            -63.4550558,
+            18.3824779
+          ],
+          [
+            -63.5604854,
+            18.4247988
+          ],
+          [
+            -63.6083528,
+            18.4768146
+          ],
+          [
+            -63.6350824,
+            18.5417639
+          ],
+          [
+            -63.6361741,
+            18.6171373
+          ],
+          [
+            -63.6013195,
+            18.7027875
+          ],
+          [
+            -63.5375893,
+            18.7624516
+          ],
+          [
+            -63.4674048,
+            18.7905631
+          ],
+          [
+            -63.3541538,
+            18.7844866
+          ],
+          [
+            -63.2593009,
+            18.7219304
+          ],
+          [
+            -63.2127759,
+            18.6186448
+          ],
+          [
+            -63.2162068,
+            18.5496612
+          ],
+          [
+            -63.2421995,
+            18.4870075
+          ],
+          [
+            -63.0592699,
+            18.4708299
+          ],
+          [
+            -62.9960982,
+            18.4950196
+          ],
+          [
+            -62.9265625,
+            18.4972974
+          ],
+          [
+            -62.8694851,
+            18.4875076
+          ],
+          [
+            -62.7901606,
+            18.4482165
+          ],
+          [
+            -62.7429615,
+            18.3965477
+          ],
+          [
+            -62.7125449,
+            18.298564
+          ],
+          [
+            -62.7225981,
+            18.2306875
+          ],
+          [
+            -62.76312,
+            18.1617887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "AI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
+        "name": "Anguilla"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.76312,
+            18.1617887
+          ],
+          [
+            -62.7673927,
+            18.1628625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "AI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
+        "name": "Anguilla"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.7673927,
+            18.1628625
+          ],
+          [
+            -62.8763889,
+            18.1902778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "AI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
+        "name": "Anguilla"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.8763889,
+            18.1902778
+          ],
+          [
+            -62.9486111,
+            18.1808333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "AI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
+        "name": "Anguilla"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.9486111,
+            18.1808333
+          ],
+          [
+            -63.2094444,
+            18.0980556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "AI",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
+        "name": "Anguilla"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -63.2094444,
+            18.0980556
+          ],
+          [
+            -63.3605643,
+            18.0615454
+          ]
+        ]
+      }
+    }
+  ]
+}

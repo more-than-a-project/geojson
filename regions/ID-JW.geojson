@@ -1,0 +1,487 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.9324661,
+            -9.0301357
+          ],
+          [
+            114.492558,
+            -8.9836109
+          ],
+          [
+            113.2644662,
+            -8.7058038
+          ],
+          [
+            111.6955918,
+            -8.6052238
+          ],
+          [
+            110.8815987,
+            -8.4411879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.8815987,
+            -8.4411879
+          ],
+          [
+            110.7822725,
+            -8.4159039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.7822725,
+            -8.4159039
+          ],
+          [
+            110.6383904,
+            -8.387396
+          ],
+          [
+            109.901789,
+            -8.1330094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            109.901789,
+            -8.1330094
+          ],
+          [
+            109.4011289,
+            -7.9773812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            109.4011289,
+            -7.9773812
+          ],
+          [
+            108.8295509,
+            -7.9888211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.0509508,
+            -7.4565894
+          ],
+          [
+            105.4447289,
+            -7.2003221
+          ],
+          [
+            105.128129,
+            -7.0061739
+          ],
+          [
+            104.6513179,
+            -6.4550344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.8466516,
+            -4.9993635
+          ],
+          [
+            106.3799272,
+            -5.2092529
+          ],
+          [
+            106.3146732,
+            -5.4996381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.8295509,
+            -7.9888211
+          ],
+          [
+            108.3103803,
+            -8.0188439
+          ],
+          [
+            107.8014449,
+            -7.9375468
+          ],
+          [
+            106.355496,
+            -7.5825049
+          ],
+          [
+            106.0509508,
+            -7.4565894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.3146732,
+            -5.4996381
+          ],
+          [
+            106.1635177,
+            -5.6417103
+          ],
+          [
+            105.7957745,
+            -5.9132875
+          ],
+          [
+            105.7502805,
+            -6.0603366
+          ],
+          [
+            105.6541439,
+            -6.2071141
+          ],
+          [
+            105.6062161,
+            -6.2525709
+          ],
+          [
+            105.4735252,
+            -6.2940241
+          ],
+          [
+            105.1398461,
+            -6.3009656
+          ],
+          [
+            104.6513179,
+            -6.4550344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            109.0697907,
+            -4.0387936
+          ],
+          [
+            106.8466516,
+            -4.9993635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.6795452,
+            -4.7153056
+          ],
+          [
+            110.1525496,
+            -4.636698
+          ],
+          [
+            109.0697907,
+            -4.0387936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            111.8689695,
+            -4.8926893
+          ],
+          [
+            110.6795452,
+            -4.7153056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.9911308,
+            -5.1882715
+          ],
+          [
+            111.8689695,
+            -4.8926893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.4841801,
+            -5.4138916
+          ],
+          [
+            114.5699827,
+            -4.9627308
+          ],
+          [
+            113.9911308,
+            -5.1882715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.343821,
+            -7.5601103
+          ],
+          [
+            116.4841801,
+            -5.4138916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.6975688,
+            -7.5120245
+          ],
+          [
+            116.343821,
+            -7.5601103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "ID-JW",
+        "flag": null,
+        "name": "Jawa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.9324661,
+            -9.0301357
+          ],
+          [
+            114.7752986,
+            -8.6401244
+          ],
+          [
+            114.5538044,
+            -8.5152306
+          ],
+          [
+            114.4238367,
+            -8.3178517
+          ],
+          [
+            114.4126778,
+            -8.1675452
+          ],
+          [
+            114.43095,
+            -8.0839225
+          ],
+          [
+            114.4932807,
+            -8.0329896
+          ],
+          [
+            114.6404548,
+            -7.7458479
+          ],
+          [
+            114.9405777,
+            -7.4627963
+          ],
+          [
+            115.6975688,
+            -7.5120245
+          ]
+        ]
+      }
+    }
+  ]
+}

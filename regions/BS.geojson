@@ -1,0 +1,583 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.4370871,
+            23.490697
+          ],
+          [
+            -80.5238242,
+            23.5299162
+          ],
+          [
+            -80.5960026,
+            23.6205891
+          ],
+          [
+            -80.6969399,
+            23.8718217
+          ],
+          [
+            -80.695204,
+            23.9494521
+          ],
+          [
+            -80.6674121,
+            24.0158594
+          ],
+          [
+            -80.6212586,
+            24.0791047
+          ],
+          [
+            -80.5244457,
+            24.1435641
+          ],
+          [
+            -79.998442,
+            24.2540629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.998442,
+            24.2540629
+          ],
+          [
+            -79.3632415,
+            25.0045198
+          ],
+          [
+            -79.370973,
+            25.2046278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.370973,
+            25.2046278
+          ],
+          [
+            -79.4068194,
+            25.3225847
+          ],
+          [
+            -79.514367,
+            25.5204483
+          ],
+          [
+            -79.5360838,
+            25.6389807
+          ],
+          [
+            -79.504861,
+            25.8112225
+          ],
+          [
+            -79.3161401,
+            26.0916269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.3161401,
+            26.0916269
+          ],
+          [
+            -79.3291245,
+            26.9489189
+          ],
+          [
+            -79.2978906,
+            27.0538045
+          ],
+          [
+            -79.2101157,
+            27.1287105
+          ],
+          [
+            -78.5393938,
+            27.4440334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.5393938,
+            27.4440334
+          ],
+          [
+            -78.4192239,
+            27.4734551
+          ],
+          [
+            -78.2848265,
+            27.4535683
+          ],
+          [
+            -78.1285927,
+            27.4049217
+          ],
+          [
+            -77.9065484,
+            27.2747841
+          ],
+          [
+            -77.7750564,
+            27.2494271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.7750564,
+            27.2494271
+          ],
+          [
+            -77.4613988,
+            27.1404045
+          ],
+          [
+            -77.2348211,
+            26.9969088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.2348211,
+            26.9969088
+          ],
+          [
+            -77.134849,
+            26.9346207
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.134849,
+            26.9346207
+          ],
+          [
+            -76.8636735,
+            26.7578286
+          ],
+          [
+            -76.7933088,
+            26.6917454
+          ],
+          [
+            -76.7416909,
+            26.6024663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.7416909,
+            26.6024663
+          ],
+          [
+            -75.9488347,
+            25.2764529
+          ],
+          [
+            -75.5141304,
+            24.8210162
+          ],
+          [
+            -74.385363,
+            24.3440208
+          ],
+          [
+            -74.3235276,
+            24.3050399
+          ],
+          [
+            -73.4413967,
+            23.2177701
+          ],
+          [
+            -72.4990672,
+            22.4427944
+          ],
+          [
+            -72.4552988,
+            22.3625766
+          ],
+          [
+            -72.4478233,
+            22.2876634
+          ],
+          [
+            -72.549879,
+            21.9486846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.6772905,
+            21.540119
+          ],
+          [
+            -72.6724799,
+            21.6404919
+          ],
+          [
+            -72.63011,
+            21.8039644
+          ],
+          [
+            -72.549879,
+            21.9486846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.6772905,
+            21.540119
+          ],
+          [
+            -72.6942949,
+            21.4855039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.6942949,
+            21.4855039
+          ],
+          [
+            -72.8466027,
+            21.0598774
+          ],
+          [
+            -72.9930055,
+            20.8361506
+          ],
+          [
+            -73.0470567,
+            20.7802226
+          ],
+          [
+            -73.1590004,
+            20.740561
+          ],
+          [
+            -73.6698043,
+            20.7065694
+          ],
+          [
+            -73.7467539,
+            20.7289482
+          ],
+          [
+            -73.8397211,
+            20.8057489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.2148263,
+            22.0329712
+          ],
+          [
+            -73.8397211,
+            20.8057489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.2148263,
+            22.0329712
+          ],
+          [
+            -77.9339641,
+            22.4950246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.9339641,
+            22.4950246
+          ],
+          [
+            -78.21325,
+            22.6425833
+          ],
+          [
+            -78.4635744,
+            22.745819
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.4635744,
+            22.745819
+          ],
+          [
+            -78.7729586,
+            22.8682739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.7729586,
+            22.8682739
+          ],
+          [
+            -78.7908448,
+            22.875357
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.7908448,
+            22.875357
+          ],
+          [
+            -79.2950772,
+            23.143014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BS",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "name": "The Bahamas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.2950772,
+            23.143014
+          ],
+          [
+            -79.5958801,
+            23.3010425
+          ],
+          [
+            -80.4370871,
+            23.490697
+          ]
+        ]
+      }
+    }
+  ]
+}

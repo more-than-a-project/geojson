@@ -1,0 +1,4787 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.691577,
+            11.4134595
+          ],
+          [
+            1.6735677,
+            11.4053345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6735677,
+            11.4053345
+          ],
+          [
+            1.6029326,
+            11.396662
+          ],
+          [
+            1.5700501,
+            11.4643795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.5700501,
+            11.4643795
+          ],
+          [
+            1.5485362,
+            11.4777576
+          ],
+          [
+            1.5306196,
+            11.4511683
+          ],
+          [
+            1.4955582,
+            11.4743098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.4955582,
+            11.4743098
+          ],
+          [
+            1.4850881,
+            11.4533193
+          ],
+          [
+            1.44815,
+            11.4810717
+          ],
+          [
+            1.4238378,
+            11.4540326
+          ],
+          [
+            1.4082195,
+            11.4570257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.4082195,
+            11.4570257
+          ],
+          [
+            1.383593,
+            11.4347317
+          ],
+          [
+            1.3968666,
+            11.4081686
+          ],
+          [
+            1.3848557,
+            11.3919971
+          ],
+          [
+            1.3593784,
+            11.3958032
+          ],
+          [
+            1.3511353,
+            11.3683846
+          ],
+          [
+            1.327123,
+            11.360597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.327123,
+            11.360597
+          ],
+          [
+            1.3514834,
+            11.3065241
+          ],
+          [
+            1.3033397,
+            11.2951531
+          ],
+          [
+            1.2675295,
+            11.3266585
+          ],
+          [
+            1.2595433,
+            11.3025644
+          ],
+          [
+            1.2838626,
+            11.2660823
+          ],
+          [
+            1.2628029,
+            11.2501767
+          ],
+          [
+            1.2278488,
+            11.26868
+          ],
+          [
+            1.1773591,
+            11.2642526
+          ],
+          [
+            1.168264,
+            11.2839748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.168264,
+            11.2839748
+          ],
+          [
+            1.1515838,
+            11.2780395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.1515838,
+            11.2780395
+          ],
+          [
+            1.1295477,
+            11.2479639
+          ],
+          [
+            1.1565288,
+            11.2356531
+          ],
+          [
+            1.1510839,
+            11.1925445
+          ],
+          [
+            1.1652151,
+            11.1702068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.1652151,
+            11.1702068
+          ],
+          [
+            1.1170802,
+            11.1771023
+          ],
+          [
+            1.100193,
+            11.153043
+          ],
+          [
+            1.0539375,
+            11.138565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.0539375,
+            11.138565
+          ],
+          [
+            1.0589034,
+            11.1243758
+          ],
+          [
+            1.0664122,
+            11.1359002
+          ],
+          [
+            1.0868651,
+            11.1212793
+          ],
+          [
+            1.1147232,
+            11.0324831
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.1147232,
+            11.0324831
+          ],
+          [
+            1.070169,
+            11.0618698
+          ],
+          [
+            1.0269345,
+            11.052707
+          ],
+          [
+            1.0135355,
+            11.0872586
+          ],
+          [
+            0.9871935,
+            11.094468
+          ],
+          [
+            0.9731005,
+            11.0551644
+          ],
+          [
+            0.9472227,
+            11.036775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.9472227,
+            11.036775
+          ],
+          [
+            0.9453104,
+            11.0351362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.9453104,
+            11.0351362
+          ],
+          [
+            0.9122091,
+            10.9961705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.7601419,
+            10.9973402
+          ],
+          [
+            0.9122091,
+            10.9961705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.4998942,
+            10.9317163
+          ],
+          [
+            0.65631,
+            10.99736
+          ],
+          [
+            0.7601419,
+            10.9973402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.42408,
+            11.02438
+          ],
+          [
+            0.5048348,
+            11.0093433
+          ],
+          [
+            0.4979789,
+            10.9889009
+          ],
+          [
+            0.5179023,
+            10.9708957
+          ],
+          [
+            0.4998942,
+            10.9317163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.2635773,
+            11.0573832
+          ],
+          [
+            0.42408,
+            11.02438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1444764,
+            11.0805593
+          ],
+          [
+            0.2635773,
+            11.0573832
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0453813,
+            11.1006888
+          ],
+          [
+            0.1444764,
+            11.0805593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0453813,
+            11.1006888
+          ],
+          [
+            0.0388732,
+            11.1011599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0388732,
+            11.1011599
+          ],
+          [
+            0.0136443,
+            11.1133617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0136443,
+            11.1133617
+          ],
+          [
+            -0.0031516,
+            11.1113891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1082708,
+            11.1338999
+          ],
+          [
+            -0.0031516,
+            11.1113891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1362307,
+            11.1395102
+          ],
+          [
+            -0.1082708,
+            11.1338999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.1362307,
+            11.1395102
+          ],
+          [
+            -0.2189327,
+            11.1613294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2189327,
+            11.1613294
+          ],
+          [
+            -0.2752825,
+            11.1748562
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2752825,
+            11.1748562
+          ],
+          [
+            -0.2893571,
+            11.1479613
+          ],
+          [
+            -0.271321,
+            11.1263253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.271321,
+            11.1263253
+          ],
+          [
+            -0.332746,
+            11.1092964
+          ],
+          [
+            -0.3385625,
+            11.0905517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3385625,
+            11.0905517
+          ],
+          [
+            -0.36157,
+            11.0691689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3724455,
+            11.1232573
+          ],
+          [
+            -0.36157,
+            11.0691689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.3750889,
+            11.1232899
+          ],
+          [
+            -0.3724455,
+            11.1232573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4071052,
+            11.1218711
+          ],
+          [
+            -0.3750889,
+            11.1232899
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4071052,
+            11.1218711
+          ],
+          [
+            -0.4275663,
+            11.1143442
+          ],
+          [
+            -0.4349285,
+            11.0478543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.438523,
+            11.0441775
+          ],
+          [
+            -0.4349285,
+            11.0478543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.438523,
+            11.0441775
+          ],
+          [
+            -0.4380132,
+            11.030337
+          ],
+          [
+            -0.4748814,
+            11.0360944
+          ],
+          [
+            -0.5011982,
+            11.0180004
+          ],
+          [
+            -0.5108762,
+            10.9883897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.5108762,
+            10.9883897
+          ],
+          [
+            -0.5274622,
+            11.0000944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.5274622,
+            11.0000944
+          ],
+          [
+            -0.533988,
+            10.9925415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.533988,
+            10.9925415
+          ],
+          [
+            -0.5447916,
+            10.9747146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.5447916,
+            10.9747146
+          ],
+          [
+            -0.5689312,
+            10.9917838
+          ],
+          [
+            -0.5931863,
+            10.9235777
+          ],
+          [
+            -0.6117462,
+            10.9140882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.6117462,
+            10.9140882
+          ],
+          [
+            -0.6184856,
+            10.9107217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.6485288,
+            10.9495955
+          ],
+          [
+            -0.6259578,
+            10.9388423
+          ],
+          [
+            -0.6184856,
+            10.9107217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.6842015,
+            10.9973617
+          ],
+          [
+            -0.6809164,
+            10.9825537
+          ],
+          [
+            -0.6537546,
+            10.9873089
+          ],
+          [
+            -0.6717129,
+            10.9606509
+          ],
+          [
+            -0.6532399,
+            10.9635381
+          ],
+          [
+            -0.6485288,
+            10.9495955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.6842015,
+            10.9973617
+          ],
+          [
+            -0.8273269,
+            11.0064868
+          ],
+          [
+            -0.8603832,
+            10.9886852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8603832,
+            10.9886852
+          ],
+          [
+            -0.870012,
+            10.9666022
+          ],
+          [
+            -0.8934581,
+            10.9623926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8888372,
+            10.9801434
+          ],
+          [
+            -0.8934581,
+            10.9623926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8888372,
+            10.9801434
+          ],
+          [
+            -0.911227,
+            10.9806249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.911227,
+            10.9806249
+          ],
+          [
+            -0.916519,
+            11.0019778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.916519,
+            11.0019778
+          ],
+          [
+            -0.9477639,
+            11.0025133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9477639,
+            11.0025133
+          ],
+          [
+            -1.0002249,
+            10.9976974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.0002249,
+            10.9976974
+          ],
+          [
+            -1.0002895,
+            11.0078347
+          ],
+          [
+            -1.0961553,
+            11.0041803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.0961553,
+            11.0041803
+          ],
+          [
+            -1.1150172,
+            11.0038417
+          ],
+          [
+            -1.1174202,
+            10.9855778
+          ],
+          [
+            -1.1471042,
+            10.9874372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.1471042,
+            10.9874372
+          ],
+          [
+            -1.1812846,
+            10.9890196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.1812846,
+            10.9890196
+          ],
+          [
+            -1.3827489,
+            10.996762
+          ],
+          [
+            -1.4263145,
+            11.0210332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.4263145,
+            11.0210332
+          ],
+          [
+            -1.6155775,
+            11.0210279
+          ],
+          [
+            -1.6163083,
+            10.9850855
+          ],
+          [
+            -1.6910186,
+            10.9845563
+          ],
+          [
+            -1.6914096,
+            10.9727764
+          ],
+          [
+            -1.9087791,
+            10.9849171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9087791,
+            10.9849171
+          ],
+          [
+            -1.9961199,
+            10.9852194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9961199,
+            10.9852194
+          ],
+          [
+            -2.3577162,
+            10.9896516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3577162,
+            10.9896516
+          ],
+          [
+            -2.6354265,
+            10.9967795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.6354265,
+            10.9967795
+          ],
+          [
+            -2.7151692,
+            11.0022727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7151692,
+            11.0022727
+          ],
+          [
+            -2.7588719,
+            11.0030636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7588719,
+            11.0030636
+          ],
+          [
+            -2.8171001,
+            11.0068528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.8171001,
+            11.0068528
+          ],
+          [
+            -2.8337019,
+            11.0066883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.8337019,
+            11.0066883
+          ],
+          [
+            -2.8341116,
+            11.0043439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.8341116,
+            11.0043439
+          ],
+          [
+            -2.840882,
+            10.9679406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.840882,
+            10.9679406
+          ],
+          [
+            -2.8174961,
+            10.9249992
+          ],
+          [
+            -2.8666363,
+            10.8722243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.8666363,
+            10.8722243
+          ],
+          [
+            -2.8985867,
+            10.7610768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.8985867,
+            10.7610768
+          ],
+          [
+            -2.9383502,
+            10.7076992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9383502,
+            10.7076992
+          ],
+          [
+            -2.9056748,
+            10.6861223
+          ],
+          [
+            -2.9411401,
+            10.6144426
+          ],
+          [
+            -2.8728767,
+            10.4698778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.8728767,
+            10.4698778
+          ],
+          [
+            -2.8431272,
+            10.4430936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.8431272,
+            10.4430936
+          ],
+          [
+            -2.7749165,
+            10.42459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7749165,
+            10.42459
+          ],
+          [
+            -2.7791501,
+            10.4090976
+          ],
+          [
+            -2.8315072,
+            10.3878415
+          ],
+          [
+            -2.8490697,
+            10.3148505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.8490697,
+            10.3148505
+          ],
+          [
+            -2.7592519,
+            10.2581352
+          ],
+          [
+            -2.7609162,
+            10.2266285
+          ],
+          [
+            -2.7964343,
+            10.1983584
+          ],
+          [
+            -2.7944724,
+            10.1744985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7944724,
+            10.1744985
+          ],
+          [
+            -2.7901683,
+            10.1591446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7901683,
+            10.1591446
+          ],
+          [
+            -2.7817113,
+            10.0267803
+          ],
+          [
+            -2.7430564,
+            9.9607414
+          ],
+          [
+            -2.7618966,
+            9.8839632
+          ],
+          [
+            -2.7264489,
+            9.8310965
+          ],
+          [
+            -2.7893195,
+            9.7479913
+          ],
+          [
+            -2.7835745,
+            9.7279964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7835745,
+            9.7279964
+          ],
+          [
+            -2.7858588,
+            9.693054
+          ],
+          [
+            -2.7576141,
+            9.6807141
+          ],
+          [
+            -2.7456013,
+            9.6412854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7456013,
+            9.6412854
+          ],
+          [
+            -2.7718236,
+            9.6000815
+          ],
+          [
+            -2.7701944,
+            9.5730135
+          ],
+          [
+            -2.687203,
+            9.491666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9686524,
+            9.6503057
+          ],
+          [
+            -2.9353401,
+            9.5755421
+          ],
+          [
+            -2.7830178,
+            9.4186252
+          ],
+          [
+            -2.7581121,
+            9.4115143
+          ],
+          [
+            -2.687203,
+            9.491666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1538305,
+            9.8513905
+          ],
+          [
+            -3.0918432,
+            9.8099473
+          ],
+          [
+            -3.0900325,
+            9.7647954
+          ],
+          [
+            -3.0567102,
+            9.7254911
+          ],
+          [
+            -3.0054425,
+            9.7430458
+          ],
+          [
+            -2.9686524,
+            9.6503057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1892251,
+            9.9355182
+          ],
+          [
+            -3.1865867,
+            9.8405557
+          ],
+          [
+            -3.1538305,
+            9.8513905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.24835,
+            9.8749663
+          ],
+          [
+            -3.1892251,
+            9.9355182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4385891,
+            9.9249544
+          ],
+          [
+            -3.3799829,
+            9.9238317
+          ],
+          [
+            -3.3472596,
+            9.9014921
+          ],
+          [
+            -3.3095431,
+            9.9102276
+          ],
+          [
+            -3.3176439,
+            9.8705659
+          ],
+          [
+            -3.2717032,
+            9.8458009
+          ],
+          [
+            -3.24835,
+            9.8749663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6144672,
+            9.9536991
+          ],
+          [
+            -3.5996308,
+            9.9346534
+          ],
+          [
+            -3.4385891,
+            9.9249544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6436069,
+            9.9481552
+          ],
+          [
+            -3.6144672,
+            9.9536991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.8959234,
+            9.9057314
+          ],
+          [
+            -3.8032818,
+            9.8947299
+          ],
+          [
+            -3.7765532,
+            9.926713
+          ],
+          [
+            -3.6676711,
+            9.928406
+          ],
+          [
+            -3.6436069,
+            9.9481552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.1636639,
+            9.8098506
+          ],
+          [
+            -4.1258823,
+            9.8475262
+          ],
+          [
+            -4.0512301,
+            9.8030409
+          ],
+          [
+            -4.0285833,
+            9.8352453
+          ],
+          [
+            -3.9733941,
+            9.8328106
+          ],
+          [
+            -3.9681271,
+            9.8749863
+          ],
+          [
+            -3.931369,
+            9.8737793
+          ],
+          [
+            -3.8959234,
+            9.9057314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3129331,
+            9.5967158
+          ],
+          [
+            -4.2835949,
+            9.6407745
+          ],
+          [
+            -4.2809086,
+            9.6960475
+          ],
+          [
+            -4.2576826,
+            9.7371252
+          ],
+          [
+            -4.2767497,
+            9.7407219
+          ],
+          [
+            -4.2664515,
+            9.7600907
+          ],
+          [
+            -4.1888909,
+            9.7738172
+          ],
+          [
+            -4.1636639,
+            9.8098506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3131205,
+            9.5968785
+          ],
+          [
+            -4.3129331,
+            9.5967158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.5862587,
+            9.7025908
+          ],
+          [
+            -4.5608551,
+            9.6937822
+          ],
+          [
+            -4.5429431,
+            9.7182016
+          ],
+          [
+            -4.5537027,
+            9.7419193
+          ],
+          [
+            -4.5151266,
+            9.7513672
+          ],
+          [
+            -4.5027314,
+            9.726492
+          ],
+          [
+            -4.5209688,
+            9.6756774
+          ],
+          [
+            -4.5049776,
+            9.6467811
+          ],
+          [
+            -4.4294267,
+            9.664151
+          ],
+          [
+            -4.3904355,
+            9.5964783
+          ],
+          [
+            -4.3741945,
+            9.5917547
+          ],
+          [
+            -4.369783,
+            9.617681
+          ],
+          [
+            -4.3414727,
+            9.6254373
+          ],
+          [
+            -4.3131205,
+            9.5968785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.9582511,
+            9.9236553
+          ],
+          [
+            -4.9669569,
+            9.892372
+          ],
+          [
+            -4.9300991,
+            9.8684237
+          ],
+          [
+            -4.9091016,
+            9.8909759
+          ],
+          [
+            -4.8969814,
+            9.8763243
+          ],
+          [
+            -4.8262373,
+            9.8665994
+          ],
+          [
+            -4.8243758,
+            9.8477707
+          ],
+          [
+            -4.7856299,
+            9.8353465
+          ],
+          [
+            -4.7838535,
+            9.7814536
+          ],
+          [
+            -4.8166934,
+            9.7836641
+          ],
+          [
+            -4.7749558,
+            9.7367918
+          ],
+          [
+            -4.7616984,
+            9.7555727
+          ],
+          [
+            -4.7332828,
+            9.7471135
+          ],
+          [
+            -4.6905944,
+            9.678492
+          ],
+          [
+            -4.6563531,
+            9.6869582
+          ],
+          [
+            -4.6458301,
+            9.7131266
+          ],
+          [
+            -4.6208373,
+            9.7028496
+          ],
+          [
+            -4.6125088,
+            9.7251408
+          ],
+          [
+            -4.5862587,
+            9.7025908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.0600247,
+            10.1802491
+          ],
+          [
+            -5.0696967,
+            10.1391016
+          ],
+          [
+            -5.0367128,
+            10.1209051
+          ],
+          [
+            -5.0684477,
+            10.1239645
+          ],
+          [
+            -5.0731109,
+            10.1112588
+          ],
+          [
+            -5.0383929,
+            10.1085037
+          ],
+          [
+            -5.0552642,
+            10.0825764
+          ],
+          [
+            -4.9990638,
+            10.1069658
+          ],
+          [
+            -5.0151478,
+            10.0726208
+          ],
+          [
+            -4.9726357,
+            10.0477868
+          ],
+          [
+            -4.9612577,
+            10.0236906
+          ],
+          [
+            -4.9640862,
+            10.0061626
+          ],
+          [
+            -4.9843462,
+            10.0136688
+          ],
+          [
+            -4.9870234,
+            9.9882884
+          ],
+          [
+            -4.94039,
+            9.953859
+          ],
+          [
+            -4.9638838,
+            9.9463216
+          ],
+          [
+            -4.9582511,
+            9.9236553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.1175637,
+            10.2884181
+          ],
+          [
+            -5.0978301,
+            10.2729822
+          ],
+          [
+            -5.1195166,
+            10.2565483
+          ],
+          [
+            -5.1056044,
+            10.2369703
+          ],
+          [
+            -5.121784,
+            10.2042567
+          ],
+          [
+            -5.0845294,
+            10.2247539
+          ],
+          [
+            -5.0802553,
+            10.1946314
+          ],
+          [
+            -5.1045797,
+            10.1755279
+          ],
+          [
+            -5.0600247,
+            10.1802491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.2441849,
+            10.3128961
+          ],
+          [
+            -5.2110252,
+            10.306552
+          ],
+          [
+            -5.1981022,
+            10.3215031
+          ],
+          [
+            -5.1816421,
+            10.2980745
+          ],
+          [
+            -5.1893751,
+            10.2880728
+          ],
+          [
+            -5.1560014,
+            10.286416
+          ],
+          [
+            -5.1301403,
+            10.3106867
+          ],
+          [
+            -5.1115314,
+            10.3079675
+          ],
+          [
+            -5.1175637,
+            10.2884181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.4260291,
+            10.3227437
+          ],
+          [
+            -5.4039718,
+            10.2964261
+          ],
+          [
+            -5.3625526,
+            10.2824198
+          ],
+          [
+            -5.3477928,
+            10.3056927
+          ],
+          [
+            -5.3228653,
+            10.2903591
+          ],
+          [
+            -5.2897644,
+            10.3201782
+          ],
+          [
+            -5.2441849,
+            10.3128961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.513207,
+            10.430789
+          ],
+          [
+            -5.4829578,
+            10.3780641
+          ],
+          [
+            -5.4634371,
+            10.3721349
+          ],
+          [
+            -5.4620342,
+            10.3474904
+          ],
+          [
+            -5.4260291,
+            10.3227437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.4787928,
+            10.5122435
+          ],
+          [
+            -5.513207,
+            10.430789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.462432,
+            10.653423
+          ],
+          [
+            -5.478925,
+            10.623197
+          ],
+          [
+            -5.460514,
+            10.602517
+          ],
+          [
+            -5.456998,
+            10.557722
+          ],
+          [
+            -5.4787928,
+            10.5122435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.4477182,
+            10.7654987
+          ],
+          [
+            -5.468008,
+            10.764731
+          ],
+          [
+            -5.455235,
+            10.749932
+          ],
+          [
+            -5.462432,
+            10.653423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.474772,
+            11.020759
+          ],
+          [
+            -5.492525,
+            10.973614
+          ],
+          [
+            -5.452003,
+            10.976044
+          ],
+          [
+            -5.451622,
+            10.901324
+          ],
+          [
+            -5.402723,
+            10.854347
+          ],
+          [
+            -5.4477182,
+            10.7654987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.488518,
+            11.0648396
+          ],
+          [
+            -5.474772,
+            11.020759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.242491,
+            11.396671
+          ],
+          [
+            -5.256197,
+            11.34697
+          ],
+          [
+            -5.253339,
+            11.249399
+          ],
+          [
+            -5.32442,
+            11.206331
+          ],
+          [
+            -5.328613,
+            11.143635
+          ],
+          [
+            -5.3829648,
+            11.1056754
+          ],
+          [
+            -5.488879,
+            11.083035
+          ],
+          [
+            -5.488518,
+            11.0648396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.267518,
+            11.713851
+          ],
+          [
+            -5.265239,
+            11.679406
+          ],
+          [
+            -5.294994,
+            11.615543
+          ],
+          [
+            -5.23341,
+            11.600205
+          ],
+          [
+            -5.199565,
+            11.530271
+          ],
+          [
+            -5.209915,
+            11.457654
+          ],
+          [
+            -5.198715,
+            11.428803
+          ],
+          [
+            -5.242491,
+            11.396671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.322271,
+            11.803745
+          ],
+          [
+            -5.290227,
+            11.784607
+          ],
+          [
+            -5.29227,
+            11.765496
+          ],
+          [
+            -5.259327,
+            11.762937
+          ],
+          [
+            -5.267518,
+            11.713851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.322271,
+            11.803745
+          ],
+          [
+            -5.345807,
+            11.8079041
+          ],
+          [
+            -5.3507563,
+            11.7952954
+          ],
+          [
+            -5.4058695,
+            11.8264933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.208971,
+            11.892401
+          ],
+          [
+            -5.244169,
+            11.865634
+          ],
+          [
+            -5.257498,
+            11.833182
+          ],
+          [
+            -5.284959,
+            11.854764
+          ],
+          [
+            -5.302655,
+            11.835326
+          ],
+          [
+            -5.323995,
+            11.848247
+          ],
+          [
+            -5.354006,
+            11.821165
+          ],
+          [
+            -5.378075,
+            11.843171
+          ],
+          [
+            -5.4058695,
+            11.8264933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.097429,
+            11.964006
+          ],
+          [
+            -5.144864,
+            11.948428
+          ],
+          [
+            -5.184271,
+            11.898438
+          ],
+          [
+            -5.208971,
+            11.892401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.733522,
+            12.003539
+          ],
+          [
+            -4.848429,
+            12.017904
+          ],
+          [
+            -4.866166,
+            12.002589
+          ],
+          [
+            -5.074635,
+            11.982503
+          ],
+          [
+            -5.097429,
+            11.964006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.7012356,
+            12.0647227
+          ],
+          [
+            -4.733522,
+            12.003539
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.6830061,
+            12.0656342
+          ],
+          [
+            -4.7012356,
+            12.0647227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.648896,
+            12.060692
+          ],
+          [
+            -4.6830061,
+            12.0656342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479075,
+            12.722055
+          ],
+          [
+            -4.467887,
+            12.691835
+          ],
+          [
+            -4.480677,
+            12.658155
+          ],
+          [
+            -4.411587,
+            12.609841
+          ],
+          [
+            -4.402291,
+            12.560397
+          ],
+          [
+            -4.364649,
+            12.533
+          ],
+          [
+            -4.4199476,
+            12.4857667
+          ],
+          [
+            -4.439781,
+            12.418755
+          ],
+          [
+            -4.396295,
+            12.310532
+          ],
+          [
+            -4.418609,
+            12.30259
+          ],
+          [
+            -4.439641,
+            12.333753
+          ],
+          [
+            -4.473417,
+            12.331783
+          ],
+          [
+            -4.473276,
+            12.283371
+          ],
+          [
+            -4.579941,
+            12.202869
+          ],
+          [
+            -4.544065,
+            12.141653
+          ],
+          [
+            -4.607346,
+            12.139016
+          ],
+          [
+            -4.628675,
+            12.11374
+          ],
+          [
+            -4.630051,
+            12.059607
+          ],
+          [
+            -4.648896,
+            12.060692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.233531,
+            12.726606
+          ],
+          [
+            -4.300473,
+            12.701378
+          ],
+          [
+            -4.346758,
+            12.743846
+          ],
+          [
+            -4.431418,
+            12.711044
+          ],
+          [
+            -4.479075,
+            12.722055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.015973,
+            13.437686
+          ],
+          [
+            -4.096689,
+            13.391838
+          ],
+          [
+            -4.105358,
+            13.339054
+          ],
+          [
+            -4.136244,
+            13.2958872
+          ],
+          [
+            -4.258892,
+            13.236763
+          ],
+          [
+            -4.224988,
+            13.195345
+          ],
+          [
+            -4.230574,
+            13.182053
+          ],
+          [
+            -4.288174,
+            13.189566
+          ],
+          [
+            -4.3475365,
+            13.121057
+          ],
+          [
+            -4.3161644,
+            13.0923287
+          ],
+          [
+            -4.3080799,
+            13.0546923
+          ],
+          [
+            -4.2773475,
+            13.0545054
+          ],
+          [
+            -4.265696,
+            12.990832
+          ],
+          [
+            -4.218269,
+            12.960996
+          ],
+          [
+            -4.22615,
+            12.866143
+          ],
+          [
+            -4.208981,
+            12.816605
+          ],
+          [
+            -4.233531,
+            12.726606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.9722401,
+            13.5249755
+          ],
+          [
+            -3.9834311,
+            13.4829255
+          ],
+          [
+            -3.9624705,
+            13.4927002
+          ],
+          [
+            -3.9551124,
+            13.4746933
+          ],
+          [
+            -3.9876641,
+            13.4348422
+          ],
+          [
+            -4.015973,
+            13.437686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.8430038,
+            13.3639983
+          ],
+          [
+            -3.913489,
+            13.382687
+          ],
+          [
+            -3.960441,
+            13.377852
+          ],
+          [
+            -3.96319,
+            13.407634
+          ],
+          [
+            -3.89567,
+            13.442792
+          ],
+          [
+            -3.9375296,
+            13.4525722
+          ],
+          [
+            -3.9457198,
+            13.4941866
+          ],
+          [
+            -3.9722401,
+            13.5249755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.4428682,
+            13.1576102
+          ],
+          [
+            -3.552322,
+            13.166898
+          ],
+          [
+            -3.5524999,
+            13.1968484
+          ],
+          [
+            -3.586656,
+            13.200016
+          ],
+          [
+            -3.672693,
+            13.274934
+          ],
+          [
+            -3.737571,
+            13.303178
+          ],
+          [
+            -3.742905,
+            13.325473
+          ],
+          [
+            -3.79357,
+            13.369395
+          ],
+          [
+            -3.8430038,
+            13.3639983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.437479,
+            13.276557
+          ],
+          [
+            -3.447818,
+            13.256736
+          ],
+          [
+            -3.422262,
+            13.178668
+          ],
+          [
+            -3.4428682,
+            13.1576102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.338456,
+            13.288197
+          ],
+          [
+            -3.437479,
+            13.276557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.2335401,
+            13.3015603
+          ],
+          [
+            -3.234142,
+            13.288968
+          ],
+          [
+            -3.338456,
+            13.288197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.262561,
+            13.713983
+          ],
+          [
+            -3.271895,
+            13.698872
+          ],
+          [
+            -3.247434,
+            13.683881
+          ],
+          [
+            -3.25042,
+            13.58573
+          ],
+          [
+            -3.278835,
+            13.555871
+          ],
+          [
+            -3.2335401,
+            13.3015603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.1915978,
+            13.6808846
+          ],
+          [
+            -3.212181,
+            13.706131
+          ],
+          [
+            -3.262561,
+            13.713983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.95249,
+            13.624663
+          ],
+          [
+            -2.968243,
+            13.651355
+          ],
+          [
+            -3.001398,
+            13.657017
+          ],
+          [
+            -3.040313,
+            13.613599
+          ],
+          [
+            -3.061188,
+            13.65601
+          ],
+          [
+            -3.100416,
+            13.685829
+          ],
+          [
+            -3.1915978,
+            13.6808846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.638407,
+            14.1699726
+          ],
+          [
+            -2.676377,
+            14.135172
+          ],
+          [
+            -2.838967,
+            14.054385
+          ],
+          [
+            -2.854854,
+            14.006217
+          ],
+          [
+            -2.836147,
+            13.992887
+          ],
+          [
+            -2.90824,
+            13.823712
+          ],
+          [
+            -2.905943,
+            13.727169
+          ],
+          [
+            -2.874002,
+            13.654096
+          ],
+          [
+            -2.95249,
+            13.624663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.103259,
+            14.147003
+          ],
+          [
+            -2.297285,
+            14.248917
+          ],
+          [
+            -2.473564,
+            14.299451
+          ],
+          [
+            -2.638407,
+            14.1699726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9921069,
+            14.283332
+          ],
+          [
+            -1.998162,
+            14.191679
+          ],
+          [
+            -2.103259,
+            14.147003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9805,
+            14.475666
+          ],
+          [
+            -1.9921069,
+            14.283332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7774,
+            14.4823
+          ],
+          [
+            -1.907,
+            14.489555
+          ],
+          [
+            -1.9805,
+            14.475666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.1237505,
+            14.7774661
+          ],
+          [
+            -1.3183,
+            14.7298
+          ],
+          [
+            -1.678,
+            14.5015
+          ],
+          [
+            -1.7774,
+            14.4823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.0294065,
+            14.8194462
+          ],
+          [
+            -1.069027,
+            14.785124
+          ],
+          [
+            -1.1237505,
+            14.7774661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9610697,
+            14.8786405
+          ],
+          [
+            -1.0294065,
+            14.8194462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.7448238,
+            15.0659532
+          ],
+          [
+            -0.9610697,
+            14.8786405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4559903,
+            15.084
+          ],
+          [
+            -0.723987,
+            15.084
+          ],
+          [
+            -0.7448238,
+            15.0659532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.0969371,
+            14.9748265
+          ],
+          [
+            0.0615196,
+            14.9746828
+          ],
+          [
+            -0.24575,
+            15.079
+          ],
+          [
+            -0.3902408,
+            15.0041031
+          ],
+          [
+            -0.4313777,
+            15.0832835
+          ],
+          [
+            -0.4559903,
+            15.084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.2322304,
+            14.999829
+          ],
+          [
+            0.0969371,
+            14.9748265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.2322304,
+            14.999829
+          ],
+          [
+            0.24436,
+            14.914
+          ],
+          [
+            0.1963575,
+            14.8263198
+          ],
+          [
+            0.2381387,
+            14.7465469
+          ],
+          [
+            0.1709319,
+            14.532472
+          ],
+          [
+            0.1844928,
+            14.4855127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1844928,
+            14.4855127
+          ],
+          [
+            0.2466727,
+            14.3445415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.2466727,
+            14.3445415
+          ],
+          [
+            0.3810847,
+            14.0509113
+          ],
+          [
+            0.413611,
+            14.026389
+          ],
+          [
+            0.424167,
+            13.983611
+          ],
+          [
+            0.471111,
+            13.955556
+          ],
+          [
+            0.465,
+            13.913611
+          ],
+          [
+            0.501389,
+            13.881389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.501389,
+            13.881389
+          ],
+          [
+            0.582778,
+            13.788611
+          ],
+          [
+            0.616667,
+            13.778056
+          ],
+          [
+            0.602222,
+            13.703889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.602222,
+            13.703889
+          ],
+          [
+            0.625,
+            13.684167
+          ],
+          [
+            0.772778,
+            13.688333
+          ],
+          [
+            0.786389,
+            13.668889
+          ],
+          [
+            0.774444,
+            13.644167
+          ],
+          [
+            0.902222,
+            13.622778
+          ],
+          [
+            0.9433357,
+            13.5940594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.9433357,
+            13.5940594
+          ],
+          [
+            0.995278,
+            13.568056
+          ],
+          [
+            1.031667,
+            13.4625
+          ],
+          [
+            1.170833,
+            13.396389
+          ],
+          [
+            1.244444,
+            13.393056
+          ],
+          [
+            1.2842843,
+            13.3544693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.1147814,
+            13.3313337
+          ],
+          [
+            1.1937511,
+            13.323946
+          ],
+          [
+            1.21137,
+            13.3802719
+          ],
+          [
+            1.2415798,
+            13.3388562
+          ],
+          [
+            1.2842843,
+            13.3544693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.1147814,
+            13.3313337
+          ],
+          [
+            0.991913,
+            13.3746761
+          ],
+          [
+            0.9907487,
+            13.1040472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.9907487,
+            13.1040472
+          ],
+          [
+            1.3450777,
+            12.9025236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.3450777,
+            12.9025236
+          ],
+          [
+            1.745657,
+            12.6744983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.745657,
+            12.6744983
+          ],
+          [
+            1.8668305,
+            12.6054814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.8668305,
+            12.6054814
+          ],
+          [
+            1.928056,
+            12.700556
+          ],
+          [
+            1.9917675,
+            12.7324909
+          ],
+          [
+            2.1061779,
+            12.7273022
+          ],
+          [
+            2.1174431,
+            12.7079159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1174431,
+            12.7079159
+          ],
+          [
+            2.146111,
+            12.690833
+          ],
+          [
+            2.1546371,
+            12.6514993
+          ],
+          [
+            2.200833,
+            12.630833
+          ],
+          [
+            2.220833,
+            12.593611
+          ],
+          [
+            2.224444,
+            12.524722
+          ],
+          [
+            2.263889,
+            12.473333
+          ],
+          [
+            2.2646763,
+            12.4225707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.0742704,
+            12.3681706
+          ],
+          [
+            2.0831882,
+            12.3919281
+          ],
+          [
+            2.1068358,
+            12.3945907
+          ],
+          [
+            2.1112587,
+            12.3821886
+          ],
+          [
+            2.1770561,
+            12.4245266
+          ],
+          [
+            2.2173291,
+            12.4124445
+          ],
+          [
+            2.2646763,
+            12.4225707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.0655884,
+            12.34735
+          ],
+          [
+            2.0742704,
+            12.3681706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.0655884,
+            12.34735
+          ],
+          [
+            2.4089717,
+            11.9025443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.31456,
+            11.6795433
+          ],
+          [
+            2.3046259,
+            11.7341755
+          ],
+          [
+            2.3408067,
+            11.7842871
+          ],
+          [
+            2.375578,
+            11.7910729
+          ],
+          [
+            2.3679775,
+            11.8159509
+          ],
+          [
+            2.3851651,
+            11.8262947
+          ],
+          [
+            2.3798597,
+            11.8552342
+          ],
+          [
+            2.4040747,
+            11.8743855
+          ],
+          [
+            2.3972458,
+            11.8938872
+          ],
+          [
+            2.4089717,
+            11.9025443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.31456,
+            11.6795433
+          ],
+          [
+            2.183972,
+            11.5941144
+          ],
+          [
+            2.0792689,
+            11.488961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.0792689,
+            11.488961
+          ],
+          [
+            2.021875,
+            11.4306508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.021875,
+            11.4306508
+          ],
+          [
+            1.9784059,
+            11.4204297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.9784059,
+            11.4204297
+          ],
+          [
+            1.9221955,
+            11.4141968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.9221955,
+            11.4141968
+          ],
+          [
+            1.8800515,
+            11.4507306
+          ],
+          [
+            1.8474855,
+            11.4498867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "BF",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "name": "Burkina Faso"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.8474855,
+            11.4498867
+          ],
+          [
+            1.7542695,
+            11.418639
+          ],
+          [
+            1.7141133,
+            11.4340034
+          ],
+          [
+            1.691577,
+            11.4134595
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FO",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg",
+        "name": "F\u00f8royar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.4999974,
+            61.5743878
+          ],
+          [
+            -8.0628857,
+            61.9975561
+          ],
+          [
+            -8.104813,
+            62.045778
+          ],
+          [
+            -8.1188416,
+            62.0956029
+          ],
+          [
+            -8.0938406,
+            62.1638904
+          ],
+          [
+            -8.0235546,
+            62.2221216
+          ],
+          [
+            -7.5000246,
+            62.4567421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FO",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg",
+        "name": "F\u00f8royar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.5000246,
+            62.4567421
+          ],
+          [
+            -7.3877255,
+            62.4894521
+          ],
+          [
+            -6.9484499,
+            62.563678
+          ],
+          [
+            -6.5989094,
+            62.5955082
+          ],
+          [
+            -6.413323,
+            62.5840328
+          ],
+          [
+            -6.0936423,
+            62.5291341
+          ],
+          [
+            -5.9700456,
+            62.491963
+          ],
+          [
+            -5.8587658,
+            62.4174283
+          ],
+          [
+            -5.8259442,
+            62.328524
+          ],
+          [
+            -6.0342859,
+            61.8345711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "FO",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg",
+        "name": "F\u00f8royar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0342859,
+            61.8345711
+          ],
+          [
+            -6.28096,
+            61.2713644
+          ],
+          [
+            -6.377671,
+            61.1964604
+          ],
+          [
+            -6.5318212,
+            61.1487714
+          ],
+          [
+            -6.7582197,
+            61.1410284
+          ],
+          [
+            -6.9559166,
+            61.1903988
+          ],
+          [
+            -7.2175647,
+            61.3587114
+          ],
+          [
+            -7.4999974,
+            61.5743878
+          ]
+        ]
+      }
+    }
+  ]
+}

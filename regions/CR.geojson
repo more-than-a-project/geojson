@@ -1,0 +1,3309 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.4299043,
+            9.7219732
+          ],
+          [
+            -82.4971569,
+            9.6477956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.5508549,
+            9.5885565
+          ],
+          [
+            -82.4971569,
+            9.6477956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.5651122,
+            9.5715388
+          ],
+          [
+            -82.5508549,
+            9.5885565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.5991346,
+            9.5598679
+          ],
+          [
+            -82.5574363,
+            9.5388972
+          ],
+          [
+            -82.5651122,
+            9.5715388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.6659868,
+            9.494893
+          ],
+          [
+            -82.6546191,
+            9.5111504
+          ],
+          [
+            -82.6390562,
+            9.4936437
+          ],
+          [
+            -82.6058383,
+            9.5042645
+          ],
+          [
+            -82.5991346,
+            9.5598679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.6765192,
+            9.508759
+          ],
+          [
+            -82.6659868,
+            9.494893
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7028265,
+            9.5283454
+          ],
+          [
+            -82.6765192,
+            9.508759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7035204,
+            9.5344547
+          ],
+          [
+            -82.6980015,
+            9.5467746
+          ],
+          [
+            -82.6883498,
+            9.5333757
+          ],
+          [
+            -82.7028265,
+            9.5283454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7200036,
+            9.5604311
+          ],
+          [
+            -82.7035204,
+            9.5344547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7424178,
+            9.5745167
+          ],
+          [
+            -82.7200036,
+            9.5604311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7709343,
+            9.5825134
+          ],
+          [
+            -82.7453274,
+            9.590971
+          ],
+          [
+            -82.7424178,
+            9.5745167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7878949,
+            9.5954956
+          ],
+          [
+            -82.7709343,
+            9.5825134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7888738,
+            9.5963307
+          ],
+          [
+            -82.7878949,
+            9.5954956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.869735,
+            9.5934197
+          ],
+          [
+            -82.850527,
+            9.6220898
+          ],
+          [
+            -82.7888738,
+            9.5963307
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8839503,
+            9.5638776
+          ],
+          [
+            -82.869735,
+            9.5934197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8444566,
+            9.5000154
+          ],
+          [
+            -82.8723297,
+            9.524588
+          ],
+          [
+            -82.8682011,
+            9.5537409
+          ],
+          [
+            -82.8839503,
+            9.5638776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8625378,
+            9.4920514
+          ],
+          [
+            -82.8444566,
+            9.5000154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9431286,
+            9.4720857
+          ],
+          [
+            -82.8625378,
+            9.4920514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9430474,
+            9.4360877
+          ],
+          [
+            -82.9431286,
+            9.4720857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9429833,
+            9.4156394
+          ],
+          [
+            -82.9430474,
+            9.4360877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9409765,
+            9.3821538
+          ],
+          [
+            -82.9429833,
+            9.4156394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9401826,
+            9.3036955
+          ],
+          [
+            -82.9409765,
+            9.3821538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.936106,
+            9.1602444
+          ],
+          [
+            -82.9401826,
+            9.3036955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9345038,
+            9.0839588
+          ],
+          [
+            -82.936106,
+            9.1602444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9079754,
+            9.0827403
+          ],
+          [
+            -82.9345038,
+            9.0839588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8784125,
+            9.0640952
+          ],
+          [
+            -82.8871185,
+            9.0879039
+          ],
+          [
+            -82.9079754,
+            9.0827403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8151572,
+            9.0247736
+          ],
+          [
+            -82.8784125,
+            9.0640952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.765696,
+            8.9973272
+          ],
+          [
+            -82.801389,
+            9.003611
+          ],
+          [
+            -82.8151572,
+            9.0247736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7593295,
+            8.9959751
+          ],
+          [
+            -82.765696,
+            8.9973272
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7159356,
+            8.9419418
+          ],
+          [
+            -82.7593295,
+            8.9959751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7118974,
+            8.9222593
+          ],
+          [
+            -82.7159356,
+            8.9419418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7482091,
+            8.9016075
+          ],
+          [
+            -82.7118974,
+            8.9222593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.7544862,
+            8.8919457
+          ],
+          [
+            -82.7482091,
+            8.9016075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8925428,
+            8.771842
+          ],
+          [
+            -82.862933,
+            8.8140259
+          ],
+          [
+            -82.8840648,
+            8.823464
+          ],
+          [
+            -82.8677055,
+            8.8471309
+          ],
+          [
+            -82.7544862,
+            8.8919457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9145433,
+            8.7696577
+          ],
+          [
+            -82.8925428,
+            8.771842
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9165394,
+            8.7442358
+          ],
+          [
+            -82.9145433,
+            8.7696577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9032631,
+            8.7340096
+          ],
+          [
+            -82.9165394,
+            8.7442358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.863845,
+            8.6835596
+          ],
+          [
+            -82.9032631,
+            8.7340096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8587344,
+            8.6746907
+          ],
+          [
+            -82.863845,
+            8.6835596
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8331871,
+            8.637806
+          ],
+          [
+            -82.8587344,
+            8.6746907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8300065,
+            8.6359948
+          ],
+          [
+            -82.8331871,
+            8.637806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8311364,
+            8.5955222
+          ],
+          [
+            -82.8300065,
+            8.6359948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8344626,
+            8.5540266
+          ],
+          [
+            -82.8221814,
+            8.567098
+          ],
+          [
+            -82.8311364,
+            8.5955222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8340824,
+            8.5078814
+          ],
+          [
+            -82.8344626,
+            8.5540266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8318434,
+            8.504387
+          ],
+          [
+            -82.8340824,
+            8.5078814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.839477,
+            8.4801916
+          ],
+          [
+            -82.8318434,
+            8.504387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8453642,
+            8.4719382
+          ],
+          [
+            -82.839477,
+            8.4801916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8737179,
+            8.4383737
+          ],
+          [
+            -82.8453642,
+            8.4719382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9309222,
+            8.4350043
+          ],
+          [
+            -82.8737179,
+            8.4383737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9591036,
+            8.4048733
+          ],
+          [
+            -82.9309222,
+            8.4350043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9948622,
+            8.3692763
+          ],
+          [
+            -82.9591036,
+            8.4048733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.0044616,
+            8.3607948
+          ],
+          [
+            -82.9948622,
+            8.3692763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.0476439,
+            8.3420115
+          ],
+          [
+            -83.0044616,
+            8.3607948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.046672,
+            8.3369313
+          ],
+          [
+            -83.0476439,
+            8.3420115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.0458459,
+            8.3178637
+          ],
+          [
+            -83.046672,
+            8.3369313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9975677,
+            8.2853481
+          ],
+          [
+            -83.0458459,
+            8.3178637
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9922714,
+            8.2760681
+          ],
+          [
+            -82.9975677,
+            8.2853481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9567739,
+            8.2805411
+          ],
+          [
+            -82.9749497,
+            8.2893287
+          ],
+          [
+            -82.9922714,
+            8.2760681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9524728,
+            8.2710568
+          ],
+          [
+            -82.9567739,
+            8.2805411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9485469,
+            8.2689204
+          ],
+          [
+            -82.9524728,
+            8.2710568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9332897,
+            8.2254107
+          ],
+          [
+            -82.9280272,
+            8.2428724
+          ],
+          [
+            -82.9485469,
+            8.2689204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9168853,
+            8.1944089
+          ],
+          [
+            -82.9332897,
+            8.2254107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9030665,
+            8.1758406
+          ],
+          [
+            -82.9168853,
+            8.1944089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.909477,
+            8.1683482
+          ],
+          [
+            -82.9030665,
+            8.1758406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8970047,
+            8.1233647
+          ],
+          [
+            -82.909477,
+            8.1683482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8873801,
+            8.0772401
+          ],
+          [
+            -82.8970047,
+            8.1233647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8940056,
+            8.0492509
+          ],
+          [
+            -82.8873801,
+            8.0772401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.903517,
+            8.0405215
+          ],
+          [
+            -82.8940056,
+            8.0492509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9817233,
+            7.8538819
+          ],
+          [
+            -82.903517,
+            8.0405215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.9817233,
+            7.8538819
+          ],
+          [
+            -83.6827489,
+            8.2752375
+          ],
+          [
+            -83.8527349,
+            8.429267
+          ],
+          [
+            -84.031988,
+            8.5584326
+          ],
+          [
+            -85.4796867,
+            9.5377712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.4796867,
+            9.5377712
+          ],
+          [
+            -85.8182881,
+            9.7640255
+          ],
+          [
+            -85.8725052,
+            9.8743251
+          ],
+          [
+            -85.9703699,
+            10.005121
+          ],
+          [
+            -86.032364,
+            10.138095
+          ],
+          [
+            -86.1839493,
+            10.8544108
+          ],
+          [
+            -86.1492918,
+            10.9667146
+          ],
+          [
+            -86.0226944,
+            11.0970833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0226944,
+            11.0970833
+          ],
+          [
+            -86.0223471,
+            11.0970809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6931366,
+            11.078908
+          ],
+          [
+            -85.7026612,
+            11.0641181
+          ],
+          [
+            -85.7864167,
+            11.0649167
+          ],
+          [
+            -85.8568889,
+            11.04575
+          ],
+          [
+            -85.9553889,
+            11.0869167
+          ],
+          [
+            -86.0223471,
+            11.0970809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6929174,
+            11.0791931
+          ],
+          [
+            -85.6931366,
+            11.078908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6339117,
+            11.1788034
+          ],
+          [
+            -85.6929174,
+            11.0791931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6153548,
+            11.2100804
+          ],
+          [
+            -85.6339117,
+            11.1788034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6122577,
+            11.2153044
+          ],
+          [
+            -85.6153548,
+            11.2100804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6099005,
+            11.2195684
+          ],
+          [
+            -85.6122577,
+            11.2153044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.530422,
+            11.1761788
+          ],
+          [
+            -85.5603954,
+            11.2100435
+          ],
+          [
+            -85.6099005,
+            11.2195684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.5277231,
+            11.1731293
+          ],
+          [
+            -85.530422,
+            11.1761788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.4238078,
+            11.1288229
+          ],
+          [
+            -85.5277231,
+            11.1731293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.2300116,
+            11.0636723
+          ],
+          [
+            -85.3571706,
+            11.1262044
+          ],
+          [
+            -85.4238078,
+            11.1288229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.1793408,
+            11.0447316
+          ],
+          [
+            -85.2300116,
+            11.0636723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.1323372,
+            11.0268226
+          ],
+          [
+            -85.1793408,
+            11.0447316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.1257054,
+            11.023812
+          ],
+          [
+            -85.1323372,
+            11.0268226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.1002537,
+            11.0146973
+          ],
+          [
+            -85.1257054,
+            11.023812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.9914824,
+            10.9734122
+          ],
+          [
+            -85.1002537,
+            11.0146973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.881528,
+            10.9611425
+          ],
+          [
+            -84.9102332,
+            10.943439
+          ],
+          [
+            -84.9914824,
+            10.9734122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.741757,
+            11.046462
+          ],
+          [
+            -84.881528,
+            10.9611425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.4859338,
+            11.0009122
+          ],
+          [
+            -84.5641731,
+            11.0330822
+          ],
+          [
+            -84.5744214,
+            11.0506353
+          ],
+          [
+            -84.6057254,
+            11.037882
+          ],
+          [
+            -84.6805456,
+            11.084402
+          ],
+          [
+            -84.741757,
+            11.046462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.4500298,
+            10.9620993
+          ],
+          [
+            -84.4859338,
+            11.0009122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.3587405,
+            10.9958256
+          ],
+          [
+            -84.4197724,
+            10.9553641
+          ],
+          [
+            -84.4500298,
+            10.9620993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.3042587,
+            10.9160687
+          ],
+          [
+            -84.3508279,
+            10.9505141
+          ],
+          [
+            -84.3419391,
+            10.9742398
+          ],
+          [
+            -84.3587405,
+            10.9958256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.1959486,
+            10.7848772
+          ],
+          [
+            -84.2376763,
+            10.8160817
+          ],
+          [
+            -84.2153442,
+            10.8382902
+          ],
+          [
+            -84.2256868,
+            10.8739416
+          ],
+          [
+            -84.3042587,
+            10.9160687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.1612816,
+            10.7853718
+          ],
+          [
+            -84.1959486,
+            10.7848772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.1465266,
+            10.7866657
+          ],
+          [
+            -84.1612816,
+            10.7853718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.9917392,
+            10.7573438
+          ],
+          [
+            -84.023239,
+            10.7921906
+          ],
+          [
+            -84.0352929,
+            10.7715175
+          ],
+          [
+            -84.0551841,
+            10.7783946
+          ],
+          [
+            -84.071736,
+            10.7596047
+          ],
+          [
+            -84.1023052,
+            10.7743316
+          ],
+          [
+            -84.125348,
+            10.7644821
+          ],
+          [
+            -84.1465266,
+            10.7866657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.9908004,
+            10.7551119
+          ],
+          [
+            -83.9917392,
+            10.7573438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.935748,
+            10.7145498
+          ],
+          [
+            -83.9908004,
+            10.7551119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.9190835,
+            10.709806
+          ],
+          [
+            -83.935748,
+            10.7145498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.7647921,
+            10.7687086
+          ],
+          [
+            -83.7926683,
+            10.7692383
+          ],
+          [
+            -83.8627839,
+            10.7174962
+          ],
+          [
+            -83.9190835,
+            10.709806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.7631368,
+            10.7717098
+          ],
+          [
+            -83.7647921,
+            10.7687086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.7615493,
+            10.7739772
+          ],
+          [
+            -83.7631368,
+            10.7717098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.7257589,
+            10.7837254
+          ],
+          [
+            -83.7615493,
+            10.7739772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6784102,
+            10.9154513
+          ],
+          [
+            -83.6608967,
+            10.8174254
+          ],
+          [
+            -83.6711157,
+            10.7969024
+          ],
+          [
+            -83.7257589,
+            10.7837254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6978401,
+            10.9395972
+          ],
+          [
+            -83.6784102,
+            10.9154513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6976473,
+            10.9403789
+          ],
+          [
+            -83.6978401,
+            10.9395972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6658027,
+            11.0490169
+          ],
+          [
+            -83.6976473,
+            10.9403789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6658027,
+            11.0490169
+          ],
+          [
+            -83.6082175,
+            11.1249164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6082175,
+            11.1249164
+          ],
+          [
+            -83.5461915,
+            11.0909499
+          ],
+          [
+            -83.4606799,
+            11.0073512
+          ],
+          [
+            -83.2914678,
+            10.5764181
+          ],
+          [
+            -83.0112283,
+            10.2095901
+          ],
+          [
+            -82.8695188,
+            10.1406124
+          ],
+          [
+            -82.7601897,
+            9.9469504
+          ],
+          [
+            -82.6786376,
+            9.898996
+          ],
+          [
+            -82.6302778,
+            9.8399
+          ],
+          [
+            -82.5000016,
+            9.7970903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.5000016,
+            9.7970903
+          ],
+          [
+            -82.4299043,
+            9.7219732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6672753,
+            10.9302315
+          ],
+          [
+            -83.6731479,
+            10.9341968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6733683,
+            10.933718
+          ],
+          [
+            -83.6731479,
+            10.9341968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6756417,
+            10.9304064
+          ],
+          [
+            -83.6733683,
+            10.933718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6756013,
+            10.9301933
+          ],
+          [
+            -83.6756417,
+            10.9304064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6759279,
+            10.9259706
+          ],
+          [
+            -83.6756013,
+            10.9301933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6756477,
+            10.9259701
+          ],
+          [
+            -83.6759279,
+            10.9259706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6675062,
+            10.9297876
+          ],
+          [
+            -83.6756477,
+            10.9259701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6672753,
+            10.9302315
+          ],
+          [
+            -83.6675062,
+            10.9297876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.058593,
+            5.5437972
+          ],
+          [
+            -87.0822702,
+            5.5396712
+          ],
+          [
+            -87.09443,
+            5.5187606
+          ],
+          [
+            -87.0738132,
+            5.4991601
+          ],
+          [
+            -87.0513202,
+            5.5186978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0513202,
+            5.5186978
+          ],
+          [
+            -87.02815,
+            5.5370576
+          ],
+          [
+            -87.0480533,
+            5.5571387
+          ],
+          [
+            -87.058593,
+            5.5437972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0675194,
+            5.5047735
+          ],
+          [
+            -87.0681953,
+            5.5056038
+          ],
+          [
+            -87.068536,
+            5.5055798
+          ],
+          [
+            -87.06853,
+            5.5045
+          ],
+          [
+            -87.0675194,
+            5.5047735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0541969,
+            5.5094483
+          ],
+          [
+            -87.054264,
+            5.5098595
+          ],
+          [
+            -87.0548219,
+            5.5096272
+          ],
+          [
+            -87.0545195,
+            5.5093546
+          ],
+          [
+            -87.0541969,
+            5.5094483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0356142,
+            5.5215448
+          ],
+          [
+            -87.0356225,
+            5.5219682
+          ],
+          [
+            -87.0361278,
+            5.5218504
+          ],
+          [
+            -87.0359903,
+            5.5215229
+          ],
+          [
+            -87.0356142,
+            5.5215448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0327848,
+            5.5496224
+          ],
+          [
+            -87.0320714,
+            5.550135
+          ],
+          [
+            -87.0321196,
+            5.5507597
+          ],
+          [
+            -87.0329779,
+            5.550183
+          ],
+          [
+            -87.0327848,
+            5.5496224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0482101,
+            5.56097
+          ],
+          [
+            -87.0476885,
+            5.5591903
+          ],
+          [
+            -87.0462227,
+            5.5632
+          ],
+          [
+            -87.0476999,
+            5.5629001
+          ],
+          [
+            -87.0482101,
+            5.56097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0541835,
+            5.5551619
+          ],
+          [
+            -87.0545027,
+            5.5543556
+          ],
+          [
+            -87.0533305,
+            5.5542622
+          ],
+          [
+            -87.0535049,
+            5.5547
+          ],
+          [
+            -87.0541835,
+            5.5551619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0642221,
+            5.5504415
+          ],
+          [
+            -87.0643893,
+            5.5496704
+          ],
+          [
+            -87.0640245,
+            5.5494168
+          ],
+          [
+            -87.0638433,
+            5.5499035
+          ],
+          [
+            -87.0642221,
+            5.5504415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.092806,
+            5.514828
+          ],
+          [
+            -87.0925619,
+            5.5149214
+          ],
+          [
+            -87.0926128,
+            5.5152044
+          ],
+          [
+            -87.0931828,
+            5.5153366
+          ],
+          [
+            -87.092806,
+            5.514828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0937836,
+            5.5128924
+          ],
+          [
+            -87.0936817,
+            5.5126841
+          ],
+          [
+            -87.0935476,
+            5.5127883
+          ],
+          [
+            -87.0935503,
+            5.5129137
+          ],
+          [
+            -87.0937836,
+            5.5128924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0996711,
+            5.5126681
+          ],
+          [
+            -87.100068,
+            5.5127616
+          ],
+          [
+            -87.100575,
+            5.5120567
+          ],
+          [
+            -87.0998347,
+            5.512313
+          ],
+          [
+            -87.0996711,
+            5.5126681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "name": "Costa Rica"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.1014923,
+            5.5079879
+          ],
+          [
+            -87.101334,
+            5.5085246
+          ],
+          [
+            -87.1018034,
+            5.5085539
+          ],
+          [
+            -87.1019965,
+            5.5082629
+          ],
+          [
+            -87.1014923,
+            5.5079879
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1545 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9408368,
+            2.1961331
+          ],
+          [
+            9.9041188,
+            2.2005253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9041188,
+            2.2005253
+          ],
+          [
+            9.8804848,
+            2.2326668
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0034138,
+            2.1750226
+          ],
+          [
+            10.0020771,
+            2.1745859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9308576,
+            0.9333768
+          ],
+          [
+            9.8958236,
+            0.9516287
+          ],
+          [
+            9.8727996,
+            0.9942396
+          ],
+          [
+            9.7946548,
+            1.0001128
+          ],
+          [
+            9.7373719,
+            1.0698617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9856433,
+            0.9810678
+          ],
+          [
+            9.9922762,
+            0.9350314
+          ],
+          [
+            9.9519735,
+            0.9219855
+          ],
+          [
+            9.9308576,
+            0.9333768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9955724,
+            0.9999216
+          ],
+          [
+            9.9856433,
+            0.9810678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.7373719,
+            1.0698617
+          ],
+          [
+            9.6654426,
+            1.0653425
+          ],
+          [
+            9.5892485,
+            1.0222551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.1335837,
+            0.9999883
+          ],
+          [
+            9.9955724,
+            0.9999216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.1962224,
+            1.0000304
+          ],
+          [
+            10.1335837,
+            0.9999883
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.2880902,
+            0.9999384
+          ],
+          [
+            10.1962224,
+            1.0000304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.4653502,
+            1.0000551
+          ],
+          [
+            10.2880902,
+            0.9999384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.679784,
+            1.0000491
+          ],
+          [
+            10.4653502,
+            1.0000551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.9495925,
+            1.0273384
+          ],
+          [
+            10.7853984,
+            1.0269951
+          ],
+          [
+            10.679784,
+            1.0000491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.9516518,
+            1.0000037
+          ],
+          [
+            10.9495925,
+            1.0273384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.9725755,
+            0.9999148
+          ],
+          [
+            10.9516518,
+            1.0000037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3062825,
+            0.9999764
+          ],
+          [
+            10.9725755,
+            0.9999148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.333325,
+            1.0000253
+          ],
+          [
+            11.3062825,
+            0.9999764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3333201,
+            1.4762211
+          ],
+          [
+            11.333325,
+            1.0000253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3478254,
+            1.6744114
+          ],
+          [
+            11.3333414,
+            1.6595834
+          ],
+          [
+            11.3333201,
+            1.4762211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3478254,
+            1.6744114
+          ],
+          [
+            11.3776188,
+            1.6834429
+          ],
+          [
+            11.3786061,
+            1.7533892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3786061,
+            1.7533892
+          ],
+          [
+            11.3952176,
+            1.8293363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.4041625,
+            1.8329252
+          ],
+          [
+            11.3952176,
+            1.8293363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.4041625,
+            1.8329252
+          ],
+          [
+            11.4113617,
+            1.8768152
+          ],
+          [
+            11.3818359,
+            1.9031172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3818359,
+            1.9031172
+          ],
+          [
+            11.3396057,
+            1.9326511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3396057,
+            1.9326511
+          ],
+          [
+            11.3204569,
+            2.0476377
+          ],
+          [
+            11.3612305,
+            2.1440508
+          ],
+          [
+            11.359111,
+            2.1719355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.340158,
+            2.1710432
+          ],
+          [
+            11.359111,
+            2.1719355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3347509,
+            2.1725211
+          ],
+          [
+            11.340158,
+            2.1710432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2660503,
+            2.1720689
+          ],
+          [
+            11.3347509,
+            2.1725211
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2457084,
+            2.1810556
+          ],
+          [
+            11.2660503,
+            2.1720689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1749101,
+            2.1822607
+          ],
+          [
+            11.1986734,
+            2.1944415
+          ],
+          [
+            11.2457084,
+            2.1810556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.9557778,
+            2.1666555
+          ],
+          [
+            11.152541,
+            2.1666131
+          ],
+          [
+            11.1749101,
+            2.1822607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6532427,
+            2.1666774
+          ],
+          [
+            10.9557778,
+            2.1666555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.4897279,
+            2.1666486
+          ],
+          [
+            10.6532427,
+            2.1666774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.3536579,
+            2.1666782
+          ],
+          [
+            10.4897279,
+            2.1666486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.1826659,
+            2.1666768
+          ],
+          [
+            10.3536579,
+            2.1666782
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.1826659,
+            2.1666768
+          ],
+          [
+            10.1765159,
+            2.1609828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.1765159,
+            2.1609828
+          ],
+          [
+            10.1729682,
+            2.1578526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.1729682,
+            2.1578526
+          ],
+          [
+            10.1232766,
+            2.1437163
+          ],
+          [
+            10.1168997,
+            2.1587153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0702571,
+            2.164489
+          ],
+          [
+            10.1168997,
+            2.1587153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0590665,
+            2.1662767
+          ],
+          [
+            10.0702571,
+            2.164489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0590665,
+            2.1662767
+          ],
+          [
+            10.035131,
+            2.1431671
+          ],
+          [
+            10.0350047,
+            2.1629944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0350047,
+            2.1629944
+          ],
+          [
+            10.0254178,
+            2.168594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0254178,
+            2.168594
+          ],
+          [
+            10.0171065,
+            2.1725406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0171065,
+            2.1725406
+          ],
+          [
+            10.0071294,
+            2.174316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0034138,
+            2.1750226
+          ],
+          [
+            10.0071294,
+            2.174316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0020771,
+            2.1745859
+          ],
+          [
+            9.9868071,
+            2.1773992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9750201,
+            2.1816809
+          ],
+          [
+            9.9868071,
+            2.1773992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9408368,
+            2.1961331
+          ],
+          [
+            9.9750201,
+            2.1816809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.822532,
+            2.3488584
+          ],
+          [
+            9.8476982,
+            2.2469648
+          ],
+          [
+            9.8804848,
+            2.2326668
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.822532,
+            2.3488584
+          ],
+          [
+            9.5892515,
+            2.3968759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1492944,
+            0.7534473
+          ],
+          [
+            9.1161204,
+            0.8138172
+          ],
+          [
+            9.102203,
+            0.8897793
+          ],
+          [
+            9.1202222,
+            1.0045702
+          ],
+          [
+            9.1676658,
+            1.0757173
+          ],
+          [
+            9.1437394,
+            1.1447939
+          ],
+          [
+            9.1456685,
+            1.2155718
+          ],
+          [
+            9.2934757,
+            1.5041614
+          ],
+          [
+            9.4000642,
+            1.6188925
+          ],
+          [
+            9.4373694,
+            1.76942
+          ],
+          [
+            9.5468004,
+            1.8931955
+          ],
+          [
+            9.5933791,
+            1.9775878
+          ],
+          [
+            9.5646073,
+            2.0892654
+          ],
+          [
+            9.5933491,
+            2.206798
+          ],
+          [
+            9.5756575,
+            2.3194767
+          ],
+          [
+            9.5892515,
+            2.3968759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1492944,
+            0.7534473
+          ],
+          [
+            9.3547849,
+            0.8464565
+          ],
+          [
+            9.5191256,
+            0.9629838
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5191256,
+            0.9629838
+          ],
+          [
+            9.5474614,
+            1.0226179
+          ],
+          [
+            9.5892485,
+            1.0222551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1252946,
+            3.7709067
+          ],
+          [
+            8.9832547,
+            3.9059364
+          ],
+          [
+            8.8313462,
+            3.9604468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.8313462,
+            3.9604468
+          ],
+          [
+            8.7095094,
+            3.989
+          ],
+          [
+            8.5891232,
+            3.95
+          ],
+          [
+            8.5383893,
+            3.907
+          ],
+          [
+            8.4440961,
+            3.78
+          ],
+          [
+            8.4072345,
+            3.662
+          ],
+          [
+            8.3765243,
+            3.649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.3765243,
+            3.649
+          ],
+          [
+            8.2885415,
+            3.573
+          ],
+          [
+            8.2264693,
+            3.441
+          ],
+          [
+            8.2156326,
+            3.339
+          ],
+          [
+            8.2535792,
+            3.207
+          ],
+          [
+            8.2971218,
+            3.14
+          ],
+          [
+            8.3598112,
+            3.093
+          ],
+          [
+            8.6361187,
+            3.014
+          ],
+          [
+            8.7464507,
+            3.022
+          ],
+          [
+            8.8411839,
+            3.091
+          ],
+          [
+            8.9372082,
+            3.217
+          ],
+          [
+            9.0348745,
+            3.439
+          ],
+          [
+            9.0860826,
+            3.506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.0860826,
+            3.506
+          ],
+          [
+            9.138309,
+            3.645
+          ],
+          [
+            9.1252946,
+            3.7709067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "GQ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "name": "Guinea Ecuatorial"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6340486,
+            -1.6732196
+          ],
+          [
+            5.7302721,
+            -1.6530334
+          ],
+          [
+            5.8020065,
+            -1.5939469
+          ],
+          [
+            5.8392792,
+            -1.5289465
+          ],
+          [
+            5.8576424,
+            -1.4075566
+          ],
+          [
+            5.8375732,
+            -1.3179314
+          ],
+          [
+            5.7875131,
+            -1.2532493
+          ],
+          [
+            5.7155753,
+            -1.213893
+          ],
+          [
+            5.6286923,
+            -1.202
+          ],
+          [
+            5.5527779,
+            -1.218
+          ],
+          [
+            5.4776206,
+            -1.267
+          ],
+          [
+            5.4330467,
+            -1.334
+          ],
+          [
+            5.4172943,
+            -1.416
+          ],
+          [
+            5.4317143,
+            -1.518
+          ],
+          [
+            5.469751,
+            -1.589
+          ],
+          [
+            5.5422447,
+            -1.6466244
+          ],
+          [
+            5.6340486,
+            -1.6732196
+          ]
+        ]
+      }
+    }
+  ]
+}

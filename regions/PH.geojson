@@ -1,0 +1,1483 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.7687655,
+            9.9751582
+          ],
+          [
+            115.6471678,
+            9.6992824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.7687655,
+            9.9751582
+          ],
+          [
+            115.8423981,
+            10.0021373
+          ],
+          [
+            115.9199934,
+            9.9997015
+          ],
+          [
+            115.9909581,
+            9.9686957
+          ],
+          [
+            116.0448661,
+            9.913668
+          ],
+          [
+            116.0772234,
+            9.7967362
+          ],
+          [
+            116.0310313,
+            9.5775857
+          ],
+          [
+            115.9892128,
+            9.5163733
+          ],
+          [
+            115.9290015,
+            9.4748867
+          ],
+          [
+            115.8563309,
+            9.4572218
+          ],
+          [
+            115.7834696,
+            9.4663646
+          ],
+          [
+            115.7187045,
+            9.5005344
+          ],
+          [
+            115.6698353,
+            9.5564405
+          ],
+          [
+            115.6448898,
+            9.6260194
+          ],
+          [
+            115.6471678,
+            9.6992824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.3845563,
+            9.993095
+          ],
+          [
+            116.2885529,
+            9.951816
+          ],
+          [
+            116.2261292,
+            9.8682873
+          ],
+          [
+            116.2144969,
+            9.7665311
+          ],
+          [
+            116.2564931,
+            9.6713609
+          ],
+          [
+            116.3598225,
+            9.5566227
+          ],
+          [
+            116.4454226,
+            9.5145041
+          ],
+          [
+            116.638097,
+            9.5201508
+          ],
+          [
+            116.7326535,
+            9.5626676
+          ],
+          [
+            116.782783,
+            9.6229003
+          ],
+          [
+            116.8055756,
+            9.696056
+          ],
+          [
+            116.7987772,
+            9.7722736
+          ],
+          [
+            116.7625051,
+            9.8414539
+          ],
+          [
+            116.7082809,
+            9.8881908
+          ],
+          [
+            116.6416219,
+            9.9131295
+          ],
+          [
+            116.5993091,
+            9.9626517
+          ],
+          [
+            116.5437508,
+            9.9959697
+          ],
+          [
+            116.4632998,
+            10.0105745
+          ],
+          [
+            116.3845563,
+            9.993095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1052743,
+            11.143982
+          ],
+          [
+            114.1104766,
+            11.0624628
+          ],
+          [
+            114.1435954,
+            10.989113
+          ],
+          [
+            114.2019989,
+            10.9303026
+          ],
+          [
+            114.2763149,
+            10.895813
+          ],
+          [
+            114.1506123,
+            10.7210722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.8345295,
+            7.6666667
+          ],
+          [
+            116.7386073,
+            7.740959
+          ],
+          [
+            116.6942688,
+            7.8297047
+          ],
+          [
+            116.6877522,
+            7.9339815
+          ],
+          [
+            116.7050188,
+            8.0728762
+          ],
+          [
+            116.7300993,
+            8.137292
+          ],
+          [
+            117.0952776,
+            8.7440892
+          ],
+          [
+            117.3182486,
+            9.0252858
+          ],
+          [
+            118.4495605,
+            10.1122146
+          ],
+          [
+            119.6494982,
+            12.3870706
+          ],
+          [
+            119.8110909,
+            13.8888281
+          ],
+          [
+            119.5771017,
+            15.7800015
+          ],
+          [
+            119.5415226,
+            15.9483476
+          ],
+          [
+            119.5461757,
+            16.1881346
+          ],
+          [
+            119.5772868,
+            16.3586053
+          ],
+          [
+            120.135829,
+            17.6221821
+          ],
+          [
+            120.1464445,
+            17.7352103
+          ],
+          [
+            120.3718448,
+            18.5800296
+          ],
+          [
+            121.0290134,
+            19.2764287
+          ],
+          [
+            121.5812967,
+            20.7878365
+          ],
+          [
+            121.7515054,
+            21.2048991
+          ],
+          [
+            121.8001622,
+            21.2681015
+          ],
+          [
+            121.8677878,
+            21.3079386
+          ],
+          [
+            121.9478079,
+            21.321928
+          ],
+          [
+            122.026406,
+            21.3075106
+          ],
+          [
+            122.1151813,
+            21.2510705
+          ],
+          [
+            122.1647679,
+            21.1640791
+          ],
+          [
+            122.371176,
+            19.9943202
+          ],
+          [
+            122.5460845,
+            18.3354775
+          ],
+          [
+            122.7357495,
+            17.1206004
+          ],
+          [
+            122.7198953,
+            17.0002883
+          ],
+          [
+            122.6457977,
+            16.7369362
+          ],
+          [
+            122.4607568,
+            16.3107496
+          ],
+          [
+            123.1189061,
+            14.6625701
+          ],
+          [
+            124.3455584,
+            14.2988988
+          ],
+          [
+            124.4314594,
+            14.247814
+          ],
+          [
+            125.2288847,
+            12.8062667
+          ],
+          [
+            125.438186,
+            12.6092188
+          ],
+          [
+            125.712692,
+            12.274212
+          ],
+          [
+            125.7626226,
+            12.1612538
+          ],
+          [
+            126.1650548,
+            10.7969582
+          ],
+          [
+            126.3647181,
+            9.8731509
+          ],
+          [
+            126.7697296,
+            7.7491826
+          ],
+          [
+            126.7974549,
+            7.5116903
+          ],
+          [
+            126.8008679,
+            7.2602132
+          ],
+          [
+            126.3600139,
+            6.1635026
+          ],
+          [
+            125.6258155,
+            5.261229
+          ],
+          [
+            125.4930883,
+            5.1817316
+          ],
+          [
+            125.3508227,
+            5.1686513
+          ],
+          [
+            125.2469615,
+            5.1980091
+          ],
+          [
+            124.1849619,
+            5.9628278
+          ],
+          [
+            122.3190786,
+            6.231811
+          ],
+          [
+            122.101116,
+            5.920988
+          ],
+          [
+            122.0220759,
+            5.8531905
+          ],
+          [
+            120.7975003,
+            5.0319207
+          ],
+          [
+            119.962765,
+            4.6181691
+          ],
+          [
+            119.5797348,
+            4.3833333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.8345295,
+            7.6666667
+          ],
+          [
+            117.0,
+            7.6666667
+          ],
+          [
+            117.0565015,
+            7.6328852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.0565015,
+            7.6328852
+          ],
+          [
+            117.1564953,
+            7.5730938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.1564953,
+            7.5730938
+          ],
+          [
+            117.4158774,
+            7.4179572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.4158774,
+            7.4179572
+          ],
+          [
+            117.9139647,
+            6.9198023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.9666667,
+            6.6009294
+          ],
+          [
+            118.1070944,
+            6.8065557
+          ],
+          [
+            117.9139647,
+            6.9198023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.9666667,
+            6.6009294
+          ],
+          [
+            117.9666667,
+            6.459818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.9666667,
+            6.459818
+          ],
+          [
+            117.9666667,
+            6.4265148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.9666667,
+            6.4265148
+          ],
+          [
+            117.9666667,
+            6.2833333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.9666667,
+            6.2833333
+          ],
+          [
+            118.341335,
+            6.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.341335,
+            6.0
+          ],
+          [
+            118.5392478,
+            6.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.5392478,
+            6.0
+          ],
+          [
+            118.6213913,
+            6.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.6213913,
+            6.0
+          ],
+          [
+            118.6521381,
+            6.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            118.6521381,
+            6.0
+          ],
+          [
+            118.8333333,
+            6.0
+          ],
+          [
+            119.128934,
+            5.7110792
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.5066393,
+            5.3416981
+          ],
+          [
+            119.4787734,
+            5.6181088
+          ],
+          [
+            119.128934,
+            5.7110792
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.5066393,
+            5.3416981
+          ],
+          [
+            119.5833333,
+            5.2666667
+          ],
+          [
+            119.5203392,
+            5.2057586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.4808581,
+            5.167582
+          ],
+          [
+            119.5228158,
+            5.1811808
+          ],
+          [
+            119.5203392,
+            5.2057586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.4808581,
+            5.167582
+          ],
+          [
+            119.4526866,
+            5.1403398
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.4526866,
+            5.1403398
+          ],
+          [
+            119.3334682,
+            5.0250415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.3334682,
+            5.0250415
+          ],
+          [
+            119.0,
+            4.7
+          ],
+          [
+            119.0,
+            4.6022431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.0,
+            4.6022431
+          ],
+          [
+            119.0,
+            4.3833333
+          ],
+          [
+            119.1408871,
+            4.3833333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            119.1408871,
+            4.3833333
+          ],
+          [
+            119.5797348,
+            4.3833333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.634008,
+            10.7264471
+          ],
+          [
+            115.634315,
+            10.6295123
+          ],
+          [
+            115.6821458,
+            10.5431615
+          ],
+          [
+            115.7648346,
+            10.4902777
+          ],
+          [
+            115.8631241,
+            10.4820681
+          ],
+          [
+            115.9444672,
+            10.5139321
+          ],
+          [
+            116.005256,
+            10.5777723
+          ],
+          [
+            116.0493631,
+            10.7269865
+          ],
+          [
+            116.0501073,
+            10.7937914
+          ],
+          [
+            116.0226128,
+            10.8667457
+          ],
+          [
+            115.9687355,
+            10.9237535
+          ],
+          [
+            115.8967139,
+            10.9561086
+          ],
+          [
+            115.8175612,
+            10.9588718
+          ],
+          [
+            115.7458113,
+            10.9330771
+          ],
+          [
+            115.6897664,
+            10.884123
+          ],
+          [
+            115.6587452,
+            10.827806
+          ],
+          [
+            115.634008,
+            10.7264471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.1199857,
+            10.9066176
+          ],
+          [
+            115.1751505,
+            10.9494011
+          ],
+          [
+            115.2122892,
+            11.0085862
+          ],
+          [
+            115.2264058,
+            11.0766896
+          ],
+          [
+            115.2157749,
+            11.1453843
+          ],
+          [
+            115.1816958,
+            11.2062767
+          ],
+          [
+            115.1295509,
+            11.2512073
+          ],
+          [
+            115.0636077,
+            11.2765072
+          ],
+          [
+            114.9928144,
+            11.2779992
+          ],
+          [
+            114.9112456,
+            11.2467782
+          ],
+          [
+            114.851478,
+            11.1858901
+          ],
+          [
+            114.8251708,
+            11.119912
+          ],
+          [
+            114.8241087,
+            11.049165
+          ],
+          [
+            114.7680006,
+            11.0053494
+          ],
+          [
+            114.7307772,
+            10.9446038
+          ],
+          [
+            114.7199209,
+            10.844241
+          ],
+          [
+            114.7468927,
+            10.7710931
+          ],
+          [
+            114.8003607,
+            10.7136856
+          ],
+          [
+            114.8721489,
+            10.6808078
+          ],
+          [
+            114.9512799,
+            10.6774954
+          ],
+          [
+            115.0256534,
+            10.7042561
+          ],
+          [
+            115.0838967,
+            10.7569905
+          ],
+          [
+            115.1171035,
+            10.827624
+          ],
+          [
+            115.1199857,
+            10.9066176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.6861371,
+            10.5840865
+          ],
+          [
+            114.7332946,
+            10.6855527
+          ],
+          [
+            114.7179851,
+            10.7949408
+          ],
+          [
+            114.6743675,
+            10.8565603
+          ],
+          [
+            114.6106115,
+            10.8979162
+          ],
+          [
+            114.5343672,
+            10.9131476
+          ],
+          [
+            114.4576634,
+            10.8989366
+          ],
+          [
+            114.4292351,
+            10.9129213
+          ],
+          [
+            114.4760546,
+            10.9861652
+          ],
+          [
+            114.4868318,
+            11.0714552
+          ],
+          [
+            114.4599246,
+            11.1532169
+          ],
+          [
+            114.4001558,
+            11.2163171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.4486999,
+            10.5478291
+          ],
+          [
+            114.5340593,
+            10.5477463
+          ],
+          [
+            114.6861371,
+            10.5840865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.2616375,
+            10.5480105
+          ],
+          [
+            114.4486999,
+            10.5478291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1506123,
+            10.7210722
+          ],
+          [
+            114.181984,
+            10.6219778
+          ],
+          [
+            114.2616375,
+            10.5480105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.183725,
+            11.2246932
+          ],
+          [
+            114.1052743,
+            11.143982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.183725,
+            11.2246932
+          ],
+          [
+            114.4001558,
+            11.2163171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.4852487,
+            11.2995739
+          ],
+          [
+            114.5383542,
+            11.366824
+          ],
+          [
+            114.5580942,
+            11.4493322
+          ],
+          [
+            114.5411385,
+            11.5324089
+          ],
+          [
+            114.4905425,
+            11.6010886
+          ],
+          [
+            114.4154241,
+            11.6430091
+          ],
+          [
+            114.3279034,
+            11.6504513
+          ],
+          [
+            114.246533,
+            11.6218402
+          ],
+          [
+            114.1845575,
+            11.5626546
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1845575,
+            11.5626546
+          ],
+          [
+            114.3447402,
+            11.4390546
+          ],
+          [
+            114.4852487,
+            11.2995739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PH",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "name": "Philippines"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.2987551,
+            8.4932662
+          ],
+          [
+            115.3734026,
+            8.448734
+          ],
+          [
+            115.4052993,
+            8.3837636
+          ],
+          [
+            115.4000839,
+            8.3117084
+          ],
+          [
+            115.3591537,
+            8.2518767
+          ],
+          [
+            115.3078076,
+            8.2238202
+          ],
+          [
+            115.24937,
+            8.218858
+          ],
+          [
+            115.1343467,
+            8.247429
+          ],
+          [
+            115.0738845,
+            8.2879337
+          ],
+          [
+            115.0455355,
+            8.3387403
+          ],
+          [
+            115.0405217,
+            8.3965558
+          ],
+          [
+            115.0881334,
+            8.4847727
+          ],
+          [
+            115.1684348,
+            8.5183269
+          ],
+          [
+            115.2987551,
+            8.4932662
+          ]
+        ]
+      }
+    }
+  ]
+}

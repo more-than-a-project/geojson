@@ -1,0 +1,599 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4355438,
+            43.9566961
+          ],
+          [
+            12.4044776,
+            43.9557453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4044776,
+            43.9557453
+          ],
+          [
+            12.4121936,
+            43.9367215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4121936,
+            43.9367215
+          ],
+          [
+            12.4127529,
+            43.9353605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4127529,
+            43.9353605
+          ],
+          [
+            12.4145689,
+            43.9325136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4145689,
+            43.9325136
+          ],
+          [
+            12.4151275,
+            43.9311697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4151275,
+            43.9311697
+          ],
+          [
+            12.4088073,
+            43.9021828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4088073,
+            43.9021828
+          ],
+          [
+            12.4156115,
+            43.900204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4156115,
+            43.900204
+          ],
+          [
+            12.4347555,
+            43.9032991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4347555,
+            43.9032991
+          ],
+          [
+            12.462394,
+            43.8937714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.462394,
+            43.8937714
+          ],
+          [
+            12.4679717,
+            43.8954036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4679717,
+            43.8954036
+          ],
+          [
+            12.4698595,
+            43.8973668
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4698595,
+            43.8973668
+          ],
+          [
+            12.4699145,
+            43.8975403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4699145,
+            43.8975403
+          ],
+          [
+            12.4874043,
+            43.8964693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4874043,
+            43.8964693
+          ],
+          [
+            12.4934381,
+            43.9147688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4934381,
+            43.9147688
+          ],
+          [
+            12.4934481,
+            43.9153729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4934481,
+            43.9153729
+          ],
+          [
+            12.516202,
+            43.9407438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.516202,
+            43.9407438
+          ],
+          [
+            12.5158093,
+            43.9434767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5158093,
+            43.9434767
+          ],
+          [
+            12.5121643,
+            43.9516655
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5121643,
+            43.9516655
+          ],
+          [
+            12.5074703,
+            43.9647097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5074703,
+            43.9647097
+          ],
+          [
+            12.5073281,
+            43.9674572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5073281,
+            43.9674572
+          ],
+          [
+            12.5134335,
+            43.9913158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5134335,
+            43.9913158
+          ],
+          [
+            12.4988756,
+            43.985748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4988756,
+            43.985748
+          ],
+          [
+            12.4829676,
+            43.980889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4829676,
+            43.980889
+          ],
+          [
+            12.4529394,
+            43.9692955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4529394,
+            43.9692955
+          ],
+          [
+            12.4489538,
+            43.9660908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4489538,
+            43.9660908
+          ],
+          [
+            12.4365217,
+            43.9566339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SM",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "name": "San Marino"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4365217,
+            43.9566339
+          ],
+          [
+            12.4355438,
+            43.9566961
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,6349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7553738,
+            13.6207257
+          ],
+          [
+            -87.7834803,
+            13.5700201
+          ],
+          [
+            -87.7934519,
+            13.5240009
+          ],
+          [
+            -87.778106,
+            13.5180145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.778106,
+            13.5180145
+          ],
+          [
+            -87.7207683,
+            13.5053341
+          ],
+          [
+            -87.7164262,
+            13.4663391
+          ],
+          [
+            -87.7238227,
+            13.4423943
+          ],
+          [
+            -87.785943,
+            13.4240866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.785943,
+            13.4240866
+          ],
+          [
+            -87.7903392,
+            13.4142065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7903392,
+            13.4142065
+          ],
+          [
+            -87.7980792,
+            13.4116062
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7980792,
+            13.4116062
+          ],
+          [
+            -87.8000769,
+            13.4118622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8000769,
+            13.4118622
+          ],
+          [
+            -87.8132867,
+            13.4104316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8132867,
+            13.4104316
+          ],
+          [
+            -87.8185564,
+            13.4091157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8185564,
+            13.4091157
+          ],
+          [
+            -87.8216577,
+            13.4094678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8216577,
+            13.4094678
+          ],
+          [
+            -87.823664,
+            13.4056917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.823664,
+            13.4056917
+          ],
+          [
+            -87.823137,
+            13.3679259
+          ],
+          [
+            -87.738362,
+            13.3363564
+          ],
+          [
+            -87.7012413,
+            13.2800615
+          ],
+          [
+            -87.7036662,
+            13.2549674
+          ],
+          [
+            -87.5971467,
+            13.1706956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.4113717,
+            13.0115853
+          ],
+          [
+            -87.4943895,
+            13.0876354
+          ],
+          [
+            -87.5458489,
+            13.1780817
+          ],
+          [
+            -87.5971467,
+            13.1706956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.3103925,
+            12.9875763
+          ],
+          [
+            -87.394492,
+            12.9837207
+          ],
+          [
+            -87.4113717,
+            13.0115853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.3083303,
+            12.9876708
+          ],
+          [
+            -87.3103925,
+            12.9875763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.3083303,
+            12.9876708
+          ],
+          [
+            -87.1607978,
+            12.9967014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.1607978,
+            12.9967014
+          ],
+          [
+            -87.1349295,
+            12.9981817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.1349295,
+            12.9981817
+          ],
+          [
+            -87.1299674,
+            12.9984656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.1299674,
+            12.9984656
+          ],
+          [
+            -87.120887,
+            12.9989852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.120887,
+            12.9989852
+          ],
+          [
+            -87.1059693,
+            12.9998856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.1059693,
+            12.9998856
+          ],
+          [
+            -87.0647078,
+            13.0023762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0647156,
+            13.0021014
+          ],
+          [
+            -87.0647078,
+            13.0023762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.038255,
+            12.986308
+          ],
+          [
+            -87.0504663,
+            12.9809715
+          ],
+          [
+            -87.0647156,
+            13.0021014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0290378,
+            12.9860671
+          ],
+          [
+            -87.038255,
+            12.986308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.023828,
+            12.9972292
+          ],
+          [
+            -87.0290378,
+            12.9860671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0185638,
+            12.9997804
+          ],
+          [
+            -87.023828,
+            12.9972292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9779664,
+            13.0209729
+          ],
+          [
+            -87.0185638,
+            12.9997804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9627684,
+            13.0330528
+          ],
+          [
+            -86.9779664,
+            13.0209729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9337112,
+            13.1264491
+          ],
+          [
+            -86.9157317,
+            13.0984022
+          ],
+          [
+            -86.9539982,
+            13.0637426
+          ],
+          [
+            -86.9627684,
+            13.0330528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9132606,
+            13.1516716
+          ],
+          [
+            -86.9337112,
+            13.1264491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9215433,
+            13.1668482
+          ],
+          [
+            -86.9132606,
+            13.1516716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9093909,
+            13.2248784
+          ],
+          [
+            -86.9225541,
+            13.2238958
+          ],
+          [
+            -86.9319124,
+            13.1888312
+          ],
+          [
+            -86.9215433,
+            13.1668482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9098567,
+            13.2275565
+          ],
+          [
+            -86.9093909,
+            13.2248784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.9130014,
+            13.2432695
+          ],
+          [
+            -86.9098567,
+            13.2275565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.8930298,
+            13.2730079
+          ],
+          [
+            -86.9151447,
+            13.2611869
+          ],
+          [
+            -86.9130014,
+            13.2432695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.8755353,
+            13.2802105
+          ],
+          [
+            -86.8930298,
+            13.2730079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.778472,
+            13.2850801
+          ],
+          [
+            -86.8284436,
+            13.3133747
+          ],
+          [
+            -86.8678799,
+            13.3045283
+          ],
+          [
+            -86.8755353,
+            13.2802105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.778472,
+            13.2850801
+          ],
+          [
+            -86.7541965,
+            13.2676256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7541965,
+            13.2676256
+          ],
+          [
+            -86.7116825,
+            13.2957009
+          ],
+          [
+            -86.7078145,
+            13.3231156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7078145,
+            13.3231156
+          ],
+          [
+            -86.7105353,
+            13.3591594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7105353,
+            13.3591594
+          ],
+          [
+            -86.7443797,
+            13.4019471
+          ],
+          [
+            -86.7247484,
+            13.4473496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7247484,
+            13.4473496
+          ],
+          [
+            -86.749444,
+            13.565278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.749444,
+            13.565278
+          ],
+          [
+            -86.7698964,
+            13.5769012
+          ],
+          [
+            -86.7550503,
+            13.6514387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7550503,
+            13.6514387
+          ],
+          [
+            -86.7860641,
+            13.6622495
+          ],
+          [
+            -86.7691711,
+            13.7002711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7636779,
+            13.7677131
+          ],
+          [
+            -86.7691711,
+            13.7002711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7627713,
+            13.768968
+          ],
+          [
+            -86.7636779,
+            13.7677131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7627713,
+            13.768968
+          ],
+          [
+            -86.7235528,
+            13.7870165
+          ],
+          [
+            -86.6661095,
+            13.7843421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.6545037,
+            13.7773823
+          ],
+          [
+            -86.6661095,
+            13.7843421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5818775,
+            13.7860595
+          ],
+          [
+            -86.6545037,
+            13.7773823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5818775,
+            13.7860595
+          ],
+          [
+            -86.5757029,
+            13.7909809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5757029,
+            13.7909809
+          ],
+          [
+            -86.5748448,
+            13.7914108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5748448,
+            13.7914108
+          ],
+          [
+            -86.5373315,
+            13.8050142
+          ],
+          [
+            -86.5216062,
+            13.7801821
+          ],
+          [
+            -86.490016,
+            13.7687991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.490016,
+            13.7687991
+          ],
+          [
+            -86.4536978,
+            13.7898467
+          ],
+          [
+            -86.4376096,
+            13.7628393
+          ],
+          [
+            -86.3986118,
+            13.7630361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.3986118,
+            13.7630361
+          ],
+          [
+            -86.3781246,
+            13.7713103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.3781246,
+            13.7713103
+          ],
+          [
+            -86.3322636,
+            13.7691299
+          ],
+          [
+            -86.2962201,
+            13.8160856
+          ],
+          [
+            -86.3029385,
+            13.8387098
+          ],
+          [
+            -86.2905083,
+            13.8523228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.2905083,
+            13.8523228
+          ],
+          [
+            -86.2783013,
+            13.8759596
+          ],
+          [
+            -86.2569115,
+            13.8804667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.2569115,
+            13.8804667
+          ],
+          [
+            -86.2253992,
+            13.908072
+          ],
+          [
+            -86.2177415,
+            13.9367989
+          ],
+          [
+            -86.1860033,
+            13.9553576
+          ],
+          [
+            -86.1906984,
+            13.9840344
+          ],
+          [
+            -86.1709677,
+            13.9796635
+          ],
+          [
+            -86.1407362,
+            13.9995061
+          ],
+          [
+            -86.1516516,
+            14.0357814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.1516516,
+            14.0357814
+          ],
+          [
+            -86.0770712,
+            14.0629738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0770712,
+            14.0629738
+          ],
+          [
+            -86.0429325,
+            14.0695681
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0429325,
+            14.0695681
+          ],
+          [
+            -86.0387797,
+            14.0767126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0387797,
+            14.0767126
+          ],
+          [
+            -86.0269357,
+            14.0776065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0269357,
+            14.0776065
+          ],
+          [
+            -86.0034911,
+            14.0701697
+          ],
+          [
+            -86.0420179,
+            13.9961019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.0420179,
+            13.9961019
+          ],
+          [
+            -85.9185172,
+            13.9375955
+          ],
+          [
+            -85.9148996,
+            13.910151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.9148996,
+            13.910151
+          ],
+          [
+            -85.8922645,
+            13.9043885
+          ],
+          [
+            -85.8819267,
+            13.9296155
+          ],
+          [
+            -85.8454181,
+            13.9176303
+          ],
+          [
+            -85.8217379,
+            13.8527316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.8217379,
+            13.8527316
+          ],
+          [
+            -85.7549858,
+            13.8464502
+          ],
+          [
+            -85.7522875,
+            13.8323034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.7522875,
+            13.8323034
+          ],
+          [
+            -85.7335791,
+            13.8615623
+          ],
+          [
+            -85.7641268,
+            13.8847662
+          ],
+          [
+            -85.7533676,
+            13.9677958
+          ],
+          [
+            -85.7067698,
+            13.9929919
+          ],
+          [
+            -85.6776363,
+            13.979365
+          ],
+          [
+            -85.6649005,
+            14.0081879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6649005,
+            14.0081879
+          ],
+          [
+            -85.6246197,
+            14.0088942
+          ],
+          [
+            -85.5701267,
+            14.0645585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.5701267,
+            14.0645585
+          ],
+          [
+            -85.5549081,
+            14.0633601
+          ],
+          [
+            -85.5610728,
+            14.0508624
+          ],
+          [
+            -85.5193946,
+            14.0474557
+          ],
+          [
+            -85.5048537,
+            14.0884472
+          ],
+          [
+            -85.4936582,
+            14.0760688
+          ],
+          [
+            -85.4549968,
+            14.1139096
+          ],
+          [
+            -85.4300737,
+            14.106613
+          ],
+          [
+            -85.404112,
+            14.1231207
+          ],
+          [
+            -85.39797,
+            14.1627759
+          ],
+          [
+            -85.3748202,
+            14.1835549
+          ],
+          [
+            -85.3829742,
+            14.2216742
+          ],
+          [
+            -85.3614647,
+            14.2128694
+          ],
+          [
+            -85.3398818,
+            14.2488479
+          ],
+          [
+            -85.2677035,
+            14.2619187
+          ],
+          [
+            -85.1849598,
+            14.2500841
+          ],
+          [
+            -85.1529168,
+            14.2999934
+          ],
+          [
+            -85.1803923,
+            14.3158892
+          ],
+          [
+            -85.1815953,
+            14.3327296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.1815953,
+            14.3327296
+          ],
+          [
+            -85.1923228,
+            14.3295903
+          ],
+          [
+            -85.1973929,
+            14.3652222
+          ],
+          [
+            -85.2211619,
+            14.3767788
+          ],
+          [
+            -85.1811677,
+            14.4283474
+          ],
+          [
+            -85.184319,
+            14.4678743
+          ],
+          [
+            -85.1482487,
+            14.5000351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.1482487,
+            14.5000351
+          ],
+          [
+            -85.1464033,
+            14.5769589
+          ],
+          [
+            -85.1227544,
+            14.5859504
+          ],
+          [
+            -85.0968441,
+            14.5531379
+          ],
+          [
+            -85.0638235,
+            14.560285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.0638235,
+            14.560285
+          ],
+          [
+            -85.0236064,
+            14.6098721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.0236064,
+            14.6098721
+          ],
+          [
+            -85.0431131,
+            14.6104952
+          ],
+          [
+            -85.0245451,
+            14.6377764
+          ],
+          [
+            -85.0506876,
+            14.6526786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.0506876,
+            14.6526786
+          ],
+          [
+            -85.0205327,
+            14.6871187
+          ],
+          [
+            -85.0285953,
+            14.7029574
+          ],
+          [
+            -85.0002122,
+            14.7247906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.0002122,
+            14.7247906
+          ],
+          [
+            -84.9602258,
+            14.7573703
+          ],
+          [
+            -84.92746,
+            14.7591445
+          ],
+          [
+            -84.898932,
+            14.8158044
+          ],
+          [
+            -84.8524225,
+            14.8127031
+          ],
+          [
+            -84.8164487,
+            14.8291322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.8164487,
+            14.8291322
+          ],
+          [
+            -84.7880244,
+            14.8144692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.7880244,
+            14.8144692
+          ],
+          [
+            -84.7867298,
+            14.7942423
+          ],
+          [
+            -84.7497797,
+            14.7697577
+          ],
+          [
+            -84.7521107,
+            14.753105
+          ],
+          [
+            -84.766675,
+            14.7615955
+          ],
+          [
+            -84.7724176,
+            14.7491533
+          ],
+          [
+            -84.7423339,
+            14.7493296
+          ],
+          [
+            -84.7448125,
+            14.7153539
+          ],
+          [
+            -84.7007489,
+            14.6912098
+          ],
+          [
+            -84.7016823,
+            14.6649309
+          ],
+          [
+            -84.6719849,
+            14.6955374
+          ],
+          [
+            -84.6654487,
+            14.6725954
+          ],
+          [
+            -84.5855856,
+            14.6676088
+          ],
+          [
+            -84.574919,
+            14.6518872
+          ],
+          [
+            -84.5267701,
+            14.6577483
+          ],
+          [
+            -84.5333235,
+            14.6327441
+          ],
+          [
+            -84.5082843,
+            14.6369361
+          ],
+          [
+            -84.4718524,
+            14.615845
+          ],
+          [
+            -84.4631911,
+            14.6325035
+          ],
+          [
+            -84.4146398,
+            14.6415574
+          ],
+          [
+            -84.3806248,
+            14.6844833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.3806248,
+            14.6844833
+          ],
+          [
+            -84.3615621,
+            14.7172416
+          ],
+          [
+            -84.344455,
+            14.7018574
+          ],
+          [
+            -84.3494034,
+            14.6798227
+          ],
+          [
+            -84.309876,
+            14.6846663
+          ],
+          [
+            -84.2969449,
+            14.6629351
+          ],
+          [
+            -84.2768698,
+            14.6621507
+          ],
+          [
+            -84.2578865,
+            14.6784497
+          ],
+          [
+            -84.2718613,
+            14.7344069
+          ],
+          [
+            -84.2328912,
+            14.7612003
+          ],
+          [
+            -84.2279817,
+            14.7336756
+          ],
+          [
+            -84.1885433,
+            14.7157803
+          ],
+          [
+            -84.0973988,
+            14.7292097
+          ],
+          [
+            -84.1102767,
+            14.7912107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.1102767,
+            14.7912107
+          ],
+          [
+            -84.0820384,
+            14.7870925
+          ],
+          [
+            -84.0803634,
+            14.7572573
+          ],
+          [
+            -84.0440637,
+            14.7758732
+          ],
+          [
+            -84.0334088,
+            14.746985
+          ],
+          [
+            -83.9972997,
+            14.7616767
+          ],
+          [
+            -83.9883135,
+            14.7486999
+          ],
+          [
+            -83.9443103,
+            14.7593887
+          ],
+          [
+            -83.9261135,
+            14.7479888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.9261135,
+            14.7479888
+          ],
+          [
+            -83.9364346,
+            14.7772828
+          ],
+          [
+            -83.8915802,
+            14.7662804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.8915802,
+            14.7662804
+          ],
+          [
+            -83.8425088,
+            14.7737468
+          ],
+          [
+            -83.829162,
+            14.7968049
+          ],
+          [
+            -83.809968,
+            14.7895967
+          ],
+          [
+            -83.7836576,
+            14.8236786
+          ],
+          [
+            -83.7581341,
+            14.8065039
+          ],
+          [
+            -83.7527171,
+            14.8314017
+          ],
+          [
+            -83.7298261,
+            14.8206741
+          ],
+          [
+            -83.7318104,
+            14.8409493
+          ],
+          [
+            -83.7217037,
+            14.8295551
+          ],
+          [
+            -83.7108447,
+            14.8428723
+          ],
+          [
+            -83.7006387,
+            14.8245088
+          ],
+          [
+            -83.6999819,
+            14.850317
+          ],
+          [
+            -83.722334,
+            14.853365
+          ],
+          [
+            -83.6979565,
+            14.8596568
+          ],
+          [
+            -83.6940397,
+            14.8801174
+          ],
+          [
+            -83.6824944,
+            14.8664532
+          ],
+          [
+            -83.6441655,
+            14.8823526
+          ],
+          [
+            -83.615744,
+            14.8745057
+          ],
+          [
+            -83.6146117,
+            14.8999271
+          ],
+          [
+            -83.5931438,
+            14.9040727
+          ],
+          [
+            -83.5986274,
+            14.9197169
+          ],
+          [
+            -83.5600005,
+            14.9123635
+          ],
+          [
+            -83.5568619,
+            14.9410278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.5568619,
+            14.9410278
+          ],
+          [
+            -83.5382086,
+            14.9411661
+          ],
+          [
+            -83.5475035,
+            14.9575253
+          ],
+          [
+            -83.5290199,
+            14.9500651
+          ],
+          [
+            -83.5409425,
+            14.9752304
+          ],
+          [
+            -83.5243757,
+            14.9748774
+          ],
+          [
+            -83.5292892,
+            14.9919589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.5292892,
+            14.9919589
+          ],
+          [
+            -83.4998004,
+            15.0111926
+          ],
+          [
+            -83.4619152,
+            14.9809537
+          ],
+          [
+            -83.4204362,
+            14.9903205
+          ],
+          [
+            -83.4021692,
+            15.0297034
+          ],
+          [
+            -83.3483095,
+            14.9952598
+          ],
+          [
+            -83.342801,
+            15.0103212
+          ],
+          [
+            -83.2764056,
+            15.0059973
+          ],
+          [
+            -83.2776979,
+            14.9876604
+          ],
+          [
+            -83.2353059,
+            14.9822815
+          ],
+          [
+            -83.1985565,
+            14.9990298
+          ],
+          [
+            -83.1442044,
+            14.9982783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.1442044,
+            14.9982783
+          ],
+          [
+            -83.0999663,
+            15.0142362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.0999663,
+            15.0142362
+          ],
+          [
+            -82.8816667,
+            15.0902778
+          ],
+          [
+            -82.869987,
+            15.0180702
+          ],
+          [
+            -82.8341667,
+            14.9536111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.4882329,
+            14.8872476
+          ],
+          [
+            -82.5655556,
+            14.9458333
+          ],
+          [
+            -82.8341667,
+            14.9536111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.3655556,
+            15.2688889
+          ],
+          [
+            -82.2972041,
+            15.2304722
+          ],
+          [
+            -82.2487741,
+            15.1701143
+          ],
+          [
+            -82.227335,
+            15.0966115
+          ],
+          [
+            -82.236016,
+            15.0206851
+          ],
+          [
+            -82.2736719,
+            14.9532782
+          ],
+          [
+            -82.3348477,
+            14.9044464
+          ],
+          [
+            -82.4090982,
+            14.8815931
+          ],
+          [
+            -82.4882329,
+            14.8872476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.5000425,
+            15.4075894
+          ],
+          [
+            -82.39129,
+            15.322189
+          ],
+          [
+            -82.360939,
+            15.283028
+          ],
+          [
+            -82.3655556,
+            15.2688889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.047253,
+            15.912326
+          ],
+          [
+            -82.957942,
+            15.944354
+          ],
+          [
+            -82.863236,
+            15.934625
+          ],
+          [
+            -82.753731,
+            15.873112
+          ],
+          [
+            -82.696065,
+            15.794078
+          ],
+          [
+            -82.681021,
+            15.711364
+          ],
+          [
+            -82.702037,
+            15.628604
+          ],
+          [
+            -82.760457,
+            15.558518
+          ],
+          [
+            -82.844234,
+            15.519631
+          ],
+          [
+            -82.862603,
+            15.462966
+          ],
+          [
+            -82.79618,
+            15.409772
+          ],
+          [
+            -82.626608,
+            15.450811
+          ],
+          [
+            -82.55836,
+            15.439001
+          ],
+          [
+            -82.5000425,
+            15.4075894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.505372,
+            15.92501
+          ],
+          [
+            -83.541683,
+            16.037575
+          ],
+          [
+            -83.517013,
+            16.143467
+          ],
+          [
+            -83.435605,
+            16.223914
+          ],
+          [
+            -83.3258,
+            16.251012
+          ],
+          [
+            -83.237939,
+            16.230049
+          ],
+          [
+            -83.167178,
+            16.174876
+          ],
+          [
+            -83.065393,
+            15.998606
+          ],
+          [
+            -83.047253,
+            15.912326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.1735133,
+            15.3214099
+          ],
+          [
+            -83.155143,
+            15.374809
+          ],
+          [
+            -83.22721,
+            15.430345
+          ],
+          [
+            -83.267954,
+            15.505966
+          ],
+          [
+            -83.275208,
+            15.56981
+          ],
+          [
+            -83.261768,
+            15.632394
+          ],
+          [
+            -83.328462,
+            15.629469
+          ],
+          [
+            -83.392732,
+            15.647097
+          ],
+          [
+            -83.448566,
+            15.684183
+          ],
+          [
+            -83.489011,
+            15.735703
+          ],
+          [
+            -83.512563,
+            15.813444
+          ],
+          [
+            -83.505372,
+            15.92501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.9917661,
+            16.2048608
+          ],
+          [
+            -84.9399986,
+            16.1712335
+          ],
+          [
+            -84.2124416,
+            15.9945431
+          ],
+          [
+            -83.2753772,
+            15.4196912
+          ],
+          [
+            -83.1735133,
+            15.3214099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.2288515,
+            16.3587985
+          ],
+          [
+            -84.9917661,
+            16.2048608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.3037063,
+            16.2145202
+          ],
+          [
+            -86.8004767,
+            16.4236839
+          ],
+          [
+            -86.7298609,
+            16.4852325
+          ],
+          [
+            -86.2714629,
+            16.6270819
+          ],
+          [
+            -85.8744603,
+            16.71594
+          ],
+          [
+            -85.8009483,
+            16.7113131
+          ],
+          [
+            -85.7245093,
+            16.6832818
+          ],
+          [
+            -85.2288515,
+            16.3587985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7005235,
+            16.1637764
+          ],
+          [
+            -87.3037063,
+            16.2145202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0738341,
+            16.0279556
+          ],
+          [
+            -87.7005235,
+            16.1637764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2134425,
+            15.9342592
+          ],
+          [
+            -88.0738341,
+            16.0279556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2134425,
+            15.9342592
+          ],
+          [
+            -88.2278143,
+            15.7238365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2371645,
+            15.7225125
+          ],
+          [
+            -88.2278143,
+            15.7238365
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2678328,
+            15.6825169
+          ],
+          [
+            -88.2472454,
+            15.6885132
+          ],
+          [
+            -88.2527208,
+            15.7228265
+          ],
+          [
+            -88.2371645,
+            15.7225125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3134485,
+            15.6821093
+          ],
+          [
+            -88.2823852,
+            15.6744013
+          ],
+          [
+            -88.283234,
+            15.6945422
+          ],
+          [
+            -88.2678328,
+            15.6825169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3209869,
+            15.6699484
+          ],
+          [
+            -88.3134485,
+            15.6821093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3242654,
+            15.6723426
+          ],
+          [
+            -88.3209869,
+            15.6699484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3260835,
+            15.6675712
+          ],
+          [
+            -88.3242654,
+            15.6723426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3288517,
+            15.6404538
+          ],
+          [
+            -88.3260835,
+            15.6675712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3305222,
+            15.6389528
+          ],
+          [
+            -88.3288517,
+            15.6404538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3457244,
+            15.6176683
+          ],
+          [
+            -88.3305222,
+            15.6389528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3457244,
+            15.6176683
+          ],
+          [
+            -88.4730449,
+            15.5136669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4730449,
+            15.5136669
+          ],
+          [
+            -88.4872117,
+            15.5017651
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4872117,
+            15.5017651
+          ],
+          [
+            -88.5089114,
+            15.4832334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5089114,
+            15.4832334
+          ],
+          [
+            -88.5343104,
+            15.4615469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5343104,
+            15.4615469
+          ],
+          [
+            -88.5538173,
+            15.4463587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5616547,
+            15.4389025
+          ],
+          [
+            -88.5538173,
+            15.4463587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5653079,
+            15.4335351
+          ],
+          [
+            -88.5616547,
+            15.4389025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5653079,
+            15.4335351
+          ],
+          [
+            -88.5760032,
+            15.42541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5760032,
+            15.42541
+          ],
+          [
+            -88.582423,
+            15.4213441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.582423,
+            15.4213441
+          ],
+          [
+            -88.5841075,
+            15.4192058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5841075,
+            15.4192058
+          ],
+          [
+            -88.5881388,
+            15.4214036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5881388,
+            15.4214036
+          ],
+          [
+            -88.6109054,
+            15.4076139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.6109054,
+            15.4076139
+          ],
+          [
+            -88.6142314,
+            15.4044722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.6142314,
+            15.4044722
+          ],
+          [
+            -88.6543185,
+            15.3655667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.6543185,
+            15.3655667
+          ],
+          [
+            -88.6817932,
+            15.3403022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.6817932,
+            15.3403022
+          ],
+          [
+            -88.7582525,
+            15.2949094
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.7582525,
+            15.2949094
+          ],
+          [
+            -88.8701143,
+            15.222919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8701143,
+            15.222919
+          ],
+          [
+            -88.9350458,
+            15.1688325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.9350458,
+            15.1688325
+          ],
+          [
+            -88.9423325,
+            15.1625418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.9423325,
+            15.1625418
+          ],
+          [
+            -88.9749569,
+            15.1361957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.9749569,
+            15.1361957
+          ],
+          [
+            -89.0059565,
+            15.1244776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.0059565,
+            15.1244776
+          ],
+          [
+            -89.0564225,
+            15.1056888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.0564225,
+            15.1056888
+          ],
+          [
+            -89.0841494,
+            15.0953426
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.0841494,
+            15.0953426
+          ],
+          [
+            -89.1542594,
+            15.0688692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1537678,
+            15.056503
+          ],
+          [
+            -89.1542594,
+            15.0688692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1537678,
+            15.056503
+          ],
+          [
+            -89.1657069,
+            15.0407364
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1657069,
+            15.0407364
+          ],
+          [
+            -89.1749947,
+            15.038025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1749947,
+            15.038025
+          ],
+          [
+            -89.1840608,
+            15.0044194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1840608,
+            15.0044194
+          ],
+          [
+            -89.1566316,
+            14.9797535
+          ],
+          [
+            -89.1789789,
+            14.9232769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1789789,
+            14.9232769
+          ],
+          [
+            -89.2280669,
+            14.8825217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2280669,
+            14.8825217
+          ],
+          [
+            -89.2237826,
+            14.8346939
+          ],
+          [
+            -89.1942918,
+            14.7972929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1942918,
+            14.7972929
+          ],
+          [
+            -89.168857,
+            14.7749033
+          ],
+          [
+            -89.1653753,
+            14.7315808
+          ],
+          [
+            -89.1311568,
+            14.7130345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1311568,
+            14.7130345
+          ],
+          [
+            -89.1496871,
+            14.6760082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1496871,
+            14.6760082
+          ],
+          [
+            -89.1555343,
+            14.6737663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1500626,
+            14.6391915
+          ],
+          [
+            -89.1555343,
+            14.6737663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1513303,
+            14.5847697
+          ],
+          [
+            -89.1500626,
+            14.6391915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1513303,
+            14.5847697
+          ],
+          [
+            -89.1631855,
+            14.5721304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1631855,
+            14.5721304
+          ],
+          [
+            -89.1959327,
+            14.5775663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1959327,
+            14.5775663
+          ],
+          [
+            -89.1963536,
+            14.5777626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1963536,
+            14.5777626
+          ],
+          [
+            -89.2013602,
+            14.5800936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2013602,
+            14.5800936
+          ],
+          [
+            -89.2384654,
+            14.5848204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2384654,
+            14.5848204
+          ],
+          [
+            -89.2634178,
+            14.5476775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2830711,
+            14.5313798
+          ],
+          [
+            -89.2634178,
+            14.5476775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2830841,
+            14.5311943
+          ],
+          [
+            -89.2830711,
+            14.5313798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2831153,
+            14.5311111
+          ],
+          [
+            -89.2830841,
+            14.5311943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2841506,
+            14.5281667
+          ],
+          [
+            -89.2831153,
+            14.5311111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2992069,
+            14.5088161
+          ],
+          [
+            -89.2841506,
+            14.5281667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3029454,
+            14.5079727
+          ],
+          [
+            -89.2992069,
+            14.5088161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3056603,
+            14.5052326
+          ],
+          [
+            -89.3029454,
+            14.5079727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3056603,
+            14.5052326
+          ],
+          [
+            -89.3020339,
+            14.4937393
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3567419,
+            14.4670086
+          ],
+          [
+            -89.3020339,
+            14.4937393
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3522717,
+            14.425811
+          ],
+          [
+            -89.3567419,
+            14.4670086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3522717,
+            14.425811
+          ],
+          [
+            -89.3559888,
+            14.4206107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3559888,
+            14.4206107
+          ],
+          [
+            -89.3075037,
+            14.4134828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3075037,
+            14.4134828
+          ],
+          [
+            -89.2969097,
+            14.4175168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2969097,
+            14.4175168
+          ],
+          [
+            -89.2620894,
+            14.3966048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2620894,
+            14.3966048
+          ],
+          [
+            -89.2345484,
+            14.3955774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2345484,
+            14.3955774
+          ],
+          [
+            -89.2127834,
+            14.3879629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2127834,
+            14.3879629
+          ],
+          [
+            -89.2119965,
+            14.3847525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2119965,
+            14.3847525
+          ],
+          [
+            -89.2114192,
+            14.3731034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1834803,
+            14.3654752
+          ],
+          [
+            -89.2114192,
+            14.3731034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1834803,
+            14.3654752
+          ],
+          [
+            -89.1774326,
+            14.3654024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1774326,
+            14.3654024
+          ],
+          [
+            -89.1685862,
+            14.3660815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1685862,
+            14.3660815
+          ],
+          [
+            -89.1457198,
+            14.3822134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1457198,
+            14.3822134
+          ],
+          [
+            -89.1086255,
+            14.4085178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1086255,
+            14.4085178
+          ],
+          [
+            -89.1017558,
+            14.4046091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1017558,
+            14.4046091
+          ],
+          [
+            -89.0835248,
+            14.381284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.0835248,
+            14.381284
+          ],
+          [
+            -89.0823741,
+            14.3551206
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.0823741,
+            14.3551206
+          ],
+          [
+            -89.0832671,
+            14.3489623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.0832671,
+            14.3489623
+          ],
+          [
+            -89.0811323,
+            14.3406113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.0811323,
+            14.3406113
+          ],
+          [
+            -89.035583,
+            14.3321344
+          ],
+          [
+            -89.0223114,
+            14.3142388
+          ],
+          [
+            -89.0259378,
+            14.2716382
+          ],
+          [
+            -88.9915143,
+            14.2585783
+          ],
+          [
+            -88.9700754,
+            14.2252024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.9700754,
+            14.2252024
+          ],
+          [
+            -88.9610498,
+            14.208328
+          ],
+          [
+            -88.9196821,
+            14.207873
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.9196821,
+            14.207873
+          ],
+          [
+            -88.9023121,
+            14.205512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.9023121,
+            14.205512
+          ],
+          [
+            -88.9004667,
+            14.1910025
+          ],
+          [
+            -88.8602872,
+            14.1722375
+          ],
+          [
+            -88.8312899,
+            14.1045787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8128971,
+            14.1122371
+          ],
+          [
+            -88.8312899,
+            14.1045787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.801754,
+            14.1349075
+          ],
+          [
+            -88.8128971,
+            14.1122371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8028727,
+            14.1357326
+          ],
+          [
+            -88.801754,
+            14.1349075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8029143,
+            14.1358152
+          ],
+          [
+            -88.8028727,
+            14.1357326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8079845,
+            14.1403652
+          ],
+          [
+            -88.8029143,
+            14.1358152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8079845,
+            14.1403652
+          ],
+          [
+            -88.8043563,
+            14.1500123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8043563,
+            14.1500123
+          ],
+          [
+            -88.7988753,
+            14.1645851
+          ],
+          [
+            -88.7577523,
+            14.1422166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.7577523,
+            14.1422166
+          ],
+          [
+            -88.7328844,
+            14.1173582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.7328844,
+            14.1173582
+          ],
+          [
+            -88.728323,
+            14.1038485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.728323,
+            14.1038485
+          ],
+          [
+            -88.7089436,
+            14.0464468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.7089436,
+            14.0464468
+          ],
+          [
+            -88.6849378,
+            14.0364549
+          ],
+          [
+            -88.6835694,
+            14.0101351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.6835694,
+            14.0101351
+          ],
+          [
+            -88.635161,
+            14.0214587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.635161,
+            14.0214587
+          ],
+          [
+            -88.6170008,
+            14.0137784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.6170008,
+            14.0137784
+          ],
+          [
+            -88.5865969,
+            14.007143
+          ],
+          [
+            -88.5689771,
+            13.9782771
+          ],
+          [
+            -88.5269094,
+            13.9845705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5269094,
+            13.9845705
+          ],
+          [
+            -88.4995536,
+            13.9651913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4995536,
+            13.9651913
+          ],
+          [
+            -88.5020975,
+            13.8991861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5020975,
+            13.8991861
+          ],
+          [
+            -88.4925985,
+            13.859466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4862417,
+            13.860919
+          ],
+          [
+            -88.4925985,
+            13.859466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3924354,
+            13.8822092
+          ],
+          [
+            -88.4188767,
+            13.885714
+          ],
+          [
+            -88.4391273,
+            13.8598279
+          ],
+          [
+            -88.465877,
+            13.8629763
+          ],
+          [
+            -88.4672154,
+            13.8486299
+          ],
+          [
+            -88.4862417,
+            13.860919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.356543,
+            13.870244
+          ],
+          [
+            -88.3924354,
+            13.8822092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3497795,
+            13.8894096
+          ],
+          [
+            -88.356543,
+            13.870244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3497795,
+            13.8894096
+          ],
+          [
+            -88.3421816,
+            13.896474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3173363,
+            13.8899035
+          ],
+          [
+            -88.3421816,
+            13.896474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.262705,
+            13.9189436
+          ],
+          [
+            -88.3173363,
+            13.8899035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2585668,
+            13.9380505
+          ],
+          [
+            -88.262705,
+            13.9189436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2574157,
+            13.9377606
+          ],
+          [
+            -88.2585668,
+            13.9380505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2574157,
+            13.9377606
+          ],
+          [
+            -88.2268707,
+            13.9378231
+          ],
+          [
+            -88.2193589,
+            13.9535808
+          ],
+          [
+            -88.2382647,
+            13.9944522
+          ],
+          [
+            -88.2172469,
+            13.9931248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2172469,
+            13.9931248
+          ],
+          [
+            -88.1597028,
+            13.983547
+          ],
+          [
+            -88.1227956,
+            13.9946916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.1227956,
+            13.9946916
+          ],
+          [
+            -88.1182922,
+            13.9962922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.1182922,
+            13.9962922
+          ],
+          [
+            -88.1117008,
+            13.9995467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.1117008,
+            13.9995467
+          ],
+          [
+            -88.1064127,
+            14.0007764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.1064127,
+            14.0007764
+          ],
+          [
+            -88.0920222,
+            13.9971422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0920222,
+            13.9971422
+          ],
+          [
+            -88.0799949,
+            13.9941047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0799949,
+            13.9941047
+          ],
+          [
+            -88.0727349,
+            13.9922712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0727349,
+            13.9922712
+          ],
+          [
+            -88.0637749,
+            13.9460004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0637749,
+            13.9460004
+          ],
+          [
+            -88.0475744,
+            13.9333591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0475744,
+            13.9333591
+          ],
+          [
+            -88.0372988,
+            13.9152135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0372988,
+            13.9152135
+          ],
+          [
+            -88.0267417,
+            13.902456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0267417,
+            13.902456
+          ],
+          [
+            -88.0147839,
+            13.8710077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.9372143,
+            13.8931371
+          ],
+          [
+            -87.9591929,
+            13.9027007
+          ],
+          [
+            -88.0147839,
+            13.8710077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8872387,
+            13.9016701
+          ],
+          [
+            -87.9218821,
+            13.8846182
+          ],
+          [
+            -87.9372143,
+            13.8931371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8646582,
+            13.8993475
+          ],
+          [
+            -87.8872387,
+            13.9016701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8443448,
+            13.8979769
+          ],
+          [
+            -87.8646582,
+            13.8993475
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8053448,
+            13.9222573
+          ],
+          [
+            -87.8311322,
+            13.9186245
+          ],
+          [
+            -87.8443448,
+            13.8979769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7998856,
+            13.9205122
+          ],
+          [
+            -87.8053448,
+            13.9222573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7998856,
+            13.9205122
+          ],
+          [
+            -87.7945089,
+            13.9050671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7945089,
+            13.9050671
+          ],
+          [
+            -87.7991909,
+            13.8968058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7991909,
+            13.8968058
+          ],
+          [
+            -87.7814792,
+            13.8758093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7814792,
+            13.8758093
+          ],
+          [
+            -87.762575,
+            13.8664428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.762575,
+            13.8664428
+          ],
+          [
+            -87.7451916,
+            13.8412968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7451916,
+            13.8412968
+          ],
+          [
+            -87.7315713,
+            13.8267902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7315713,
+            13.8267902
+          ],
+          [
+            -87.71244,
+            13.8154169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.71244,
+            13.8154169
+          ],
+          [
+            -87.709917,
+            13.7959281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.709917,
+            13.7959281
+          ],
+          [
+            -87.7357577,
+            13.7417646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7357577,
+            13.7417646
+          ],
+          [
+            -87.7390128,
+            13.7086335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7390128,
+            13.7086335
+          ],
+          [
+            -87.7441192,
+            13.7040931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7441192,
+            13.7040931
+          ],
+          [
+            -87.7487326,
+            13.6939614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7487326,
+            13.6939614
+          ],
+          [
+            -87.7553738,
+            13.6207257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.86474,
+            17.609488
+          ],
+          [
+            -83.945793,
+            17.619175
+          ],
+          [
+            -84.023789,
+            17.599839
+          ],
+          [
+            -84.094488,
+            17.551023
+          ],
+          [
+            -84.139655,
+            17.4848
+          ],
+          [
+            -84.154692,
+            17.410178
+          ],
+          [
+            -84.139371,
+            17.332228
+          ],
+          [
+            -84.09306,
+            17.265122
+          ],
+          [
+            -84.028478,
+            17.221943
+          ],
+          [
+            -83.948369,
+            17.204636
+          ],
+          [
+            -83.832984,
+            17.216349
+          ],
+          [
+            -83.75712,
+            17.261957
+          ],
+          [
+            -83.707843,
+            17.332453
+          ],
+          [
+            -83.693316,
+            17.419838
+          ],
+          [
+            -83.718518,
+            17.505473
+          ],
+          [
+            -83.778193,
+            17.572151
+          ],
+          [
+            -83.86474,
+            17.609488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.5000114,
+            16.0463945
+          ],
+          [
+            -82.576543,
+            15.971002
+          ],
+          [
+            -82.603389,
+            15.869454
+          ],
+          [
+            -82.575567,
+            15.769509
+          ],
+          [
+            -82.5000163,
+            15.6955302
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.284273,
+            15.695508
+          ],
+          [
+            -82.223723,
+            15.748111
+          ],
+          [
+            -82.188063,
+            15.820019
+          ],
+          [
+            -82.183698,
+            15.899359
+          ],
+          [
+            -82.210592,
+            15.973738
+          ],
+          [
+            -82.266066,
+            16.033411
+          ],
+          [
+            -82.339071,
+            16.067428
+          ],
+          [
+            -82.423012,
+            16.072181
+          ],
+          [
+            -82.5000114,
+            16.0463945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "HN",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "name": "Honduras"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.5000163,
+            15.6955302
+          ],
+          [
+            -82.394967,
+            15.667304
+          ],
+          [
+            -82.284273,
+            15.695508
+          ]
+        ]
+      }
+    }
+  ]
+}

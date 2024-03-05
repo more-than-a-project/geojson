@@ -1,0 +1,193 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TC",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg",
+        "name": "Turks and Caicos Islands"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.1800461,
+            20.9793764
+          ],
+          [
+            -71.5956952,
+            20.9782551
+          ],
+          [
+            -71.7074445,
+            20.9553418
+          ],
+          [
+            -71.8725772,
+            20.9834285
+          ],
+          [
+            -71.9368424,
+            21.0166233
+          ],
+          [
+            -72.3469801,
+            21.3239781
+          ],
+          [
+            -72.6200188,
+            21.4684899
+          ],
+          [
+            -72.6772905,
+            21.540119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TC",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg",
+        "name": "Turks and Caicos Islands"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70.9790513,
+            21.1489191
+          ],
+          [
+            -71.1105141,
+            21.0139582
+          ],
+          [
+            -71.1800461,
+            20.9793764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TC",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg",
+        "name": "Turks and Caicos Islands"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.549879,
+            21.9486846
+          ],
+          [
+            -72.4218013,
+            22.0486492
+          ],
+          [
+            -72.349391,
+            22.0658996
+          ],
+          [
+            -72.2426403,
+            22.0475767
+          ],
+          [
+            -72.1168376,
+            22.1397988
+          ],
+          [
+            -71.9917535,
+            22.1630989
+          ],
+          [
+            -71.8484353,
+            22.1358395
+          ],
+          [
+            -71.7505534,
+            22.0860855
+          ],
+          [
+            -71.7025591,
+            22.0373352
+          ],
+          [
+            -71.5800403,
+            22.0141071
+          ],
+          [
+            -71.4886854,
+            21.9412839
+          ],
+          [
+            -71.3640034,
+            21.8981492
+          ],
+          [
+            -71.0122627,
+            21.6802005
+          ],
+          [
+            -70.9513365,
+            21.6224767
+          ],
+          [
+            -70.8776586,
+            21.4533161
+          ],
+          [
+            -70.8660589,
+            21.3575078
+          ],
+          [
+            -70.8931329,
+            21.2523653
+          ],
+          [
+            -70.9790513,
+            21.1489191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TC",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg",
+        "name": "Turks and Caicos Islands"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.6772905,
+            21.540119
+          ],
+          [
+            -72.6724799,
+            21.6404919
+          ],
+          [
+            -72.63011,
+            21.8039644
+          ],
+          [
+            -72.549879,
+            21.9486846
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1491 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.880447,
+            22.0000004
+          ],
+          [
+            37.0905195,
+            22.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.880447,
+            22.0000004
+          ],
+          [
+            36.880072,
+            21.9996345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.880072,
+            21.9996345
+          ],
+          [
+            34.0798633,
+            22.000021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.0798633,
+            22.000021
+          ],
+          [
+            33.413056,
+            22.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.413056,
+            22.0
+          ],
+          [
+            33.1666667,
+            22.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1666667,
+            22.0
+          ],
+          [
+            32.5425787,
+            22.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.5425787,
+            22.0
+          ],
+          [
+            31.398882,
+            22.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.398882,
+            22.0
+          ],
+          [
+            31.433857,
+            22.085606
+          ],
+          [
+            31.506184,
+            22.185232
+          ],
+          [
+            31.470535,
+            22.224854
+          ],
+          [
+            31.371218,
+            22.140518
+          ],
+          [
+            31.315029,
+            22.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.315029,
+            22.0
+          ],
+          [
+            31.0981462,
+            22.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.0981462,
+            22.0
+          ],
+          [
+            25.0,
+            22.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.0003392,
+            27.0497186
+          ],
+          [
+            25.0,
+            22.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.0001869,
+            27.7489122
+          ],
+          [
+            25.0003392,
+            27.0497186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.001944,
+            28.093333
+          ],
+          [
+            25.0001869,
+            27.7489122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.8626499,
+            31.4062212
+          ],
+          [
+            24.8445395,
+            31.3623377
+          ],
+          [
+            24.8635272,
+            31.2386025
+          ],
+          [
+            24.8584788,
+            31.1549503
+          ],
+          [
+            24.9803078,
+            30.9000265
+          ],
+          [
+            25.0107462,
+            30.7764611
+          ],
+          [
+            24.9456997,
+            30.6443843
+          ],
+          [
+            24.881944,
+            30.437222
+          ],
+          [
+            24.6978697,
+            30.2296334
+          ],
+          [
+            24.6499112,
+            30.1263685
+          ],
+          [
+            24.740278,
+            30.098611
+          ],
+          [
+            24.812222,
+            29.941111
+          ],
+          [
+            24.836111,
+            29.865278
+          ],
+          [
+            24.8125,
+            29.784444
+          ],
+          [
+            24.886944,
+            29.663889
+          ],
+          [
+            24.8775,
+            29.506389
+          ],
+          [
+            24.997778,
+            29.248889
+          ],
+          [
+            25.001944,
+            28.093333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.9395329,
+            31.4675536
+          ],
+          [
+            24.8626499,
+            31.4062212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.1420504,
+            31.6713364
+          ],
+          [
+            25.0840373,
+            31.6154409
+          ],
+          [
+            25.076277,
+            31.5511442
+          ],
+          [
+            24.9395329,
+            31.4675536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.1420504,
+            31.6713364
+          ],
+          [
+            25.3770629,
+            31.721822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.3770629,
+            31.721822
+          ],
+          [
+            25.8700096,
+            31.8330854
+          ],
+          [
+            26.2948596,
+            31.7999354
+          ],
+          [
+            27.038386,
+            31.6485671
+          ],
+          [
+            27.1505612,
+            31.5996619
+          ],
+          [
+            27.4238003,
+            31.5602748
+          ],
+          [
+            27.520258,
+            31.5074657
+          ],
+          [
+            27.6057186,
+            31.4028205
+          ],
+          [
+            27.8484362,
+            31.4469259
+          ],
+          [
+            27.9335124,
+            31.4369843
+          ],
+          [
+            28.0391661,
+            31.3752706
+          ],
+          [
+            28.0853234,
+            31.3002913
+          ],
+          [
+            28.489906,
+            31.2854173
+          ],
+          [
+            28.9159257,
+            31.1620542
+          ],
+          [
+            29.0461057,
+            31.0816394
+          ],
+          [
+            29.4716069,
+            31.2350264
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.4716069,
+            31.2350264
+          ],
+          [
+            29.6602547,
+            31.3172087
+          ],
+          [
+            30.0842845,
+            31.590323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.0842845,
+            31.590323
+          ],
+          [
+            30.2093855,
+            31.6625903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.2093855,
+            31.6625903
+          ],
+          [
+            30.334019,
+            31.7045501
+          ],
+          [
+            30.4118192,
+            31.6993699
+          ],
+          [
+            30.4990252,
+            31.6717761
+          ],
+          [
+            31.0282264,
+            31.8004239
+          ],
+          [
+            31.238823,
+            31.7827105
+          ],
+          [
+            31.4121374,
+            31.7283386
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.4121374,
+            31.7283386
+          ],
+          [
+            31.6068122,
+            31.6595863
+          ],
+          [
+            31.7314585,
+            31.7027941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.7314585,
+            31.7027941
+          ],
+          [
+            31.8171899,
+            31.7309625
+          ],
+          [
+            31.9033659,
+            31.7354855
+          ],
+          [
+            31.991902,
+            31.7206137
+          ],
+          [
+            32.0652188,
+            31.6837785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.0652188,
+            31.6837785
+          ],
+          [
+            32.1368074,
+            31.6331023
+          ],
+          [
+            32.239682,
+            31.5267908
+          ],
+          [
+            32.346453,
+            31.507415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.346453,
+            31.507415
+          ],
+          [
+            32.4277932,
+            31.4897387
+          ],
+          [
+            32.4946299,
+            31.4549362
+          ],
+          [
+            32.6541734,
+            31.2928292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6541734,
+            31.2928292
+          ],
+          [
+            32.8349173,
+            31.3352547
+          ],
+          [
+            32.9959055,
+            31.4110985
+          ],
+          [
+            33.141071,
+            31.4371595
+          ],
+          [
+            33.4104016,
+            31.3916363
+          ],
+          [
+            33.5889242,
+            31.322185
+          ],
+          [
+            33.6790708,
+            31.3269128
+          ],
+          [
+            33.8872493,
+            31.3855802
+          ],
+          [
+            34.0546906,
+            31.466843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.0546906,
+            31.466843
+          ],
+          [
+            34.2158979,
+            31.3263607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.2187944,
+            31.3233317
+          ],
+          [
+            34.2158979,
+            31.3263607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.2563212,
+            31.2507846
+          ],
+          [
+            34.2187944,
+            31.3233317
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.2674994,
+            31.2201289
+          ],
+          [
+            34.2563212,
+            31.2507846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.27438,
+            31.2006894
+          ],
+          [
+            34.2674994,
+            31.2201289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.3251712,
+            31.0593937
+          ],
+          [
+            34.27438,
+            31.2006894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.6114884,
+            30.3710267
+          ],
+          [
+            34.5435437,
+            30.4129491
+          ],
+          [
+            34.5577462,
+            30.4946473
+          ],
+          [
+            34.5186383,
+            30.5325223
+          ],
+          [
+            34.496972,
+            30.6792119
+          ],
+          [
+            34.4033625,
+            30.8591134
+          ],
+          [
+            34.3251712,
+            31.0593937
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.8679667,
+            29.5998312
+          ],
+          [
+            34.8785854,
+            29.6436292
+          ],
+          [
+            34.8566397,
+            29.6879139
+          ],
+          [
+            34.8486244,
+            29.7588365
+          ],
+          [
+            34.6114884,
+            30.3710267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.8759804,
+            29.5588899
+          ],
+          [
+            34.8679667,
+            29.5998312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9025753,
+            29.4906263
+          ],
+          [
+            34.8759804,
+            29.5588899
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9041103,
+            29.4877892
+          ],
+          [
+            34.9025753,
+            29.4906263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.921211,
+            29.4533796
+          ],
+          [
+            34.9041103,
+            29.4877892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.8844372,
+            29.3751955
+          ],
+          [
+            34.921211,
+            29.4533796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4970153,
+            28.0806205
+          ],
+          [
+            34.5358436,
+            28.193184
+          ],
+          [
+            34.5451971,
+            28.2770909
+          ],
+          [
+            34.6687621,
+            28.5505708
+          ],
+          [
+            34.7367598,
+            28.8415992
+          ],
+          [
+            34.7335623,
+            28.9051801
+          ],
+          [
+            34.7615666,
+            28.9526575
+          ],
+          [
+            34.7679933,
+            29.0820283
+          ],
+          [
+            34.8157516,
+            29.1930159
+          ],
+          [
+            34.8306406,
+            29.2696994
+          ],
+          [
+            34.8844372,
+            29.3751955
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.5190343,
+            27.7135302
+          ],
+          [
+            34.4770733,
+            27.7897044
+          ],
+          [
+            34.4571718,
+            27.9005095
+          ],
+          [
+            34.4634781,
+            28.0132072
+          ],
+          [
+            34.4970153,
+            28.0806205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.5190343,
+            27.7135302
+          ],
+          [
+            34.265343,
+            27.3883057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.265343,
+            27.3883057
+          ],
+          [
+            34.2167061,
+            27.1772378
+          ],
+          [
+            34.2275791,
+            26.9223055
+          ],
+          [
+            34.3243277,
+            26.7732749
+          ],
+          [
+            34.4970333,
+            26.1933968
+          ],
+          [
+            34.7820125,
+            25.8106937
+          ],
+          [
+            34.8719177,
+            25.6115795
+          ],
+          [
+            35.0596614,
+            25.4439626
+          ],
+          [
+            35.3853716,
+            24.8707213
+          ],
+          [
+            35.4099561,
+            24.7153056
+          ],
+          [
+            35.5331993,
+            24.5798607
+          ],
+          [
+            35.823517,
+            24.378842
+          ],
+          [
+            35.9214329,
+            24.2360571
+          ],
+          [
+            35.984663,
+            24.0270224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.984663,
+            24.0270224
+          ],
+          [
+            36.4666527,
+            23.7290048
+          ],
+          [
+            36.5379076,
+            23.6561142
+          ],
+          [
+            36.5627208,
+            23.56724
+          ],
+          [
+            36.5543112,
+            22.9577511
+          ],
+          [
+            36.7757463,
+            22.7080194
+          ],
+          [
+            36.8440541,
+            22.4784711
+          ],
+          [
+            36.9439003,
+            22.4312761
+          ],
+          [
+            37.0105359,
+            22.3576238
+          ],
+          [
+            37.1082947,
+            22.114209
+          ],
+          [
+            37.1118222,
+            22.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.1118222,
+            22.0
+          ],
+          [
+            37.1068375,
+            22.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.1068375,
+            22.0
+          ],
+          [
+            37.0905195,
+            22.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "EG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "name": "\u0645\u0635\u0631"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.7327013,
+            26.4886619
+          ],
+          [
+            34.8024093,
+            26.5114664
+          ],
+          [
+            34.883538,
+            26.5114598
+          ],
+          [
+            34.9592737,
+            26.4854529
+          ],
+          [
+            35.0377975,
+            26.4257134
+          ],
+          [
+            35.0715898,
+            26.3731401
+          ],
+          [
+            35.0857781,
+            26.2834826
+          ],
+          [
+            35.069673,
+            26.2245632
+          ],
+          [
+            35.0223597,
+            26.1602671
+          ],
+          [
+            34.9521648,
+            26.1170666
+          ],
+          [
+            34.8444167,
+            26.1012981
+          ],
+          [
+            34.7448728,
+            26.1312666
+          ],
+          [
+            34.661833,
+            26.1973028
+          ],
+          [
+            34.6262519,
+            26.2658064
+          ],
+          [
+            34.6239173,
+            26.3544177
+          ],
+          [
+            34.6672391,
+            26.4382692
+          ],
+          [
+            34.7327013,
+            26.4886619
+          ]
+        ]
+      }
+    }
+  ]
+}

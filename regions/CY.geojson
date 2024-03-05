@@ -1,0 +1,5207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2677321,
+            34.4992906
+          ],
+          [
+            33.448103,
+            34.5387933
+          ],
+          [
+            33.7140238,
+            34.6365951
+          ],
+          [
+            33.7791939,
+            34.6751561
+          ],
+          [
+            33.8357357,
+            34.7401438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0669961,
+            34.6171336
+          ],
+          [
+            33.1514557,
+            34.6063085
+          ],
+          [
+            33.2677321,
+            34.4992906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0139011,
+            34.6443212
+          ],
+          [
+            33.0669961,
+            34.6171336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0031889,
+            34.6440934
+          ],
+          [
+            33.0139011,
+            34.6443212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0028301,
+            34.6446823
+          ],
+          [
+            33.0031889,
+            34.6440934
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9902809,
+            34.6431912
+          ],
+          [
+            33.0028301,
+            34.6446823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9904777,
+            34.6422149
+          ],
+          [
+            32.9902809,
+            34.6431912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9757194,
+            34.6404635
+          ],
+          [
+            32.9904777,
+            34.6422149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9544782,
+            34.6470449
+          ],
+          [
+            32.9609867,
+            34.632697
+          ],
+          [
+            32.9757194,
+            34.6404635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9750145,
+            34.654093
+          ],
+          [
+            32.9544782,
+            34.6470449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9754143,
+            34.6541112
+          ],
+          [
+            32.9750145,
+            34.654093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9898992,
+            34.6553005
+          ],
+          [
+            32.9754143,
+            34.6541112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9888636,
+            34.6801251
+          ],
+          [
+            32.9898992,
+            34.6553005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9482527,
+            34.6795008
+          ],
+          [
+            32.9888636,
+            34.6801251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.923634,
+            34.6729103
+          ],
+          [
+            32.9334607,
+            34.6642389
+          ],
+          [
+            32.9482527,
+            34.6795008
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9160888,
+            34.6737321
+          ],
+          [
+            32.923634,
+            34.6729103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8581933,
+            34.7034061
+          ],
+          [
+            32.8891817,
+            34.6681752
+          ],
+          [
+            32.9160888,
+            34.6737321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8186357,
+            34.6962045
+          ],
+          [
+            32.8581933,
+            34.7034061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7841196,
+            34.678783
+          ],
+          [
+            32.8186357,
+            34.6962045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7550661,
+            34.6511214
+          ],
+          [
+            32.7597854,
+            34.6813578
+          ],
+          [
+            32.7841196,
+            34.678783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7550661,
+            34.6511214
+          ],
+          [
+            32.7767337,
+            34.6039877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7767337,
+            34.6039877
+          ],
+          [
+            32.7441537,
+            34.4389993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4871506,
+            35.3721113
+          ],
+          [
+            32.362822,
+            35.3054205
+          ],
+          [
+            32.2292402,
+            35.3123985
+          ],
+          [
+            32.1033675,
+            35.2551544
+          ],
+          [
+            32.0574328,
+            35.2006942
+          ],
+          [
+            32.035175,
+            35.1435291
+          ],
+          [
+            32.0298553,
+            34.9941446
+          ],
+          [
+            32.0824855,
+            34.8190725
+          ],
+          [
+            32.2325912,
+            34.6095226
+          ],
+          [
+            32.4037866,
+            34.5148099
+          ],
+          [
+            32.6441597,
+            34.444751
+          ],
+          [
+            32.7441537,
+            34.4389993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.5600635,
+            35.3892089
+          ],
+          [
+            32.4871506,
+            35.3721113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6711886,
+            35.3991209
+          ],
+          [
+            32.5600635,
+            35.3892089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.2305182,
+            35.1766451
+          ],
+          [
+            34.2881837,
+            35.2378745
+          ],
+          [
+            34.7107085,
+            35.4795299
+          ],
+          [
+            34.7764111,
+            35.5365469
+          ],
+          [
+            34.8411831,
+            35.6427048
+          ],
+          [
+            34.8553182,
+            35.7079163
+          ],
+          [
+            34.8374288,
+            35.785874
+          ],
+          [
+            34.7842297,
+            35.8522992
+          ],
+          [
+            34.67294,
+            35.905835
+          ],
+          [
+            34.5436251,
+            35.9067842
+          ],
+          [
+            34.0679975,
+            35.7440686
+          ],
+          [
+            33.937128,
+            35.6663969
+          ],
+          [
+            33.5534532,
+            35.5620315
+          ],
+          [
+            33.3020164,
+            35.5538335
+          ],
+          [
+            32.949971,
+            35.6039646
+          ],
+          [
+            32.8531217,
+            35.5981345
+          ],
+          [
+            32.7795822,
+            35.5702622
+          ],
+          [
+            32.7209763,
+            35.5245264
+          ],
+          [
+            32.6835276,
+            35.4658062
+          ],
+          [
+            32.6711886,
+            35.3991209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9865233,
+            34.7659733
+          ],
+          [
+            34.0837955,
+            34.7522526
+          ],
+          [
+            34.1781446,
+            34.7673994
+          ],
+          [
+            34.2583636,
+            34.8111333
+          ],
+          [
+            34.3055295,
+            34.8647496
+          ],
+          [
+            34.3315705,
+            34.933009
+          ],
+          [
+            34.3294391,
+            34.9992199
+          ],
+          [
+            34.2910109,
+            35.0940135
+          ],
+          [
+            34.2305182,
+            35.1766451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.944512,
+            34.9285976
+          ],
+          [
+            33.9807151,
+            34.8751471
+          ],
+          [
+            33.9865233,
+            34.7659733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9010915,
+            34.9646733
+          ],
+          [
+            33.944512,
+            34.9285976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8922572,
+            34.9672115
+          ],
+          [
+            33.9010915,
+            34.9646733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8782585,
+            34.9697071
+          ],
+          [
+            33.8922572,
+            34.9672115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8320138,
+            35.0070972
+          ],
+          [
+            33.8551308,
+            34.9900383
+          ],
+          [
+            33.8346204,
+            34.9745595
+          ],
+          [
+            33.8782585,
+            34.9697071
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8691023,
+            35.0788053
+          ],
+          [
+            33.7939096,
+            35.0522722
+          ],
+          [
+            33.826726,
+            35.0315873
+          ],
+          [
+            33.8320138,
+            35.0070972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8998048,
+            35.0748829
+          ],
+          [
+            33.8691023,
+            35.0788053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9024035,
+            35.0770713
+          ],
+          [
+            33.8998048,
+            35.0748829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7122081,
+            35.0594044
+          ],
+          [
+            33.7062031,
+            35.036887
+          ],
+          [
+            33.7377246,
+            35.056202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7377246,
+            35.056202
+          ],
+          [
+            33.7441236,
+            35.0518862
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7441236,
+            35.0518862
+          ],
+          [
+            33.7493611,
+            35.0484329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7493611,
+            35.0484329
+          ],
+          [
+            33.7915346,
+            35.0489435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7915346,
+            35.0489435
+          ],
+          [
+            33.8216433,
+            35.0723163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8216433,
+            35.0723163
+          ],
+          [
+            33.822935,
+            35.0719861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.822935,
+            35.0719861
+          ],
+          [
+            33.8406458,
+            35.0622775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7124703,
+            35.0742652
+          ],
+          [
+            33.7161825,
+            35.0689601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7161825,
+            35.0689601
+          ],
+          [
+            33.7122081,
+            35.0594044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.905773,
+            35.0980176
+          ],
+          [
+            33.9165044,
+            35.0867664
+          ],
+          [
+            33.9024035,
+            35.0770713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8972533,
+            35.107091
+          ],
+          [
+            33.905773,
+            35.0980176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8406458,
+            35.0622775
+          ],
+          [
+            33.8734258,
+            35.0824513
+          ],
+          [
+            33.8723899,
+            35.1237157
+          ],
+          [
+            33.8972533,
+            35.107091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6753327,
+            35.059355
+          ],
+          [
+            33.7124703,
+            35.0742652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6753327,
+            35.059355
+          ],
+          [
+            33.6738087,
+            35.0466652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6738087,
+            35.0466652
+          ],
+          [
+            33.679191,
+            35.0394608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.679191,
+            35.0394608
+          ],
+          [
+            33.6902528,
+            35.0368856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6902528,
+            35.0368856
+          ],
+          [
+            33.7135283,
+            35.0035265
+          ],
+          [
+            33.7027962,
+            34.9988618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7027962,
+            34.9988618
+          ],
+          [
+            33.7011099,
+            34.9785457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7011099,
+            34.9785457
+          ],
+          [
+            33.7155614,
+            34.9296159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7155614,
+            34.9296159
+          ],
+          [
+            33.7593011,
+            34.879748
+          ],
+          [
+            33.8357357,
+            34.7401438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.749319,
+            34.981418
+          ],
+          [
+            33.74053,
+            34.981753
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.74053,
+            34.981753
+          ],
+          [
+            33.749319,
+            34.981418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.743664,
+            34.987509
+          ],
+          [
+            33.745476,
+            34.987432
+          ],
+          [
+            33.748789,
+            34.982384
+          ],
+          [
+            33.740862,
+            34.982747
+          ],
+          [
+            33.743664,
+            34.987509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.756785,
+            34.999242
+          ],
+          [
+            33.785128,
+            34.995724
+          ],
+          [
+            33.791913,
+            34.988978
+          ],
+          [
+            33.780241,
+            34.987248
+          ],
+          [
+            33.756785,
+            34.999242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.734439,
+            35.012079
+          ],
+          [
+            33.73826,
+            35.021937
+          ],
+          [
+            33.749833,
+            35.022456
+          ],
+          [
+            33.749304,
+            35.013225
+          ],
+          [
+            33.734439,
+            35.012079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4871506,
+            35.3721113
+          ],
+          [
+            32.362822,
+            35.3054205
+          ],
+          [
+            32.2292402,
+            35.3123985
+          ],
+          [
+            32.1033675,
+            35.2551544
+          ],
+          [
+            32.0574328,
+            35.2006942
+          ],
+          [
+            32.035175,
+            35.1435291
+          ],
+          [
+            32.0298553,
+            34.9941446
+          ],
+          [
+            32.0824855,
+            34.8190725
+          ],
+          [
+            32.2325912,
+            34.6095226
+          ],
+          [
+            32.4037866,
+            34.5148099
+          ],
+          [
+            32.6441597,
+            34.444751
+          ],
+          [
+            32.7441537,
+            34.4389993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7767337,
+            34.6039877
+          ],
+          [
+            32.7441537,
+            34.4389993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7550661,
+            34.6511214
+          ],
+          [
+            32.7767337,
+            34.6039877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7550661,
+            34.6511214
+          ],
+          [
+            32.7597854,
+            34.6813578
+          ],
+          [
+            32.7841196,
+            34.678783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7841196,
+            34.678783
+          ],
+          [
+            32.8186357,
+            34.6962045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8186357,
+            34.6962045
+          ],
+          [
+            32.8581933,
+            34.7034061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8581933,
+            34.7034061
+          ],
+          [
+            32.8891817,
+            34.6681752
+          ],
+          [
+            32.9160888,
+            34.6737321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9160888,
+            34.6737321
+          ],
+          [
+            32.923634,
+            34.6729103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.923634,
+            34.6729103
+          ],
+          [
+            32.9334607,
+            34.6642389
+          ],
+          [
+            32.9482527,
+            34.6795008
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9482527,
+            34.6795008
+          ],
+          [
+            32.9888636,
+            34.6801251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9888636,
+            34.6801251
+          ],
+          [
+            32.9898992,
+            34.6553005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9898992,
+            34.6553005
+          ],
+          [
+            32.9754143,
+            34.6541112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9754143,
+            34.6541112
+          ],
+          [
+            32.9750145,
+            34.654093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9750145,
+            34.654093
+          ],
+          [
+            32.9544782,
+            34.6470449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9544782,
+            34.6470449
+          ],
+          [
+            32.9609867,
+            34.632697
+          ],
+          [
+            32.9757194,
+            34.6404635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9757194,
+            34.6404635
+          ],
+          [
+            32.9904777,
+            34.6422149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9904777,
+            34.6422149
+          ],
+          [
+            32.9902809,
+            34.6431912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9902809,
+            34.6431912
+          ],
+          [
+            33.0028301,
+            34.6446823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0028301,
+            34.6446823
+          ],
+          [
+            33.0031889,
+            34.6440934
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0031889,
+            34.6440934
+          ],
+          [
+            33.0139011,
+            34.6443212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0139011,
+            34.6443212
+          ],
+          [
+            33.0669961,
+            34.6171336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0669961,
+            34.6171336
+          ],
+          [
+            33.1514557,
+            34.6063085
+          ],
+          [
+            33.2677321,
+            34.4992906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2677321,
+            34.4992906
+          ],
+          [
+            33.448103,
+            34.5387933
+          ],
+          [
+            33.7140238,
+            34.6365951
+          ],
+          [
+            33.7791939,
+            34.6751561
+          ],
+          [
+            33.8357357,
+            34.7401438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7155614,
+            34.9296159
+          ],
+          [
+            33.7593011,
+            34.879748
+          ],
+          [
+            33.8357357,
+            34.7401438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7011099,
+            34.9785457
+          ],
+          [
+            33.7155614,
+            34.9296159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7027962,
+            34.9988618
+          ],
+          [
+            33.7011099,
+            34.9785457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6902528,
+            35.0368856
+          ],
+          [
+            33.7135283,
+            35.0035265
+          ],
+          [
+            33.7027962,
+            34.9988618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.679191,
+            35.0394608
+          ],
+          [
+            33.6902528,
+            35.0368856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6640257,
+            35.0365445
+          ],
+          [
+            33.679191,
+            35.0394608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6628124,
+            35.036446
+          ],
+          [
+            33.6640257,
+            35.0365445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6328133,
+            35.0397772
+          ],
+          [
+            33.6628124,
+            35.036446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6226421,
+            35.0488534
+          ],
+          [
+            33.6328133,
+            35.0397772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6188382,
+            35.0510263
+          ],
+          [
+            33.6226421,
+            35.0488534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6185866,
+            35.0511184
+          ],
+          [
+            33.6188382,
+            35.0510263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6094493,
+            35.0517299
+          ],
+          [
+            33.6185866,
+            35.0511184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6084864,
+            35.0517065
+          ],
+          [
+            33.6094493,
+            35.0517299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6019447,
+            35.0493648
+          ],
+          [
+            33.6084864,
+            35.0517065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.586435,
+            35.0385324
+          ],
+          [
+            33.6019447,
+            35.0493648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.5045106,
+            35.0715228
+          ],
+          [
+            33.5558551,
+            35.0747543
+          ],
+          [
+            33.586435,
+            35.0385324
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4982949,
+            35.0706082
+          ],
+          [
+            33.5045106,
+            35.0715228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4864557,
+            35.0622492
+          ],
+          [
+            33.4982949,
+            35.0706082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4849064,
+            35.0609613
+          ],
+          [
+            33.4864557,
+            35.0622492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4841567,
+            35.0536637
+          ],
+          [
+            33.4849064,
+            35.0609613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4845763,
+            35.0495142
+          ],
+          [
+            33.4841567,
+            35.0536637
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4845763,
+            35.0495142
+          ],
+          [
+            33.4774747,
+            35.0105329
+          ],
+          [
+            33.4603799,
+            35.0047548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4603799,
+            35.0047548
+          ],
+          [
+            33.4591227,
+            35.0035704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4591227,
+            35.0035704
+          ],
+          [
+            33.450206,
+            35.005644
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.450206,
+            35.005644
+          ],
+          [
+            33.4493958,
+            35.0076905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4493958,
+            35.0076905
+          ],
+          [
+            33.4774293,
+            35.0539861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4774293,
+            35.0539861
+          ],
+          [
+            33.4780652,
+            35.0563836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4780652,
+            35.0563836
+          ],
+          [
+            33.4789769,
+            35.0657784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4789769,
+            35.0657784
+          ],
+          [
+            33.4779555,
+            35.0697601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4779555,
+            35.0697601
+          ],
+          [
+            33.4777904,
+            35.0704038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4777904,
+            35.0704038
+          ],
+          [
+            33.4765578,
+            35.0752085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4765578,
+            35.0752085
+          ],
+          [
+            33.4760318,
+            35.0770569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4760318,
+            35.0770569
+          ],
+          [
+            33.4696504,
+            35.0948594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4696504,
+            35.0948594
+          ],
+          [
+            33.4575606,
+            35.1123308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4575606,
+            35.1123308
+          ],
+          [
+            33.4566838,
+            35.1129284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.441481,
+            35.1335889
+          ],
+          [
+            33.4566838,
+            35.1129284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4409778,
+            35.1339548
+          ],
+          [
+            33.441481,
+            35.1335889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.413983,
+            35.1623884
+          ],
+          [
+            33.4409778,
+            35.1339548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4111768,
+            35.163446
+          ],
+          [
+            33.413983,
+            35.1623884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4111768,
+            35.163446
+          ],
+          [
+            33.4176775,
+            35.1714367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4176775,
+            35.1714367
+          ],
+          [
+            33.4049132,
+            35.200492
+          ],
+          [
+            33.3883427,
+            35.2014368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3883427,
+            35.2014368
+          ],
+          [
+            33.374053,
+            35.1903298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.374053,
+            35.1903298
+          ],
+          [
+            33.3719435,
+            35.1868296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3719435,
+            35.1868296
+          ],
+          [
+            33.3717824,
+            35.1863155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3717824,
+            35.1863155
+          ],
+          [
+            33.3705625,
+            35.1787956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3705625,
+            35.1787956
+          ],
+          [
+            33.370171,
+            35.1784152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.370171,
+            35.1784152
+          ],
+          [
+            33.3695767,
+            35.1784082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3695767,
+            35.1784082
+          ],
+          [
+            33.3679206,
+            35.1771408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3679206,
+            35.1771408
+          ],
+          [
+            33.3673299,
+            35.1765239
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3673299,
+            35.1765239
+          ],
+          [
+            33.3622206,
+            35.1748987
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3622206,
+            35.1748987
+          ],
+          [
+            33.3599294,
+            35.1750212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3599294,
+            35.1750212
+          ],
+          [
+            33.357302,
+            35.1744378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.357302,
+            35.1744378
+          ],
+          [
+            33.3562429,
+            35.1755374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3562429,
+            35.1755374
+          ],
+          [
+            33.3559018,
+            35.1787476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3559018,
+            35.1787476
+          ],
+          [
+            33.3493886,
+            35.178314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3493886,
+            35.178314
+          ],
+          [
+            33.3501112,
+            35.1832604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3471931,
+            35.1832059
+          ],
+          [
+            33.3501112,
+            35.1832604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3427009,
+            35.1832207
+          ],
+          [
+            33.3471931,
+            35.1832059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3427009,
+            35.1832207
+          ],
+          [
+            33.3238447,
+            35.1823251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3229124,
+            35.1818305
+          ],
+          [
+            33.3238447,
+            35.1823251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3177052,
+            35.1725326
+          ],
+          [
+            33.3229124,
+            35.1818305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2967094,
+            35.1681397
+          ],
+          [
+            33.3177052,
+            35.1725326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2955007,
+            35.1677506
+          ],
+          [
+            33.2967094,
+            35.1681397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2944391,
+            35.1674506
+          ],
+          [
+            33.2955007,
+            35.1677506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.248433,
+            35.1744022
+          ],
+          [
+            33.2944391,
+            35.1674506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2317745,
+            35.18363
+          ],
+          [
+            33.248433,
+            35.1744022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2310813,
+            35.183611
+          ],
+          [
+            33.2317745,
+            35.18363
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2291947,
+            35.1835731
+          ],
+          [
+            33.2310813,
+            35.183611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.186857,
+            35.1966407
+          ],
+          [
+            33.2291947,
+            35.1835731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1718465,
+            35.1987834
+          ],
+          [
+            33.186857,
+            35.1966407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1607177,
+            35.1983297
+          ],
+          [
+            33.1718465,
+            35.1987834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1603838,
+            35.1983202
+          ],
+          [
+            33.1607177,
+            35.1983297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1572491,
+            35.1981919
+          ],
+          [
+            33.1603838,
+            35.1983202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1315289,
+            35.1801458
+          ],
+          [
+            33.1572491,
+            35.1981919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1273514,
+            35.1759972
+          ],
+          [
+            33.1315289,
+            35.1801458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1235573,
+            35.1705541
+          ],
+          [
+            33.1273514,
+            35.1759972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.123012,
+            35.169099
+          ],
+          [
+            33.1235573,
+            35.1705541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1226521,
+            35.1679062
+          ],
+          [
+            33.123012,
+            35.169099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1225717,
+            35.166963
+          ],
+          [
+            33.1226521,
+            35.1679062
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1207802,
+            35.1647703
+          ],
+          [
+            33.1225717,
+            35.166963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.118279,
+            35.162905
+          ],
+          [
+            33.1207802,
+            35.1647703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1154115,
+            35.162436
+          ],
+          [
+            33.118279,
+            35.162905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0854578,
+            35.1705435
+          ],
+          [
+            33.1154115,
+            35.162436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0819255,
+            35.1707716
+          ],
+          [
+            33.0854578,
+            35.1705435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0375339,
+            35.1642181
+          ],
+          [
+            33.0819255,
+            35.1707716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0255887,
+            35.1594329
+          ],
+          [
+            33.0375339,
+            35.1642181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9852292,
+            35.1291299
+          ],
+          [
+            33.0255887,
+            35.1594329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9556722,
+            35.1040014
+          ],
+          [
+            32.9852292,
+            35.1291299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9552099,
+            35.1035741
+          ],
+          [
+            32.9556722,
+            35.1040014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9274444,
+            35.0999835
+          ],
+          [
+            32.9552099,
+            35.1035741
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8963885,
+            35.1075687
+          ],
+          [
+            32.9274444,
+            35.0999835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.883228,
+            35.107671
+          ],
+          [
+            32.8963885,
+            35.1075687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8615233,
+            35.1024759
+          ],
+          [
+            32.883228,
+            35.107671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.862027,
+            35.090804
+          ],
+          [
+            32.8615233,
+            35.1024759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.85742,
+            35.083127
+          ],
+          [
+            32.862027,
+            35.090804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.841835,
+            35.081812
+          ],
+          [
+            32.85742,
+            35.083127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8188823,
+            35.0973967
+          ],
+          [
+            32.841835,
+            35.081812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7938642,
+            35.1163471
+          ],
+          [
+            32.8188823,
+            35.0973967
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7619464,
+            35.1283282
+          ],
+          [
+            32.7938642,
+            35.1163471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.749973,
+            35.13829
+          ],
+          [
+            32.7619464,
+            35.1283282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7421314,
+            35.1407996
+          ],
+          [
+            32.749973,
+            35.13829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.722114,
+            35.141782
+          ],
+          [
+            32.7421314,
+            35.1407996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.711733,
+            35.147583
+          ],
+          [
+            32.722114,
+            35.141782
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.70698,
+            35.154928
+          ],
+          [
+            32.711733,
+            35.147583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.706167,
+            35.1664467
+          ],
+          [
+            32.70698,
+            35.154928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7101173,
+            35.1833159
+          ],
+          [
+            32.706167,
+            35.1664467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7101173,
+            35.1833159
+          ],
+          [
+            32.6711886,
+            35.3991209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6711886,
+            35.3991209
+          ],
+          [
+            32.5600635,
+            35.3892089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6282058,
+            35.1894036
+          ],
+          [
+            32.5600635,
+            35.3892089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6242978,
+            35.1864136
+          ],
+          [
+            32.6282058,
+            35.1894036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6222606,
+            35.1784617
+          ],
+          [
+            32.6242978,
+            35.1864136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6210227,
+            35.17717
+          ],
+          [
+            32.6222606,
+            35.1784617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6176092,
+            35.1749816
+          ],
+          [
+            32.6210227,
+            35.17717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6161014,
+            35.1746283
+          ],
+          [
+            32.6176092,
+            35.1749816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6161014,
+            35.1746283
+          ],
+          [
+            32.5985258,
+            35.179118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4871506,
+            35.3721113
+          ],
+          [
+            32.5985258,
+            35.179118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9598821,
+            35.0742764
+          ],
+          [
+            33.9221526,
+            35.068461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9991186,
+            35.0700994
+          ],
+          [
+            33.9598821,
+            35.0742764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.2305182,
+            35.1766451
+          ],
+          [
+            33.9991186,
+            35.0700994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9865233,
+            34.7659733
+          ],
+          [
+            34.0837955,
+            34.7522526
+          ],
+          [
+            34.1781446,
+            34.7673994
+          ],
+          [
+            34.2583636,
+            34.8111333
+          ],
+          [
+            34.3055295,
+            34.8647496
+          ],
+          [
+            34.3315705,
+            34.933009
+          ],
+          [
+            34.3294391,
+            34.9992199
+          ],
+          [
+            34.2910109,
+            35.0940135
+          ],
+          [
+            34.2305182,
+            35.1766451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.944512,
+            34.9285976
+          ],
+          [
+            33.9807151,
+            34.8751471
+          ],
+          [
+            33.9865233,
+            34.7659733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9010915,
+            34.9646733
+          ],
+          [
+            33.944512,
+            34.9285976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8922572,
+            34.9672115
+          ],
+          [
+            33.9010915,
+            34.9646733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8782585,
+            34.9697071
+          ],
+          [
+            33.8922572,
+            34.9672115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8320138,
+            35.0070972
+          ],
+          [
+            33.8551308,
+            34.9900383
+          ],
+          [
+            33.8346204,
+            34.9745595
+          ],
+          [
+            33.8782585,
+            34.9697071
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8691023,
+            35.0788053
+          ],
+          [
+            33.7939096,
+            35.0522722
+          ],
+          [
+            33.826726,
+            35.0315873
+          ],
+          [
+            33.8320138,
+            35.0070972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.8998048,
+            35.0748829
+          ],
+          [
+            33.8691023,
+            35.0788053
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9024035,
+            35.0770713
+          ],
+          [
+            33.8998048,
+            35.0748829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9221526,
+            35.068461
+          ],
+          [
+            33.9024035,
+            35.0770713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.749319,
+            34.981418
+          ],
+          [
+            33.74053,
+            34.981753
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.74053,
+            34.981753
+          ],
+          [
+            33.749319,
+            34.981418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.743664,
+            34.987509
+          ],
+          [
+            33.745476,
+            34.987432
+          ],
+          [
+            33.748789,
+            34.982384
+          ],
+          [
+            33.740862,
+            34.982747
+          ],
+          [
+            33.743664,
+            34.987509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.756785,
+            34.999242
+          ],
+          [
+            33.785128,
+            34.995724
+          ],
+          [
+            33.791913,
+            34.988978
+          ],
+          [
+            33.780241,
+            34.987248
+          ],
+          [
+            33.756785,
+            34.999242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "CY",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.734439,
+            35.012079
+          ],
+          [
+            33.73826,
+            35.021937
+          ],
+          [
+            33.749833,
+            35.022456
+          ],
+          [
+            33.749304,
+            35.013225
+          ],
+          [
+            33.734439,
+            35.012079
+          ]
+        ]
+      }
+    }
+  ]
+}

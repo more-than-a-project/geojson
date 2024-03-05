@@ -1,0 +1,513 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.3321126,
+            3.9365892
+          ],
+          [
+            130.9251157,
+            3.0616746
+          ],
+          [
+            130.9211073,
+            2.9876195
+          ],
+          [
+            130.9472901,
+            2.9048968
+          ],
+          [
+            130.989588,
+            2.8494886
+          ],
+          [
+            131.0522284,
+            2.8103303
+          ],
+          [
+            131.7116473,
+            2.6015834
+          ],
+          [
+            131.7809381,
+            2.5970192
+          ],
+          [
+            131.8476179,
+            2.6165618
+          ],
+          [
+            131.9254577,
+            2.6851963
+          ],
+          [
+            132.4324146,
+            3.4987676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            132.4324146,
+            3.4987676
+          ],
+          [
+            133.6798659,
+            5.4977325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.6798659,
+            5.4977325
+          ],
+          [
+            134.4230686,
+            6.6856431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.4230686,
+            6.6856431
+          ],
+          [
+            134.5057416,
+            6.8176161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.5057416,
+            6.8176161
+          ],
+          [
+            134.6336119,
+            7.0216669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.6336119,
+            7.0216669
+          ],
+          [
+            134.8316427,
+            7.342729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.8316427,
+            7.342729
+          ],
+          [
+            134.8488636,
+            7.4223154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.8488636,
+            7.4223154
+          ],
+          [
+            134.8591143,
+            7.5049579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.8591143,
+            7.5049579
+          ],
+          [
+            134.8673634,
+            7.5714517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.8673634,
+            7.5714517
+          ],
+          [
+            134.8856152,
+            7.7185375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.8856152,
+            7.7185375
+          ],
+          [
+            134.900312,
+            7.8369384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.900312,
+            7.8369384
+          ],
+          [
+            134.9294502,
+            8.0785001
+          ],
+          [
+            134.914225,
+            8.1616313
+          ],
+          [
+            134.8795268,
+            8.217278
+          ],
+          [
+            134.7493418,
+            8.349953
+          ],
+          [
+            134.6662278,
+            8.3977677
+          ],
+          [
+            134.5703274,
+            8.4019393
+          ],
+          [
+            134.4833418,
+            8.3615238
+          ],
+          [
+            134.2032251,
+            8.0349157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.2032251,
+            8.0349157
+          ],
+          [
+            134.053064,
+            7.8565086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.053064,
+            7.8565086
+          ],
+          [
+            133.990016,
+            7.781578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.990016,
+            7.781578
+          ],
+          [
+            133.9432938,
+            7.7260415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.9432938,
+            7.7260415
+          ],
+          [
+            133.9159353,
+            7.6935182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.9159353,
+            7.6935182
+          ],
+          [
+            133.868649,
+            7.6372995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.868649,
+            7.6372995
+          ],
+          [
+            133.5740666,
+            7.2869054
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.5740666,
+            7.2869054
+          ],
+          [
+            132.8920674,
+            6.4725124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "PW",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "name": "Belau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            132.8920674,
+            6.4725124
+          ],
+          [
+            132.0533919,
+            5.4634037
+          ],
+          [
+            131.3321126,
+            3.9365892
+          ]
+        ]
+      }
+    }
+  ]
+}

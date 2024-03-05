@@ -1,0 +1,6609 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.5178251,
+            -11.6997903
+          ],
+          [
+            36.50288,
+            -11.743795
+          ],
+          [
+            36.518602,
+            -11.761212
+          ],
+          [
+            36.573255,
+            -11.698523
+          ],
+          [
+            36.621791,
+            -11.737186
+          ],
+          [
+            36.657438,
+            -11.724971
+          ],
+          [
+            36.768322,
+            -11.648194
+          ],
+          [
+            36.814072,
+            -11.550531
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.5180853,
+            -11.6990444
+          ],
+          [
+            36.5178251,
+            -11.6997903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.289324,
+            -11.720802
+          ],
+          [
+            36.35577,
+            -11.713096
+          ],
+          [
+            36.387426,
+            -11.678423
+          ],
+          [
+            36.401059,
+            -11.689582
+          ],
+          [
+            36.491796,
+            -11.681041
+          ],
+          [
+            36.5180853,
+            -11.6990444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.814072,
+            -11.550531
+          ],
+          [
+            36.836279,
+            -11.583999
+          ],
+          [
+            36.880649,
+            -11.596741
+          ],
+          [
+            36.889737,
+            -11.58692
+          ],
+          [
+            36.91412,
+            -11.6039347
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.91412,
+            -11.6039347
+          ],
+          [
+            36.925582,
+            -11.604784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.925582,
+            -11.604784
+          ],
+          [
+            36.985453,
+            -11.579971
+          ],
+          [
+            37.028323,
+            -11.586129
+          ],
+          [
+            37.080046,
+            -11.625113
+          ],
+          [
+            37.157534,
+            -11.631586
+          ],
+          [
+            37.219596,
+            -11.655268
+          ],
+          [
+            37.269704,
+            -11.634293
+          ],
+          [
+            37.300848,
+            -11.641161
+          ],
+          [
+            37.332265,
+            -11.677959
+          ],
+          [
+            37.383181,
+            -11.691805
+          ],
+          [
+            37.415231,
+            -11.685122
+          ],
+          [
+            37.444776,
+            -11.636637
+          ],
+          [
+            37.500891,
+            -11.614408
+          ],
+          [
+            37.6027921,
+            -11.6185715
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.6027921,
+            -11.6185715
+          ],
+          [
+            37.656892,
+            -11.575462
+          ],
+          [
+            37.752804,
+            -11.546822
+          ],
+          [
+            37.78664,
+            -11.50645
+          ],
+          [
+            37.77725,
+            -11.457268
+          ],
+          [
+            37.82749,
+            -11.372271
+          ],
+          [
+            37.831647,
+            -11.309179
+          ],
+          [
+            37.9468696,
+            -11.2596097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.9468696,
+            -11.2596097
+          ],
+          [
+            38.0579151,
+            -11.2774868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.0579151,
+            -11.2774868
+          ],
+          [
+            38.115035,
+            -11.261611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.115035,
+            -11.261611
+          ],
+          [
+            38.265334,
+            -11.287305
+          ],
+          [
+            38.284052,
+            -11.328712
+          ],
+          [
+            38.333561,
+            -11.331431
+          ],
+          [
+            38.368672,
+            -11.37373
+          ],
+          [
+            38.486385,
+            -11.416249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.486385,
+            -11.416249
+          ],
+          [
+            38.636391,
+            -11.286101
+          ],
+          [
+            38.706724,
+            -11.26524
+          ],
+          [
+            38.752408,
+            -11.273193
+          ],
+          [
+            38.8795503,
+            -11.1737645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.8795503,
+            -11.1737645
+          ],
+          [
+            38.973236,
+            -11.172661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.973236,
+            -11.172661
+          ],
+          [
+            39.124245,
+            -11.143433
+          ],
+          [
+            39.244681,
+            -11.175861
+          ],
+          [
+            39.3756636,
+            -11.0740474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.3756636,
+            -11.0740474
+          ],
+          [
+            39.499797,
+            -11.004417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.499797,
+            -11.004417
+          ],
+          [
+            39.5106295,
+            -10.9951841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.5106295,
+            -10.9951841
+          ],
+          [
+            39.598491,
+            -10.950007
+          ],
+          [
+            39.763603,
+            -10.914043
+          ],
+          [
+            39.9154074,
+            -10.8301872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.9154074,
+            -10.8301872
+          ],
+          [
+            39.999104,
+            -10.806914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.999104,
+            -10.806914
+          ],
+          [
+            40.148365,
+            -10.683675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.148365,
+            -10.683675
+          ],
+          [
+            40.2516752,
+            -10.5896517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.2516752,
+            -10.5896517
+          ],
+          [
+            40.298129,
+            -10.565809
+          ],
+          [
+            40.35206,
+            -10.565456
+          ],
+          [
+            40.4337752,
+            -10.4708107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.4337752,
+            -10.4708107
+          ],
+          [
+            40.4927778,
+            -10.4147222
+          ],
+          [
+            40.6471627,
+            -10.3252149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.6471627,
+            -10.3252149
+          ],
+          [
+            40.6584071,
+            -10.3186947
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.6584071,
+            -10.3186947
+          ],
+          [
+            40.6256031,
+            -10.2436797
+          ],
+          [
+            40.5566138,
+            -10.151458
+          ],
+          [
+            39.994389,
+            -9.7001431
+          ],
+          [
+            39.8296581,
+            -9.0341037
+          ],
+          [
+            39.7927971,
+            -8.5998133
+          ],
+          [
+            40.0765566,
+            -7.8755807
+          ],
+          [
+            40.1074593,
+            -7.7554843
+          ],
+          [
+            40.1295407,
+            -6.9079629
+          ],
+          [
+            40.0986785,
+            -6.7972201
+          ],
+          [
+            39.7985052,
+            -6.3197157
+          ],
+          [
+            40.0504099,
+            -5.2537476
+          ],
+          [
+            40.0738892,
+            -5.1011086
+          ],
+          [
+            40.0805999,
+            -4.890261
+          ],
+          [
+            40.0405907,
+            -4.7851723
+          ],
+          [
+            39.9723676,
+            -4.7166336
+          ],
+          [
+            39.8912724,
+            -4.6874954
+          ],
+          [
+            39.7957128,
+            -4.698548
+          ],
+          [
+            39.764529,
+            -4.6810845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.764529,
+            -4.6810845
+          ],
+          [
+            39.6471226,
+            -4.6810744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.3195034,
+            -4.799553
+          ],
+          [
+            39.3912446,
+            -4.886084
+          ],
+          [
+            39.4413633,
+            -4.8995204
+          ],
+          [
+            39.4779317,
+            -4.8919042
+          ],
+          [
+            39.6051539,
+            -4.6810708
+          ],
+          [
+            39.6471226,
+            -4.6810744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.2179399,
+            -4.6808496
+          ],
+          [
+            39.3195034,
+            -4.799553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.193813,
+            -4.6696557
+          ],
+          [
+            39.2179399,
+            -4.6808496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.0220896,
+            -4.5430344
+          ],
+          [
+            39.193813,
+            -4.6696557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.760798,
+            -4.3596499
+          ],
+          [
+            39.0220896,
+            -4.5430344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.4487922,
+            -4.1417295
+          ],
+          [
+            38.760798,
+            -4.3596499
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.4048568,
+            -4.110974
+          ],
+          [
+            38.4487922,
+            -4.1417295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.2059987,
+            -3.9704571
+          ],
+          [
+            38.4048568,
+            -4.110974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.9563512,
+            -3.7915266
+          ],
+          [
+            38.2059987,
+            -3.9704571
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.5903293,
+            -3.4345379
+          ],
+          [
+            37.5856144,
+            -3.4616261
+          ],
+          [
+            37.6261694,
+            -3.4800459
+          ],
+          [
+            37.60839,
+            -3.51997
+          ],
+          [
+            37.6789,
+            -3.50456
+          ],
+          [
+            37.74937,
+            -3.54462
+          ],
+          [
+            37.7840893,
+            -3.6713112
+          ],
+          [
+            37.9563512,
+            -3.7915266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.6171605,
+            -3.4067939
+          ],
+          [
+            37.5903293,
+            -3.4345379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.664214,
+            -3.3583054
+          ],
+          [
+            37.6171605,
+            -3.4067939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.6939391,
+            -3.1961469
+          ],
+          [
+            37.712127,
+            -3.3112602
+          ],
+          [
+            37.6815087,
+            -3.3564982
+          ],
+          [
+            37.664214,
+            -3.3583054
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.5198859,
+            -2.9594781
+          ],
+          [
+            37.6727472,
+            -3.0608561
+          ],
+          [
+            37.6939391,
+            -3.1961469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.4793361,
+            -2.9363073
+          ],
+          [
+            37.5198859,
+            -2.9594781
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.4618507,
+            -2.9265755
+          ],
+          [
+            37.4793361,
+            -2.9363073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.428772,
+            -2.9086153
+          ],
+          [
+            37.4618507,
+            -2.9265755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.8970937,
+            -2.6119179
+          ],
+          [
+            37.428772,
+            -2.9086153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.8004968,
+            -2.5557403
+          ],
+          [
+            36.8970937,
+            -2.6119179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.466744,
+            -2.369318
+          ],
+          [
+            36.8004968,
+            -2.5557403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.2141023,
+            -2.2274408
+          ],
+          [
+            36.466744,
+            -2.369318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.0737697,
+            -2.1482247
+          ],
+          [
+            36.2141023,
+            -2.2274408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.0009208,
+            -2.1054817
+          ],
+          [
+            36.0737697,
+            -2.1482247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.5279982,
+            -1.8386416
+          ],
+          [
+            36.0009208,
+            -2.1054817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.2574822,
+            -1.6865484
+          ],
+          [
+            35.5279982,
+            -1.8386416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.1761346,
+            -1.6419602
+          ],
+          [
+            35.2574822,
+            -1.6865484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.0272145,
+            -1.5572824
+          ],
+          [
+            35.1761346,
+            -1.6419602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.0170459,
+            -1.5517491
+          ],
+          [
+            35.0272145,
+            -1.5572824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.8917757,
+            -1.4803608
+          ],
+          [
+            35.0170459,
+            -1.5517491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.783506,
+            -1.4195001
+          ],
+          [
+            34.8917757,
+            -1.4803608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.7817219,
+            -1.4183105
+          ],
+          [
+            34.783506,
+            -1.4195001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.7315104,
+            -1.3893777
+          ],
+          [
+            34.7817219,
+            -1.4183105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.6396285,
+            -1.3374524
+          ],
+          [
+            34.7315104,
+            -1.3893777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.5825689,
+            -1.3050628
+          ],
+          [
+            34.6396285,
+            -1.3374524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.5214828,
+            -1.2711242
+          ],
+          [
+            34.5825689,
+            -1.3050628
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4882821,
+            -1.2521984
+          ],
+          [
+            34.5214828,
+            -1.2711242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4752814,
+            -1.2445291
+          ],
+          [
+            34.4882821,
+            -1.2521984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4579898,
+            -1.2350815
+          ],
+          [
+            34.4752814,
+            -1.2445291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.3774045,
+            -1.1891437
+          ],
+          [
+            34.4579898,
+            -1.2350815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.3750821,
+            -1.1878414
+          ],
+          [
+            34.3774045,
+            -1.1891437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.2595285,
+            -1.1227007
+          ],
+          [
+            34.3750821,
+            -1.1878414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.1858002,
+            -1.0812537
+          ],
+          [
+            34.2595285,
+            -1.1227007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.1779006,
+            -1.0768156
+          ],
+          [
+            34.1858002,
+            -1.0812537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.0937157,
+            -1.0289179
+          ],
+          [
+            34.1779006,
+            -1.0768156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9333611,
+            -1.0
+          ],
+          [
+            34.0189167,
+            -1.0
+          ],
+          [
+            34.0408988,
+            -1.0461555
+          ],
+          [
+            34.0803275,
+            -1.0218635
+          ],
+          [
+            34.0937157,
+            -1.0289179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9333611,
+            -1.0
+          ],
+          [
+            33.6571944,
+            -1.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6571944,
+            -1.0
+          ],
+          [
+            33.5193889,
+            -1.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.5193889,
+            -1.0
+          ],
+          [
+            32.8743889,
+            -1.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8743889,
+            -1.0
+          ],
+          [
+            32.75025,
+            -1.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.75025,
+            -1.0
+          ],
+          [
+            31.9991667,
+            -1.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.9991667,
+            -1.0
+          ],
+          [
+            31.787897,
+            -0.9993592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.787897,
+            -0.9993592
+          ],
+          [
+            31.2952796,
+            -1.0000032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.2952796,
+            -1.0000032
+          ],
+          [
+            31.2698611,
+            -1.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.2698611,
+            -1.0
+          ],
+          [
+            31.0536944,
+            -1.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.0536944,
+            -1.0
+          ],
+          [
+            30.7996359,
+            -0.9999952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7910353,
+            -0.9947581
+          ],
+          [
+            30.7996359,
+            -0.9999952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7802162,
+            -0.9896332
+          ],
+          [
+            30.7910353,
+            -0.9947581
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7769912,
+            -0.9885626
+          ],
+          [
+            30.7802162,
+            -0.9896332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7688675,
+            -0.9855159
+          ],
+          [
+            30.7769912,
+            -0.9885626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7653298,
+            -0.9855123
+          ],
+          [
+            30.7688675,
+            -0.9855159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.761131,
+            -0.9877944
+          ],
+          [
+            30.7653298,
+            -0.9855123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6687099,
+            -1.049852
+          ],
+          [
+            30.6985152,
+            -1.0150986
+          ],
+          [
+            30.761131,
+            -0.9877944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4730999,
+            -1.057607
+          ],
+          [
+            30.5284041,
+            -1.0762589
+          ],
+          [
+            30.5834861,
+            -1.0607815
+          ],
+          [
+            30.6490431,
+            -1.0659138
+          ],
+          [
+            30.6687099,
+            -1.049852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4777581,
+            -1.1609739
+          ],
+          [
+            30.4764577,
+            -1.1218258
+          ],
+          [
+            30.458981,
+            -1.1172725
+          ],
+          [
+            30.4512741,
+            -1.0889114
+          ],
+          [
+            30.4730999,
+            -1.057607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5632489,
+            -1.3223941
+          ],
+          [
+            30.5508477,
+            -1.2501236
+          ],
+          [
+            30.5090477,
+            -1.1714555
+          ],
+          [
+            30.4777581,
+            -1.1609739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5676048,
+            -1.3325623
+          ],
+          [
+            30.5632489,
+            -1.3223941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5676048,
+            -1.3325623
+          ],
+          [
+            30.5687222,
+            -1.3371423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5687222,
+            -1.3371423
+          ],
+          [
+            30.6126287,
+            -1.3497571
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6126287,
+            -1.3497571
+          ],
+          [
+            30.6294712,
+            -1.385057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6294712,
+            -1.385057
+          ],
+          [
+            30.6794267,
+            -1.3947704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6794267,
+            -1.3947704
+          ],
+          [
+            30.6862,
+            -1.4003536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6862,
+            -1.4003536
+          ],
+          [
+            30.709508,
+            -1.4240146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.709508,
+            -1.4240146
+          ],
+          [
+            30.7393975,
+            -1.4584112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7393975,
+            -1.4584112
+          ],
+          [
+            30.7437369,
+            -1.5180467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7437369,
+            -1.5180467
+          ],
+          [
+            30.7451006,
+            -1.5233921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7451006,
+            -1.5233921
+          ],
+          [
+            30.7841453,
+            -1.5764961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7841453,
+            -1.5764961
+          ],
+          [
+            30.8050654,
+            -1.6043066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8050654,
+            -1.6043066
+          ],
+          [
+            30.8198637,
+            -1.6241321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8198637,
+            -1.6241321
+          ],
+          [
+            30.8398778,
+            -1.6509449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8398778,
+            -1.6509449
+          ],
+          [
+            30.8213636,
+            -1.6928223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8213636,
+            -1.6928223
+          ],
+          [
+            30.8206801,
+            -1.7095354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8206801,
+            -1.7095354
+          ],
+          [
+            30.8229686,
+            -1.7309953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8229686,
+            -1.7309953
+          ],
+          [
+            30.8239567,
+            -1.847341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8239567,
+            -1.847341
+          ],
+          [
+            30.8098376,
+            -1.9241537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8098376,
+            -1.9241537
+          ],
+          [
+            30.8078269,
+            -1.9381312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8078269,
+            -1.9381312
+          ],
+          [
+            30.8117001,
+            -1.9444868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8117001,
+            -1.9444868
+          ],
+          [
+            30.8269676,
+            -1.9712303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8269676,
+            -1.9712303
+          ],
+          [
+            30.8624528,
+            -2.030841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8624528,
+            -2.030841
+          ],
+          [
+            30.8990603,
+            -2.0778323
+          ],
+          [
+            30.8494749,
+            -2.198887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8494749,
+            -2.198887
+          ],
+          [
+            30.8464917,
+            -2.2599174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8464917,
+            -2.2599174
+          ],
+          [
+            30.8569683,
+            -2.3132685
+          ],
+          [
+            30.840152,
+            -2.3271143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.840152,
+            -2.3271143
+          ],
+          [
+            30.8189591,
+            -2.3635446
+          ],
+          [
+            30.7799702,
+            -2.3847586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7799702,
+            -2.3847586
+          ],
+          [
+            30.7810315,
+            -2.3894541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7810315,
+            -2.3894541
+          ],
+          [
+            30.7165606,
+            -2.355543
+          ],
+          [
+            30.6572084,
+            -2.4136614
+          ],
+          [
+            30.6325674,
+            -2.4032301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6325674,
+            -2.4032301
+          ],
+          [
+            30.5828507,
+            -2.4145424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5514547,
+            -2.4115018
+          ],
+          [
+            30.5828507,
+            -2.4145424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5436084,
+            -2.4130213
+          ],
+          [
+            30.5514547,
+            -2.4115018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5383768,
+            -2.4223272
+          ],
+          [
+            30.5436084,
+            -2.4130213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5383768,
+            -2.4223272
+          ],
+          [
+            30.5116113,
+            -2.5025927
+          ],
+          [
+            30.483876,
+            -2.5273292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.483876,
+            -2.5273292
+          ],
+          [
+            30.4842607,
+            -2.5579336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4842607,
+            -2.5579336
+          ],
+          [
+            30.4342462,
+            -2.6408169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4342462,
+            -2.6408169
+          ],
+          [
+            30.4204137,
+            -2.6657451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4204137,
+            -2.6657451
+          ],
+          [
+            30.426631,
+            -2.6735142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.426631,
+            -2.6735142
+          ],
+          [
+            30.459301,
+            -2.6912134
+          ],
+          [
+            30.5269504,
+            -2.6541019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4559743,
+            -2.7398776
+          ],
+          [
+            30.4659946,
+            -2.7194262
+          ],
+          [
+            30.4843354,
+            -2.7222864
+          ],
+          [
+            30.5175358,
+            -2.6923059
+          ],
+          [
+            30.5269504,
+            -2.6541019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4345643,
+            -2.8829889
+          ],
+          [
+            30.4058966,
+            -2.8604205
+          ],
+          [
+            30.4422194,
+            -2.7938934
+          ],
+          [
+            30.4401648,
+            -2.7453539
+          ],
+          [
+            30.4559743,
+            -2.7398776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4374193,
+            -2.9034791
+          ],
+          [
+            30.4345643,
+            -2.8829889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4869339,
+            -2.948962
+          ],
+          [
+            30.4374193,
+            -2.9034791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5319199,
+            -2.9324935
+          ],
+          [
+            30.5064472,
+            -2.9534046
+          ],
+          [
+            30.4869339,
+            -2.948962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5699966,
+            -2.8944982
+          ],
+          [
+            30.5319199,
+            -2.9324935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5895814,
+            -2.9141588
+          ],
+          [
+            30.5699966,
+            -2.8944982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6340462,
+            -2.9423673
+          ],
+          [
+            30.5895814,
+            -2.9141588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6340462,
+            -2.9423673
+          ],
+          [
+            30.6398682,
+            -2.949675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6398682,
+            -2.949675
+          ],
+          [
+            30.6731141,
+            -2.9936473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6731141,
+            -2.9936473
+          ],
+          [
+            30.7038204,
+            -2.9718186
+          ],
+          [
+            30.7475548,
+            -2.9977363
+          ],
+          [
+            30.8366021,
+            -2.9763541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8366021,
+            -2.9763541
+          ],
+          [
+            30.8498462,
+            -2.9795182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8329194,
+            -3.0046038
+          ],
+          [
+            30.8498462,
+            -2.9795182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8329194,
+            -3.0046038
+          ],
+          [
+            30.7975949,
+            -3.0524598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8362007,
+            -3.0937839
+          ],
+          [
+            30.7975949,
+            -3.0524598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.832488,
+            -3.1014482
+          ],
+          [
+            30.8362007,
+            -3.0937839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8233242,
+            -3.1405075
+          ],
+          [
+            30.832488,
+            -3.1014482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8233242,
+            -3.1405075
+          ],
+          [
+            30.8340509,
+            -3.1428049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.840909,
+            -3.1559421
+          ],
+          [
+            30.8340509,
+            -3.1428049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.840909,
+            -3.1559421
+          ],
+          [
+            30.8445178,
+            -3.1610747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8445178,
+            -3.1610747
+          ],
+          [
+            30.845657,
+            -3.1662721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.845657,
+            -3.1662721
+          ],
+          [
+            30.8475156,
+            -3.2069755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.821048,
+            -3.2131699
+          ],
+          [
+            30.8475156,
+            -3.2069755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.821048,
+            -3.2131699
+          ],
+          [
+            30.8140353,
+            -3.2296101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8140353,
+            -3.2296101
+          ],
+          [
+            30.8425513,
+            -3.253653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7438755,
+            -3.2677252
+          ],
+          [
+            30.7586803,
+            -3.292129
+          ],
+          [
+            30.8425513,
+            -3.253653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7438755,
+            -3.2677252
+          ],
+          [
+            30.7363281,
+            -3.2702808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7363281,
+            -3.2702808
+          ],
+          [
+            30.7067859,
+            -3.3095157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7067859,
+            -3.3095157
+          ],
+          [
+            30.6777834,
+            -3.3182012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6777834,
+            -3.3182012
+          ],
+          [
+            30.665883,
+            -3.3221172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.665883,
+            -3.3221172
+          ],
+          [
+            30.6345959,
+            -3.360996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6402671,
+            -3.3673449
+          ],
+          [
+            30.6345959,
+            -3.360996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6402671,
+            -3.3673449
+          ],
+          [
+            30.6445714,
+            -3.3715155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6445714,
+            -3.3715155
+          ],
+          [
+            30.6755431,
+            -3.3958563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6755431,
+            -3.3958563
+          ],
+          [
+            30.6703083,
+            -3.4224577
+          ],
+          [
+            30.6371536,
+            -3.4534211
+          ],
+          [
+            30.5107536,
+            -3.5291786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.497488,
+            -3.5175202
+          ],
+          [
+            30.5107536,
+            -3.5291786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.497488,
+            -3.5175202
+          ],
+          [
+            30.4951371,
+            -3.5190535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4951371,
+            -3.5190535
+          ],
+          [
+            30.4514013,
+            -3.5599295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4514013,
+            -3.5599295
+          ],
+          [
+            30.4460089,
+            -3.5675896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.4460089,
+            -3.5675896
+          ],
+          [
+            30.4568364,
+            -3.6058815
+          ],
+          [
+            30.42839,
+            -3.624086
+          ],
+          [
+            30.404121,
+            -3.6882082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.404121,
+            -3.6882082
+          ],
+          [
+            30.3914614,
+            -3.708056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.3914614,
+            -3.708056
+          ],
+          [
+            30.3908208,
+            -3.7093868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.3908208,
+            -3.7093868
+          ],
+          [
+            30.3908082,
+            -3.7103418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.3908082,
+            -3.7103418
+          ],
+          [
+            30.3909561,
+            -3.7156777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.3909561,
+            -3.7156777
+          ],
+          [
+            30.3892689,
+            -3.7246818
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.3892689,
+            -3.7246818
+          ],
+          [
+            30.4095626,
+            -3.7649677
+          ],
+          [
+            30.4011576,
+            -3.7955371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.365795,
+            -3.775554
+          ],
+          [
+            30.4011576,
+            -3.7955371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.2722979,
+            -3.8742989
+          ],
+          [
+            30.3081034,
+            -3.845313
+          ],
+          [
+            30.3290619,
+            -3.7845727
+          ],
+          [
+            30.365795,
+            -3.775554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.2696706,
+            -3.8755765
+          ],
+          [
+            30.2722979,
+            -3.8742989
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.1919261,
+            -4.0516588
+          ],
+          [
+            30.2241118,
+            -4.0362784
+          ],
+          [
+            30.2296523,
+            -4.0111263
+          ],
+          [
+            30.2136958,
+            -3.9904415
+          ],
+          [
+            30.2696706,
+            -3.8755765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.1836674,
+            -4.07043
+          ],
+          [
+            30.1919261,
+            -4.0516588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.1853276,
+            -4.08133
+          ],
+          [
+            30.1836674,
+            -4.07043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.1841487,
+            -4.0822906
+          ],
+          [
+            30.1853276,
+            -4.08133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.1521301,
+            -4.1184081
+          ],
+          [
+            30.1841487,
+            -4.0822906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.1512587,
+            -4.1164314
+          ],
+          [
+            30.1521301,
+            -4.1184081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.0204745,
+            -4.274876
+          ],
+          [
+            30.041892,
+            -4.2765755
+          ],
+          [
+            30.0531983,
+            -4.2579533
+          ],
+          [
+            30.0464345,
+            -4.2427158
+          ],
+          [
+            30.0779291,
+            -4.1680633
+          ],
+          [
+            30.1512587,
+            -4.1164314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.8883305,
+            -4.3553137
+          ],
+          [
+            29.9425856,
+            -4.3387086
+          ],
+          [
+            29.9689822,
+            -4.3029277
+          ],
+          [
+            29.9983983,
+            -4.2992847
+          ],
+          [
+            30.0204745,
+            -4.274876
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.8670642,
+            -4.3829128
+          ],
+          [
+            29.8883305,
+            -4.3553137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.8217315,
+            -4.3620297
+          ],
+          [
+            29.8670642,
+            -4.3829128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.8114214,
+            -4.3662686
+          ],
+          [
+            29.8217315,
+            -4.3620297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.7644454,
+            -4.4344901
+          ],
+          [
+            29.8114214,
+            -4.3662686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.7644454,
+            -4.4344901
+          ],
+          [
+            29.7596495,
+            -4.466648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.7596495,
+            -4.466648
+          ],
+          [
+            29.7585754,
+            -4.4670291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.7585754,
+            -4.4670291
+          ],
+          [
+            29.7461757,
+            -4.4659491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.7461757,
+            -4.4659491
+          ],
+          [
+            29.7314156,
+            -4.4601315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.7314156,
+            -4.4601315
+          ],
+          [
+            29.6612513,
+            -4.4485486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.6612513,
+            -4.4485486
+          ],
+          [
+            29.4359507,
+            -4.4490059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.4359507,
+            -4.4490059
+          ],
+          [
+            29.3715294,
+            -4.5694134
+          ],
+          [
+            29.3269773,
+            -4.6997072
+          ],
+          [
+            29.365278,
+            -5.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.365278,
+            -5.0
+          ],
+          [
+            29.414167,
+            -5.125278
+          ],
+          [
+            29.458611,
+            -5.184444
+          ],
+          [
+            29.527222,
+            -5.4275
+          ],
+          [
+            29.5975,
+            -5.579167
+          ],
+          [
+            29.628333,
+            -5.697222
+          ],
+          [
+            29.631944,
+            -5.748333
+          ],
+          [
+            29.614167,
+            -5.798889
+          ],
+          [
+            29.518889,
+            -5.918889
+          ],
+          [
+            29.495833,
+            -5.991389
+          ],
+          [
+            29.550278,
+            -6.295278
+          ],
+          [
+            29.661111,
+            -6.455556
+          ],
+          [
+            29.703889,
+            -6.586389
+          ],
+          [
+            29.7325,
+            -6.6275
+          ],
+          [
+            29.891389,
+            -6.755278
+          ],
+          [
+            30.006667,
+            -6.805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.006667,
+            -6.805
+          ],
+          [
+            30.175556,
+            -6.9475
+          ],
+          [
+            30.2610819,
+            -7.0675926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.2610819,
+            -7.0675926
+          ],
+          [
+            30.311389,
+            -7.136944
+          ],
+          [
+            30.381944,
+            -7.283889
+          ],
+          [
+            30.468889,
+            -7.608889
+          ],
+          [
+            30.649444,
+            -7.878056
+          ],
+          [
+            30.701389,
+            -7.98
+          ],
+          [
+            30.7962467,
+            -8.2765058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7962467,
+            -8.2765058
+          ],
+          [
+            30.90399,
+            -8.4415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.90399,
+            -8.4415
+          ],
+          [
+            31.0105113,
+            -8.5764758
+          ],
+          [
+            31.0779413,
+            -8.6218158
+          ],
+          [
+            31.14964,
+            -8.63139
+          ],
+          [
+            31.1832111,
+            -8.6026707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.2860723,
+            -8.6306398
+          ],
+          [
+            31.2633595,
+            -8.6235145
+          ],
+          [
+            31.2432567,
+            -8.5908362
+          ],
+          [
+            31.2110524,
+            -8.5835379
+          ],
+          [
+            31.1832111,
+            -8.6026707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.3626484,
+            -8.5910278
+          ],
+          [
+            31.3480498,
+            -8.6170672
+          ],
+          [
+            31.3123614,
+            -8.6068414
+          ],
+          [
+            31.2860723,
+            -8.6306398
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.4736768,
+            -8.6566406
+          ],
+          [
+            31.4531839,
+            -8.6374233
+          ],
+          [
+            31.407273,
+            -8.6374097
+          ],
+          [
+            31.3765588,
+            -8.5886946
+          ],
+          [
+            31.3626484,
+            -8.5910278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.5029673,
+            -8.6836394
+          ],
+          [
+            31.4736768,
+            -8.6566406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.5029673,
+            -8.6836394
+          ],
+          [
+            31.53617,
+            -8.68361
+          ],
+          [
+            31.57048,
+            -8.70955
+          ],
+          [
+            31.58298,
+            -8.76117
+          ],
+          [
+            31.56988,
+            -8.80923
+          ],
+          [
+            31.58475,
+            -8.83883
+          ],
+          [
+            31.65861,
+            -8.87996
+          ],
+          [
+            31.6799,
+            -8.91126
+          ],
+          [
+            31.7351269,
+            -8.9245688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.7351269,
+            -8.9245688
+          ],
+          [
+            31.7648292,
+            -8.894809
+          ],
+          [
+            31.792195,
+            -8.8902471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.792195,
+            -8.8902471
+          ],
+          [
+            31.9470513,
+            -8.9367758
+          ],
+          [
+            31.93666,
+            -9.01801
+          ],
+          [
+            31.98438,
+            -9.07118
+          ],
+          [
+            32.0695335,
+            -9.0481833
+          ],
+          [
+            32.1138173,
+            -9.0583494
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.1138173,
+            -9.0583494
+          ],
+          [
+            32.1599245,
+            -9.0574776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.1599245,
+            -9.0574776
+          ],
+          [
+            32.1958076,
+            -9.0975704
+          ],
+          [
+            32.2670177,
+            -9.1335753
+          ],
+          [
+            32.4313977,
+            -9.1182553
+          ],
+          [
+            32.4935177,
+            -9.1531053
+          ],
+          [
+            32.4866277,
+            -9.1723353
+          ],
+          [
+            32.5409077,
+            -9.2546653
+          ],
+          [
+            32.5844877,
+            -9.2463453
+          ],
+          [
+            32.6190877,
+            -9.2579253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.7326553,
+            -9.2801517
+          ],
+          [
+            32.6485272,
+            -9.2757649
+          ],
+          [
+            32.6190877,
+            -9.2579253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.790559,
+            -9.3221882
+          ],
+          [
+            32.7654499,
+            -9.3231363
+          ],
+          [
+            32.7556824,
+            -9.2851256
+          ],
+          [
+            32.7326553,
+            -9.2801517
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.790559,
+            -9.3221882
+          ],
+          [
+            32.8754256,
+            -9.3703001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8754256,
+            -9.3703001
+          ],
+          [
+            32.89244,
+            -9.36579
+          ],
+          [
+            32.89595,
+            -9.38926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.89595,
+            -9.38926
+          ],
+          [
+            32.91109,
+            -9.37881
+          ],
+          [
+            32.92506,
+            -9.39708
+          ],
+          [
+            32.9593881,
+            -9.3998931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9593881,
+            -9.3998931
+          ],
+          [
+            32.9927054,
+            -9.368301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.9927054,
+            -9.368301
+          ],
+          [
+            33.0315476,
+            -9.4076431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0315476,
+            -9.4076431
+          ],
+          [
+            33.0618061,
+            -9.433874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.0618061,
+            -9.433874
+          ],
+          [
+            33.1212055,
+            -9.4720941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1212055,
+            -9.4720941
+          ],
+          [
+            33.1235334,
+            -9.4736187
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.1235334,
+            -9.4736187
+          ],
+          [
+            33.1443416,
+            -9.4933352
+          ],
+          [
+            33.2124962,
+            -9.5097901
+          ],
+          [
+            33.223175,
+            -9.4986049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.223175,
+            -9.4986049
+          ],
+          [
+            33.3259442,
+            -9.4860748
+          ],
+          [
+            33.3633318,
+            -9.5266146
+          ],
+          [
+            33.3941549,
+            -9.5346199
+          ],
+          [
+            33.4255907,
+            -9.5774404
+          ],
+          [
+            33.420524,
+            -9.5939009
+          ],
+          [
+            33.4503563,
+            -9.616221
+          ],
+          [
+            33.5108833,
+            -9.6260022
+          ],
+          [
+            33.5537773,
+            -9.5875326
+          ],
+          [
+            33.5865553,
+            -9.5792881
+          ],
+          [
+            33.6421636,
+            -9.6032274
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6421636,
+            -9.6032274
+          ],
+          [
+            33.6716736,
+            -9.6082379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6716736,
+            -9.6082379
+          ],
+          [
+            33.7050026,
+            -9.6078802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7050026,
+            -9.6078802
+          ],
+          [
+            33.7224819,
+            -9.5836619
+          ],
+          [
+            33.7738166,
+            -9.5865474
+          ],
+          [
+            33.8252413,
+            -9.641824
+          ],
+          [
+            33.9049783,
+            -9.6904011
+          ],
+          [
+            33.9154853,
+            -9.7144604
+          ],
+          [
+            33.9400027,
+            -9.7188671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9400027,
+            -9.7188671
+          ],
+          [
+            33.967849,
+            -9.618212
+          ],
+          [
+            33.9498836,
+            -9.582147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.9498836,
+            -9.582147
+          ],
+          [
+            33.9678544,
+            -9.5312284
+          ],
+          [
+            34.0120009,
+            -9.5023444
+          ],
+          [
+            34.0397362,
+            -9.4937997
+          ],
+          [
+            34.0630031,
+            -9.523507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.0630031,
+            -9.523507
+          ],
+          [
+            34.0782098,
+            -9.5283068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.0782098,
+            -9.5283068
+          ],
+          [
+            34.1337597,
+            -9.5794308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.1337597,
+            -9.5794308
+          ],
+          [
+            34.2417428,
+            -9.6780836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.2417428,
+            -9.6780836
+          ],
+          [
+            34.3273535,
+            -9.7582742
+          ],
+          [
+            34.3489775,
+            -9.8021003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.3489775,
+            -9.8021003
+          ],
+          [
+            34.4221428,
+            -9.8947666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4221428,
+            -9.8947666
+          ],
+          [
+            34.4385995,
+            -9.9177532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4385995,
+            -9.9177532
+          ],
+          [
+            34.4694328,
+            -9.9599122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4694328,
+            -9.9599122
+          ],
+          [
+            34.4925937,
+            -9.9809574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.4925937,
+            -9.9809574
+          ],
+          [
+            34.5050204,
+            -10.0021424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.5050204,
+            -10.0021424
+          ],
+          [
+            34.5352489,
+            -10.0591939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.5352489,
+            -10.0591939
+          ],
+          [
+            34.541945,
+            -10.0811568
+          ],
+          [
+            34.5193152,
+            -10.118918
+          ],
+          [
+            34.5596865,
+            -10.1884979
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.5596865,
+            -10.1884979
+          ],
+          [
+            34.5815492,
+            -10.3210124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.5815492,
+            -10.3210124
+          ],
+          [
+            34.561784,
+            -10.4077222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.561784,
+            -10.4077222
+          ],
+          [
+            34.571232,
+            -10.4601048
+          ],
+          [
+            34.5888944,
+            -10.4564542
+          ],
+          [
+            34.5955825,
+            -10.482392
+          ],
+          [
+            34.5724369,
+            -10.5341661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.5724369,
+            -10.5341661
+          ],
+          [
+            34.5801973,
+            -10.5682526
+          ],
+          [
+            34.6249849,
+            -10.5969519
+          ],
+          [
+            34.6173245,
+            -10.6199832
+          ],
+          [
+            34.6448547,
+            -10.6455011
+          ],
+          [
+            34.6597463,
+            -10.6885368
+          ],
+          [
+            34.6493715,
+            -10.7131082
+          ],
+          [
+            34.6725324,
+            -10.7378383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.6725324,
+            -10.7378383
+          ],
+          [
+            34.6787095,
+            -10.9120012
+          ],
+          [
+            34.6214417,
+            -11.0065258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.6214417,
+            -11.0065258
+          ],
+          [
+            34.6145833,
+            -11.0462137
+          ],
+          [
+            34.6298048,
+            -11.048754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.6298048,
+            -11.048754
+          ],
+          [
+            34.6359685,
+            -11.1067921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.6359685,
+            -11.1067921
+          ],
+          [
+            34.7064623,
+            -11.1805832
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.7064623,
+            -11.1805832
+          ],
+          [
+            34.7566974,
+            -11.2085395
+          ],
+          [
+            34.7725332,
+            -11.2570151
+          ],
+          [
+            34.7973087,
+            -11.273185
+          ],
+          [
+            34.785381,
+            -11.2961717
+          ],
+          [
+            34.7932868,
+            -11.3234579
+          ],
+          [
+            34.9189147,
+            -11.3898668
+          ],
+          [
+            34.9243784,
+            -11.4298648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9243784,
+            -11.4298648
+          ],
+          [
+            34.955838,
+            -11.4916058
+          ],
+          [
+            34.9591506,
+            -11.57368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9591506,
+            -11.57368
+          ],
+          [
+            34.9602529,
+            -11.57548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9602529,
+            -11.57548
+          ],
+          [
+            35.342316,
+            -11.568913
+          ],
+          [
+            35.388806,
+            -11.584721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.388806,
+            -11.584721
+          ],
+          [
+            35.414724,
+            -11.562284
+          ],
+          [
+            35.4255939,
+            -11.5709095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.4255939,
+            -11.5709095
+          ],
+          [
+            35.420086,
+            -11.581916
+          ],
+          [
+            35.46472,
+            -11.581037
+          ],
+          [
+            35.481334,
+            -11.572864
+          ],
+          [
+            35.474651,
+            -11.560328
+          ],
+          [
+            35.494461,
+            -11.559806
+          ],
+          [
+            35.515192,
+            -11.582192
+          ],
+          [
+            35.528067,
+            -11.558688
+          ],
+          [
+            35.550137,
+            -11.569741
+          ],
+          [
+            35.575177,
+            -11.548781
+          ],
+          [
+            35.644761,
+            -11.562921
+          ],
+          [
+            35.711484,
+            -11.50673
+          ],
+          [
+            35.711639,
+            -11.477472
+          ],
+          [
+            35.769633,
+            -11.471794
+          ],
+          [
+            35.768485,
+            -11.460301
+          ],
+          [
+            35.774572,
+            -11.470657
+          ],
+          [
+            35.7945245,
+            -11.4407604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.7945245,
+            -11.4407604
+          ],
+          [
+            35.827366,
+            -11.410896
+          ],
+          [
+            35.86806,
+            -11.4311538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "TZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "name": "Tanzania"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.86806,
+            -11.4311538
+          ],
+          [
+            35.929672,
+            -11.439184
+          ],
+          [
+            35.943818,
+            -11.422892
+          ],
+          [
+            35.957946,
+            -11.465587
+          ],
+          [
+            35.985547,
+            -11.457663
+          ],
+          [
+            36.008319,
+            -11.486874
+          ],
+          [
+            36.042192,
+            -11.494471
+          ],
+          [
+            36.062893,
+            -11.540585
+          ],
+          [
+            36.120043,
+            -11.512823
+          ],
+          [
+            36.130978,
+            -11.554033
+          ],
+          [
+            36.154096,
+            -11.570353
+          ],
+          [
+            36.183413,
+            -11.547985
+          ],
+          [
+            36.17536,
+            -11.5668
+          ],
+          [
+            36.199761,
+            -11.582068
+          ],
+          [
+            36.184417,
+            -11.674071
+          ],
+          [
+            36.217465,
+            -11.708525
+          ],
+          [
+            36.271124,
+            -11.690692
+          ],
+          [
+            36.289324,
+            -11.720802
+          ]
+        ]
+      }
+    }
+  ]
+}

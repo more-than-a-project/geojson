@@ -1,0 +1,4601 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.997337,
+            23.517178
+          ],
+          [
+            11.4101023,
+            23.1830874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.997337,
+            23.517178
+          ],
+          [
+            13.410833,
+            23.215556
+          ],
+          [
+            13.543611,
+            23.168333
+          ],
+          [
+            13.616389,
+            23.124167
+          ],
+          [
+            14.234444,
+            22.613611
+          ],
+          [
+            14.9985831,
+            23.0012385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.9985831,
+            23.0012385
+          ],
+          [
+            15.194722,
+            21.998889
+          ],
+          [
+            15.2025,
+            21.495833
+          ],
+          [
+            15.284444,
+            21.445278
+          ],
+          [
+            15.627222,
+            20.955278
+          ],
+          [
+            15.584444,
+            20.93
+          ],
+          [
+            15.558333,
+            20.884444
+          ],
+          [
+            15.557222,
+            20.815833
+          ],
+          [
+            15.575833,
+            20.766389
+          ],
+          [
+            15.673889,
+            20.698889
+          ],
+          [
+            15.996667,
+            20.353056
+          ],
+          [
+            15.753889,
+            19.9325
+          ],
+          [
+            15.6025,
+            18.782222
+          ],
+          [
+            15.55942,
+            18.00625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.55942,
+            18.00625
+          ],
+          [
+            15.5082951,
+            16.9490684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.5082951,
+            16.9490684
+          ],
+          [
+            15.50555,
+            16.89787
+          ],
+          [
+            15.45322,
+            16.84328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.45322,
+            16.84328
+          ],
+          [
+            15.0,
+            16.37046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.0,
+            16.37046
+          ],
+          [
+            14.38476,
+            15.73155
+          ],
+          [
+            13.97018,
+            15.15653
+          ],
+          [
+            13.86951,
+            15.04284
+          ],
+          [
+            13.78968,
+            14.86321
+          ],
+          [
+            13.80996,
+            14.72173
+          ],
+          [
+            13.76873,
+            14.69197
+          ],
+          [
+            13.74557,
+            14.69834
+          ],
+          [
+            13.67731,
+            14.63656
+          ],
+          [
+            13.69602,
+            14.55112
+          ],
+          [
+            13.64423,
+            14.51582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.64423,
+            14.51582
+          ],
+          [
+            13.49975,
+            14.47785
+          ],
+          [
+            13.47348,
+            14.44282
+          ],
+          [
+            13.58589,
+            13.9209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.58589,
+            13.9209
+          ],
+          [
+            13.633381,
+            13.70816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.633381,
+            13.70816
+          ],
+          [
+            13.3631922,
+            13.7077258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3631922,
+            13.7077258
+          ],
+          [
+            13.338365,
+            13.72131
+          ],
+          [
+            13.323646,
+            13.6902861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.323646,
+            13.6902861
+          ],
+          [
+            13.309275,
+            13.696249
+          ],
+          [
+            13.2720291,
+            13.6414264
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2720291,
+            13.6414264
+          ],
+          [
+            13.262813,
+            13.619311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.262813,
+            13.619311
+          ],
+          [
+            13.2622457,
+            13.619169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2622457,
+            13.619169
+          ],
+          [
+            13.243265,
+            13.616127
+          ],
+          [
+            13.2555,
+            13.591646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.2555,
+            13.591646
+          ],
+          [
+            13.251497,
+            13.580102
+          ],
+          [
+            13.226536,
+            13.589331
+          ],
+          [
+            13.2396,
+            13.564915
+          ],
+          [
+            13.206669,
+            13.549107
+          ],
+          [
+            13.198318,
+            13.51372
+          ],
+          [
+            13.181114,
+            13.537532
+          ],
+          [
+            13.145953,
+            13.5169224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.145953,
+            13.5169224
+          ],
+          [
+            13.146303,
+            13.550373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.146303,
+            13.550373
+          ],
+          [
+            13.122518,
+            13.54124
+          ],
+          [
+            13.125212,
+            13.521731
+          ],
+          [
+            13.104157,
+            13.539862
+          ],
+          [
+            13.089175,
+            13.516011
+          ],
+          [
+            13.061055,
+            13.527431
+          ],
+          [
+            13.072796,
+            13.535194
+          ],
+          [
+            13.061998,
+            13.549925
+          ],
+          [
+            13.041561,
+            13.543736
+          ],
+          [
+            13.0442552,
+            13.5217873
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0442552,
+            13.5217873
+          ],
+          [
+            13.021981,
+            13.536645
+          ],
+          [
+            13.002347,
+            13.50928
+          ],
+          [
+            12.955773,
+            13.521333
+          ],
+          [
+            12.955395,
+            13.499325
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.955395,
+            13.499325
+          ],
+          [
+            12.943924,
+            13.509455
+          ],
+          [
+            12.902006,
+            13.485593
+          ],
+          [
+            12.871266,
+            13.501053
+          ],
+          [
+            12.873402,
+            13.47193
+          ],
+          [
+            12.855657,
+            13.487791
+          ],
+          [
+            12.841881,
+            13.476459
+          ],
+          [
+            12.855402,
+            13.473399
+          ],
+          [
+            12.857051,
+            13.441147
+          ],
+          [
+            12.835006,
+            13.454991
+          ],
+          [
+            12.832965,
+            13.435999
+          ],
+          [
+            12.8106,
+            13.431113
+          ],
+          [
+            12.8251086,
+            13.4230815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8251086,
+            13.4230815
+          ],
+          [
+            12.826403,
+            13.402616
+          ],
+          [
+            12.821214,
+            13.412338
+          ],
+          [
+            12.782414,
+            13.396982
+          ],
+          [
+            12.7931862,
+            13.3774925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7931862,
+            13.3774925
+          ],
+          [
+            12.772839,
+            13.390385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.772839,
+            13.390385
+          ],
+          [
+            12.758142,
+            13.367271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.758142,
+            13.367271
+          ],
+          [
+            12.736834,
+            13.348521
+          ],
+          [
+            12.740047,
+            13.326197
+          ],
+          [
+            12.709009,
+            13.323252
+          ],
+          [
+            12.719041,
+            13.30845
+          ],
+          [
+            12.682299,
+            13.320418
+          ],
+          [
+            12.691997,
+            13.302139
+          ],
+          [
+            12.676639,
+            13.275766
+          ],
+          [
+            12.65153,
+            13.286839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.65153,
+            13.286839
+          ],
+          [
+            12.644325,
+            13.305781
+          ],
+          [
+            12.624021,
+            13.277885
+          ],
+          [
+            12.57858,
+            13.284135
+          ],
+          [
+            12.590687,
+            13.268429
+          ],
+          [
+            12.577134,
+            13.275445
+          ],
+          [
+            12.563617,
+            13.227511
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.563617,
+            13.227511
+          ],
+          [
+            12.550714,
+            13.226903
+          ],
+          [
+            12.54881,
+            13.203178
+          ],
+          [
+            12.531741,
+            13.213082
+          ],
+          [
+            12.541154,
+            13.196747
+          ],
+          [
+            12.56054,
+            13.196673
+          ],
+          [
+            12.542276,
+            13.143236
+          ],
+          [
+            12.515355,
+            13.1541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.515355,
+            13.1541
+          ],
+          [
+            12.488896,
+            13.124592
+          ],
+          [
+            12.488758,
+            13.101915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.488758,
+            13.101915
+          ],
+          [
+            12.495696,
+            13.086431
+          ],
+          [
+            12.478237,
+            13.086328
+          ],
+          [
+            12.47576,
+            13.05605
+          ],
+          [
+            12.4298967,
+            13.0744874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4298967,
+            13.0744874
+          ],
+          [
+            12.369504,
+            13.075004
+          ],
+          [
+            12.368913,
+            13.091239
+          ],
+          [
+            12.35469,
+            13.077612
+          ],
+          [
+            12.340195,
+            13.087042
+          ],
+          [
+            12.333579,
+            13.071876
+          ],
+          [
+            12.305958,
+            13.096713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.305958,
+            13.096713
+          ],
+          [
+            12.27135,
+            13.082222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.27135,
+            13.082222
+          ],
+          [
+            12.263885,
+            13.11415
+          ],
+          [
+            12.233064,
+            13.106254
+          ],
+          [
+            12.199911,
+            13.130334
+          ],
+          [
+            12.176783,
+            13.124295
+          ],
+          [
+            12.186426,
+            13.109896
+          ],
+          [
+            12.175206,
+            13.100111
+          ],
+          [
+            12.146133,
+            13.105921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.146133,
+            13.105921
+          ],
+          [
+            12.1059323,
+            13.1149802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.1059323,
+            13.1149802
+          ],
+          [
+            12.038438,
+            13.140983
+          ],
+          [
+            11.9954025,
+            13.1820308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.9954025,
+            13.1820308
+          ],
+          [
+            11.883026,
+            13.255907
+          ],
+          [
+            11.7476326,
+            13.2836003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.7476326,
+            13.2836003
+          ],
+          [
+            11.6621965,
+            13.3077292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.6621965,
+            13.3077292
+          ],
+          [
+            11.590626,
+            13.346314
+          ],
+          [
+            11.459247,
+            13.380613
+          ],
+          [
+            11.333565,
+            13.3798569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.333565,
+            13.3798569
+          ],
+          [
+            11.2513387,
+            13.3781338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2513387,
+            13.3781338
+          ],
+          [
+            11.1791288,
+            13.3759197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.1791288,
+            13.3759197
+          ],
+          [
+            11.0862664,
+            13.373035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.0862664,
+            13.373035
+          ],
+          [
+            10.7319043,
+            13.3641263
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.7319043,
+            13.3641263
+          ],
+          [
+            10.669858,
+            13.361298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.669858,
+            13.361298
+          ],
+          [
+            10.6641752,
+            13.361104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6641752,
+            13.361104
+          ],
+          [
+            10.465271,
+            13.287472
+          ],
+          [
+            10.3457097,
+            13.2759151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.3457097,
+            13.2759151
+          ],
+          [
+            10.2232711,
+            13.2712562
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.2232711,
+            13.2712562
+          ],
+          [
+            10.0274657,
+            13.1892913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0274657,
+            13.1892913
+          ],
+          [
+            9.965048,
+            13.1394451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.965048,
+            13.1394451
+          ],
+          [
+            9.9214948,
+            13.0970449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.9214948,
+            13.0970449
+          ],
+          [
+            9.8720086,
+            13.043071
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.8720086,
+            13.043071
+          ],
+          [
+            9.841013,
+            13.026595
+          ],
+          [
+            9.8086652,
+            12.9749935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.8086652,
+            12.9749935
+          ],
+          [
+            9.7347326,
+            12.8894191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.7347326,
+            12.8894191
+          ],
+          [
+            9.6748363,
+            12.8246972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6748363,
+            12.8246972
+          ],
+          [
+            9.6477966,
+            12.8075978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.6477966,
+            12.8075978
+          ],
+          [
+            9.5365568,
+            12.8117601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.5365568,
+            12.8117601
+          ],
+          [
+            9.4949091,
+            12.8148411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.4949091,
+            12.8148411
+          ],
+          [
+            9.4781946,
+            12.8154572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.4781946,
+            12.8154572
+          ],
+          [
+            9.380234,
+            12.8216585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.380234,
+            12.8216585
+          ],
+          [
+            9.332414,
+            12.8113412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.332414,
+            12.8113412
+          ],
+          [
+            9.1850569,
+            12.830333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1850569,
+            12.830333
+          ],
+          [
+            9.043262,
+            12.834992
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.043262,
+            12.834992
+          ],
+          [
+            8.9623529,
+            12.8387275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.9623529,
+            12.8387275
+          ],
+          [
+            8.953175,
+            12.841855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.953175,
+            12.841855
+          ],
+          [
+            8.902975,
+            12.858549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.902975,
+            12.858549
+          ],
+          [
+            8.7092486,
+            12.9173611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7092486,
+            12.9173611
+          ],
+          [
+            8.645887,
+            12.943524
+          ],
+          [
+            8.6389957,
+            12.9597413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6389957,
+            12.9597413
+          ],
+          [
+            8.596913,
+            13.023201
+          ],
+          [
+            8.557596,
+            13.047338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.557596,
+            13.047338
+          ],
+          [
+            8.502157,
+            13.074238
+          ],
+          [
+            8.468464,
+            13.073008
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.468464,
+            13.073008
+          ],
+          [
+            8.430432,
+            13.061254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.430432,
+            13.061254
+          ],
+          [
+            8.416249,
+            13.057199
+          ],
+          [
+            8.31197,
+            13.155767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.31197,
+            13.155767
+          ],
+          [
+            8.308919,
+            13.158162
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.308919,
+            13.158162
+          ],
+          [
+            8.255793,
+            13.208629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.255793,
+            13.208629
+          ],
+          [
+            8.241719,
+            13.214742
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.241719,
+            13.214742
+          ],
+          [
+            8.195851,
+            13.229711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.195851,
+            13.229711
+          ],
+          [
+            8.1602143,
+            13.2642293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.1602143,
+            13.2642293
+          ],
+          [
+            8.110189,
+            13.291314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.110189,
+            13.291314
+          ],
+          [
+            8.0620196,
+            13.3128143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.0620196,
+            13.3128143
+          ],
+          [
+            7.928866,
+            13.328677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.928866,
+            13.328677
+          ],
+          [
+            7.8193445,
+            13.3419209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8193445,
+            13.3419209
+          ],
+          [
+            7.6733363,
+            13.2544142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.6733363,
+            13.2544142
+          ],
+          [
+            7.625152,
+            13.225953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.625152,
+            13.225953
+          ],
+          [
+            7.610214,
+            13.21775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.610214,
+            13.21775
+          ],
+          [
+            7.4698978,
+            13.1330004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.4698978,
+            13.1330004
+          ],
+          [
+            7.3861917,
+            13.0985997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.3861917,
+            13.0985997
+          ],
+          [
+            7.3488402,
+            13.1029201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.3488402,
+            13.1029201
+          ],
+          [
+            7.2302534,
+            13.127773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.2302534,
+            13.127773
+          ],
+          [
+            7.1428957,
+            13.0426167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.1428957,
+            13.0426167
+          ],
+          [
+            7.121574,
+            13.020471
+          ],
+          [
+            7.0670174,
+            13.0043272
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.0670174,
+            13.0043272
+          ],
+          [
+            7.0509421,
+            13.0000622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.0509421,
+            13.0000622
+          ],
+          [
+            6.942091,
+            13.003533
+          ],
+          [
+            6.8633792,
+            13.0938199
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.8633792,
+            13.0938199
+          ],
+          [
+            6.820123,
+            13.143423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.820123,
+            13.143423
+          ],
+          [
+            6.7931286,
+            13.1862739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.7931286,
+            13.1862739
+          ],
+          [
+            6.7067982,
+            13.3232644
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.7067982,
+            13.3232644
+          ],
+          [
+            6.6593193,
+            13.3756096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6593193,
+            13.3756096
+          ],
+          [
+            6.5548034,
+            13.4771486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.5548034,
+            13.4771486
+          ],
+          [
+            6.427932,
+            13.600376
+          ],
+          [
+            6.277334,
+            13.676514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.277334,
+            13.676514
+          ],
+          [
+            6.2265967,
+            13.6711376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.2265967,
+            13.6711376
+          ],
+          [
+            6.173294,
+            13.651081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.173294,
+            13.651081
+          ],
+          [
+            6.155536,
+            13.64475
+          ],
+          [
+            6.1090031,
+            13.6680961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1090031,
+            13.6680961
+          ],
+          [
+            6.0759231,
+            13.6821159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.0759231,
+            13.6821159
+          ],
+          [
+            5.9506349,
+            13.7227115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.9506349,
+            13.7227115
+          ],
+          [
+            5.7346861,
+            13.7988683
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7346861,
+            13.7988683
+          ],
+          [
+            5.7166429,
+            13.8061663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7166429,
+            13.8061663
+          ],
+          [
+            5.6573305,
+            13.8274911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6573305,
+            13.8274911
+          ],
+          [
+            5.6097423,
+            13.8477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.6097423,
+            13.8477
+          ],
+          [
+            5.52983,
+            13.885645
+          ],
+          [
+            5.4199153,
+            13.8595768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4199153,
+            13.8595768
+          ],
+          [
+            5.350681,
+            13.834558
+          ],
+          [
+            5.317031,
+            13.793017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.317031,
+            13.793017
+          ],
+          [
+            5.2906564,
+            13.7657224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.2906564,
+            13.7657224
+          ],
+          [
+            5.2525729,
+            13.744738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.2525729,
+            13.744738
+          ],
+          [
+            5.1584199,
+            13.7432473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.1584199,
+            13.7432473
+          ],
+          [
+            5.07677,
+            13.75123
+          ],
+          [
+            4.949557,
+            13.734483
+          ],
+          [
+            4.909462,
+            13.745359
+          ],
+          [
+            4.873818,
+            13.781003
+          ],
+          [
+            4.8027467,
+            13.7594453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8027467,
+            13.7594453
+          ],
+          [
+            4.6016036,
+            13.7149802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.6016036,
+            13.7149802
+          ],
+          [
+            4.4498661,
+            13.6674027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.4498661,
+            13.6674027
+          ],
+          [
+            4.3983198,
+            13.6219204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3983198,
+            13.6219204
+          ],
+          [
+            4.2385682,
+            13.4814531
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.2385682,
+            13.4814531
+          ],
+          [
+            4.141604,
+            13.478063
+          ],
+          [
+            4.147436,
+            13.2936953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.147436,
+            13.2936953
+          ],
+          [
+            4.145969,
+            13.245111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.145969,
+            13.245111
+          ],
+          [
+            4.1453789,
+            13.2366514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.1453789,
+            13.2366514
+          ],
+          [
+            4.129448,
+            13.101022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.129448,
+            13.101022
+          ],
+          [
+            4.103459,
+            12.987683
+          ],
+          [
+            4.0376918,
+            12.8868919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.0376918,
+            12.8868919
+          ],
+          [
+            3.9824725,
+            12.8162953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.9824725,
+            12.8162953
+          ],
+          [
+            3.94183,
+            12.746709
+          ],
+          [
+            3.8523548,
+            12.6822147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.8523548,
+            12.6822147
+          ],
+          [
+            3.8380872,
+            12.6730684
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.8380872,
+            12.6730684
+          ],
+          [
+            3.6962033,
+            12.5592356
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6962033,
+            12.5592356
+          ],
+          [
+            3.653454,
+            12.522698
+          ],
+          [
+            3.6517086,
+            12.4526334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6517086,
+            12.4526334
+          ],
+          [
+            3.666685,
+            12.258877
+          ],
+          [
+            3.646417,
+            12.2093457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.646417,
+            12.2093457
+          ],
+          [
+            3.631658,
+            12.11932
+          ],
+          [
+            3.671681,
+            12.03218
+          ],
+          [
+            3.6741983,
+            11.9720004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6741983,
+            11.9720004
+          ],
+          [
+            3.619786,
+            11.920285
+          ],
+          [
+            3.6283201,
+            11.8376768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6283201,
+            11.8376768
+          ],
+          [
+            3.6629893,
+            11.8138659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6629893,
+            11.8138659
+          ],
+          [
+            3.6737742,
+            11.7890394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.6737742,
+            11.7890394
+          ],
+          [
+            3.680954,
+            11.754747
+          ],
+          [
+            3.609432,
+            11.6936071
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.2829964,
+            11.9366916
+          ],
+          [
+            3.2979262,
+            11.9337838
+          ],
+          [
+            3.3196199,
+            11.8853885
+          ],
+          [
+            3.3754382,
+            11.8886114
+          ],
+          [
+            3.4845543,
+            11.8584262
+          ],
+          [
+            3.521204,
+            11.8164025
+          ],
+          [
+            3.5221481,
+            11.7874379
+          ],
+          [
+            3.5653639,
+            11.7752756
+          ],
+          [
+            3.5516524,
+            11.7286801
+          ],
+          [
+            3.609432,
+            11.6936071
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.2573071,
+            11.9923878
+          ],
+          [
+            3.2829964,
+            11.9366916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.1729073,
+            12.1090492
+          ],
+          [
+            3.2690549,
+            12.0155007
+          ],
+          [
+            3.2573071,
+            11.9923878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.110021,
+            12.1665631
+          ],
+          [
+            3.1729073,
+            12.1090492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.000053,
+            12.274341
+          ],
+          [
+            3.0589735,
+            12.1962948
+          ],
+          [
+            3.110021,
+            12.1665631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.9156233,
+            12.3438186
+          ],
+          [
+            2.9662607,
+            12.2865352
+          ],
+          [
+            3.000053,
+            12.274341
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8264824,
+            12.4092028
+          ],
+          [
+            2.9156233,
+            12.3438186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.7843907,
+            12.383049
+          ],
+          [
+            2.8386945,
+            12.3948272
+          ],
+          [
+            2.8264824,
+            12.4092028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4089717,
+            11.9025443
+          ],
+          [
+            2.3916389,
+            11.9302547
+          ],
+          [
+            2.4017983,
+            11.9481192
+          ],
+          [
+            2.4370101,
+            11.9533185
+          ],
+          [
+            2.446294,
+            11.9845303
+          ],
+          [
+            2.459557,
+            11.9760608
+          ],
+          [
+            2.4649273,
+            11.9807021
+          ],
+          [
+            2.3910591,
+            12.1124744
+          ],
+          [
+            2.3968297,
+            12.1483175
+          ],
+          [
+            2.3814908,
+            12.1746325
+          ],
+          [
+            2.3918395,
+            12.1931753
+          ],
+          [
+            2.3767554,
+            12.2142004
+          ],
+          [
+            2.3907662,
+            12.2281974
+          ],
+          [
+            2.3734762,
+            12.2421753
+          ],
+          [
+            2.4415802,
+            12.2650538
+          ],
+          [
+            2.4636973,
+            12.2533073
+          ],
+          [
+            2.4725128,
+            12.2732309
+          ],
+          [
+            2.5041769,
+            12.2663133
+          ],
+          [
+            2.5206806,
+            12.2945773
+          ],
+          [
+            2.5429192,
+            12.2732951
+          ],
+          [
+            2.5787841,
+            12.2782979
+          ],
+          [
+            2.5979917,
+            12.3028632
+          ],
+          [
+            2.6633919,
+            12.3066362
+          ],
+          [
+            2.6853117,
+            12.2791947
+          ],
+          [
+            2.7226671,
+            12.3523918
+          ],
+          [
+            2.736132,
+            12.3646649
+          ],
+          [
+            2.7622495,
+            12.3514791
+          ],
+          [
+            2.7843907,
+            12.383049
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.0655884,
+            12.34735
+          ],
+          [
+            2.4089717,
+            11.9025443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.0655884,
+            12.34735
+          ],
+          [
+            2.0742704,
+            12.3681706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.0742704,
+            12.3681706
+          ],
+          [
+            2.0831882,
+            12.3919281
+          ],
+          [
+            2.1068358,
+            12.3945907
+          ],
+          [
+            2.1112587,
+            12.3821886
+          ],
+          [
+            2.1770561,
+            12.4245266
+          ],
+          [
+            2.2173291,
+            12.4124445
+          ],
+          [
+            2.2646763,
+            12.4225707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1174431,
+            12.7079159
+          ],
+          [
+            2.146111,
+            12.690833
+          ],
+          [
+            2.1546371,
+            12.6514993
+          ],
+          [
+            2.200833,
+            12.630833
+          ],
+          [
+            2.220833,
+            12.593611
+          ],
+          [
+            2.224444,
+            12.524722
+          ],
+          [
+            2.263889,
+            12.473333
+          ],
+          [
+            2.2646763,
+            12.4225707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.8668305,
+            12.6054814
+          ],
+          [
+            1.928056,
+            12.700556
+          ],
+          [
+            1.9917675,
+            12.7324909
+          ],
+          [
+            2.1061779,
+            12.7273022
+          ],
+          [
+            2.1174431,
+            12.7079159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.745657,
+            12.6744983
+          ],
+          [
+            1.8668305,
+            12.6054814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.3450777,
+            12.9025236
+          ],
+          [
+            1.745657,
+            12.6744983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.9907487,
+            13.1040472
+          ],
+          [
+            1.3450777,
+            12.9025236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.1147814,
+            13.3313337
+          ],
+          [
+            0.991913,
+            13.3746761
+          ],
+          [
+            0.9907487,
+            13.1040472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.1147814,
+            13.3313337
+          ],
+          [
+            1.1937511,
+            13.323946
+          ],
+          [
+            1.21137,
+            13.3802719
+          ],
+          [
+            1.2415798,
+            13.3388562
+          ],
+          [
+            1.2842843,
+            13.3544693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.9433357,
+            13.5940594
+          ],
+          [
+            0.995278,
+            13.568056
+          ],
+          [
+            1.031667,
+            13.4625
+          ],
+          [
+            1.170833,
+            13.396389
+          ],
+          [
+            1.244444,
+            13.393056
+          ],
+          [
+            1.2842843,
+            13.3544693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.602222,
+            13.703889
+          ],
+          [
+            0.625,
+            13.684167
+          ],
+          [
+            0.772778,
+            13.688333
+          ],
+          [
+            0.786389,
+            13.668889
+          ],
+          [
+            0.774444,
+            13.644167
+          ],
+          [
+            0.902222,
+            13.622778
+          ],
+          [
+            0.9433357,
+            13.5940594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.501389,
+            13.881389
+          ],
+          [
+            0.582778,
+            13.788611
+          ],
+          [
+            0.616667,
+            13.778056
+          ],
+          [
+            0.602222,
+            13.703889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.2466727,
+            14.3445415
+          ],
+          [
+            0.3810847,
+            14.0509113
+          ],
+          [
+            0.413611,
+            14.026389
+          ],
+          [
+            0.424167,
+            13.983611
+          ],
+          [
+            0.471111,
+            13.955556
+          ],
+          [
+            0.465,
+            13.913611
+          ],
+          [
+            0.501389,
+            13.881389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.1844928,
+            14.4855127
+          ],
+          [
+            0.2466727,
+            14.3445415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.2322304,
+            14.999829
+          ],
+          [
+            0.24436,
+            14.914
+          ],
+          [
+            0.1963575,
+            14.8263198
+          ],
+          [
+            0.2381387,
+            14.7465469
+          ],
+          [
+            0.1709319,
+            14.532472
+          ],
+          [
+            0.1844928,
+            14.4855127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.703472,
+            14.944888
+          ],
+          [
+            0.522642,
+            14.998217
+          ],
+          [
+            0.394631,
+            14.963993
+          ],
+          [
+            0.2322304,
+            14.999829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.311499,
+            15.278128
+          ],
+          [
+            0.968179,
+            14.981871
+          ],
+          [
+            0.744849,
+            14.961949
+          ],
+          [
+            0.703472,
+            14.944888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.5181093,
+            15.2891085
+          ],
+          [
+            1.311499,
+            15.278128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.0090862,
+            15.3384568
+          ],
+          [
+            2.636366,
+            15.346796
+          ],
+          [
+            1.5181093,
+            15.2891085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.8696689,
+            15.69677
+          ],
+          [
+            3.797957,
+            15.66374
+          ],
+          [
+            3.703728,
+            15.648148
+          ],
+          [
+            3.595828,
+            15.52104
+          ],
+          [
+            3.536893,
+            15.485183
+          ],
+          [
+            3.536306,
+            15.403418
+          ],
+          [
+            3.495491,
+            15.357762
+          ],
+          [
+            3.031485,
+            15.428574
+          ],
+          [
+            3.019968,
+            15.338195
+          ],
+          [
+            3.0090862,
+            15.3384568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.2670949,
+            18.0066649
+          ],
+          [
+            4.2666692,
+            17.0017407
+          ],
+          [
+            4.2142967,
+            17.0000205
+          ],
+          [
+            4.197507,
+            16.814799
+          ],
+          [
+            4.199854,
+            16.395069
+          ],
+          [
+            4.097133,
+            16.323219
+          ],
+          [
+            4.068249,
+            16.232774
+          ],
+          [
+            3.987906,
+            16.085982
+          ],
+          [
+            3.980084,
+            15.940592
+          ],
+          [
+            3.928064,
+            15.864421
+          ],
+          [
+            3.901029,
+            15.747036
+          ],
+          [
+            3.8696689,
+            15.69677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.2664617,
+            18.6722854
+          ],
+          [
+            4.2670949,
+            18.0066649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.266708,
+            19.1441458
+          ],
+          [
+            4.2664617,
+            18.6722854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.6731441,
+            19.2183495
+          ],
+          [
+            4.266708,
+            19.1441458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.811229,
+            19.443969
+          ],
+          [
+            4.6731441,
+            19.2183495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.7944146,
+            21.0467515
+          ],
+          [
+            7.459686,
+            20.842495
+          ],
+          [
+            5.811229,
+            19.443969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.238563,
+            22.496408
+          ],
+          [
+            8.996974,
+            21.77859
+          ],
+          [
+            7.7944146,
+            21.0467515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.9734854,
+            22.917653
+          ],
+          [
+            10.238563,
+            22.496408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "NE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "name": "Niger"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.4101023,
+            23.1830874
+          ],
+          [
+            10.9734854,
+            22.917653
+          ]
+        ]
+      }
+    }
+  ]
+}

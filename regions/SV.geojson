@@ -1,0 +1,4561 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.5971467,
+            13.1706956
+          ],
+          [
+            -87.6329253,
+            13.1259932
+          ],
+          [
+            -87.6867518,
+            13.1224182
+          ],
+          [
+            -87.8044757,
+            13.0731786
+          ],
+          [
+            -87.82518,
+            13.0153051
+          ],
+          [
+            -87.8915935,
+            12.9521929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.823664,
+            13.4056917
+          ],
+          [
+            -87.823137,
+            13.3679259
+          ],
+          [
+            -87.738362,
+            13.3363564
+          ],
+          [
+            -87.7012413,
+            13.2800615
+          ],
+          [
+            -87.7036662,
+            13.2549674
+          ],
+          [
+            -87.5971467,
+            13.1706956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8216577,
+            13.4094678
+          ],
+          [
+            -87.823664,
+            13.4056917
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8185564,
+            13.4091157
+          ],
+          [
+            -87.8216577,
+            13.4094678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8132867,
+            13.4104316
+          ],
+          [
+            -87.8185564,
+            13.4091157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8000769,
+            13.4118622
+          ],
+          [
+            -87.8132867,
+            13.4104316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7980792,
+            13.4116062
+          ],
+          [
+            -87.8000769,
+            13.4118622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7903392,
+            13.4142065
+          ],
+          [
+            -87.7980792,
+            13.4116062
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.785943,
+            13.4240866
+          ],
+          [
+            -87.7903392,
+            13.4142065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.778106,
+            13.5180145
+          ],
+          [
+            -87.7207683,
+            13.5053341
+          ],
+          [
+            -87.7164262,
+            13.4663391
+          ],
+          [
+            -87.7238227,
+            13.4423943
+          ],
+          [
+            -87.785943,
+            13.4240866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7553738,
+            13.6207257
+          ],
+          [
+            -87.7834803,
+            13.5700201
+          ],
+          [
+            -87.7934519,
+            13.5240009
+          ],
+          [
+            -87.778106,
+            13.5180145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7487326,
+            13.6939614
+          ],
+          [
+            -87.7553738,
+            13.6207257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7441192,
+            13.7040931
+          ],
+          [
+            -87.7487326,
+            13.6939614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7390128,
+            13.7086335
+          ],
+          [
+            -87.7441192,
+            13.7040931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7357577,
+            13.7417646
+          ],
+          [
+            -87.7390128,
+            13.7086335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.709917,
+            13.7959281
+          ],
+          [
+            -87.7357577,
+            13.7417646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.71244,
+            13.8154169
+          ],
+          [
+            -87.709917,
+            13.7959281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7315713,
+            13.8267902
+          ],
+          [
+            -87.71244,
+            13.8154169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7451916,
+            13.8412968
+          ],
+          [
+            -87.7315713,
+            13.8267902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.762575,
+            13.8664428
+          ],
+          [
+            -87.7451916,
+            13.8412968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7814792,
+            13.8758093
+          ],
+          [
+            -87.762575,
+            13.8664428
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7991909,
+            13.8968058
+          ],
+          [
+            -87.7814792,
+            13.8758093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7945089,
+            13.9050671
+          ],
+          [
+            -87.7991909,
+            13.8968058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7998856,
+            13.9205122
+          ],
+          [
+            -87.7945089,
+            13.9050671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.7998856,
+            13.9205122
+          ],
+          [
+            -87.8053448,
+            13.9222573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8053448,
+            13.9222573
+          ],
+          [
+            -87.8311322,
+            13.9186245
+          ],
+          [
+            -87.8443448,
+            13.8979769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8443448,
+            13.8979769
+          ],
+          [
+            -87.8646582,
+            13.8993475
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8646582,
+            13.8993475
+          ],
+          [
+            -87.8872387,
+            13.9016701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8872387,
+            13.9016701
+          ],
+          [
+            -87.9218821,
+            13.8846182
+          ],
+          [
+            -87.9372143,
+            13.8931371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.9372143,
+            13.8931371
+          ],
+          [
+            -87.9591929,
+            13.9027007
+          ],
+          [
+            -88.0147839,
+            13.8710077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0267417,
+            13.902456
+          ],
+          [
+            -88.0147839,
+            13.8710077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0372988,
+            13.9152135
+          ],
+          [
+            -88.0267417,
+            13.902456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0475744,
+            13.9333591
+          ],
+          [
+            -88.0372988,
+            13.9152135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0637749,
+            13.9460004
+          ],
+          [
+            -88.0475744,
+            13.9333591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0727349,
+            13.9922712
+          ],
+          [
+            -88.0637749,
+            13.9460004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0799949,
+            13.9941047
+          ],
+          [
+            -88.0727349,
+            13.9922712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0920222,
+            13.9971422
+          ],
+          [
+            -88.0799949,
+            13.9941047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.1064127,
+            14.0007764
+          ],
+          [
+            -88.0920222,
+            13.9971422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.1117008,
+            13.9995467
+          ],
+          [
+            -88.1064127,
+            14.0007764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.1182922,
+            13.9962922
+          ],
+          [
+            -88.1117008,
+            13.9995467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.1227956,
+            13.9946916
+          ],
+          [
+            -88.1182922,
+            13.9962922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2172469,
+            13.9931248
+          ],
+          [
+            -88.1597028,
+            13.983547
+          ],
+          [
+            -88.1227956,
+            13.9946916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2574157,
+            13.9377606
+          ],
+          [
+            -88.2268707,
+            13.9378231
+          ],
+          [
+            -88.2193589,
+            13.9535808
+          ],
+          [
+            -88.2382647,
+            13.9944522
+          ],
+          [
+            -88.2172469,
+            13.9931248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2574157,
+            13.9377606
+          ],
+          [
+            -88.2585668,
+            13.9380505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2585668,
+            13.9380505
+          ],
+          [
+            -88.262705,
+            13.9189436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.262705,
+            13.9189436
+          ],
+          [
+            -88.3173363,
+            13.8899035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3173363,
+            13.8899035
+          ],
+          [
+            -88.3421816,
+            13.896474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3497795,
+            13.8894096
+          ],
+          [
+            -88.3421816,
+            13.896474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3497795,
+            13.8894096
+          ],
+          [
+            -88.356543,
+            13.870244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.356543,
+            13.870244
+          ],
+          [
+            -88.3924354,
+            13.8822092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.3924354,
+            13.8822092
+          ],
+          [
+            -88.4188767,
+            13.885714
+          ],
+          [
+            -88.4391273,
+            13.8598279
+          ],
+          [
+            -88.465877,
+            13.8629763
+          ],
+          [
+            -88.4672154,
+            13.8486299
+          ],
+          [
+            -88.4862417,
+            13.860919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4862417,
+            13.860919
+          ],
+          [
+            -88.4925985,
+            13.859466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5020975,
+            13.8991861
+          ],
+          [
+            -88.4925985,
+            13.859466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.4995536,
+            13.9651913
+          ],
+          [
+            -88.5020975,
+            13.8991861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.5269094,
+            13.9845705
+          ],
+          [
+            -88.4995536,
+            13.9651913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.6170008,
+            14.0137784
+          ],
+          [
+            -88.5865969,
+            14.007143
+          ],
+          [
+            -88.5689771,
+            13.9782771
+          ],
+          [
+            -88.5269094,
+            13.9845705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.635161,
+            14.0214587
+          ],
+          [
+            -88.6170008,
+            14.0137784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.6835694,
+            14.0101351
+          ],
+          [
+            -88.635161,
+            14.0214587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.7089436,
+            14.0464468
+          ],
+          [
+            -88.6849378,
+            14.0364549
+          ],
+          [
+            -88.6835694,
+            14.0101351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.728323,
+            14.1038485
+          ],
+          [
+            -88.7089436,
+            14.0464468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.7328844,
+            14.1173582
+          ],
+          [
+            -88.728323,
+            14.1038485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.7577523,
+            14.1422166
+          ],
+          [
+            -88.7328844,
+            14.1173582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8043563,
+            14.1500123
+          ],
+          [
+            -88.7988753,
+            14.1645851
+          ],
+          [
+            -88.7577523,
+            14.1422166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8079845,
+            14.1403652
+          ],
+          [
+            -88.8043563,
+            14.1500123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8079845,
+            14.1403652
+          ],
+          [
+            -88.8029143,
+            14.1358152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8029143,
+            14.1358152
+          ],
+          [
+            -88.8028727,
+            14.1357326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8028727,
+            14.1357326
+          ],
+          [
+            -88.801754,
+            14.1349075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.801754,
+            14.1349075
+          ],
+          [
+            -88.8128971,
+            14.1122371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8128971,
+            14.1122371
+          ],
+          [
+            -88.8312899,
+            14.1045787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.9023121,
+            14.205512
+          ],
+          [
+            -88.9004667,
+            14.1910025
+          ],
+          [
+            -88.8602872,
+            14.1722375
+          ],
+          [
+            -88.8312899,
+            14.1045787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.9196821,
+            14.207873
+          ],
+          [
+            -88.9023121,
+            14.205512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.9700754,
+            14.2252024
+          ],
+          [
+            -88.9610498,
+            14.208328
+          ],
+          [
+            -88.9196821,
+            14.207873
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.0811323,
+            14.3406113
+          ],
+          [
+            -89.035583,
+            14.3321344
+          ],
+          [
+            -89.0223114,
+            14.3142388
+          ],
+          [
+            -89.0259378,
+            14.2716382
+          ],
+          [
+            -88.9915143,
+            14.2585783
+          ],
+          [
+            -88.9700754,
+            14.2252024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.0832671,
+            14.3489623
+          ],
+          [
+            -89.0811323,
+            14.3406113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.0823741,
+            14.3551206
+          ],
+          [
+            -89.0832671,
+            14.3489623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.0835248,
+            14.381284
+          ],
+          [
+            -89.0823741,
+            14.3551206
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1017558,
+            14.4046091
+          ],
+          [
+            -89.0835248,
+            14.381284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1086255,
+            14.4085178
+          ],
+          [
+            -89.1017558,
+            14.4046091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1457198,
+            14.3822134
+          ],
+          [
+            -89.1086255,
+            14.4085178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1685862,
+            14.3660815
+          ],
+          [
+            -89.1457198,
+            14.3822134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1774326,
+            14.3654024
+          ],
+          [
+            -89.1685862,
+            14.3660815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1834803,
+            14.3654752
+          ],
+          [
+            -89.1774326,
+            14.3654024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.1834803,
+            14.3654752
+          ],
+          [
+            -89.2114192,
+            14.3731034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2119965,
+            14.3847525
+          ],
+          [
+            -89.2114192,
+            14.3731034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2127834,
+            14.3879629
+          ],
+          [
+            -89.2119965,
+            14.3847525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2345484,
+            14.3955774
+          ],
+          [
+            -89.2127834,
+            14.3879629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2620894,
+            14.3966048
+          ],
+          [
+            -89.2345484,
+            14.3955774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2969097,
+            14.4175168
+          ],
+          [
+            -89.2620894,
+            14.3966048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3075037,
+            14.4134828
+          ],
+          [
+            -89.2969097,
+            14.4175168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3559888,
+            14.4206107
+          ],
+          [
+            -89.3075037,
+            14.4134828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3559888,
+            14.4206107
+          ],
+          [
+            -89.3566756,
+            14.422769
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3566756,
+            14.422769
+          ],
+          [
+            -89.3642448,
+            14.4254421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3642448,
+            14.4254421
+          ],
+          [
+            -89.3796418,
+            14.4379172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3850892,
+            14.4276269
+          ],
+          [
+            -89.3796418,
+            14.4379172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3852314,
+            14.4275408
+          ],
+          [
+            -89.3850892,
+            14.4276269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3852314,
+            14.4275408
+          ],
+          [
+            -89.3866952,
+            14.443563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.3866952,
+            14.443563
+          ],
+          [
+            -89.3867011,
+            14.4436193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.4371019,
+            14.4118228
+          ],
+          [
+            -89.4021358,
+            14.44694
+          ],
+          [
+            -89.3867011,
+            14.4436193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.4371019,
+            14.4118228
+          ],
+          [
+            -89.4624792,
+            14.423884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.4624792,
+            14.423884
+          ],
+          [
+            -89.5104824,
+            14.4067475
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5104824,
+            14.4067475
+          ],
+          [
+            -89.5363571,
+            14.3849636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5332457,
+            14.3917556
+          ],
+          [
+            -89.5363571,
+            14.3849636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5357318,
+            14.4027038
+          ],
+          [
+            -89.5332457,
+            14.3917556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5415557,
+            14.4108027
+          ],
+          [
+            -89.5357318,
+            14.4027038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5425008,
+            14.4151891
+          ],
+          [
+            -89.5415557,
+            14.4108027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5425008,
+            14.4151891
+          ],
+          [
+            -89.5425854,
+            14.4161396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5425854,
+            14.4161396
+          ],
+          [
+            -89.5452089,
+            14.4161409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5452089,
+            14.4161409
+          ],
+          [
+            -89.5477523,
+            14.4160833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5477523,
+            14.4160833
+          ],
+          [
+            -89.549399,
+            14.4160872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.549399,
+            14.4160872
+          ],
+          [
+            -89.5510137,
+            14.4160911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5510137,
+            14.4160911
+          ],
+          [
+            -89.551449,
+            14.4161122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.551449,
+            14.4161122
+          ],
+          [
+            -89.5520664,
+            14.4161046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5520664,
+            14.4161046
+          ],
+          [
+            -89.5541635,
+            14.4160786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5541635,
+            14.4160786
+          ],
+          [
+            -89.5566038,
+            14.4160887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5566038,
+            14.4160887
+          ],
+          [
+            -89.5572822,
+            14.4160838
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5572822,
+            14.4160838
+          ],
+          [
+            -89.5594376,
+            14.4161173
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5594376,
+            14.4161173
+          ],
+          [
+            -89.5598238,
+            14.4161233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5598238,
+            14.4161233
+          ],
+          [
+            -89.5634258,
+            14.4162691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5634258,
+            14.4162691
+          ],
+          [
+            -89.5656789,
+            14.4163618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5692712,
+            14.4165766
+          ],
+          [
+            -89.5656789,
+            14.4163618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5692712,
+            14.4165766
+          ],
+          [
+            -89.5703017,
+            14.4166305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5703017,
+            14.4166305
+          ],
+          [
+            -89.5739159,
+            14.4169276
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5739159,
+            14.4169276
+          ],
+          [
+            -89.5739518,
+            14.4168163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5739518,
+            14.4168163
+          ],
+          [
+            -89.5752073,
+            14.412996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5752073,
+            14.412996
+          ],
+          [
+            -89.5771246,
+            14.4068606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5771246,
+            14.4068606
+          ],
+          [
+            -89.5771897,
+            14.4066521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5771897,
+            14.4066521
+          ],
+          [
+            -89.5785619,
+            14.4034477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5785619,
+            14.4034477
+          ],
+          [
+            -89.5786262,
+            14.4029796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5786262,
+            14.4029796
+          ],
+          [
+            -89.5791784,
+            14.3978446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5791784,
+            14.3978446
+          ],
+          [
+            -89.5811361,
+            14.3793072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5811361,
+            14.3793072
+          ],
+          [
+            -89.5804987,
+            14.3737998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5804987,
+            14.3737998
+          ],
+          [
+            -89.5639198,
+            14.3554643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5873262,
+            14.3470595
+          ],
+          [
+            -89.5639198,
+            14.3554643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5873262,
+            14.3470595
+          ],
+          [
+            -89.5875451,
+            14.3470401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5875451,
+            14.3470401
+          ],
+          [
+            -89.5880323,
+            14.3460911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5880323,
+            14.3460911
+          ],
+          [
+            -89.5900582,
+            14.3357616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5900582,
+            14.3357616
+          ],
+          [
+            -89.5919038,
+            14.3330084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5919038,
+            14.3330084
+          ],
+          [
+            -89.5912563,
+            14.3295508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5912563,
+            14.3295508
+          ],
+          [
+            -89.5914761,
+            14.316688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5914761,
+            14.316688
+          ],
+          [
+            -89.5925807,
+            14.3142718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5925807,
+            14.3142718
+          ],
+          [
+            -89.5620257,
+            14.3145039
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5620257,
+            14.3145039
+          ],
+          [
+            -89.5515617,
+            14.3024023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5515617,
+            14.3024023
+          ],
+          [
+            -89.5496413,
+            14.2987837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5496413,
+            14.2987837
+          ],
+          [
+            -89.5504961,
+            14.2751724
+          ],
+          [
+            -89.5250142,
+            14.2440799
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5250142,
+            14.2440799
+          ],
+          [
+            -89.5221752,
+            14.241137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5221752,
+            14.241137
+          ],
+          [
+            -89.5211104,
+            14.2359712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5211104,
+            14.2359712
+          ],
+          [
+            -89.5207241,
+            14.236161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5207241,
+            14.236161
+          ],
+          [
+            -89.5220518,
+            14.2301826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5220518,
+            14.2301826
+          ],
+          [
+            -89.5231736,
+            14.2289629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5231736,
+            14.2289629
+          ],
+          [
+            -89.5205983,
+            14.2288759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5276095,
+            14.2212497
+          ],
+          [
+            -89.5205983,
+            14.2288759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5794538,
+            14.20403
+          ],
+          [
+            -89.5276095,
+            14.2212497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5816295,
+            14.2030256
+          ],
+          [
+            -89.5794538,
+            14.20403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.586146,
+            14.2034248
+          ],
+          [
+            -89.5816295,
+            14.2030256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.586378,
+            14.2034612
+          ],
+          [
+            -89.586146,
+            14.2034248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5943924,
+            14.2019335
+          ],
+          [
+            -89.586378,
+            14.2034612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.6025773,
+            14.2025145
+          ],
+          [
+            -89.5943924,
+            14.2019335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.6301834,
+            14.2042993
+          ],
+          [
+            -89.6025773,
+            14.2025145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.6467474,
+            14.1958755
+          ],
+          [
+            -89.6301834,
+            14.2042993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.6467474,
+            14.1958755
+          ],
+          [
+            -89.6658624,
+            14.1859081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.6658624,
+            14.1859081
+          ],
+          [
+            -89.666846,
+            14.1853918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.666846,
+            14.1853918
+          ],
+          [
+            -89.6713609,
+            14.1750202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.6713609,
+            14.1750202
+          ],
+          [
+            -89.6915919,
+            14.1573963
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.6915919,
+            14.1573963
+          ],
+          [
+            -89.7140691,
+            14.1379756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7140691,
+            14.1379756
+          ],
+          [
+            -89.7219267,
+            14.1248433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7219267,
+            14.1248433
+          ],
+          [
+            -89.7255273,
+            14.1193358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7255273,
+            14.1193358
+          ],
+          [
+            -89.7298346,
+            14.1082095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7298346,
+            14.1082095
+          ],
+          [
+            -89.7300961,
+            14.1076618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7300961,
+            14.1076618
+          ],
+          [
+            -89.7300873,
+            14.1075437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7318406,
+            14.0961533
+          ],
+          [
+            -89.7300873,
+            14.1075437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7320163,
+            14.0954274
+          ],
+          [
+            -89.7318406,
+            14.0961533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7320163,
+            14.0954274
+          ],
+          [
+            -89.7341972,
+            14.0918472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7341972,
+            14.0918472
+          ],
+          [
+            -89.7368985,
+            14.0837312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7368985,
+            14.0837312
+          ],
+          [
+            -89.7350634,
+            14.0344343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7350634,
+            14.0344343
+          ],
+          [
+            -89.7533192,
+            14.0325817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7533192,
+            14.0325817
+          ],
+          [
+            -89.7570813,
+            14.032866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7570813,
+            14.032866
+          ],
+          [
+            -89.7856898,
+            14.0384154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7856898,
+            14.0384154
+          ],
+          [
+            -89.7973208,
+            14.0498676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.7973208,
+            14.0498676
+          ],
+          [
+            -89.8038916,
+            14.0540609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.8038916,
+            14.0540609
+          ],
+          [
+            -89.8225949,
+            14.0635668
+          ],
+          [
+            -89.8589091,
+            14.0515012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.8589091,
+            14.0515012
+          ],
+          [
+            -89.8599068,
+            14.0439484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.8599068,
+            14.0439484
+          ],
+          [
+            -89.9043158,
+            14.0324616
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.9043158,
+            14.0324616
+          ],
+          [
+            -89.925263,
+            14.0072437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.925263,
+            14.0072437
+          ],
+          [
+            -89.9714303,
+            13.9647867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.9714303,
+            13.9647867
+          ],
+          [
+            -90.0240555,
+            13.9379598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.0240555,
+            13.9379598
+          ],
+          [
+            -90.0356335,
+            13.90043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.0356335,
+            13.90043
+          ],
+          [
+            -90.0662578,
+            13.8809719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.0662578,
+            13.8809719
+          ],
+          [
+            -90.0984182,
+            13.8586863
+          ],
+          [
+            -90.1164166,
+            13.7988378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.1164166,
+            13.7988378
+          ],
+          [
+            -90.1178783,
+            13.7890851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.1178783,
+            13.7890851
+          ],
+          [
+            -90.1043407,
+            13.7771802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.1043407,
+            13.7771802
+          ],
+          [
+            -90.0927925,
+            13.7575656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.0927925,
+            13.7575656
+          ],
+          [
+            -90.1022733,
+            13.740501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.1022733,
+            13.740501
+          ],
+          [
+            -90.1166565,
+            13.749316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.1166565,
+            13.749316
+          ],
+          [
+            -90.1356128,
+            13.7462335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.1379563,
+            13.7412125
+          ],
+          [
+            -90.1356128,
+            13.7462335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.2209042,
+            13.563429
+          ],
+          [
+            -90.1379563,
+            13.7412125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.891713,
+            12.9520941
+          ],
+          [
+            -88.0774579,
+            12.9684673
+          ],
+          [
+            -88.4415349,
+            12.9658118
+          ],
+          [
+            -88.7895224,
+            13.0322067
+          ],
+          [
+            -88.9154454,
+            13.0750298
+          ],
+          [
+            -89.3292186,
+            13.2789877
+          ],
+          [
+            -89.5549497,
+            13.2944258
+          ],
+          [
+            -89.6921031,
+            13.3283903
+          ],
+          [
+            -89.812934,
+            13.3232443
+          ],
+          [
+            -89.8794009,
+            13.336061
+          ],
+          [
+            -89.9650736,
+            13.3922318
+          ],
+          [
+            -90.0166207,
+            13.4707105
+          ],
+          [
+            -90.2209042,
+            13.563429
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": "SV",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "name": "El Salvador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.8915935,
+            12.9521929
+          ],
+          [
+            -87.891713,
+            12.9520941
+          ]
+        ]
+      }
+    }
+  ]
+}

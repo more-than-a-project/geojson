@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "SH-AC",
+        "flag": null,
+        "name": "Ascension"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.1206653,
+            -7.847
+          ],
+          [
+            -14.2374323,
+            -7.735
+          ],
+          [
+            -14.346928,
+            -7.692
+          ],
+          [
+            -14.4758574,
+            -7.711
+          ],
+          [
+            -14.5670809,
+            -7.787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "SH-AC",
+        "flag": null,
+        "name": "Ascension"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.3971428,
+            -8.193
+          ],
+          [
+            -14.2604378,
+            -8.166
+          ],
+          [
+            -14.1398874,
+            -8.08
+          ],
+          [
+            -14.0938458,
+            -7.967
+          ],
+          [
+            -14.1206653,
+            -7.847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "SH-AC",
+        "flag": null,
+        "name": "Ascension"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.5191569,
+            -8.153
+          ],
+          [
+            -14.3971428,
+            -8.193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "SH-AC",
+        "flag": null,
+        "name": "Ascension"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -14.5670809,
+            -7.787
+          ],
+          [
+            -14.6148184,
+            -7.877
+          ],
+          [
+            -14.6208554,
+            -7.969
+          ],
+          [
+            -14.5925746,
+            -8.072
+          ],
+          [
+            -14.5191569,
+            -8.153
+          ]
+        ]
+      }
+    }
+  ]
+}

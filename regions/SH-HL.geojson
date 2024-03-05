@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "SH-HL",
+        "flag": null,
+        "name": "Saint Helena"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.75687,
+            -16.23
+          ],
+          [
+            -5.5903592,
+            -16.185
+          ],
+          [
+            -5.4733019,
+            -16.111
+          ],
+          [
+            -5.4254496,
+            -16.009
+          ],
+          [
+            -5.4389986,
+            -15.881
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "SH-HL",
+        "flag": null,
+        "name": "Saint Helena"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.4389986,
+            -15.881
+          ],
+          [
+            -5.5134481,
+            -15.767
+          ],
+          [
+            -5.6206338,
+            -15.714
+          ],
+          [
+            -5.7641016,
+            -15.713
+          ],
+          [
+            -5.8909679,
+            -15.795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "SH-HL",
+        "flag": null,
+        "name": "Saint Helena"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.8909679,
+            -15.795
+          ],
+          [
+            -5.970119,
+            -15.897
+          ],
+          [
+            -5.9960779,
+            -15.975
+          ],
+          [
+            -5.9849913,
+            -16.065
+          ],
+          [
+            -5.9337405,
+            -16.141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "iso-3166-1": null,
+        "iso-3166-2": "SH-HL",
+        "flag": null,
+        "name": "Saint Helena"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.9337405,
+            -16.141
+          ],
+          [
+            -5.8512008,
+            -16.207
+          ],
+          [
+            -5.75687,
+            -16.23
+          ]
+        ]
+      }
+    }
+  ]
+}
