@@ -3,4232 +3,1659 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3510166,
-            -2.7690693
-          ],
-          [
-            29.3518968,
-            -2.8036489
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3334117,
-            -2.7467493
-          ],
-          [
-            29.3510166,
-            -2.7690693
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8206801,
-            -1.7095354
-          ],
-          [
-            30.8229686,
-            -1.7309953
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8213636,
-            -1.6928223
-          ],
-          [
-            30.8206801,
-            -1.7095354
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8398778,
-            -1.6509449
-          ],
-          [
-            30.8213636,
-            -1.6928223
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8198637,
-            -1.6241321
-          ],
-          [
-            30.8398778,
-            -1.6509449
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8050654,
-            -1.6043066
-          ],
-          [
-            30.8198637,
-            -1.6241321
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.7841453,
-            -1.5764961
-          ],
-          [
-            30.8050654,
-            -1.6043066
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.7451006,
-            -1.5233921
-          ],
-          [
-            30.7841453,
-            -1.5764961
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.7437369,
-            -1.5180467
-          ],
-          [
-            30.7451006,
-            -1.5233921
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.7393975,
-            -1.4584112
-          ],
-          [
-            30.7437369,
-            -1.5180467
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.709508,
-            -1.4240146
-          ],
-          [
-            30.7393975,
-            -1.4584112
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.6862,
-            -1.4003536
-          ],
-          [
-            30.709508,
-            -1.4240146
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.6794267,
-            -1.3947704
-          ],
-          [
-            30.6862,
-            -1.4003536
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.6294712,
-            -1.385057
-          ],
-          [
-            30.6794267,
-            -1.3947704
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.6126287,
-            -1.3497571
-          ],
-          [
-            30.6294712,
-            -1.385057
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.5687222,
-            -1.3371423
-          ],
-          [
-            30.6126287,
-            -1.3497571
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.5676048,
-            -1.3325623
-          ],
-          [
-            30.5687222,
-            -1.3371423
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.5676048,
-            -1.3325623
-          ],
-          [
-            30.5632489,
-            -1.3223941
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.5632489,
-            -1.3223941
-          ],
-          [
-            30.5508477,
-            -1.2501236
-          ],
-          [
-            30.5090477,
-            -1.1714555
-          ],
-          [
-            30.4777581,
-            -1.1609739
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.4777581,
-            -1.1609739
-          ],
-          [
-            30.4764577,
-            -1.1218258
-          ],
-          [
-            30.458981,
-            -1.1172725
-          ],
-          [
-            30.4512741,
-            -1.0889114
-          ],
-          [
-            30.4730999,
-            -1.057607
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.4596067,
-            -1.0523241
-          ],
-          [
-            30.4730999,
-            -1.057607
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.4482353,
-            -1.0477422
-          ],
-          [
-            30.4596067,
-            -1.0523241
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.4476572,
-            -1.0475261
-          ],
-          [
-            30.4482353,
-            -1.0477422
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.405485,
-            -1.0631325
-          ],
-          [
-            30.4476572,
-            -1.0475261
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.4023269,
-            -1.0609746
-          ],
-          [
-            30.405485,
-            -1.0631325
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.3867765,
-            -1.0660733
-          ],
-          [
-            30.4023269,
-            -1.0609746
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.3521968,
-            -1.0625733
-          ],
-          [
-            30.3867765,
-            -1.0660733
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.3449777,
-            -1.1291325
-          ],
-          [
-            30.3521968,
-            -1.0625733
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.3447625,
-            -1.1316174
-          ],
-          [
-            30.3449777,
-            -1.1291325
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.3436776,
-            -1.1319209
-          ],
-          [
-            30.3447625,
-            -1.1316174
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.301209,
-            -1.1533169
-          ],
-          [
-            30.3436776,
-            -1.1319209
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.2904909,
-            -1.1904383
-          ],
-          [
-            30.301209,
-            -1.1533169
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.2317217,
-            -1.2519735
-          ],
-          [
-            30.2904909,
-            -1.1904383
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.2139843,
-            -1.2688361
-          ],
-          [
-            30.2317217,
-            -1.2519735
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.1696692,
-            -1.274416
-          ],
-          [
-            30.2139843,
-            -1.2688361
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.1630918,
-            -1.3348942
-          ],
-          [
-            30.1696692,
-            -1.274416
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.1280811,
-            -1.3662615
-          ],
-          [
-            30.1699299,
-            -1.3451725
-          ],
-          [
-            30.1630918,
-            -1.3348942
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.1280811,
-            -1.3662615
-          ],
-          [
-            30.1224501,
-            -1.3842472
-          ],
-          [
-            30.1041858,
-            -1.3723918
-          ],
-          [
-            30.0701193,
-            -1.3824844
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.0142379,
-            -1.41608
-          ],
-          [
-            30.0537447,
-            -1.431131
-          ],
-          [
-            30.0522779,
-            -1.4010151
-          ],
-          [
-            30.0701193,
-            -1.3824844
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.0133836,
-            -1.4200676
-          ],
-          [
-            30.0142379,
-            -1.41608
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.0105105,
-            -1.4265685
-          ],
-          [
-            30.0133836,
-            -1.4200676
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.9905301,
-            -1.450061
-          ],
-          [
-            30.0105105,
-            -1.4265685
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.9898456,
-            -1.4510235
-          ],
-          [
-            29.9905301,
-            -1.450061
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.9842116,
-            -1.4531229
-          ],
-          [
-            29.9898456,
-            -1.4510235
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.9495984,
-            -1.4657524
-          ],
-          [
-            29.9842116,
-            -1.4531229
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.902142,
-            -1.4599571
-          ],
-          [
-            29.9157708,
-            -1.4823179
-          ],
-          [
-            29.9495984,
-            -1.4657524
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.902142,
-            -1.4599571
-          ],
-          [
-            29.8828996,
-            -1.3939562
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.8828996,
-            -1.3939562
-          ],
-          [
-            29.8844471,
-            -1.3558947
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.8828,
-            -1.3557148
-          ],
-          [
-            29.8844471,
-            -1.3558947
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.8496733,
-            -1.3398189
-          ],
-          [
-            29.8614914,
-            -1.3609519
-          ],
-          [
-            29.8828,
-            -1.3557148
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.8211058,
-            -1.3106541
-          ],
-          [
-            29.8496733,
-            -1.3398189
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.7968576,
-            -1.3732393
-          ],
-          [
-            29.8211058,
-            -1.3106541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.7504132,
-            -1.3422404
-          ],
-          [
-            29.7968576,
-            -1.3732393
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.7060882,
-            -1.3522006
-          ],
-          [
-            29.7504132,
-            -1.3422404
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.6992599,
-            -1.3590578
-          ],
-          [
-            29.7060882,
-            -1.3522006
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.6791821,
-            -1.3813968
-          ],
-          [
-            29.6992599,
-            -1.3590578
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.6629977,
-            -1.3847214
-          ],
-          [
-            29.6791821,
-            -1.3813968
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.596202,
-            -1.3876878
-          ],
-          [
-            29.6629977,
-            -1.3847214
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.591168,
-            -1.387702
-          ],
-          [
-            29.596202,
-            -1.3876878
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.591168,
-            -1.387702
-          ],
-          [
-            29.5695948,
-            -1.3868884
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.5695948,
-            -1.3868884
-          ],
-          [
-            29.5477346,
-            -1.400609
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.5477346,
-            -1.400609
-          ],
-          [
-            29.5295118,
-            -1.4105491
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.5295118,
-            -1.4105491
-          ],
-          [
-            29.4775517,
-            -1.4682374
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.4775517,
-            -1.4682374
-          ],
-          [
-            29.4732101,
-            -1.4746749
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.4732101,
-            -1.4746749
-          ],
-          [
-            29.4503258,
-            -1.506156
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.4503258,
-            -1.506156
-          ],
-          [
-            29.4164971,
-            -1.5072101
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.4164971,
-            -1.5072101
-          ],
-          [
-            29.3976629,
-            -1.5079848
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3976629,
-            -1.5079848
-          ],
-          [
-            29.3801907,
-            -1.508457
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3801907,
-            -1.508457
-          ],
-          [
-            29.3698153,
-            -1.5086432
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3698153,
-            -1.5086432
-          ],
-          [
-            29.3596758,
-            -1.5156401
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3596758,
-            -1.5156401
-          ],
-          [
-            29.3535421,
-            -1.5364982
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3535421,
-            -1.5364982
-          ],
-          [
-            29.3533017,
-            -1.5367579
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3533017,
-            -1.5367579
-          ],
-          [
-            29.3267658,
-            -1.5734859
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3267658,
-            -1.5734859
-          ],
-          [
-            29.2978363,
-            -1.6081456
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2978363,
-            -1.6081456
-          ],
-          [
-            29.2924261,
-            -1.6151839
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2924261,
-            -1.6151839
-          ],
-          [
-            29.2695118,
-            -1.6282642
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2695118,
-            -1.6282642
-          ],
-          [
-            29.2630783,
-            -1.645592
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2630783,
-            -1.645592
-          ],
-          [
-            29.2600789,
-            -1.6522977
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2600789,
-            -1.6522977
-          ],
-          [
-            29.2526689,
-            -1.6624656
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2526689,
-            -1.6624656
-          ],
-          [
-            29.2433666,
-            -1.6683435
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2433666,
-            -1.6683435
-          ],
-          [
-            29.2437453,
-            -1.6706893
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2437453,
-            -1.6706893
-          ],
-          [
-            29.2439451,
-            -1.6716735
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2439451,
-            -1.6716735
-          ],
-          [
-            29.244412,
-            -1.6739106
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.244412,
-            -1.6739106
-          ],
-          [
-            29.2446136,
-            -1.6750528
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2446136,
-            -1.6750528
-          ],
-          [
-            29.2443628,
-            -1.6776904
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2443628,
-            -1.6776904
-          ],
-          [
-            29.2443412,
-            -1.6795529
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2443412,
-            -1.6795529
-          ],
-          [
-            29.2445649,
-            -1.681639
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2445649,
-            -1.681639
-          ],
-          [
-            29.2446804,
-            -1.6826361
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2446804,
-            -1.6826361
-          ],
-          [
-            29.2447429,
-            -1.6895519
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2447429,
-            -1.6895519
-          ],
-          [
-            29.2448077,
-            -1.6916041
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2448077,
-            -1.6916041
-          ],
-          [
-            29.244828,
-            -1.692266
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.244828,
-            -1.692266
-          ],
-          [
-            29.244867,
-            -1.6928541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.244867,
-            -1.6928541
-          ],
-          [
-            29.244761,
-            -1.6945539
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.244761,
-            -1.6945539
-          ],
-          [
-            29.2448174,
-            -1.6981286
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2448174,
-            -1.6981286
-          ],
-          [
-            29.2415144,
-            -1.7023863
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2415144,
-            -1.7023863
-          ],
-          [
-            29.2335302,
-            -1.713639
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2335302,
-            -1.713639
-          ],
-          [
-            29.1877791,
-            -1.7764408
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.1877791,
-            -1.7764408
-          ],
-          [
-            29.1441005,
-            -1.8395918
-          ],
-          [
-            29.1278092,
-            -1.9038151
-          ],
-          [
-            29.1604704,
-            -2.0320264
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.1604704,
-            -2.0320264
-          ],
-          [
-            29.174799,
-            -2.1114812
-          ],
-          [
-            29.1660056,
-            -2.1512871
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.1660056,
-            -2.1512871
-          ],
-          [
-            29.1082215,
-            -2.266579
-          ],
-          [
-            29.0011122,
-            -2.2939297
-          ],
-          [
-            28.9832269,
-            -2.3396448
-          ],
-          [
-            28.961323,
-            -2.3530647
-          ],
-          [
-            28.9633338,
-            -2.3719753
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.9633338,
-            -2.3719753
-          ],
-          [
-            28.9469364,
-            -2.3762829
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.9469364,
-            -2.3762829
-          ],
-          [
-            28.8967221,
-            -2.3799938
-          ],
-          [
-            28.8665101,
-            -2.4362963
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8665101,
-            -2.4362963
-          ],
-          [
-            28.8920257,
-            -2.475412
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8920257,
-            -2.475412
-          ],
-          [
-            28.8930976,
-            -2.490787
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8930976,
-            -2.490787
-          ],
-          [
-            28.8927477,
-            -2.4915566
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8927477,
-            -2.4915566
-          ],
-          [
-            28.8900134,
-            -2.5009991
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8900134,
-            -2.5009991
-          ],
-          [
-            28.8876822,
-            -2.5061913
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8876822,
-            -2.5061913
-          ],
-          [
-            28.8732009,
-            -2.5106986
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8732009,
-            -2.5106986
-          ],
-          [
-            28.8668808,
-            -2.5159707
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8668808,
-            -2.5159707
-          ],
-          [
-            28.8629944,
-            -2.5214532
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8629944,
-            -2.5214532
-          ],
-          [
-            28.861797,
-            -2.5250355
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.861797,
-            -2.5250355
-          ],
-          [
-            28.8619199,
-            -2.5269599
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8619199,
-            -2.5269599
-          ],
-          [
-            28.8643206,
-            -2.5341546
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8643206,
-            -2.5341546
-          ],
-          [
-            28.8700403,
-            -2.5390388
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8700403,
-            -2.5390388
-          ],
-          [
-            28.8729614,
-            -2.5426286
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8729614,
-            -2.5426286
-          ],
-          [
-            28.8858846,
-            -2.5548801
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8858846,
-            -2.5548801
-          ],
-          [
-            28.8905938,
-            -2.5572775
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8905938,
-            -2.5572775
-          ],
-          [
-            28.8984148,
-            -2.5807905
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.8984148,
-            -2.5807905
-          ],
-          [
-            28.9005112,
-            -2.6211888
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.9005112,
-            -2.6211888
-          ],
-          [
-            28.9055811,
-            -2.6474285
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.9055811,
-            -2.6474285
-          ],
-          [
-            28.896123,
-            -2.6528098
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.896123,
-            -2.6528098
-          ],
-          [
-            28.9433971,
-            -2.6930027
-          ],
-          [
-            28.9959334,
-            -2.6999871
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            28.9959334,
-            -2.6999871
-          ],
-          [
-            29.0407434,
-            -2.7433533
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.0518296,
-            -2.6886749
-          ],
-          [
-            29.0407434,
-            -2.7433533
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.0694057,
-            -2.6032824
-          ],
-          [
-            29.051152,
-            -2.622816
-          ],
-          [
-            29.0617119,
-            -2.6496528
-          ],
-          [
-            29.0518296,
-            -2.6886749
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.1551525,
-            -2.5963041
-          ],
-          [
-            29.1278618,
-            -2.6102441
-          ],
-          [
-            29.0927003,
-            -2.5918062
-          ],
-          [
-            29.0694057,
-            -2.6032824
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.1551525,
-            -2.5963041
-          ],
-          [
-            29.2211235,
-            -2.6313533
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2211235,
-            -2.6313533
-          ],
-          [
-            29.2476427,
-            -2.6220772
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.2476427,
-            -2.6220772
-          ],
-          [
-            29.3149015,
-            -2.6445339
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3149015,
-            -2.6445339
-          ],
-          [
-            29.3336785,
-            -2.6801815
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3336785,
-            -2.6801815
-          ],
-          [
-            29.3527489,
-            -2.7348411
-          ],
-          [
-            29.3334117,
-            -2.7467493
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3518968,
-            -2.8036489
-          ],
-          [
-            29.3708863,
-            -2.8397581
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.3708863,
-            -2.8397581
-          ],
-          [
-            29.4382021,
-            -2.7972664
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.4382021,
-            -2.7972664
-          ],
-          [
-            29.4861172,
-            -2.8020905
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.4861172,
-            -2.8020905
-          ],
-          [
-            29.5216396,
-            -2.8299773
-          ],
-          [
-            29.5824176,
-            -2.8049355
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.5824176,
-            -2.8049355
-          ],
-          [
-            29.6183409,
-            -2.8079935
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.6183409,
-            -2.8079935
-          ],
-          [
-            29.6534977,
-            -2.7880586
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.6534977,
-            -2.7880586
-          ],
-          [
-            29.6666897,
-            -2.7915951
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.6666897,
-            -2.7915951
-          ],
-          [
-            29.7007362,
-            -2.8103072
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.7007362,
-            -2.8103072
-          ],
-          [
-            29.7153395,
-            -2.8159987
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.7153395,
-            -2.8159987
-          ],
-          [
-            29.72938,
-            -2.8134995
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.72938,
-            -2.8134995
-          ],
-          [
-            29.7529504,
-            -2.8115421
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.7529504,
-            -2.8115421
-          ],
-          [
-            29.7717208,
-            -2.7645203
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.7717208,
-            -2.7645203
-          ],
-          [
-            29.8010038,
-            -2.7551447
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.8010038,
-            -2.7551447
-          ],
-          [
-            29.807045,
-            -2.7588256
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.807045,
-            -2.7588256
-          ],
-          [
-            29.8350228,
-            -2.7744657
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.8350228,
-            -2.7744657
-          ],
-          [
-            29.8909326,
-            -2.7490957
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.8909326,
-            -2.7490957
-          ],
-          [
-            29.8925228,
-            -2.7465239
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.8925228,
-            -2.7465239
-          ],
-          [
-            29.915551,
-            -2.7046239
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.915551,
-            -2.7046239
-          ],
-          [
-            29.9295082,
-            -2.6559832
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.9295082,
-            -2.6559832
-          ],
-          [
-            29.9307998,
-            -2.6366332
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.9307998,
-            -2.6366332
-          ],
-          [
-            29.9261854,
-            -2.547455
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.9261854,
-            -2.547455
-          ],
-          [
-            29.9421978,
-            -2.4979935
-          ],
-          [
-            29.9679597,
-            -2.4796409
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.9679597,
-            -2.4796409
-          ],
-          [
-            29.9547062,
-            -2.3942828
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.9547062,
-            -2.3942828
-          ],
-          [
-            29.9547557,
-            -2.3936286
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.9547557,
-            -2.3936286
-          ],
-          [
-            29.9432201,
-            -2.3696387
-          ],
-          [
-            29.9589851,
-            -2.3273759
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            29.9589851,
-            -2.3273759
-          ],
-          [
-            30.0156975,
-            -2.3430879
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.0156975,
-            -2.3430879
-          ],
-          [
-            30.0376434,
-            -2.3528726
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.0376434,
-            -2.3528726
-          ],
-          [
-            30.0731392,
-            -2.4005668
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.0731392,
-            -2.4005668
-          ],
-          [
-            30.1007978,
-            -2.4248823
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.1007978,
-            -2.4248823
-          ],
-          [
-            30.103101,
-            -2.4254212
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.103101,
-            -2.4254212
-          ],
-          [
-            30.131815,
-            -2.4376769
-          ],
-          [
-            30.1812401,
-            -2.4295502
-          ],
-          [
-            30.1986656,
-            -2.3877578
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.1986656,
-            -2.3877578
-          ],
-          [
-            30.2196209,
-            -2.3550528
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.2196209,
-            -2.3550528
-          ],
-          [
-            30.2431434,
-            -2.3590934
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.2431434,
-            -2.3590934
-          ],
-          [
-            30.2796936,
-            -2.3749743
-          ],
-          [
-            30.3732859,
-            -2.3523064
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.3732859,
-            -2.3523064
-          ],
-          [
-            30.3880501,
-            -2.317306
-          ],
-          [
-            30.4113654,
-            -2.3115118
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.4113654,
-            -2.3115118
-          ],
-          [
-            30.4303427,
-            -2.3288196
-          ],
-          [
-            30.4614921,
-            -2.3200531
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.4614921,
-            -2.3200531
-          ],
-          [
-            30.4625285,
-            -2.3212346
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.4625285,
-            -2.3212346
-          ],
-          [
-            30.4711905,
-            -2.3665326
-          ],
-          [
-            30.5436084,
-            -2.4130213
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.5436084,
-            -2.4130213
-          ],
-          [
-            30.5514547,
-            -2.4115018
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.5514547,
-            -2.4115018
-          ],
-          [
-            30.5828507,
-            -2.4145424
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.6325674,
-            -2.4032301
-          ],
-          [
-            30.5828507,
-            -2.4145424
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.7810315,
-            -2.3894541
-          ],
-          [
-            30.7165606,
-            -2.355543
-          ],
-          [
-            30.6572084,
-            -2.4136614
-          ],
-          [
-            30.6325674,
-            -2.4032301
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.7799702,
-            -2.3847586
-          ],
-          [
-            30.7810315,
-            -2.3894541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.840152,
-            -2.3271143
-          ],
-          [
-            30.8189591,
-            -2.3635446
-          ],
-          [
-            30.7799702,
-            -2.3847586
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8464917,
-            -2.2599174
-          ],
-          [
-            30.8569683,
-            -2.3132685
-          ],
-          [
-            30.840152,
-            -2.3271143
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8494749,
-            -2.198887
-          ],
-          [
-            30.8464917,
-            -2.2599174
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8624528,
-            -2.030841
-          ],
-          [
-            30.8990603,
-            -2.0778323
-          ],
-          [
-            30.8494749,
-            -2.198887
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8269676,
-            -1.9712303
-          ],
-          [
-            30.8624528,
-            -2.030841
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8117001,
-            -1.9444868
-          ],
-          [
-            30.8269676,
-            -1.9712303
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8078269,
-            -1.9381312
-          ],
-          [
-            30.8117001,
-            -1.9444868
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8098376,
-            -1.9241537
-          ],
-          [
-            30.8078269,
-            -1.9381312
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8239567,
-            -1.847341
-          ],
-          [
-            30.8098376,
-            -1.9241537
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "RW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
-        "name": "Rwanda"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8229686,
-            -1.7309953
-          ],
-          [
-            30.8239567,
-            -1.847341
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.351897,
+              -2.803649
+            ],
+            [
+              29.370886,
+              -2.839758
+            ],
+            [
+              29.370886,
+              -2.839758
+            ],
+            [
+              29.438202,
+              -2.797266
+            ],
+            [
+              29.438202,
+              -2.797266
+            ],
+            [
+              29.486117,
+              -2.80209
+            ],
+            [
+              29.486117,
+              -2.80209
+            ],
+            [
+              29.52164,
+              -2.829977
+            ],
+            [
+              29.582418,
+              -2.804936
+            ],
+            [
+              29.582418,
+              -2.804936
+            ],
+            [
+              29.618341,
+              -2.807993
+            ],
+            [
+              29.618341,
+              -2.807993
+            ],
+            [
+              29.653498,
+              -2.788059
+            ],
+            [
+              29.653498,
+              -2.788059
+            ],
+            [
+              29.66669,
+              -2.791595
+            ],
+            [
+              29.66669,
+              -2.791595
+            ],
+            [
+              29.700736,
+              -2.810307
+            ],
+            [
+              29.700736,
+              -2.810307
+            ],
+            [
+              29.715339,
+              -2.815999
+            ],
+            [
+              29.715339,
+              -2.815999
+            ],
+            [
+              29.72938,
+              -2.813499
+            ],
+            [
+              29.72938,
+              -2.813499
+            ],
+            [
+              29.75295,
+              -2.811542
+            ],
+            [
+              29.75295,
+              -2.811542
+            ],
+            [
+              29.771721,
+              -2.76452
+            ],
+            [
+              29.771721,
+              -2.76452
+            ],
+            [
+              29.801004,
+              -2.755145
+            ],
+            [
+              29.801004,
+              -2.755145
+            ],
+            [
+              29.807045,
+              -2.758826
+            ],
+            [
+              29.807045,
+              -2.758826
+            ],
+            [
+              29.835023,
+              -2.774466
+            ],
+            [
+              29.835023,
+              -2.774466
+            ],
+            [
+              29.890933,
+              -2.749096
+            ],
+            [
+              29.890933,
+              -2.749096
+            ],
+            [
+              29.892523,
+              -2.746524
+            ],
+            [
+              29.892523,
+              -2.746524
+            ],
+            [
+              29.915551,
+              -2.704624
+            ],
+            [
+              29.915551,
+              -2.704624
+            ],
+            [
+              29.929508,
+              -2.655983
+            ],
+            [
+              29.929508,
+              -2.655983
+            ],
+            [
+              29.9308,
+              -2.636633
+            ],
+            [
+              29.9308,
+              -2.636633
+            ],
+            [
+              29.926185,
+              -2.547455
+            ],
+            [
+              29.926185,
+              -2.547455
+            ],
+            [
+              29.942198,
+              -2.497994
+            ],
+            [
+              29.96796,
+              -2.479641
+            ],
+            [
+              29.96796,
+              -2.479641
+            ],
+            [
+              29.954706,
+              -2.394283
+            ],
+            [
+              29.954706,
+              -2.394283
+            ],
+            [
+              29.954756,
+              -2.393629
+            ],
+            [
+              29.954756,
+              -2.393629
+            ],
+            [
+              29.94322,
+              -2.369639
+            ],
+            [
+              29.958985,
+              -2.327376
+            ],
+            [
+              29.958985,
+              -2.327376
+            ],
+            [
+              30.015698,
+              -2.343088
+            ],
+            [
+              30.015698,
+              -2.343088
+            ],
+            [
+              30.037643,
+              -2.352873
+            ],
+            [
+              30.037643,
+              -2.352873
+            ],
+            [
+              30.073139,
+              -2.400567
+            ],
+            [
+              30.073139,
+              -2.400567
+            ],
+            [
+              30.100798,
+              -2.424882
+            ],
+            [
+              30.100798,
+              -2.424882
+            ],
+            [
+              30.103101,
+              -2.425421
+            ],
+            [
+              30.103101,
+              -2.425421
+            ],
+            [
+              30.131815,
+              -2.437677
+            ],
+            [
+              30.18124,
+              -2.42955
+            ],
+            [
+              30.198666,
+              -2.387758
+            ],
+            [
+              30.198666,
+              -2.387758
+            ],
+            [
+              30.219621,
+              -2.355053
+            ],
+            [
+              30.219621,
+              -2.355053
+            ],
+            [
+              30.243143,
+              -2.359093
+            ],
+            [
+              30.243143,
+              -2.359093
+            ],
+            [
+              30.279694,
+              -2.374974
+            ],
+            [
+              30.373286,
+              -2.352306
+            ],
+            [
+              30.373286,
+              -2.352306
+            ],
+            [
+              30.38805,
+              -2.317306
+            ],
+            [
+              30.411365,
+              -2.311512
+            ],
+            [
+              30.411365,
+              -2.311512
+            ],
+            [
+              30.430343,
+              -2.32882
+            ],
+            [
+              30.461492,
+              -2.320053
+            ],
+            [
+              30.461492,
+              -2.320053
+            ],
+            [
+              30.462529,
+              -2.321235
+            ],
+            [
+              30.462529,
+              -2.321235
+            ],
+            [
+              30.47119,
+              -2.366533
+            ],
+            [
+              30.543608,
+              -2.413021
+            ],
+            [
+              30.543608,
+              -2.413021
+            ],
+            [
+              30.551455,
+              -2.411502
+            ],
+            [
+              30.551455,
+              -2.411502
+            ],
+            [
+              30.582851,
+              -2.414542
+            ],
+            [
+              30.582851,
+              -2.414542
+            ],
+            [
+              30.632567,
+              -2.40323
+            ],
+            [
+              30.632567,
+              -2.40323
+            ],
+            [
+              30.657208,
+              -2.413661
+            ],
+            [
+              30.716561,
+              -2.355543
+            ],
+            [
+              30.781032,
+              -2.389454
+            ],
+            [
+              30.781032,
+              -2.389454
+            ],
+            [
+              30.77997,
+              -2.384759
+            ],
+            [
+              30.77997,
+              -2.384759
+            ],
+            [
+              30.818959,
+              -2.363545
+            ],
+            [
+              30.840152,
+              -2.327114
+            ],
+            [
+              30.840152,
+              -2.327114
+            ],
+            [
+              30.856968,
+              -2.313268
+            ],
+            [
+              30.846492,
+              -2.259917
+            ],
+            [
+              30.846492,
+              -2.259917
+            ],
+            [
+              30.849475,
+              -2.198887
+            ],
+            [
+              30.849475,
+              -2.198887
+            ],
+            [
+              30.89906,
+              -2.077832
+            ],
+            [
+              30.862453,
+              -2.030841
+            ],
+            [
+              30.862453,
+              -2.030841
+            ],
+            [
+              30.826968,
+              -1.97123
+            ],
+            [
+              30.826968,
+              -1.97123
+            ],
+            [
+              30.8117,
+              -1.944487
+            ],
+            [
+              30.8117,
+              -1.944487
+            ],
+            [
+              30.807827,
+              -1.938131
+            ],
+            [
+              30.807827,
+              -1.938131
+            ],
+            [
+              30.809838,
+              -1.924154
+            ],
+            [
+              30.809838,
+              -1.924154
+            ],
+            [
+              30.823957,
+              -1.847341
+            ],
+            [
+              30.823957,
+              -1.847341
+            ],
+            [
+              30.822969,
+              -1.730995
+            ],
+            [
+              30.822969,
+              -1.730995
+            ],
+            [
+              30.82068,
+              -1.709535
+            ],
+            [
+              30.82068,
+              -1.709535
+            ],
+            [
+              30.821364,
+              -1.692822
+            ],
+            [
+              30.821364,
+              -1.692822
+            ],
+            [
+              30.839878,
+              -1.650945
+            ],
+            [
+              30.839878,
+              -1.650945
+            ],
+            [
+              30.819864,
+              -1.624132
+            ],
+            [
+              30.819864,
+              -1.624132
+            ],
+            [
+              30.805065,
+              -1.604307
+            ],
+            [
+              30.805065,
+              -1.604307
+            ],
+            [
+              30.784145,
+              -1.576496
+            ],
+            [
+              30.784145,
+              -1.576496
+            ],
+            [
+              30.745101,
+              -1.523392
+            ],
+            [
+              30.745101,
+              -1.523392
+            ],
+            [
+              30.743737,
+              -1.518047
+            ],
+            [
+              30.743737,
+              -1.518047
+            ],
+            [
+              30.739397,
+              -1.458411
+            ],
+            [
+              30.739397,
+              -1.458411
+            ],
+            [
+              30.709508,
+              -1.424015
+            ],
+            [
+              30.709508,
+              -1.424015
+            ],
+            [
+              30.6862,
+              -1.400354
+            ],
+            [
+              30.6862,
+              -1.400354
+            ],
+            [
+              30.679427,
+              -1.39477
+            ],
+            [
+              30.679427,
+              -1.39477
+            ],
+            [
+              30.629471,
+              -1.385057
+            ],
+            [
+              30.629471,
+              -1.385057
+            ],
+            [
+              30.612629,
+              -1.349757
+            ],
+            [
+              30.612629,
+              -1.349757
+            ],
+            [
+              30.568722,
+              -1.337142
+            ],
+            [
+              30.568722,
+              -1.337142
+            ],
+            [
+              30.567605,
+              -1.332562
+            ],
+            [
+              30.567605,
+              -1.332562
+            ],
+            [
+              30.563249,
+              -1.322394
+            ],
+            [
+              30.563249,
+              -1.322394
+            ],
+            [
+              30.550848,
+              -1.250124
+            ],
+            [
+              30.509048,
+              -1.171455
+            ],
+            [
+              30.477758,
+              -1.160974
+            ],
+            [
+              30.477758,
+              -1.160974
+            ],
+            [
+              30.476458,
+              -1.121826
+            ],
+            [
+              30.458981,
+              -1.117272
+            ],
+            [
+              30.451274,
+              -1.088911
+            ],
+            [
+              30.4731,
+              -1.057607
+            ],
+            [
+              30.4731,
+              -1.057607
+            ],
+            [
+              30.459607,
+              -1.052324
+            ],
+            [
+              30.459607,
+              -1.052324
+            ],
+            [
+              30.448235,
+              -1.047742
+            ],
+            [
+              30.448235,
+              -1.047742
+            ],
+            [
+              30.447657,
+              -1.047526
+            ],
+            [
+              30.447657,
+              -1.047526
+            ],
+            [
+              30.405485,
+              -1.063133
+            ],
+            [
+              30.405485,
+              -1.063133
+            ],
+            [
+              30.402327,
+              -1.060975
+            ],
+            [
+              30.402327,
+              -1.060975
+            ],
+            [
+              30.386776,
+              -1.066073
+            ],
+            [
+              30.386776,
+              -1.066073
+            ],
+            [
+              30.352197,
+              -1.062573
+            ],
+            [
+              30.352197,
+              -1.062573
+            ],
+            [
+              30.344978,
+              -1.129133
+            ],
+            [
+              30.344978,
+              -1.129133
+            ],
+            [
+              30.344763,
+              -1.131617
+            ],
+            [
+              30.344763,
+              -1.131617
+            ],
+            [
+              30.343678,
+              -1.131921
+            ],
+            [
+              30.343678,
+              -1.131921
+            ],
+            [
+              30.301209,
+              -1.153317
+            ],
+            [
+              30.301209,
+              -1.153317
+            ],
+            [
+              30.290491,
+              -1.190438
+            ],
+            [
+              30.290491,
+              -1.190438
+            ],
+            [
+              30.231722,
+              -1.251974
+            ],
+            [
+              30.231722,
+              -1.251974
+            ],
+            [
+              30.213984,
+              -1.268836
+            ],
+            [
+              30.213984,
+              -1.268836
+            ],
+            [
+              30.169669,
+              -1.274416
+            ],
+            [
+              30.169669,
+              -1.274416
+            ],
+            [
+              30.163092,
+              -1.334894
+            ],
+            [
+              30.163092,
+              -1.334894
+            ],
+            [
+              30.16993,
+              -1.345173
+            ],
+            [
+              30.128081,
+              -1.366262
+            ],
+            [
+              30.128081,
+              -1.366262
+            ],
+            [
+              30.12245,
+              -1.384247
+            ],
+            [
+              30.104186,
+              -1.372392
+            ],
+            [
+              30.070119,
+              -1.382484
+            ],
+            [
+              30.070119,
+              -1.382484
+            ],
+            [
+              30.052278,
+              -1.401015
+            ],
+            [
+              30.053745,
+              -1.431131
+            ],
+            [
+              30.014238,
+              -1.41608
+            ],
+            [
+              30.014238,
+              -1.41608
+            ],
+            [
+              30.013384,
+              -1.420068
+            ],
+            [
+              30.013384,
+              -1.420068
+            ],
+            [
+              30.01051,
+              -1.426568
+            ],
+            [
+              30.01051,
+              -1.426568
+            ],
+            [
+              29.99053,
+              -1.450061
+            ],
+            [
+              29.99053,
+              -1.450061
+            ],
+            [
+              29.989846,
+              -1.451024
+            ],
+            [
+              29.989846,
+              -1.451024
+            ],
+            [
+              29.984212,
+              -1.453123
+            ],
+            [
+              29.984212,
+              -1.453123
+            ],
+            [
+              29.949598,
+              -1.465752
+            ],
+            [
+              29.949598,
+              -1.465752
+            ],
+            [
+              29.915771,
+              -1.482318
+            ],
+            [
+              29.902142,
+              -1.459957
+            ],
+            [
+              29.902142,
+              -1.459957
+            ],
+            [
+              29.8829,
+              -1.393956
+            ],
+            [
+              29.8829,
+              -1.393956
+            ],
+            [
+              29.884447,
+              -1.355895
+            ],
+            [
+              29.884447,
+              -1.355895
+            ],
+            [
+              29.8828,
+              -1.355715
+            ],
+            [
+              29.8828,
+              -1.355715
+            ],
+            [
+              29.861491,
+              -1.360952
+            ],
+            [
+              29.849673,
+              -1.339819
+            ],
+            [
+              29.849673,
+              -1.339819
+            ],
+            [
+              29.821106,
+              -1.310654
+            ],
+            [
+              29.821106,
+              -1.310654
+            ],
+            [
+              29.796858,
+              -1.373239
+            ],
+            [
+              29.796858,
+              -1.373239
+            ],
+            [
+              29.750413,
+              -1.34224
+            ],
+            [
+              29.750413,
+              -1.34224
+            ],
+            [
+              29.706088,
+              -1.352201
+            ],
+            [
+              29.706088,
+              -1.352201
+            ],
+            [
+              29.69926,
+              -1.359058
+            ],
+            [
+              29.69926,
+              -1.359058
+            ],
+            [
+              29.679182,
+              -1.381397
+            ],
+            [
+              29.679182,
+              -1.381397
+            ],
+            [
+              29.662998,
+              -1.384721
+            ],
+            [
+              29.662998,
+              -1.384721
+            ],
+            [
+              29.596202,
+              -1.387688
+            ],
+            [
+              29.596202,
+              -1.387688
+            ],
+            [
+              29.591168,
+              -1.387702
+            ],
+            [
+              29.591168,
+              -1.387702
+            ],
+            [
+              29.569595,
+              -1.386888
+            ],
+            [
+              29.569595,
+              -1.386888
+            ],
+            [
+              29.547735,
+              -1.400609
+            ],
+            [
+              29.547735,
+              -1.400609
+            ],
+            [
+              29.529512,
+              -1.410549
+            ],
+            [
+              29.529512,
+              -1.410549
+            ],
+            [
+              29.477552,
+              -1.468237
+            ],
+            [
+              29.477552,
+              -1.468237
+            ],
+            [
+              29.47321,
+              -1.474675
+            ],
+            [
+              29.47321,
+              -1.474675
+            ],
+            [
+              29.450326,
+              -1.506156
+            ],
+            [
+              29.450326,
+              -1.506156
+            ],
+            [
+              29.416497,
+              -1.50721
+            ],
+            [
+              29.416497,
+              -1.50721
+            ],
+            [
+              29.397663,
+              -1.507985
+            ],
+            [
+              29.397663,
+              -1.507985
+            ],
+            [
+              29.380191,
+              -1.508457
+            ],
+            [
+              29.380191,
+              -1.508457
+            ],
+            [
+              29.369815,
+              -1.508643
+            ],
+            [
+              29.369815,
+              -1.508643
+            ],
+            [
+              29.359676,
+              -1.51564
+            ],
+            [
+              29.359676,
+              -1.51564
+            ],
+            [
+              29.353542,
+              -1.536498
+            ],
+            [
+              29.353542,
+              -1.536498
+            ],
+            [
+              29.353302,
+              -1.536758
+            ],
+            [
+              29.353302,
+              -1.536758
+            ],
+            [
+              29.326766,
+              -1.573486
+            ],
+            [
+              29.326766,
+              -1.573486
+            ],
+            [
+              29.297836,
+              -1.608146
+            ],
+            [
+              29.297836,
+              -1.608146
+            ],
+            [
+              29.292426,
+              -1.615184
+            ],
+            [
+              29.292426,
+              -1.615184
+            ],
+            [
+              29.269512,
+              -1.628264
+            ],
+            [
+              29.269512,
+              -1.628264
+            ],
+            [
+              29.263078,
+              -1.645592
+            ],
+            [
+              29.263078,
+              -1.645592
+            ],
+            [
+              29.260079,
+              -1.652298
+            ],
+            [
+              29.260079,
+              -1.652298
+            ],
+            [
+              29.252669,
+              -1.662466
+            ],
+            [
+              29.252669,
+              -1.662466
+            ],
+            [
+              29.243367,
+              -1.668343
+            ],
+            [
+              29.243367,
+              -1.668343
+            ],
+            [
+              29.243745,
+              -1.670689
+            ],
+            [
+              29.243745,
+              -1.670689
+            ],
+            [
+              29.243945,
+              -1.671674
+            ],
+            [
+              29.243945,
+              -1.671674
+            ],
+            [
+              29.244412,
+              -1.673911
+            ],
+            [
+              29.244412,
+              -1.673911
+            ],
+            [
+              29.244614,
+              -1.675053
+            ],
+            [
+              29.244614,
+              -1.675053
+            ],
+            [
+              29.244363,
+              -1.67769
+            ],
+            [
+              29.244363,
+              -1.67769
+            ],
+            [
+              29.244341,
+              -1.679553
+            ],
+            [
+              29.244341,
+              -1.679553
+            ],
+            [
+              29.244565,
+              -1.681639
+            ],
+            [
+              29.244565,
+              -1.681639
+            ],
+            [
+              29.24468,
+              -1.682636
+            ],
+            [
+              29.24468,
+              -1.682636
+            ],
+            [
+              29.244743,
+              -1.689552
+            ],
+            [
+              29.244743,
+              -1.689552
+            ],
+            [
+              29.244808,
+              -1.691604
+            ],
+            [
+              29.244808,
+              -1.691604
+            ],
+            [
+              29.244828,
+              -1.692266
+            ],
+            [
+              29.244828,
+              -1.692266
+            ],
+            [
+              29.244867,
+              -1.692854
+            ],
+            [
+              29.244867,
+              -1.692854
+            ],
+            [
+              29.244761,
+              -1.694554
+            ],
+            [
+              29.244761,
+              -1.694554
+            ],
+            [
+              29.244817,
+              -1.698129
+            ],
+            [
+              29.244817,
+              -1.698129
+            ],
+            [
+              29.241514,
+              -1.702386
+            ],
+            [
+              29.241514,
+              -1.702386
+            ],
+            [
+              29.23353,
+              -1.713639
+            ],
+            [
+              29.23353,
+              -1.713639
+            ],
+            [
+              29.187779,
+              -1.776441
+            ],
+            [
+              29.187779,
+              -1.776441
+            ],
+            [
+              29.144101,
+              -1.839592
+            ],
+            [
+              29.127809,
+              -1.903815
+            ],
+            [
+              29.16047,
+              -2.032026
+            ],
+            [
+              29.16047,
+              -2.032026
+            ],
+            [
+              29.174799,
+              -2.111481
+            ],
+            [
+              29.166006,
+              -2.151287
+            ],
+            [
+              29.166006,
+              -2.151287
+            ],
+            [
+              29.108221,
+              -2.266579
+            ],
+            [
+              29.001112,
+              -2.29393
+            ],
+            [
+              28.983227,
+              -2.339645
+            ],
+            [
+              28.961323,
+              -2.353065
+            ],
+            [
+              28.963334,
+              -2.371975
+            ],
+            [
+              28.963334,
+              -2.371975
+            ],
+            [
+              28.946936,
+              -2.376283
+            ],
+            [
+              28.946936,
+              -2.376283
+            ],
+            [
+              28.896722,
+              -2.379994
+            ],
+            [
+              28.86651,
+              -2.436296
+            ],
+            [
+              28.86651,
+              -2.436296
+            ],
+            [
+              28.892026,
+              -2.475412
+            ],
+            [
+              28.892026,
+              -2.475412
+            ],
+            [
+              28.893098,
+              -2.490787
+            ],
+            [
+              28.893098,
+              -2.490787
+            ],
+            [
+              28.892748,
+              -2.491557
+            ],
+            [
+              28.892748,
+              -2.491557
+            ],
+            [
+              28.890013,
+              -2.500999
+            ],
+            [
+              28.890013,
+              -2.500999
+            ],
+            [
+              28.887682,
+              -2.506191
+            ],
+            [
+              28.887682,
+              -2.506191
+            ],
+            [
+              28.873201,
+              -2.510699
+            ],
+            [
+              28.873201,
+              -2.510699
+            ],
+            [
+              28.866881,
+              -2.515971
+            ],
+            [
+              28.866881,
+              -2.515971
+            ],
+            [
+              28.862994,
+              -2.521453
+            ],
+            [
+              28.862994,
+              -2.521453
+            ],
+            [
+              28.861797,
+              -2.525035
+            ],
+            [
+              28.861797,
+              -2.525035
+            ],
+            [
+              28.86192,
+              -2.52696
+            ],
+            [
+              28.86192,
+              -2.52696
+            ],
+            [
+              28.864321,
+              -2.534155
+            ],
+            [
+              28.864321,
+              -2.534155
+            ],
+            [
+              28.87004,
+              -2.539039
+            ],
+            [
+              28.87004,
+              -2.539039
+            ],
+            [
+              28.872961,
+              -2.542629
+            ],
+            [
+              28.872961,
+              -2.542629
+            ],
+            [
+              28.885885,
+              -2.55488
+            ],
+            [
+              28.885885,
+              -2.55488
+            ],
+            [
+              28.890594,
+              -2.557278
+            ],
+            [
+              28.890594,
+              -2.557278
+            ],
+            [
+              28.898415,
+              -2.58079
+            ],
+            [
+              28.898415,
+              -2.58079
+            ],
+            [
+              28.900511,
+              -2.621189
+            ],
+            [
+              28.900511,
+              -2.621189
+            ],
+            [
+              28.905581,
+              -2.647429
+            ],
+            [
+              28.905581,
+              -2.647429
+            ],
+            [
+              28.896123,
+              -2.65281
+            ],
+            [
+              28.896123,
+              -2.65281
+            ],
+            [
+              28.943397,
+              -2.693003
+            ],
+            [
+              28.995933,
+              -2.699987
+            ],
+            [
+              28.995933,
+              -2.699987
+            ],
+            [
+              29.040743,
+              -2.743353
+            ],
+            [
+              29.040743,
+              -2.743353
+            ],
+            [
+              29.05183,
+              -2.688675
+            ],
+            [
+              29.05183,
+              -2.688675
+            ],
+            [
+              29.061712,
+              -2.649653
+            ],
+            [
+              29.051152,
+              -2.622816
+            ],
+            [
+              29.069406,
+              -2.603282
+            ],
+            [
+              29.069406,
+              -2.603282
+            ],
+            [
+              29.0927,
+              -2.591806
+            ],
+            [
+              29.127862,
+              -2.610244
+            ],
+            [
+              29.155152,
+              -2.596304
+            ],
+            [
+              29.155152,
+              -2.596304
+            ],
+            [
+              29.221124,
+              -2.631353
+            ],
+            [
+              29.221124,
+              -2.631353
+            ],
+            [
+              29.247643,
+              -2.622077
+            ],
+            [
+              29.247643,
+              -2.622077
+            ],
+            [
+              29.314902,
+              -2.644534
+            ],
+            [
+              29.314902,
+              -2.644534
+            ],
+            [
+              29.333679,
+              -2.680182
+            ],
+            [
+              29.333679,
+              -2.680182
+            ],
+            [
+              29.352749,
+              -2.734841
+            ],
+            [
+              29.333412,
+              -2.746749
+            ],
+            [
+              29.333412,
+              -2.746749
+            ],
+            [
+              29.351017,
+              -2.769069
+            ],
+            [
+              29.351017,
+              -2.769069
+            ],
+            [
+              29.351897,
+              -2.803649
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "RW",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+        "name": "Rwanda",
+        "id": "RW"
       }
     }
   ]

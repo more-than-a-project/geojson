@@ -3,580 +3,331 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.998442,
+              24.254063
+            ],
+            [
+              -79.363242,
+              25.00452
+            ],
+            [
+              -79.370973,
+              25.204628
+            ],
+            [
+              -79.370973,
+              25.204628
+            ],
+            [
+              -79.406819,
+              25.322585
+            ],
+            [
+              -79.514367,
+              25.520448
+            ],
+            [
+              -79.536084,
+              25.638981
+            ],
+            [
+              -79.504861,
+              25.811222
+            ],
+            [
+              -79.31614,
+              26.091627
+            ],
+            [
+              -79.31614,
+              26.091627
+            ],
+            [
+              -79.329125,
+              26.948919
+            ],
+            [
+              -79.297891,
+              27.053804
+            ],
+            [
+              -79.210116,
+              27.128711
+            ],
+            [
+              -78.539394,
+              27.444033
+            ],
+            [
+              -78.539394,
+              27.444033
+            ],
+            [
+              -78.419224,
+              27.473455
+            ],
+            [
+              -78.284826,
+              27.453568
+            ],
+            [
+              -78.128593,
+              27.404922
+            ],
+            [
+              -77.906548,
+              27.274784
+            ],
+            [
+              -77.775056,
+              27.249427
+            ],
+            [
+              -77.775056,
+              27.249427
+            ],
+            [
+              -77.461399,
+              27.140404
+            ],
+            [
+              -77.234821,
+              26.996909
+            ],
+            [
+              -77.234821,
+              26.996909
+            ],
+            [
+              -77.134849,
+              26.934621
+            ],
+            [
+              -77.134849,
+              26.934621
+            ],
+            [
+              -76.863674,
+              26.757829
+            ],
+            [
+              -76.793309,
+              26.691745
+            ],
+            [
+              -76.741691,
+              26.602466
+            ],
+            [
+              -76.741691,
+              26.602466
+            ],
+            [
+              -75.948835,
+              25.276453
+            ],
+            [
+              -75.51413,
+              24.821016
+            ],
+            [
+              -74.385363,
+              24.344021
+            ],
+            [
+              -74.323528,
+              24.30504
+            ],
+            [
+              -73.441397,
+              23.21777
+            ],
+            [
+              -72.499067,
+              22.442794
+            ],
+            [
+              -72.455299,
+              22.362577
+            ],
+            [
+              -72.447823,
+              22.287663
+            ],
+            [
+              -72.549879,
+              21.948685
+            ],
+            [
+              -72.549879,
+              21.948685
+            ],
+            [
+              -72.63011,
+              21.803964
+            ],
+            [
+              -72.67248,
+              21.640492
+            ],
+            [
+              -72.67729,
+              21.540119
+            ],
+            [
+              -72.67729,
+              21.540119
+            ],
+            [
+              -72.694295,
+              21.485504
+            ],
+            [
+              -72.694295,
+              21.485504
+            ],
+            [
+              -72.846603,
+              21.059877
+            ],
+            [
+              -72.993005,
+              20.836151
+            ],
+            [
+              -73.047057,
+              20.780223
+            ],
+            [
+              -73.159,
+              20.740561
+            ],
+            [
+              -73.669804,
+              20.706569
+            ],
+            [
+              -73.746754,
+              20.728948
+            ],
+            [
+              -73.839721,
+              20.805749
+            ],
+            [
+              -73.839721,
+              20.805749
+            ],
+            [
+              -77.214826,
+              22.032971
+            ],
+            [
+              -77.214826,
+              22.032971
+            ],
+            [
+              -77.933964,
+              22.495025
+            ],
+            [
+              -77.933964,
+              22.495025
+            ],
+            [
+              -78.21325,
+              22.642583
+            ],
+            [
+              -78.463574,
+              22.745819
+            ],
+            [
+              -78.463574,
+              22.745819
+            ],
+            [
+              -78.772959,
+              22.868274
+            ],
+            [
+              -78.772959,
+              22.868274
+            ],
+            [
+              -78.790845,
+              22.875357
+            ],
+            [
+              -78.790845,
+              22.875357
+            ],
+            [
+              -79.295077,
+              23.143014
+            ],
+            [
+              -79.295077,
+              23.143014
+            ],
+            [
+              -79.59588,
+              23.301043
+            ],
+            [
+              -80.437087,
+              23.490697
+            ],
+            [
+              -80.437087,
+              23.490697
+            ],
+            [
+              -80.523824,
+              23.529916
+            ],
+            [
+              -80.596003,
+              23.620589
+            ],
+            [
+              -80.69694,
+              23.871822
+            ],
+            [
+              -80.695204,
+              23.949452
+            ],
+            [
+              -80.667412,
+              24.015859
+            ],
+            [
+              -80.621259,
+              24.079105
+            ],
+            [
+              -80.524446,
+              24.143564
+            ],
+            [
+              -79.998442,
+              24.254063
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "BS",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.4370871,
-            23.490697
-          ],
-          [
-            -80.5238242,
-            23.5299162
-          ],
-          [
-            -80.5960026,
-            23.6205891
-          ],
-          [
-            -80.6969399,
-            23.8718217
-          ],
-          [
-            -80.695204,
-            23.9494521
-          ],
-          [
-            -80.6674121,
-            24.0158594
-          ],
-          [
-            -80.6212586,
-            24.0791047
-          ],
-          [
-            -80.5244457,
-            24.1435641
-          ],
-          [
-            -79.998442,
-            24.2540629
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.998442,
-            24.2540629
-          ],
-          [
-            -79.3632415,
-            25.0045198
-          ],
-          [
-            -79.370973,
-            25.2046278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.370973,
-            25.2046278
-          ],
-          [
-            -79.4068194,
-            25.3225847
-          ],
-          [
-            -79.514367,
-            25.5204483
-          ],
-          [
-            -79.5360838,
-            25.6389807
-          ],
-          [
-            -79.504861,
-            25.8112225
-          ],
-          [
-            -79.3161401,
-            26.0916269
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.3161401,
-            26.0916269
-          ],
-          [
-            -79.3291245,
-            26.9489189
-          ],
-          [
-            -79.2978906,
-            27.0538045
-          ],
-          [
-            -79.2101157,
-            27.1287105
-          ],
-          [
-            -78.5393938,
-            27.4440334
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.5393938,
-            27.4440334
-          ],
-          [
-            -78.4192239,
-            27.4734551
-          ],
-          [
-            -78.2848265,
-            27.4535683
-          ],
-          [
-            -78.1285927,
-            27.4049217
-          ],
-          [
-            -77.9065484,
-            27.2747841
-          ],
-          [
-            -77.7750564,
-            27.2494271
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.7750564,
-            27.2494271
-          ],
-          [
-            -77.4613988,
-            27.1404045
-          ],
-          [
-            -77.2348211,
-            26.9969088
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.2348211,
-            26.9969088
-          ],
-          [
-            -77.134849,
-            26.9346207
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.134849,
-            26.9346207
-          ],
-          [
-            -76.8636735,
-            26.7578286
-          ],
-          [
-            -76.7933088,
-            26.6917454
-          ],
-          [
-            -76.7416909,
-            26.6024663
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.7416909,
-            26.6024663
-          ],
-          [
-            -75.9488347,
-            25.2764529
-          ],
-          [
-            -75.5141304,
-            24.8210162
-          ],
-          [
-            -74.385363,
-            24.3440208
-          ],
-          [
-            -74.3235276,
-            24.3050399
-          ],
-          [
-            -73.4413967,
-            23.2177701
-          ],
-          [
-            -72.4990672,
-            22.4427944
-          ],
-          [
-            -72.4552988,
-            22.3625766
-          ],
-          [
-            -72.4478233,
-            22.2876634
-          ],
-          [
-            -72.549879,
-            21.9486846
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -72.6772905,
-            21.540119
-          ],
-          [
-            -72.6724799,
-            21.6404919
-          ],
-          [
-            -72.63011,
-            21.8039644
-          ],
-          [
-            -72.549879,
-            21.9486846
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -72.6772905,
-            21.540119
-          ],
-          [
-            -72.6942949,
-            21.4855039
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -72.6942949,
-            21.4855039
-          ],
-          [
-            -72.8466027,
-            21.0598774
-          ],
-          [
-            -72.9930055,
-            20.8361506
-          ],
-          [
-            -73.0470567,
-            20.7802226
-          ],
-          [
-            -73.1590004,
-            20.740561
-          ],
-          [
-            -73.6698043,
-            20.7065694
-          ],
-          [
-            -73.7467539,
-            20.7289482
-          ],
-          [
-            -73.8397211,
-            20.8057489
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.2148263,
-            22.0329712
-          ],
-          [
-            -73.8397211,
-            20.8057489
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.2148263,
-            22.0329712
-          ],
-          [
-            -77.9339641,
-            22.4950246
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.9339641,
-            22.4950246
-          ],
-          [
-            -78.21325,
-            22.6425833
-          ],
-          [
-            -78.4635744,
-            22.745819
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.4635744,
-            22.745819
-          ],
-          [
-            -78.7729586,
-            22.8682739
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.7729586,
-            22.8682739
-          ],
-          [
-            -78.7908448,
-            22.875357
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.7908448,
-            22.875357
-          ],
-          [
-            -79.2950772,
-            23.143014
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
-        "name": "The Bahamas"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.2950772,
-            23.143014
-          ],
-          [
-            -79.5958801,
-            23.3010425
-          ],
-          [
-            -80.4370871,
-            23.490697
-          ]
-        ]
+        "name": "The Bahamas",
+        "id": "BS"
       }
     }
   ]

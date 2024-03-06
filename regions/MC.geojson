@@ -3,938 +3,369 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.438411,
+              43.749422
+            ],
+            [
+              7.436885,
+              43.751917
+            ],
+            [
+              7.436885,
+              43.751917
+            ],
+            [
+              7.428755,
+              43.746017
+            ],
+            [
+              7.428755,
+              43.746017
+            ],
+            [
+              7.419148,
+              43.738887
+            ],
+            [
+              7.419148,
+              43.738887
+            ],
+            [
+              7.418853,
+              43.738695
+            ],
+            [
+              7.418853,
+              43.738695
+            ],
+            [
+              7.414482,
+              43.735917
+            ],
+            [
+              7.414482,
+              43.735917
+            ],
+            [
+              7.412701,
+              43.734695
+            ],
+            [
+              7.412701,
+              43.734695
+            ],
+            [
+              7.412671,
+              43.731635
+            ],
+            [
+              7.412671,
+              43.731635
+            ],
+            [
+              7.412042,
+              43.728096
+            ],
+            [
+              7.412042,
+              43.728096
+            ],
+            [
+              7.418523,
+              43.72476
+            ],
+            [
+              7.418523,
+              43.72476
+            ],
+            [
+              7.500245,
+              43.516536
+            ],
+            [
+              7.500245,
+              43.516536
+            ],
+            [
+              7.532992,
+              43.536831
+            ],
+            [
+              7.532992,
+              43.536831
+            ],
+            [
+              7.452435,
+              43.742195
+            ],
+            [
+              7.452435,
+              43.742195
+            ],
+            [
+              7.439171,
+              43.749011
+            ],
+            [
+              7.439171,
+              43.749011
+            ],
+            [
+              7.438411,
+              43.749422
+            ],
+            [
+              7.438411,
+              43.749422
+            ],
+            [
+              7.436885,
+              43.751917
+            ],
+            [
+              7.436885,
+              43.751917
+            ],
+            [
+              7.428755,
+              43.746017
+            ],
+            [
+              7.428755,
+              43.746017
+            ],
+            [
+              7.419148,
+              43.738887
+            ],
+            [
+              7.419148,
+              43.738887
+            ],
+            [
+              7.418853,
+              43.738695
+            ],
+            [
+              7.418853,
+              43.738695
+            ],
+            [
+              7.414482,
+              43.735917
+            ],
+            [
+              7.414482,
+              43.735917
+            ],
+            [
+              7.412701,
+              43.734695
+            ],
+            [
+              7.412701,
+              43.734695
+            ],
+            [
+              7.412671,
+              43.731635
+            ],
+            [
+              7.412671,
+              43.731635
+            ],
+            [
+              7.412042,
+              43.728096
+            ],
+            [
+              7.412042,
+              43.728096
+            ],
+            [
+              7.418523,
+              43.72476
+            ],
+            [
+              7.418523,
+              43.72476
+            ],
+            [
+              7.423832,
+              43.728128
+            ],
+            [
+              7.423832,
+              43.728128
+            ],
+            [
+              7.41849,
+              43.730922
+            ],
+            [
+              7.41849,
+              43.730922
+            ],
+            [
+              7.422589,
+              43.729487
+            ],
+            [
+              7.422589,
+              43.729487
+            ],
+            [
+              7.422822,
+              43.728465
+            ],
+            [
+              7.422822,
+              43.728465
+            ],
+            [
+              7.422805,
+              43.729411
+            ],
+            [
+              7.422805,
+              43.729411
+            ],
+            [
+              7.427827,
+              43.731804
+            ],
+            [
+              7.427827,
+              43.731804
+            ],
+            [
+              7.428056,
+              43.732014
+            ],
+            [
+              7.428056,
+              43.732014
+            ],
+            [
+              7.42826,
+              43.732814
+            ],
+            [
+              7.42826,
+              43.732814
+            ],
+            [
+              7.431818,
+              43.736558
+            ],
+            [
+              7.431818,
+              43.736558
+            ],
+            [
+              7.42228,
+              43.736719
+            ],
+            [
+              7.42228,
+              43.736719
+            ],
+            [
+              7.430074,
+              43.736433
+            ],
+            [
+              7.430074,
+              43.736433
+            ],
+            [
+              7.429513,
+              43.737746
+            ],
+            [
+              7.429513,
+              43.737746
+            ],
+            [
+              7.432949,
+              43.743846
+            ],
+            [
+              7.432949,
+              43.743846
+            ],
+            [
+              7.432996,
+              43.74471
+            ],
+            [
+              7.432996,
+              43.74471
+            ],
+            [
+              7.434025,
+              43.746365
+            ],
+            [
+              7.434025,
+              43.746365
+            ],
+            [
+              7.436009,
+              43.746659
+            ],
+            [
+              7.436009,
+              43.746659
+            ],
+            [
+              7.439171,
+              43.749011
+            ],
+            [
+              7.439171,
+              43.749011
+            ],
+            [
+              7.438411,
+              43.749422
+            ]
+          ],
+          [
+            [
+              7.434336,
+              43.745708
+            ],
+            [
+              7.434026,
+              43.74551
+            ],
+            [
+              7.434725,
+              43.745887
+            ],
+            [
+              7.434596,
+              43.745958
+            ],
+            [
+              7.434336,
+              43.745708
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "MC",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.439171,
-            43.7490109
-          ],
-          [
-            7.4384114,
-            43.7494223
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4384114,
-            43.7494223
-          ],
-          [
-            7.436885,
-            43.7519173
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.436885,
-            43.7519173
-          ],
-          [
-            7.4287547,
-            43.7460174
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4287547,
-            43.7460174
-          ],
-          [
-            7.4191482,
-            43.7388875
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4191482,
-            43.7388875
-          ],
-          [
-            7.4188535,
-            43.7386945
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4188535,
-            43.7386945
-          ],
-          [
-            7.4144819,
-            43.7359169
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4144819,
-            43.7359169
-          ],
-          [
-            7.4127007,
-            43.7346954
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4127007,
-            43.7346954
-          ],
-          [
-            7.4126708,
-            43.7316348
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4126708,
-            43.7316348
-          ],
-          [
-            7.4120416,
-            43.7280955
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4120416,
-            43.7280955
-          ],
-          [
-            7.4185234,
-            43.7247599
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4185234,
-            43.7247599
-          ],
-          [
-            7.4238315,
-            43.7281279
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4238315,
-            43.7281279
-          ],
-          [
-            7.41849,
-            43.7309224
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.41849,
-            43.7309224
-          ],
-          [
-            7.4225894,
-            43.7294871
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4225894,
-            43.7294871
-          ],
-          [
-            7.4228222,
-            43.728465
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4228222,
-            43.728465
-          ],
-          [
-            7.4228046,
-            43.7294114
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4228046,
-            43.7294114
-          ],
-          [
-            7.4278274,
-            43.7318043
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4278274,
-            43.7318043
-          ],
-          [
-            7.428056,
-            43.7320136
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.428056,
-            43.7320136
-          ],
-          [
-            7.4282603,
-            43.7328137
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4282603,
-            43.7328137
-          ],
-          [
-            7.4318176,
-            43.7365578
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4318176,
-            43.7365578
-          ],
-          [
-            7.42228,
-            43.7367186
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.42228,
-            43.7367186
-          ],
-          [
-            7.4300739,
-            43.7364333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4300739,
-            43.7364333
-          ],
-          [
-            7.4295135,
-            43.7377459
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4295135,
-            43.7377459
-          ],
-          [
-            7.4329485,
-            43.7438457
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4329485,
-            43.7438457
-          ],
-          [
-            7.4329959,
-            43.7447102
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4329959,
-            43.7447102
-          ],
-          [
-            7.4340247,
-            43.7463653
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4340247,
-            43.7463653
-          ],
-          [
-            7.4360087,
-            43.7466592
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4360087,
-            43.7466592
-          ],
-          [
-            7.439171,
-            43.7490109
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4343358,
-            43.7457085
-          ],
-          [
-            7.4340257,
-            43.7455099
-          ],
-          [
-            7.4347251,
-            43.745887
-          ],
-          [
-            7.4345957,
-            43.745958
-          ],
-          [
-            7.4343358,
-            43.7457085
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4524351,
-            43.742195
-          ],
-          [
-            7.5329917,
-            43.5368308
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.439171,
-            43.7490109
-          ],
-          [
-            7.4524351,
-            43.742195
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.439171,
-            43.7490109
-          ],
-          [
-            7.4384114,
-            43.7494223
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4384114,
-            43.7494223
-          ],
-          [
-            7.436885,
-            43.7519173
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.436885,
-            43.7519173
-          ],
-          [
-            7.4287547,
-            43.7460174
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4287547,
-            43.7460174
-          ],
-          [
-            7.4191482,
-            43.7388875
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4191482,
-            43.7388875
-          ],
-          [
-            7.4188535,
-            43.7386945
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4188535,
-            43.7386945
-          ],
-          [
-            7.4144819,
-            43.7359169
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4144819,
-            43.7359169
-          ],
-          [
-            7.4127007,
-            43.7346954
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4127007,
-            43.7346954
-          ],
-          [
-            7.4126708,
-            43.7316348
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4126708,
-            43.7316348
-          ],
-          [
-            7.4120416,
-            43.7280955
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4120416,
-            43.7280955
-          ],
-          [
-            7.4185234,
-            43.7247599
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.4185234,
-            43.7247599
-          ],
-          [
-            7.5002447,
-            43.5165358
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
-        "name": "Monaco"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.5329917,
-            43.5368308
-          ],
-          [
-            7.5002447,
-            43.5165358
-          ]
-        ]
+        "name": "Monaco",
+        "id": "MC"
       }
     }
   ]

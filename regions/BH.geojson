@@ -3,380 +3,215 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.91602,
+              26.16819
+            ],
+            [
+              50.923365,
+              26.267215
+            ],
+            [
+              50.923365,
+              26.267215
+            ],
+            [
+              50.871881,
+              26.390939
+            ],
+            [
+              50.807684,
+              26.471269
+            ],
+            [
+              50.805567,
+              26.526882
+            ],
+            [
+              50.773152,
+              26.597748
+            ],
+            [
+              50.688378,
+              26.666036
+            ],
+            [
+              50.595486,
+              26.687244
+            ],
+            [
+              50.595486,
+              26.687244
+            ],
+            [
+              50.556743,
+              26.620846
+            ],
+            [
+              50.488612,
+              26.584272
+            ],
+            [
+              50.488612,
+              26.584272
+            ],
+            [
+              50.438747,
+              26.557496
+            ],
+            [
+              50.438747,
+              26.557496
+            ],
+            [
+              50.39569,
+              26.534371
+            ],
+            [
+              50.39569,
+              26.534371
+            ],
+            [
+              50.387577,
+              26.530013
+            ],
+            [
+              50.387577,
+              26.530013
+            ],
+            [
+              50.379899,
+              26.443205
+            ],
+            [
+              50.379899,
+              26.443205
+            ],
+            [
+              50.376743,
+              26.407513
+            ],
+            [
+              50.341743,
+              26.373346
+            ],
+            [
+              50.312875,
+              26.195443
+            ],
+            [
+              50.312875,
+              26.195443
+            ],
+            [
+              50.327688,
+              26.190714
+            ],
+            [
+              50.311373,
+              26.17368
+            ],
+            [
+              50.311373,
+              26.17368
+            ],
+            [
+              50.269799,
+              26.079736
+            ],
+            [
+              50.27952,
+              26.02602
+            ],
+            [
+              50.27952,
+              26.02602
+            ],
+            [
+              50.304243,
+              25.879181
+            ],
+            [
+              50.366187,
+              25.818903
+            ],
+            [
+              50.416743,
+              25.698347
+            ],
+            [
+              50.529243,
+              25.593903
+            ],
+            [
+              50.529243,
+              25.593903
+            ],
+            [
+              50.5675,
+              25.576111
+            ],
+            [
+              50.5675,
+              25.576111
+            ],
+            [
+              50.689444,
+              25.581389
+            ],
+            [
+              50.81,
+              25.535
+            ],
+            [
+              50.817778,
+              25.562222
+            ],
+            [
+              50.780278,
+              25.5925
+            ],
+            [
+              50.798333,
+              25.6225
+            ],
+            [
+              50.839444,
+              25.638611
+            ],
+            [
+              50.868056,
+              25.749444
+            ],
+            [
+              50.815833,
+              25.895
+            ],
+            [
+              50.85,
+              26.011111
+            ],
+            [
+              50.9075,
+              26.077222
+            ],
+            [
+              50.91602,
+              26.16819
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "BH",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.5675,
-            25.5761111
-          ],
-          [
-            50.6894444,
-            25.5813889
-          ],
-          [
-            50.81,
-            25.535
-          ],
-          [
-            50.8177778,
-            25.5622222
-          ],
-          [
-            50.7802778,
-            25.5925
-          ],
-          [
-            50.7983333,
-            25.6225
-          ],
-          [
-            50.8394444,
-            25.6386111
-          ],
-          [
-            50.8680556,
-            25.7494444
-          ],
-          [
-            50.8158333,
-            25.895
-          ],
-          [
-            50.85,
-            26.0111111
-          ],
-          [
-            50.9075,
-            26.0772222
-          ],
-          [
-            50.91602,
-            26.16819
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BH",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.5675,
-            25.5761111
-          ],
-          [
-            50.5292426,
-            25.5939031
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BH",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.5292426,
-            25.5939031
-          ],
-          [
-            50.4167428,
-            25.6983474
-          ],
-          [
-            50.3661874,
-            25.8189028
-          ],
-          [
-            50.3042431,
-            25.8791805
-          ],
-          [
-            50.27952,
-            26.02602
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BH",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.27952,
-            26.02602
-          ],
-          [
-            50.2697989,
-            26.0797357
-          ],
-          [
-            50.3113729,
-            26.1736804
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BH",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.3128754,
-            26.1954434
-          ],
-          [
-            50.3417434,
-            26.3733463
-          ],
-          [
-            50.3767434,
-            26.4075129
-          ],
-          [
-            50.3798987,
-            26.4432053
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BH",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.3798987,
-            26.4432053
-          ],
-          [
-            50.3875768,
-            26.5300127
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BH",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.3875768,
-            26.5300127
-          ],
-          [
-            50.3956897,
-            26.5343705
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BH",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.3956897,
-            26.5343705
-          ],
-          [
-            50.4387466,
-            26.5574956
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BH",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.4387466,
-            26.5574956
-          ],
-          [
-            50.4886122,
-            26.5842718
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BH",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.4886122,
-            26.5842718
-          ],
-          [
-            50.5567432,
-            26.6208458
-          ],
-          [
-            50.595486,
-            26.6872444
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BH",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.595486,
-            26.6872444
-          ],
-          [
-            50.6883776,
-            26.666036
-          ],
-          [
-            50.7731516,
-            26.5977479
-          ],
-          [
-            50.8055666,
-            26.5268823
-          ],
-          [
-            50.8076839,
-            26.4712689
-          ],
-          [
-            50.8718812,
-            26.3909387
-          ],
-          [
-            50.9233651,
-            26.2672151
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BH",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.91602,
-            26.16819
-          ],
-          [
-            50.9233651,
-            26.2672151
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "BH",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
-        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.3128754,
-            26.1954434
-          ],
-          [
-            50.3276875,
-            26.1907135
-          ],
-          [
-            50.3113729,
-            26.1736804
-          ]
-        ]
+        "name": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+        "id": "BH"
       }
     }
   ]

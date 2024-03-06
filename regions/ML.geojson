@@ -3,5608 +3,3539 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.8333344,
-            25.0000001
-          ],
-          [
-            -6.57188,
-            25.000072
-          ],
-          [
-            -6.489894,
-            24.269449
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.489894,
-            24.269449
-          ],
-          [
-            -6.4045985,
-            23.5597676
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.4045985,
-            23.5597676
-          ],
-          [
-            -6.3541002,
-            23.1582274
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.3541002,
-            23.1582274
-          ],
-          [
-            -5.6334771,
-            16.7343527
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.6334771,
-            16.7343527
-          ],
-          [
-            -5.609034,
-            16.500149
-          ],
-          [
-            -5.333333,
-            16.333333
-          ],
-          [
-            -5.5,
-            15.5
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.5,
-            15.5
-          ],
-          [
-            -6.3085379,
-            15.5000024
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.3085379,
-            15.5000024
-          ],
-          [
-            -8.998277,
-            15.5004588
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.998277,
-            15.5004588
-          ],
-          [
-            -9.1409583,
-            15.5016171
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.1409583,
-            15.5016171
-          ],
-          [
-            -9.331251,
-            15.501607
-          ],
-          [
-            -9.309575,
-            15.693527
-          ],
-          [
-            -9.331025,
-            15.702785
-          ],
-          [
-            -9.446854,
-            15.605695
-          ],
-          [
-            -9.401019,
-            15.438838
-          ],
-          [
-            -9.685061,
-            15.427097
-          ],
-          [
-            -9.72209,
-            15.407679
-          ],
-          [
-            -9.753881,
-            15.419649
-          ],
-          [
-            -9.780927,
-            15.41424
-          ],
-          [
-            -9.799068,
-            15.389191
-          ],
-          [
-            -9.922402,
-            15.400078
-          ],
-          [
-            -9.991505,
-            15.371827
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.991505,
-            15.371827
-          ],
-          [
-            -10.064754,
-            15.361625
-          ],
-          [
-            -10.129813,
-            15.373398
-          ],
-          [
-            -10.1674742,
-            15.4022444
-          ],
-          [
-            -10.183919,
-            15.395394
-          ],
-          [
-            -10.308482,
-            15.443602
-          ],
-          [
-            -10.419483,
-            15.432908
-          ],
-          [
-            -10.518879,
-            15.451214
-          ],
-          [
-            -10.5813,
-            15.428114
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.5813,
-            15.428114
-          ],
-          [
-            -10.584852,
-            15.4289388
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.584852,
-            15.4289388
-          ],
-          [
-            -10.587819,
-            15.429101
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.587819,
-            15.429101
-          ],
-          [
-            -10.638907,
-            15.420146
-          ],
-          [
-            -10.705203,
-            15.443455
-          ],
-          [
-            -10.726371,
-            15.436659
-          ],
-          [
-            -10.715326,
-            15.371172
-          ],
-          [
-            -10.737486,
-            15.336835
-          ],
-          [
-            -10.8218344,
-            15.2851164
-          ],
-          [
-            -10.8329066,
-            15.2146671
-          ],
-          [
-            -10.8670028,
-            15.1984127
-          ],
-          [
-            -10.8938153,
-            15.1126562
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.9201866,
-            15.1327516
-          ],
-          [
-            -10.8938153,
-            15.1126562
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.9201866,
-            15.1327516
-          ],
-          [
-            -10.954124,
-            15.160197
-          ],
-          [
-            -10.99108,
-            15.228304
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.99108,
-            15.228304
-          ],
-          [
-            -11.202045,
-            15.39727
-          ],
-          [
-            -11.251729,
-            15.419339
-          ],
-          [
-            -11.3387983,
-            15.5202826
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.3387983,
-            15.5202826
-          ],
-          [
-            -11.33965,
-            15.5263436
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.33965,
-            15.5263436
-          ],
-          [
-            -11.3588589,
-            15.5312471
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.3588589,
-            15.5312471
-          ],
-          [
-            -11.359968,
-            15.559406
-          ],
-          [
-            -11.409779,
-            15.636065
-          ],
-          [
-            -11.448073,
-            15.643786
-          ],
-          [
-            -11.516258,
-            15.640372
-          ],
-          [
-            -11.493382,
-            15.613304
-          ],
-          [
-            -11.518612,
-            15.5924
-          ],
-          [
-            -11.546669,
-            15.593398
-          ],
-          [
-            -11.6056451,
-            15.5337763
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.6056451,
-            15.5337763
-          ],
-          [
-            -11.6403365,
-            15.5210871
-          ],
-          [
-            -11.6660855,
-            15.5373837
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.6660855,
-            15.5373837
-          ],
-          [
-            -11.676897,
-            15.5347162
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.676897,
-            15.5347162
-          ],
-          [
-            -11.6791428,
-            15.5345048
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.6791428,
-            15.5345048
-          ],
-          [
-            -11.708066,
-            15.5371548
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.708066,
-            15.5371548
-          ],
-          [
-            -11.7043503,
-            15.4918144
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.7043503,
-            15.4918144
-          ],
-          [
-            -11.736754,
-            15.468301
-          ],
-          [
-            -11.7544478,
-            15.3800104
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.7544478,
-            15.3800104
-          ],
-          [
-            -11.7667871,
-            15.3360396
-          ],
-          [
-            -11.7931742,
-            15.3203583
-          ],
-          [
-            -11.8039232,
-            15.2560551
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.8039232,
-            15.2560551
-          ],
-          [
-            -11.8017452,
-            15.2248918
-          ],
-          [
-            -11.835788,
-            15.184728
-          ],
-          [
-            -11.809837,
-            15.139148
-          ],
-          [
-            -11.8446136,
-            15.0933807
-          ],
-          [
-            -11.8269453,
-            15.0713239
-          ],
-          [
-            -11.8413949,
-            15.042503
-          ],
-          [
-            -11.806701,
-            15.0493137
-          ],
-          [
-            -11.7870065,
-            15.0274521
-          ],
-          [
-            -11.816436,
-            14.940468
-          ],
-          [
-            -11.7995417,
-            14.8949916
-          ],
-          [
-            -11.8250577,
-            14.8938465
-          ],
-          [
-            -11.8284588,
-            14.8727243
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.8284588,
-            14.8727243
-          ],
-          [
-            -11.8489678,
-            14.8544884
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.8489678,
-            14.8544884
-          ],
-          [
-            -11.896634,
-            14.8220325
-          ],
-          [
-            -11.9297681,
-            14.8193288
-          ],
-          [
-            -11.93643,
-            14.781769
-          ],
-          [
-            -11.960718,
-            14.76702
-          ],
-          [
-            -12.0423219,
-            14.7681176
-          ],
-          [
-            -12.0553382,
-            14.7209909
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0553382,
-            14.7209909
-          ],
-          [
-            -12.1040938,
-            14.7430967
-          ],
-          [
-            -12.130075,
-            14.7759818
-          ],
-          [
-            -12.1718231,
-            14.7612484
-          ],
-          [
-            -12.2402835,
-            14.7647189
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.1727234,
-            14.6099531
-          ],
-          [
-            -12.1445767,
-            14.6356254
-          ],
-          [
-            -12.1471547,
-            14.6540675
-          ],
-          [
-            -12.1772737,
-            14.6655838
-          ],
-          [
-            -12.1594328,
-            14.6869939
-          ],
-          [
-            -12.2100582,
-            14.7002783
-          ],
-          [
-            -12.211377,
-            14.7297918
-          ],
-          [
-            -12.2341155,
-            14.7371318
-          ],
-          [
-            -12.2402835,
-            14.7647189
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.2051578,
-            14.4640044
-          ],
-          [
-            -12.1991042,
-            14.4787896
-          ],
-          [
-            -12.221412,
-            14.492778
-          ],
-          [
-            -12.2167268,
-            14.5488898
-          ],
-          [
-            -12.1860998,
-            14.5558691
-          ],
-          [
-            -12.1727234,
-            14.6099531
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.2004688,
-            14.4522713
-          ],
-          [
-            -12.2051578,
-            14.4640044
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.200721,
-            14.4064264
-          ],
-          [
-            -12.1887484,
-            14.4394477
-          ],
-          [
-            -12.2004688,
-            14.4522713
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.200721,
-            14.4064264
-          ],
-          [
-            -12.155428,
-            14.3841809
-          ],
-          [
-            -12.1256258,
-            14.3935392
-          ],
-          [
-            -12.1253901,
-            14.3707131
-          ],
-          [
-            -12.0946849,
-            14.3671548
-          ],
-          [
-            -12.0953653,
-            14.3383162
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0953653,
-            14.3383162
-          ],
-          [
-            -12.1087601,
-            14.3318146
-          ],
-          [
-            -12.0909665,
-            14.3245796
-          ],
-          [
-            -12.1023537,
-            14.305554
-          ],
-          [
-            -12.0260125,
-            14.284923
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0260125,
-            14.284923
-          ],
-          [
-            -11.974836,
-            14.1858434
-          ],
-          [
-            -11.9851558,
-            14.1349427
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.9851558,
-            14.1349427
-          ],
-          [
-            -11.9825399,
-            14.0902415
-          ],
-          [
-            -11.9966966,
-            14.0852437
-          ],
-          [
-            -12.0147952,
-            14.0281123
-          ],
-          [
-            -12.0088103,
-            13.9859989
-          ],
-          [
-            -11.9329884,
-            13.9243218
-          ],
-          [
-            -11.950002,
-            13.8386718
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.950002,
-            13.8386718
-          ],
-          [
-            -11.9496434,
-            13.8073218
-          ],
-          [
-            -12.0733261,
-            13.7183291
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0733261,
-            13.7183291
-          ],
-          [
-            -12.0400618,
-            13.6664646
-          ],
-          [
-            -12.0372854,
-            13.6232999
-          ],
-          [
-            -11.987519,
-            13.563782
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.987519,
-            13.563782
-          ],
-          [
-            -11.972265,
-            13.5430326
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.972265,
-            13.5430326
-          ],
-          [
-            -11.867868,
-            13.458489
-          ],
-          [
-            -11.884847,
-            13.383167
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.884847,
-            13.383167
-          ],
-          [
-            -11.82901,
-            13.32995
-          ],
-          [
-            -11.8285485,
-            13.3087738
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.8285485,
-            13.3087738
-          ],
-          [
-            -11.7993958,
-            13.3103989
-          ],
-          [
-            -11.7902337,
-            13.3343264
-          ],
-          [
-            -11.766335,
-            13.34203
-          ],
-          [
-            -11.740696,
-            13.412225
-          ],
-          [
-            -11.706966,
-            13.414618
-          ],
-          [
-            -11.693064,
-            13.389548
-          ],
-          [
-            -11.6275313,
-            13.394717
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.6275313,
-            13.394717
-          ],
-          [
-            -11.637797,
-            13.364023
-          ],
-          [
-            -11.597229,
-            13.366301
-          ],
-          [
-            -11.590393,
-            13.309439
-          ],
-          [
-            -11.545039,
-            13.288016
-          ],
-          [
-            -11.524072,
-            13.257932
-          ],
-          [
-            -11.543216,
-            13.211098
-          ],
-          [
-            -11.501851,
-            13.194119
-          ],
-          [
-            -11.5161415,
-            13.1485677
-          ],
-          [
-            -11.4782269,
-            13.1007515
-          ],
-          [
-            -11.4592254,
-            13.0981773
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.4592254,
-            13.0981773
-          ],
-          [
-            -11.4254798,
-            13.0824587
-          ],
-          [
-            -11.4359237,
-            13.0580282
-          ],
-          [
-            -11.3957908,
-            13.010016
-          ],
-          [
-            -11.4139299,
-            13.0024295
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.4139299,
-            13.0024295
-          ],
-          [
-            -11.4104614,
-            12.969453
-          ],
-          [
-            -11.3839013,
-            12.9670534
-          ],
-          [
-            -11.3826913,
-            12.993183
-          ],
-          [
-            -11.3645337,
-            12.9907121
-          ],
-          [
-            -11.3460906,
-            12.9420764
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.3460906,
-            12.9420764
-          ],
-          [
-            -11.3999443,
-            12.9259735
-          ],
-          [
-            -11.3861786,
-            12.9056164
-          ],
-          [
-            -11.4101538,
-            12.8465819
-          ],
-          [
-            -11.4012351,
-            12.8260302
-          ],
-          [
-            -11.3816929,
-            12.8307134
-          ],
-          [
-            -11.3806489,
-            12.8034413
-          ],
-          [
-            -11.3825741,
-            12.780491
-          ],
-          [
-            -11.3979914,
-            12.7744997
-          ],
-          [
-            -11.36329,
-            12.7311183
-          ],
-          [
-            -11.4220034,
-            12.7299643
-          ],
-          [
-            -11.4235046,
-            12.6996908
-          ],
-          [
-            -11.4381467,
-            12.7016922
-          ],
-          [
-            -11.4447804,
-            12.6637388
-          ],
-          [
-            -11.4227036,
-            12.6637273
-          ],
-          [
-            -11.4068402,
-            12.6352308
-          ],
-          [
-            -11.4231628,
-            12.6078744
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.4231628,
-            12.6078744
-          ],
-          [
-            -11.4034792,
-            12.5872542
-          ],
-          [
-            -11.447957,
-            12.5484796
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.3539165,
-            12.4874969
-          ],
-          [
-            -11.3637413,
-            12.5100245
-          ],
-          [
-            -11.3693293,
-            12.4865258
-          ],
-          [
-            -11.3830346,
-            12.4917905
-          ],
-          [
-            -11.3868548,
-            12.5384796
-          ],
-          [
-            -11.4074875,
-            12.541353
-          ],
-          [
-            -11.4098912,
-            12.521956
-          ],
-          [
-            -11.4305154,
-            12.5497854
-          ],
-          [
-            -11.447957,
-            12.5484796
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.3539165,
-            12.4874969
-          ],
-          [
-            -11.3511561,
-            12.4646973
-          ],
-          [
-            -11.3748617,
-            12.4543669
-          ],
-          [
-            -11.3637017,
-            12.4329253
-          ],
-          [
-            -11.3768295,
-            12.4123813
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.3768295,
-            12.4123813
-          ],
-          [
-            -11.3699784,
-            12.3911855
-          ],
-          [
-            -11.4327828,
-            12.3888573
-          ],
-          [
-            -11.4490762,
-            12.3535464
-          ],
-          [
-            -11.4310864,
-            12.3343711
-          ],
-          [
-            -11.4302776,
-            12.282924
-          ],
-          [
-            -11.4949317,
-            12.214627
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.4949317,
-            12.214627
-          ],
-          [
-            -11.4965517,
-            12.1838464
-          ],
-          [
-            -11.4653742,
-            12.1435403
-          ],
-          [
-            -11.3685253,
-            12.1090194
-          ],
-          [
-            -11.3576197,
-            12.0693472
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.3576197,
-            12.0693472
-          ],
-          [
-            -11.292167,
-            12.020057
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.292167,
-            12.020057
-          ],
-          [
-            -11.222381,
-            11.998327
-          ],
-          [
-            -11.212407,
-            12.019488
-          ],
-          [
-            -11.188611,
-            12.014785
-          ],
-          [
-            -11.170514,
-            12.033309
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.170514,
-            12.033309
-          ],
-          [
-            -11.137812,
-            12.066296
-          ],
-          [
-            -11.141231,
-            12.101563
-          ],
-          [
-            -11.113588,
-            12.099426
-          ],
-          [
-            -11.101049,
-            12.130845
-          ],
-          [
-            -11.067777,
-            12.141176
-          ],
-          [
-            -11.047472,
-            12.221613
-          ],
-          [
-            -10.988613,
-            12.214433
-          ],
-          [
-            -10.934141,
-            12.231666
-          ],
-          [
-            -10.895629,
-            12.209863
-          ],
-          [
-            -10.859139,
-            12.142653
-          ],
-          [
-            -10.79208,
-            12.11553
-          ],
-          [
-            -10.785037,
-            12.070049
-          ],
-          [
-            -10.801596,
-            12.041576
-          ],
-          [
-            -10.764991,
-            11.971627
-          ],
-          [
-            -10.773229,
-            11.941797
-          ],
-          [
-            -10.6571809,
-            11.8977505
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.6571809,
-            11.8977505
-          ],
-          [
-            -10.6319025,
-            11.9088624
-          ],
-          [
-            -10.6082215,
-            11.975856
-          ],
-          [
-            -10.5665682,
-            11.9906148
-          ],
-          [
-            -10.5809762,
-            12.023941
-          ],
-          [
-            -10.5191155,
-            12.0475594
-          ],
-          [
-            -10.5071542,
-            12.096311
-          ],
-          [
-            -10.5179206,
-            12.1196209
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.5179206,
-            12.1196209
-          ],
-          [
-            -10.4518335,
-            12.120141
-          ],
-          [
-            -10.4117188,
-            12.142998
-          ],
-          [
-            -10.4089654,
-            12.1788637
-          ],
-          [
-            -10.3766994,
-            12.1684577
-          ],
-          [
-            -10.3591009,
-            12.1761103
-          ],
-          [
-            -10.3591643,
-            12.1975538
-          ],
-          [
-            -10.3325191,
-            12.1933991
-          ],
-          [
-            -10.3396393,
-            12.2269298
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.1738788,
-            12.1882205
-          ],
-          [
-            -10.1925003,
-            12.2053144
-          ],
-          [
-            -10.2425438,
-            12.2002921
-          ],
-          [
-            -10.2496945,
-            12.2179772
-          ],
-          [
-            -10.2861319,
-            12.2133586
-          ],
-          [
-            -10.2977292,
-            12.1920322
-          ],
-          [
-            -10.308897,
-            12.2233013
-          ],
-          [
-            -10.3396393,
-            12.2269298
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.0895817,
-            12.1503261
-          ],
-          [
-            -10.0912636,
-            12.1881943
-          ],
-          [
-            -10.1370542,
-            12.1756096
-          ],
-          [
-            -10.1738788,
-            12.1882205
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.8715595,
-            12.0574827
-          ],
-          [
-            -9.9142388,
-            12.1039074
-          ],
-          [
-            -9.9685697,
-            12.1031521
-          ],
-          [
-            -10.0092309,
-            12.1364464
-          ],
-          [
-            -10.0895817,
-            12.1503261
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.8041755,
-            12.0580066
-          ],
-          [
-            -9.8715595,
-            12.0574827
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.8041755,
-            12.0580066
-          ],
-          [
-            -9.740654,
-            12.0310455
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.740654,
-            12.0310455
-          ],
-          [
-            -9.6884863,
-            12.0347442
-          ],
-          [
-            -9.696938,
-            12.0601559
-          ],
-          [
-            -9.6747209,
-            12.0850911
-          ],
-          [
-            -9.6831176,
-            12.1184334
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.6831176,
-            12.1184334
-          ],
-          [
-            -9.6330776,
-            12.1752143
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.6330776,
-            12.1752143
-          ],
-          [
-            -9.5756982,
-            12.1978577
-          ],
-          [
-            -9.5384348,
-            12.1956773
-          ],
-          [
-            -9.5009113,
-            12.2263197
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.5009113,
-            12.2263197
-          ],
-          [
-            -9.4843332,
-            12.2570288
-          ],
-          [
-            -9.4264543,
-            12.2628319
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.4264543,
-            12.2628319
-          ],
-          [
-            -9.3414523,
-            12.2478252
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.3414523,
-            12.2478252
-          ],
-          [
-            -9.3409933,
-            12.2722044
-          ],
-          [
-            -9.3183587,
-            12.2809413
-          ],
-          [
-            -9.323553,
-            12.3158792
-          ],
-          [
-            -9.3038496,
-            12.3560657
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.3038496,
-            12.3560657
-          ],
-          [
-            -9.3038504,
-            12.3680299
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.3038504,
-            12.3680299
-          ],
-          [
-            -9.339077,
-            12.3815137
-          ],
-          [
-            -9.3551306,
-            12.4218881
-          ],
-          [
-            -9.3792337,
-            12.4300215
-          ],
-          [
-            -9.380567,
-            12.4520813
-          ],
-          [
-            -9.4071889,
-            12.4622066
-          ],
-          [
-            -9.3673178,
-            12.4788359
-          ],
-          [
-            -9.3556383,
-            12.5015576
-          ],
-          [
-            -9.3273726,
-            12.481189
-          ],
-          [
-            -9.3145788,
-            12.5062354
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.0966569,
-            12.452097
-          ],
-          [
-            -9.1575605,
-            12.4895739
-          ],
-          [
-            -9.2513901,
-            12.5061739
-          ],
-          [
-            -9.2837775,
-            12.4855785
-          ],
-          [
-            -9.3145788,
-            12.5062354
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.0441433,
-            12.4295736
-          ],
-          [
-            -9.0966569,
-            12.452097
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.0441433,
-            12.4295736
-          ],
-          [
-            -9.012551,
-            12.418954
-          ],
-          [
-            -9.00592,
-            12.392127
-          ],
-          [
-            -8.9546187,
-            12.3573729
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.9546187,
-            12.3573729
-          ],
-          [
-            -8.933353,
-            12.324808
-          ],
-          [
-            -8.9913917,
-            12.22303
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.9913917,
-            12.22303
-          ],
-          [
-            -8.9705834,
-            12.213177
-          ],
-          [
-            -8.9662821,
-            12.1862752
-          ],
-          [
-            -8.9185267,
-            12.2046999
-          ],
-          [
-            -8.8919663,
-            12.1752719
-          ],
-          [
-            -8.8835017,
-            12.1493089
-          ],
-          [
-            -8.9119459,
-            12.0936617
-          ],
-          [
-            -8.907288,
-            12.0441758
-          ],
-          [
-            -8.8804706,
-            12.0440528
-          ],
-          [
-            -8.8673423,
-            12.0259742
-          ],
-          [
-            -8.849224,
-            12.0476118
-          ],
-          [
-            -8.8407342,
-            12.0368817
-          ],
-          [
-            -8.8275047,
-            12.047654
-          ],
-          [
-            -8.8176295,
-            12.0274552
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.8176295,
-            12.0274552
-          ],
-          [
-            -8.7722766,
-            11.9754805
-          ],
-          [
-            -8.7985241,
-            11.828621
-          ],
-          [
-            -8.8307556,
-            11.8004145
-          ],
-          [
-            -8.8198166,
-            11.7810615
-          ],
-          [
-            -8.8488903,
-            11.6546489
-          ],
-          [
-            -8.7741708,
-            11.6258394
-          ],
-          [
-            -8.7606795,
-            11.6338443
-          ],
-          [
-            -8.7468008,
-            11.6112618
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.7468008,
-            11.6112618
-          ],
-          [
-            -8.7013346,
-            11.6454884
-          ],
-          [
-            -8.6895556,
-            11.6365484
-          ],
-          [
-            -8.6413976,
-            11.5497244
-          ],
-          [
-            -8.6547816,
-            11.5223524
-          ],
-          [
-            -8.6149856,
-            11.4762584
-          ],
-          [
-            -8.5666036,
-            11.4621124
-          ],
-          [
-            -8.5313912,
-            11.4939405
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.5313912,
-            11.4939405
-          ],
-          [
-            -8.498133,
-            11.416539
-          ],
-          [
-            -8.47999,
-            11.413752
-          ],
-          [
-            -8.473679,
-            11.428529
-          ],
-          [
-            -8.437288,
-            11.40113
-          ],
-          [
-            -8.352726,
-            11.376309
-          ],
-          [
-            -8.388591,
-            11.369577
-          ],
-          [
-            -8.408417,
-            11.345965
-          ],
-          [
-            -8.353435,
-            11.315359
-          ],
-          [
-            -8.378599,
-            11.277916
-          ],
-          [
-            -8.473259,
-            11.287434
-          ],
-          [
-            -8.476519,
-            11.228588
-          ],
-          [
-            -8.548986,
-            11.213495
-          ],
-          [
-            -8.55924,
-            11.137925
-          ],
-          [
-            -8.604308,
-            11.130352
-          ],
-          [
-            -8.600959,
-            11.095749
-          ],
-          [
-            -8.675935,
-            11.002089
-          ],
-          [
-            -8.67191,
-            10.962388
-          ],
-          [
-            -8.65717,
-            10.95151
-          ],
-          [
-            -8.593475,
-            10.971325
-          ],
-          [
-            -8.581695,
-            10.959861
-          ],
-          [
-            -8.511648,
-            10.999039
-          ],
-          [
-            -8.481146,
-            11.0714
-          ],
-          [
-            -8.362034,
-            11.071663
-          ],
-          [
-            -8.288725,
-            11.018655
-          ],
-          [
-            -8.256857,
-            10.895173
-          ],
-          [
-            -8.305966,
-            10.856466
-          ],
-          [
-            -8.303464,
-            10.81789
-          ],
-          [
-            -8.331245,
-            10.788134
-          ],
-          [
-            -8.330455,
-            10.772204
-          ],
-          [
-            -8.301095,
-            10.770229
-          ],
-          [
-            -8.289114,
-            10.752192
-          ],
-          [
-            -8.30228,
-            10.723753
-          ],
-          [
-            -8.288587,
-            10.698738
-          ],
-          [
-            -8.298988,
-            10.676356
-          ],
-          [
-            -8.322687,
-            10.670958
-          ],
-          [
-            -8.32532,
-            10.591041
-          ],
-          [
-            -8.287402,
-            10.595386
-          ],
-          [
-            -8.269496,
-            10.575374
-          ],
-          [
-            -8.231183,
-            10.419884
-          ],
-          [
-            -8.182569,
-            10.414881
-          ],
-          [
-            -8.110191,
-            10.454488
-          ],
-          [
-            -8.097141,
-            10.444906
-          ],
-          [
-            -8.103737,
-            10.389471
-          ],
-          [
-            -8.071218,
-            10.341152
-          ],
-          [
-            -8.049626,
-            10.331277
-          ],
-          [
-            -8.002492,
-            10.351158
-          ],
-          [
-            -7.985244,
-            10.34339
-          ],
-          [
-            -7.945088,
-            10.252545
-          ],
-          [
-            -7.979352,
-            10.170324
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -7.7166502,
-            10.3899869
-          ],
-          [
-            -7.7397596,
-            10.3718127
-          ],
-          [
-            -7.7227289,
-            10.3716247
-          ],
-          [
-            -7.7225732,
-            10.3466623
-          ],
-          [
-            -7.7532146,
-            10.344594
-          ],
-          [
-            -7.7499773,
-            10.323392
-          ],
-          [
-            -7.772614,
-            10.3113862
-          ],
-          [
-            -7.7486962,
-            10.3050419
-          ],
-          [
-            -7.785024,
-            10.280655
-          ],
-          [
-            -7.833935,
-            10.213245
-          ],
-          [
-            -7.892721,
-            10.200211
-          ],
-          [
-            -7.936037,
-            10.153077
-          ],
-          [
-            -7.979352,
-            10.170324
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -7.7166502,
-            10.3899869
-          ],
-          [
-            -7.7179256,
-            10.3956419
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.934804,
-            10.357404
-          ],
-          [
-            -7.01127,
-            10.262254
-          ],
-          [
-            -7.013105,
-            10.242583
-          ],
-          [
-            -6.977491,
-            10.218386
-          ],
-          [
-            -6.995023,
-            10.172364
-          ],
-          [
-            -7.049049,
-            10.147811
-          ],
-          [
-            -7.086045,
-            10.16519
-          ],
-          [
-            -7.084597,
-            10.209164
-          ],
-          [
-            -7.148583,
-            10.251953
-          ],
-          [
-            -7.278004,
-            10.26604
-          ],
-          [
-            -7.337537,
-            10.2361721
-          ],
-          [
-            -7.3777233,
-            10.245365
-          ],
-          [
-            -7.3892916,
-            10.2583644
-          ],
-          [
-            -7.363089,
-            10.274467
-          ],
-          [
-            -7.357427,
-            10.332002
-          ],
-          [
-            -7.3915145,
-            10.3525368
-          ],
-          [
-            -7.4351751,
-            10.3419316
-          ],
-          [
-            -7.4236943,
-            10.35213
-          ],
-          [
-            -7.4534494,
-            10.3922845
-          ],
-          [
-            -7.4387963,
-            10.422447
-          ],
-          [
-            -7.4572284,
-            10.4533344
-          ],
-          [
-            -7.518974,
-            10.459645
-          ],
-          [
-            -7.54807,
-            10.411919
-          ],
-          [
-            -7.626121,
-            10.46204
-          ],
-          [
-            -7.680947,
-            10.407443
-          ],
-          [
-            -7.7179256,
-            10.3956419
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.6555424,
-            10.3610895
-          ],
-          [
-            -6.6782862,
-            10.3386877
-          ],
-          [
-            -6.698501,
-            10.340825
-          ],
-          [
-            -6.806505,
-            10.386824
-          ],
-          [
-            -6.859148,
-            10.344946
-          ],
-          [
-            -6.934804,
-            10.357404
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.6431116,
-            10.3856445
-          ],
-          [
-            -6.6555424,
-            10.3610895
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.555195,
-            10.614288
-          ],
-          [
-            -6.589973,
-            10.623245
-          ],
-          [
-            -6.615223,
-            10.671935
-          ],
-          [
-            -6.640854,
-            10.673269
-          ],
-          [
-            -6.6551874,
-            10.6411962
-          ],
-          [
-            -6.6440649,
-            10.63429
-          ],
-          [
-            -6.6691345,
-            10.6255972
-          ],
-          [
-            -6.6593954,
-            10.5364043
-          ],
-          [
-            -6.6822153,
-            10.5281972
-          ],
-          [
-            -6.6815507,
-            10.4883306
-          ],
-          [
-            -6.6758759,
-            10.4665976
-          ],
-          [
-            -6.6260332,
-            10.4389263
-          ],
-          [
-            -6.6545532,
-            10.3980405
-          ],
-          [
-            -6.6431116,
-            10.3856445
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.403199,
-            10.592641
-          ],
-          [
-            -6.427134,
-            10.562645
-          ],
-          [
-            -6.531134,
-            10.58928
-          ],
-          [
-            -6.555195,
-            10.614288
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.2461907,
-            10.740197
-          ],
-          [
-            -6.320884,
-            10.684025
-          ],
-          [
-            -6.389211,
-            10.707999
-          ],
-          [
-            -6.413795,
-            10.700758
-          ],
-          [
-            -6.403199,
-            10.592641
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.2476602,
-            10.5313772
-          ],
-          [
-            -6.2050657,
-            10.5810673
-          ],
-          [
-            -6.2232279,
-            10.6157693
-          ],
-          [
-            -6.1831128,
-            10.6342452
-          ],
-          [
-            -6.2314032,
-            10.6600381
-          ],
-          [
-            -6.2284269,
-            10.70358
-          ],
-          [
-            -6.210674,
-            10.7244877
-          ],
-          [
-            -6.2461907,
-            10.740197
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.2319273,
-            10.5167286
-          ],
-          [
-            -6.2476602,
-            10.5313772
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.2154474,
-            10.2627474
-          ],
-          [
-            -6.2329306,
-            10.3028788
-          ],
-          [
-            -6.206246,
-            10.3163037
-          ],
-          [
-            -6.1860418,
-            10.3055094
-          ],
-          [
-            -6.1773622,
-            10.3218335
-          ],
-          [
-            -6.192515,
-            10.3392401
-          ],
-          [
-            -6.1594075,
-            10.3649275
-          ],
-          [
-            -6.1875276,
-            10.3880813
-          ],
-          [
-            -6.1805378,
-            10.4123213
-          ],
-          [
-            -6.1553839,
-            10.4197776
-          ],
-          [
-            -6.1856433,
-            10.4490913
-          ],
-          [
-            -6.1626527,
-            10.4910705
-          ],
-          [
-            -6.2008453,
-            10.5015416
-          ],
-          [
-            -6.2156008,
-            10.5276602
-          ],
-          [
-            -6.2319273,
-            10.5167286
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.196489,
-            10.2387065
-          ],
-          [
-            -6.1913686,
-            10.259119
-          ],
-          [
-            -6.2154474,
-            10.2627474
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.8079991,
-            10.4182842
-          ],
-          [
-            -5.840459,
-            10.379406
-          ],
-          [
-            -5.866918,
-            10.377784
-          ],
-          [
-            -5.872189,
-            10.317568
-          ],
-          [
-            -5.890639,
-            10.301652
-          ],
-          [
-            -5.886787,
-            10.265867
-          ],
-          [
-            -5.9541,
-            10.278032
-          ],
-          [
-            -5.955418,
-            10.244781
-          ],
-          [
-            -5.985932,
-            10.197135
-          ],
-          [
-            -6.130713,
-            10.20746
-          ],
-          [
-            -6.196489,
-            10.2387065
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.513207,
-            10.430789
-          ],
-          [
-            -5.559955,
-            10.463953
-          ],
-          [
-            -5.617637,
-            10.45118
-          ],
-          [
-            -5.651395,
-            10.468109
-          ],
-          [
-            -5.703907,
-            10.431107
-          ],
-          [
-            -5.768889,
-            10.439522
-          ],
-          [
-            -5.8079991,
-            10.4182842
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.4787928,
-            10.5122435
-          ],
-          [
-            -5.513207,
-            10.430789
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.462432,
-            10.653423
-          ],
-          [
-            -5.478925,
-            10.623197
-          ],
-          [
-            -5.460514,
-            10.602517
-          ],
-          [
-            -5.456998,
-            10.557722
-          ],
-          [
-            -5.4787928,
-            10.5122435
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.4477182,
-            10.7654987
-          ],
-          [
-            -5.468008,
-            10.764731
-          ],
-          [
-            -5.455235,
-            10.749932
-          ],
-          [
-            -5.462432,
-            10.653423
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.474772,
-            11.020759
-          ],
-          [
-            -5.492525,
-            10.973614
-          ],
-          [
-            -5.452003,
-            10.976044
-          ],
-          [
-            -5.451622,
-            10.901324
-          ],
-          [
-            -5.402723,
-            10.854347
-          ],
-          [
-            -5.4477182,
-            10.7654987
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.488518,
-            11.0648396
-          ],
-          [
-            -5.474772,
-            11.020759
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.242491,
-            11.396671
-          ],
-          [
-            -5.256197,
-            11.34697
-          ],
-          [
-            -5.253339,
-            11.249399
-          ],
-          [
-            -5.32442,
-            11.206331
-          ],
-          [
-            -5.328613,
-            11.143635
-          ],
-          [
-            -5.3829648,
-            11.1056754
-          ],
-          [
-            -5.488879,
-            11.083035
-          ],
-          [
-            -5.488518,
-            11.0648396
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.267518,
-            11.713851
-          ],
-          [
-            -5.265239,
-            11.679406
-          ],
-          [
-            -5.294994,
-            11.615543
-          ],
-          [
-            -5.23341,
-            11.600205
-          ],
-          [
-            -5.199565,
-            11.530271
-          ],
-          [
-            -5.209915,
-            11.457654
-          ],
-          [
-            -5.198715,
-            11.428803
-          ],
-          [
-            -5.242491,
-            11.396671
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.322271,
-            11.803745
-          ],
-          [
-            -5.290227,
-            11.784607
-          ],
-          [
-            -5.29227,
-            11.765496
-          ],
-          [
-            -5.259327,
-            11.762937
-          ],
-          [
-            -5.267518,
-            11.713851
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.322271,
-            11.803745
-          ],
-          [
-            -5.345807,
-            11.8079041
-          ],
-          [
-            -5.3507563,
-            11.7952954
-          ],
-          [
-            -5.4058695,
-            11.8264933
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.208971,
-            11.892401
-          ],
-          [
-            -5.244169,
-            11.865634
-          ],
-          [
-            -5.257498,
-            11.833182
-          ],
-          [
-            -5.284959,
-            11.854764
-          ],
-          [
-            -5.302655,
-            11.835326
-          ],
-          [
-            -5.323995,
-            11.848247
-          ],
-          [
-            -5.354006,
-            11.821165
-          ],
-          [
-            -5.378075,
-            11.843171
-          ],
-          [
-            -5.4058695,
-            11.8264933
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.097429,
-            11.964006
-          ],
-          [
-            -5.144864,
-            11.948428
-          ],
-          [
-            -5.184271,
-            11.898438
-          ],
-          [
-            -5.208971,
-            11.892401
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.733522,
-            12.003539
-          ],
-          [
-            -4.848429,
-            12.017904
-          ],
-          [
-            -4.866166,
-            12.002589
-          ],
-          [
-            -5.074635,
-            11.982503
-          ],
-          [
-            -5.097429,
-            11.964006
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.7012356,
-            12.0647227
-          ],
-          [
-            -4.733522,
-            12.003539
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.6830061,
-            12.0656342
-          ],
-          [
-            -4.7012356,
-            12.0647227
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.648896,
-            12.060692
-          ],
-          [
-            -4.6830061,
-            12.0656342
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479075,
-            12.722055
-          ],
-          [
-            -4.467887,
-            12.691835
-          ],
-          [
-            -4.480677,
-            12.658155
-          ],
-          [
-            -4.411587,
-            12.609841
-          ],
-          [
-            -4.402291,
-            12.560397
-          ],
-          [
-            -4.364649,
-            12.533
-          ],
-          [
-            -4.4199476,
-            12.4857667
-          ],
-          [
-            -4.439781,
-            12.418755
-          ],
-          [
-            -4.396295,
-            12.310532
-          ],
-          [
-            -4.418609,
-            12.30259
-          ],
-          [
-            -4.439641,
-            12.333753
-          ],
-          [
-            -4.473417,
-            12.331783
-          ],
-          [
-            -4.473276,
-            12.283371
-          ],
-          [
-            -4.579941,
-            12.202869
-          ],
-          [
-            -4.544065,
-            12.141653
-          ],
-          [
-            -4.607346,
-            12.139016
-          ],
-          [
-            -4.628675,
-            12.11374
-          ],
-          [
-            -4.630051,
-            12.059607
-          ],
-          [
-            -4.648896,
-            12.060692
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.233531,
-            12.726606
-          ],
-          [
-            -4.300473,
-            12.701378
-          ],
-          [
-            -4.346758,
-            12.743846
-          ],
-          [
-            -4.431418,
-            12.711044
-          ],
-          [
-            -4.479075,
-            12.722055
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.015973,
-            13.437686
-          ],
-          [
-            -4.096689,
-            13.391838
-          ],
-          [
-            -4.105358,
-            13.339054
-          ],
-          [
-            -4.136244,
-            13.2958872
-          ],
-          [
-            -4.258892,
-            13.236763
-          ],
-          [
-            -4.224988,
-            13.195345
-          ],
-          [
-            -4.230574,
-            13.182053
-          ],
-          [
-            -4.288174,
-            13.189566
-          ],
-          [
-            -4.3475365,
-            13.121057
-          ],
-          [
-            -4.3161644,
-            13.0923287
-          ],
-          [
-            -4.3080799,
-            13.0546923
-          ],
-          [
-            -4.2773475,
-            13.0545054
-          ],
-          [
-            -4.265696,
-            12.990832
-          ],
-          [
-            -4.218269,
-            12.960996
-          ],
-          [
-            -4.22615,
-            12.866143
-          ],
-          [
-            -4.208981,
-            12.816605
-          ],
-          [
-            -4.233531,
-            12.726606
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.9722401,
-            13.5249755
-          ],
-          [
-            -3.9834311,
-            13.4829255
-          ],
-          [
-            -3.9624705,
-            13.4927002
-          ],
-          [
-            -3.9551124,
-            13.4746933
-          ],
-          [
-            -3.9876641,
-            13.4348422
-          ],
-          [
-            -4.015973,
-            13.437686
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.8430038,
-            13.3639983
-          ],
-          [
-            -3.913489,
-            13.382687
-          ],
-          [
-            -3.960441,
-            13.377852
-          ],
-          [
-            -3.96319,
-            13.407634
-          ],
-          [
-            -3.89567,
-            13.442792
-          ],
-          [
-            -3.9375296,
-            13.4525722
-          ],
-          [
-            -3.9457198,
-            13.4941866
-          ],
-          [
-            -3.9722401,
-            13.5249755
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.4428682,
-            13.1576102
-          ],
-          [
-            -3.552322,
-            13.166898
-          ],
-          [
-            -3.5524999,
-            13.1968484
-          ],
-          [
-            -3.586656,
-            13.200016
-          ],
-          [
-            -3.672693,
-            13.274934
-          ],
-          [
-            -3.737571,
-            13.303178
-          ],
-          [
-            -3.742905,
-            13.325473
-          ],
-          [
-            -3.79357,
-            13.369395
-          ],
-          [
-            -3.8430038,
-            13.3639983
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.437479,
-            13.276557
-          ],
-          [
-            -3.447818,
-            13.256736
-          ],
-          [
-            -3.422262,
-            13.178668
-          ],
-          [
-            -3.4428682,
-            13.1576102
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.338456,
-            13.288197
-          ],
-          [
-            -3.437479,
-            13.276557
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.2335401,
-            13.3015603
-          ],
-          [
-            -3.234142,
-            13.288968
-          ],
-          [
-            -3.338456,
-            13.288197
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.262561,
-            13.713983
-          ],
-          [
-            -3.271895,
-            13.698872
-          ],
-          [
-            -3.247434,
-            13.683881
-          ],
-          [
-            -3.25042,
-            13.58573
-          ],
-          [
-            -3.278835,
-            13.555871
-          ],
-          [
-            -3.2335401,
-            13.3015603
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.1915978,
-            13.6808846
-          ],
-          [
-            -3.212181,
-            13.706131
-          ],
-          [
-            -3.262561,
-            13.713983
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.95249,
-            13.624663
-          ],
-          [
-            -2.968243,
-            13.651355
-          ],
-          [
-            -3.001398,
-            13.657017
-          ],
-          [
-            -3.040313,
-            13.613599
-          ],
-          [
-            -3.061188,
-            13.65601
-          ],
-          [
-            -3.100416,
-            13.685829
-          ],
-          [
-            -3.1915978,
-            13.6808846
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.638407,
-            14.1699726
-          ],
-          [
-            -2.676377,
-            14.135172
-          ],
-          [
-            -2.838967,
-            14.054385
-          ],
-          [
-            -2.854854,
-            14.006217
-          ],
-          [
-            -2.836147,
-            13.992887
-          ],
-          [
-            -2.90824,
-            13.823712
-          ],
-          [
-            -2.905943,
-            13.727169
-          ],
-          [
-            -2.874002,
-            13.654096
-          ],
-          [
-            -2.95249,
-            13.624663
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.103259,
-            14.147003
-          ],
-          [
-            -2.297285,
-            14.248917
-          ],
-          [
-            -2.473564,
-            14.299451
-          ],
-          [
-            -2.638407,
-            14.1699726
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.9921069,
-            14.283332
-          ],
-          [
-            -1.998162,
-            14.191679
-          ],
-          [
-            -2.103259,
-            14.147003
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.9805,
-            14.475666
-          ],
-          [
-            -1.9921069,
-            14.283332
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.7774,
-            14.4823
-          ],
-          [
-            -1.907,
-            14.489555
-          ],
-          [
-            -1.9805,
-            14.475666
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.1237505,
-            14.7774661
-          ],
-          [
-            -1.3183,
-            14.7298
-          ],
-          [
-            -1.678,
-            14.5015
-          ],
-          [
-            -1.7774,
-            14.4823
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.0294065,
-            14.8194462
-          ],
-          [
-            -1.069027,
-            14.785124
-          ],
-          [
-            -1.1237505,
-            14.7774661
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.9610697,
-            14.8786405
-          ],
-          [
-            -1.0294065,
-            14.8194462
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.7448238,
-            15.0659532
-          ],
-          [
-            -0.9610697,
-            14.8786405
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.4559903,
-            15.084
-          ],
-          [
-            -0.723987,
-            15.084
-          ],
-          [
-            -0.7448238,
-            15.0659532
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.0969371,
-            14.9748265
-          ],
-          [
-            0.0615196,
-            14.9746828
-          ],
-          [
-            -0.24575,
-            15.079
-          ],
-          [
-            -0.3902408,
-            15.0041031
-          ],
-          [
-            -0.4313777,
-            15.0832835
-          ],
-          [
-            -0.4559903,
-            15.084
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.2322304,
-            14.999829
-          ],
-          [
-            0.0969371,
-            14.9748265
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.703472,
-            14.944888
-          ],
-          [
-            0.522642,
-            14.998217
-          ],
-          [
-            0.394631,
-            14.963993
-          ],
-          [
-            0.2322304,
-            14.999829
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.311499,
-            15.278128
-          ],
-          [
-            0.968179,
-            14.981871
-          ],
-          [
-            0.744849,
-            14.961949
-          ],
-          [
-            0.703472,
-            14.944888
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.5181093,
-            15.2891085
-          ],
-          [
-            1.311499,
-            15.278128
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            3.0090862,
-            15.3384568
-          ],
-          [
-            2.636366,
-            15.346796
-          ],
-          [
-            1.5181093,
-            15.2891085
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            3.8696689,
-            15.69677
-          ],
-          [
-            3.797957,
-            15.66374
-          ],
-          [
-            3.703728,
-            15.648148
-          ],
-          [
-            3.595828,
-            15.52104
-          ],
-          [
-            3.536893,
-            15.485183
-          ],
-          [
-            3.536306,
-            15.403418
-          ],
-          [
-            3.495491,
-            15.357762
-          ],
-          [
-            3.031485,
-            15.428574
-          ],
-          [
-            3.019968,
-            15.338195
-          ],
-          [
-            3.0090862,
-            15.3384568
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            4.2670949,
-            18.0066649
-          ],
-          [
-            4.2666692,
-            17.0017407
-          ],
-          [
-            4.2142967,
-            17.0000205
-          ],
-          [
-            4.197507,
-            16.814799
-          ],
-          [
-            4.199854,
-            16.395069
-          ],
-          [
-            4.097133,
-            16.323219
-          ],
-          [
-            4.068249,
-            16.232774
-          ],
-          [
-            3.987906,
-            16.085982
-          ],
-          [
-            3.980084,
-            15.940592
-          ],
-          [
-            3.928064,
-            15.864421
-          ],
-          [
-            3.901029,
-            15.747036
-          ],
-          [
-            3.8696689,
-            15.69677
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            4.2664617,
-            18.6722854
-          ],
-          [
-            4.2670949,
-            18.0066649
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            4.266708,
-            19.1441458
-          ],
-          [
-            4.2664617,
-            18.6722854
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            3.120424,
-            19.132311
-          ],
-          [
-            3.166116,
-            19.11325
-          ],
-          [
-            3.275907,
-            19.033355
-          ],
-          [
-            3.29562,
-            19.002023
-          ],
-          [
-            3.330973,
-            18.995416
-          ],
-          [
-            3.357648,
-            18.968147
-          ],
-          [
-            4.266708,
-            19.1441458
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            3.0148803,
-            19.9325018
-          ],
-          [
-            3.149014,
-            19.856724
-          ],
-          [
-            3.254628,
-            19.834791
-          ],
-          [
-            3.259589,
-            19.817559
-          ],
-          [
-            3.229954,
-            19.713642
-          ],
-          [
-            3.252191,
-            19.642682
-          ],
-          [
-            3.231869,
-            19.584463
-          ],
-          [
-            3.266377,
-            19.526828
-          ],
-          [
-            3.24811,
-            19.497843
-          ],
-          [
-            3.266116,
-            19.448499
-          ],
-          [
-            3.257855,
-            19.435542
-          ],
-          [
-            3.209464,
-            19.432128
-          ],
-          [
-            3.198362,
-            19.413381
-          ],
-          [
-            3.178257,
-            19.359073
-          ],
-          [
-            3.204217,
-            19.305195
-          ],
-          [
-            3.200581,
-            19.277088
-          ],
-          [
-            3.122644,
-            19.185182
-          ],
-          [
-            3.120424,
-            19.132311
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.8434411,
-            19.9680695
-          ],
-          [
-            2.976943,
-            19.9531802
-          ],
-          [
-            3.0148803,
-            19.9325018
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.6724632,
-            20.0987864
-          ],
-          [
-            2.7009089,
-            20.0868499
-          ],
-          [
-            2.7123014,
-            20.0249965
-          ],
-          [
-            2.734948,
-            19.9935527
-          ],
-          [
-            2.8434411,
-            19.9680695
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.4760498,
-            20.0954299
-          ],
-          [
-            2.519918,
-            20.094666
-          ],
-          [
-            2.554439,
-            20.03939
-          ],
-          [
-            2.588199,
-            20.031899
-          ],
-          [
-            2.622458,
-            20.053872
-          ],
-          [
-            2.665264,
-            20.050863
-          ],
-          [
-            2.6724632,
-            20.0987864
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.371936,
-            20.669749
-          ],
-          [
-            1.599572,
-            20.596081
-          ],
-          [
-            1.667574,
-            20.530003
-          ],
-          [
-            1.669285,
-            20.405119
-          ],
-          [
-            1.775031,
-            20.337223
-          ],
-          [
-            1.799409,
-            20.296914
-          ],
-          [
-            1.883236,
-            20.296593
-          ],
-          [
-            1.897563,
-            20.243025
-          ],
-          [
-            1.922476,
-            20.224314
-          ],
-          [
-            1.946854,
-            20.259812
-          ],
-          [
-            1.978931,
-            20.266976
-          ],
-          [
-            1.999862,
-            20.242941
-          ],
-          [
-            2.040424,
-            20.269614
-          ],
-          [
-            2.120554,
-            20.238254
-          ],
-          [
-            2.190171,
-            20.277906
-          ],
-          [
-            2.192347,
-            20.313352
-          ],
-          [
-            2.214543,
-            20.318726
-          ],
-          [
-            2.312027,
-            20.271115
-          ],
-          [
-            2.317919,
-            20.218177
-          ],
-          [
-            2.348683,
-            20.203096
-          ],
-          [
-            2.357373,
-            20.162244
-          ],
-          [
-            2.399822,
-            20.133178
-          ],
-          [
-            2.37835,
-            20.094229
-          ],
-          [
-            2.375423,
-            20.028382
-          ],
-          [
-            2.397525,
-            20.039789
-          ],
-          [
-            2.412825,
-            20.075615
-          ],
-          [
-            2.4760498,
-            20.0954299
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.335369,
-            20.72182
-          ],
-          [
-            1.353225,
-            20.67702
-          ],
-          [
-            1.371936,
-            20.669749
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.0213676,
-            21.8852937
-          ],
-          [
-            1.1665556,
-            21.1163645
-          ],
-          [
-            1.193591,
-            20.943255
-          ],
-          [
-            1.16408,
-            20.738607
-          ],
-          [
-            1.22973,
-            20.723745
-          ],
-          [
-            1.314626,
-            20.740746
-          ],
-          [
-            1.335369,
-            20.72182
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ML",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
-        "name": "Mali"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.8333344,
-            25.0000001
-          ],
-          [
-            -0.0213676,
-            21.8852937
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.489894,
+              24.269449
+            ],
+            [
+              -6.404598,
+              23.559768
+            ],
+            [
+              -6.404598,
+              23.559768
+            ],
+            [
+              -6.3541,
+              23.158227
+            ],
+            [
+              -6.3541,
+              23.158227
+            ],
+            [
+              -5.633477,
+              16.734353
+            ],
+            [
+              -5.633477,
+              16.734353
+            ],
+            [
+              -5.609034,
+              16.500149
+            ],
+            [
+              -5.333333,
+              16.333333
+            ],
+            [
+              -5.5,
+              15.5
+            ],
+            [
+              -5.5,
+              15.5
+            ],
+            [
+              -6.308538,
+              15.500002
+            ],
+            [
+              -6.308538,
+              15.500002
+            ],
+            [
+              -8.998277,
+              15.500459
+            ],
+            [
+              -8.998277,
+              15.500459
+            ],
+            [
+              -9.140958,
+              15.501617
+            ],
+            [
+              -9.140958,
+              15.501617
+            ],
+            [
+              -9.331251,
+              15.501607
+            ],
+            [
+              -9.309575,
+              15.693527
+            ],
+            [
+              -9.331025,
+              15.702785
+            ],
+            [
+              -9.446854,
+              15.605695
+            ],
+            [
+              -9.401019,
+              15.438838
+            ],
+            [
+              -9.685061,
+              15.427097
+            ],
+            [
+              -9.72209,
+              15.407679
+            ],
+            [
+              -9.753881,
+              15.419649
+            ],
+            [
+              -9.780927,
+              15.41424
+            ],
+            [
+              -9.799068,
+              15.389191
+            ],
+            [
+              -9.922402,
+              15.400078
+            ],
+            [
+              -9.991505,
+              15.371827
+            ],
+            [
+              -9.991505,
+              15.371827
+            ],
+            [
+              -10.064754,
+              15.361625
+            ],
+            [
+              -10.129813,
+              15.373398
+            ],
+            [
+              -10.167474,
+              15.402244
+            ],
+            [
+              -10.183919,
+              15.395394
+            ],
+            [
+              -10.308482,
+              15.443602
+            ],
+            [
+              -10.419483,
+              15.432908
+            ],
+            [
+              -10.518879,
+              15.451214
+            ],
+            [
+              -10.5813,
+              15.428114
+            ],
+            [
+              -10.5813,
+              15.428114
+            ],
+            [
+              -10.584852,
+              15.428939
+            ],
+            [
+              -10.584852,
+              15.428939
+            ],
+            [
+              -10.587819,
+              15.429101
+            ],
+            [
+              -10.587819,
+              15.429101
+            ],
+            [
+              -10.638907,
+              15.420146
+            ],
+            [
+              -10.705203,
+              15.443455
+            ],
+            [
+              -10.726371,
+              15.436659
+            ],
+            [
+              -10.715326,
+              15.371172
+            ],
+            [
+              -10.737486,
+              15.336835
+            ],
+            [
+              -10.821834,
+              15.285116
+            ],
+            [
+              -10.832907,
+              15.214667
+            ],
+            [
+              -10.867003,
+              15.198413
+            ],
+            [
+              -10.893815,
+              15.112656
+            ],
+            [
+              -10.893815,
+              15.112656
+            ],
+            [
+              -10.920187,
+              15.132752
+            ],
+            [
+              -10.920187,
+              15.132752
+            ],
+            [
+              -10.954124,
+              15.160197
+            ],
+            [
+              -10.99108,
+              15.228304
+            ],
+            [
+              -10.99108,
+              15.228304
+            ],
+            [
+              -11.202045,
+              15.39727
+            ],
+            [
+              -11.251729,
+              15.419339
+            ],
+            [
+              -11.338798,
+              15.520283
+            ],
+            [
+              -11.338798,
+              15.520283
+            ],
+            [
+              -11.33965,
+              15.526344
+            ],
+            [
+              -11.33965,
+              15.526344
+            ],
+            [
+              -11.358859,
+              15.531247
+            ],
+            [
+              -11.358859,
+              15.531247
+            ],
+            [
+              -11.359968,
+              15.559406
+            ],
+            [
+              -11.409779,
+              15.636065
+            ],
+            [
+              -11.448073,
+              15.643786
+            ],
+            [
+              -11.516258,
+              15.640372
+            ],
+            [
+              -11.493382,
+              15.613304
+            ],
+            [
+              -11.518612,
+              15.5924
+            ],
+            [
+              -11.546669,
+              15.593398
+            ],
+            [
+              -11.605645,
+              15.533776
+            ],
+            [
+              -11.605645,
+              15.533776
+            ],
+            [
+              -11.640337,
+              15.521087
+            ],
+            [
+              -11.666085,
+              15.537384
+            ],
+            [
+              -11.666085,
+              15.537384
+            ],
+            [
+              -11.676897,
+              15.534716
+            ],
+            [
+              -11.676897,
+              15.534716
+            ],
+            [
+              -11.679143,
+              15.534505
+            ],
+            [
+              -11.679143,
+              15.534505
+            ],
+            [
+              -11.708066,
+              15.537155
+            ],
+            [
+              -11.708066,
+              15.537155
+            ],
+            [
+              -11.70435,
+              15.491814
+            ],
+            [
+              -11.70435,
+              15.491814
+            ],
+            [
+              -11.736754,
+              15.468301
+            ],
+            [
+              -11.754448,
+              15.38001
+            ],
+            [
+              -11.754448,
+              15.38001
+            ],
+            [
+              -11.766787,
+              15.33604
+            ],
+            [
+              -11.793174,
+              15.320358
+            ],
+            [
+              -11.803923,
+              15.256055
+            ],
+            [
+              -11.803923,
+              15.256055
+            ],
+            [
+              -11.801745,
+              15.224892
+            ],
+            [
+              -11.835788,
+              15.184728
+            ],
+            [
+              -11.809837,
+              15.139148
+            ],
+            [
+              -11.844614,
+              15.093381
+            ],
+            [
+              -11.826945,
+              15.071324
+            ],
+            [
+              -11.841395,
+              15.042503
+            ],
+            [
+              -11.806701,
+              15.049314
+            ],
+            [
+              -11.787007,
+              15.027452
+            ],
+            [
+              -11.816436,
+              14.940468
+            ],
+            [
+              -11.799542,
+              14.894992
+            ],
+            [
+              -11.825058,
+              14.893847
+            ],
+            [
+              -11.828459,
+              14.872724
+            ],
+            [
+              -11.828459,
+              14.872724
+            ],
+            [
+              -11.848968,
+              14.854488
+            ],
+            [
+              -11.848968,
+              14.854488
+            ],
+            [
+              -11.896634,
+              14.822033
+            ],
+            [
+              -11.929768,
+              14.819329
+            ],
+            [
+              -11.93643,
+              14.781769
+            ],
+            [
+              -11.960718,
+              14.76702
+            ],
+            [
+              -12.042322,
+              14.768118
+            ],
+            [
+              -12.055338,
+              14.720991
+            ],
+            [
+              -12.055338,
+              14.720991
+            ],
+            [
+              -12.104094,
+              14.743097
+            ],
+            [
+              -12.130075,
+              14.775982
+            ],
+            [
+              -12.171823,
+              14.761248
+            ],
+            [
+              -12.240284,
+              14.764719
+            ],
+            [
+              -12.240284,
+              14.764719
+            ],
+            [
+              -12.234115,
+              14.737132
+            ],
+            [
+              -12.211377,
+              14.729792
+            ],
+            [
+              -12.210058,
+              14.700278
+            ],
+            [
+              -12.159433,
+              14.686994
+            ],
+            [
+              -12.177274,
+              14.665584
+            ],
+            [
+              -12.147155,
+              14.654068
+            ],
+            [
+              -12.144577,
+              14.635625
+            ],
+            [
+              -12.172723,
+              14.609953
+            ],
+            [
+              -12.172723,
+              14.609953
+            ],
+            [
+              -12.1861,
+              14.555869
+            ],
+            [
+              -12.216727,
+              14.54889
+            ],
+            [
+              -12.221412,
+              14.492778
+            ],
+            [
+              -12.199104,
+              14.47879
+            ],
+            [
+              -12.205158,
+              14.464004
+            ],
+            [
+              -12.205158,
+              14.464004
+            ],
+            [
+              -12.200469,
+              14.452271
+            ],
+            [
+              -12.200469,
+              14.452271
+            ],
+            [
+              -12.188748,
+              14.439448
+            ],
+            [
+              -12.200721,
+              14.406426
+            ],
+            [
+              -12.200721,
+              14.406426
+            ],
+            [
+              -12.155428,
+              14.384181
+            ],
+            [
+              -12.125626,
+              14.393539
+            ],
+            [
+              -12.12539,
+              14.370713
+            ],
+            [
+              -12.094685,
+              14.367155
+            ],
+            [
+              -12.095365,
+              14.338316
+            ],
+            [
+              -12.095365,
+              14.338316
+            ],
+            [
+              -12.10876,
+              14.331815
+            ],
+            [
+              -12.090967,
+              14.32458
+            ],
+            [
+              -12.102354,
+              14.305554
+            ],
+            [
+              -12.026013,
+              14.284923
+            ],
+            [
+              -12.026013,
+              14.284923
+            ],
+            [
+              -11.974836,
+              14.185843
+            ],
+            [
+              -11.985156,
+              14.134943
+            ],
+            [
+              -11.985156,
+              14.134943
+            ],
+            [
+              -11.98254,
+              14.090241
+            ],
+            [
+              -11.996697,
+              14.085244
+            ],
+            [
+              -12.014795,
+              14.028112
+            ],
+            [
+              -12.00881,
+              13.985999
+            ],
+            [
+              -11.932988,
+              13.924322
+            ],
+            [
+              -11.950002,
+              13.838672
+            ],
+            [
+              -11.950002,
+              13.838672
+            ],
+            [
+              -11.949643,
+              13.807322
+            ],
+            [
+              -12.073326,
+              13.718329
+            ],
+            [
+              -12.073326,
+              13.718329
+            ],
+            [
+              -12.040062,
+              13.666465
+            ],
+            [
+              -12.037285,
+              13.6233
+            ],
+            [
+              -11.987519,
+              13.563782
+            ],
+            [
+              -11.987519,
+              13.563782
+            ],
+            [
+              -11.972265,
+              13.543033
+            ],
+            [
+              -11.972265,
+              13.543033
+            ],
+            [
+              -11.867868,
+              13.458489
+            ],
+            [
+              -11.884847,
+              13.383167
+            ],
+            [
+              -11.884847,
+              13.383167
+            ],
+            [
+              -11.82901,
+              13.32995
+            ],
+            [
+              -11.828549,
+              13.308774
+            ],
+            [
+              -11.828549,
+              13.308774
+            ],
+            [
+              -11.799396,
+              13.310399
+            ],
+            [
+              -11.790234,
+              13.334326
+            ],
+            [
+              -11.766335,
+              13.34203
+            ],
+            [
+              -11.740696,
+              13.412225
+            ],
+            [
+              -11.706966,
+              13.414618
+            ],
+            [
+              -11.693064,
+              13.389548
+            ],
+            [
+              -11.627531,
+              13.394717
+            ],
+            [
+              -11.627531,
+              13.394717
+            ],
+            [
+              -11.637797,
+              13.364023
+            ],
+            [
+              -11.597229,
+              13.366301
+            ],
+            [
+              -11.590393,
+              13.309439
+            ],
+            [
+              -11.545039,
+              13.288016
+            ],
+            [
+              -11.524072,
+              13.257932
+            ],
+            [
+              -11.543216,
+              13.211098
+            ],
+            [
+              -11.501851,
+              13.194119
+            ],
+            [
+              -11.516141,
+              13.148568
+            ],
+            [
+              -11.478227,
+              13.100751
+            ],
+            [
+              -11.459225,
+              13.098177
+            ],
+            [
+              -11.459225,
+              13.098177
+            ],
+            [
+              -11.42548,
+              13.082459
+            ],
+            [
+              -11.435924,
+              13.058028
+            ],
+            [
+              -11.395791,
+              13.010016
+            ],
+            [
+              -11.41393,
+              13.002429
+            ],
+            [
+              -11.41393,
+              13.002429
+            ],
+            [
+              -11.410461,
+              12.969453
+            ],
+            [
+              -11.383901,
+              12.967053
+            ],
+            [
+              -11.382691,
+              12.993183
+            ],
+            [
+              -11.364534,
+              12.990712
+            ],
+            [
+              -11.346091,
+              12.942076
+            ],
+            [
+              -11.346091,
+              12.942076
+            ],
+            [
+              -11.399944,
+              12.925973
+            ],
+            [
+              -11.386179,
+              12.905616
+            ],
+            [
+              -11.410154,
+              12.846582
+            ],
+            [
+              -11.401235,
+              12.82603
+            ],
+            [
+              -11.381693,
+              12.830713
+            ],
+            [
+              -11.380649,
+              12.803441
+            ],
+            [
+              -11.382574,
+              12.780491
+            ],
+            [
+              -11.397991,
+              12.7745
+            ],
+            [
+              -11.36329,
+              12.731118
+            ],
+            [
+              -11.422003,
+              12.729964
+            ],
+            [
+              -11.423505,
+              12.699691
+            ],
+            [
+              -11.438147,
+              12.701692
+            ],
+            [
+              -11.44478,
+              12.663739
+            ],
+            [
+              -11.422704,
+              12.663727
+            ],
+            [
+              -11.40684,
+              12.635231
+            ],
+            [
+              -11.423163,
+              12.607874
+            ],
+            [
+              -11.423163,
+              12.607874
+            ],
+            [
+              -11.403479,
+              12.587254
+            ],
+            [
+              -11.447957,
+              12.54848
+            ],
+            [
+              -11.447957,
+              12.54848
+            ],
+            [
+              -11.430515,
+              12.549785
+            ],
+            [
+              -11.409891,
+              12.521956
+            ],
+            [
+              -11.407488,
+              12.541353
+            ],
+            [
+              -11.386855,
+              12.53848
+            ],
+            [
+              -11.383035,
+              12.491791
+            ],
+            [
+              -11.369329,
+              12.486526
+            ],
+            [
+              -11.363741,
+              12.510025
+            ],
+            [
+              -11.353917,
+              12.487497
+            ],
+            [
+              -11.353917,
+              12.487497
+            ],
+            [
+              -11.351156,
+              12.464697
+            ],
+            [
+              -11.374862,
+              12.454367
+            ],
+            [
+              -11.363702,
+              12.432925
+            ],
+            [
+              -11.376829,
+              12.412381
+            ],
+            [
+              -11.376829,
+              12.412381
+            ],
+            [
+              -11.369978,
+              12.391186
+            ],
+            [
+              -11.432783,
+              12.388857
+            ],
+            [
+              -11.449076,
+              12.353546
+            ],
+            [
+              -11.431086,
+              12.334371
+            ],
+            [
+              -11.430278,
+              12.282924
+            ],
+            [
+              -11.494932,
+              12.214627
+            ],
+            [
+              -11.494932,
+              12.214627
+            ],
+            [
+              -11.496552,
+              12.183846
+            ],
+            [
+              -11.465374,
+              12.14354
+            ],
+            [
+              -11.368525,
+              12.109019
+            ],
+            [
+              -11.35762,
+              12.069347
+            ],
+            [
+              -11.35762,
+              12.069347
+            ],
+            [
+              -11.292167,
+              12.020057
+            ],
+            [
+              -11.292167,
+              12.020057
+            ],
+            [
+              -11.222381,
+              11.998327
+            ],
+            [
+              -11.212407,
+              12.019488
+            ],
+            [
+              -11.188611,
+              12.014785
+            ],
+            [
+              -11.170514,
+              12.033309
+            ],
+            [
+              -11.170514,
+              12.033309
+            ],
+            [
+              -11.137812,
+              12.066296
+            ],
+            [
+              -11.141231,
+              12.101563
+            ],
+            [
+              -11.113588,
+              12.099426
+            ],
+            [
+              -11.101049,
+              12.130845
+            ],
+            [
+              -11.067777,
+              12.141176
+            ],
+            [
+              -11.047472,
+              12.221613
+            ],
+            [
+              -10.988613,
+              12.214433
+            ],
+            [
+              -10.934141,
+              12.231666
+            ],
+            [
+              -10.895629,
+              12.209863
+            ],
+            [
+              -10.859139,
+              12.142653
+            ],
+            [
+              -10.79208,
+              12.11553
+            ],
+            [
+              -10.785037,
+              12.070049
+            ],
+            [
+              -10.801596,
+              12.041576
+            ],
+            [
+              -10.764991,
+              11.971627
+            ],
+            [
+              -10.773229,
+              11.941797
+            ],
+            [
+              -10.657181,
+              11.897751
+            ],
+            [
+              -10.657181,
+              11.897751
+            ],
+            [
+              -10.631903,
+              11.908862
+            ],
+            [
+              -10.608222,
+              11.975856
+            ],
+            [
+              -10.566568,
+              11.990615
+            ],
+            [
+              -10.580976,
+              12.023941
+            ],
+            [
+              -10.519115,
+              12.047559
+            ],
+            [
+              -10.507154,
+              12.096311
+            ],
+            [
+              -10.517921,
+              12.119621
+            ],
+            [
+              -10.517921,
+              12.119621
+            ],
+            [
+              -10.451833,
+              12.120141
+            ],
+            [
+              -10.411719,
+              12.142998
+            ],
+            [
+              -10.408965,
+              12.178864
+            ],
+            [
+              -10.376699,
+              12.168458
+            ],
+            [
+              -10.359101,
+              12.17611
+            ],
+            [
+              -10.359164,
+              12.197554
+            ],
+            [
+              -10.332519,
+              12.193399
+            ],
+            [
+              -10.339639,
+              12.22693
+            ],
+            [
+              -10.339639,
+              12.22693
+            ],
+            [
+              -10.308897,
+              12.223301
+            ],
+            [
+              -10.297729,
+              12.192032
+            ],
+            [
+              -10.286132,
+              12.213359
+            ],
+            [
+              -10.249695,
+              12.217977
+            ],
+            [
+              -10.242544,
+              12.200292
+            ],
+            [
+              -10.1925,
+              12.205314
+            ],
+            [
+              -10.173879,
+              12.18822
+            ],
+            [
+              -10.173879,
+              12.18822
+            ],
+            [
+              -10.137054,
+              12.17561
+            ],
+            [
+              -10.091264,
+              12.188194
+            ],
+            [
+              -10.089582,
+              12.150326
+            ],
+            [
+              -10.089582,
+              12.150326
+            ],
+            [
+              -10.009231,
+              12.136446
+            ],
+            [
+              -9.96857,
+              12.103152
+            ],
+            [
+              -9.914239,
+              12.103907
+            ],
+            [
+              -9.87156,
+              12.057483
+            ],
+            [
+              -9.87156,
+              12.057483
+            ],
+            [
+              -9.804175,
+              12.058007
+            ],
+            [
+              -9.804175,
+              12.058007
+            ],
+            [
+              -9.740654,
+              12.031045
+            ],
+            [
+              -9.740654,
+              12.031045
+            ],
+            [
+              -9.688486,
+              12.034744
+            ],
+            [
+              -9.696938,
+              12.060156
+            ],
+            [
+              -9.674721,
+              12.085091
+            ],
+            [
+              -9.683118,
+              12.118433
+            ],
+            [
+              -9.683118,
+              12.118433
+            ],
+            [
+              -9.633078,
+              12.175214
+            ],
+            [
+              -9.633078,
+              12.175214
+            ],
+            [
+              -9.575698,
+              12.197858
+            ],
+            [
+              -9.538435,
+              12.195677
+            ],
+            [
+              -9.500911,
+              12.22632
+            ],
+            [
+              -9.500911,
+              12.22632
+            ],
+            [
+              -9.484333,
+              12.257029
+            ],
+            [
+              -9.426454,
+              12.262832
+            ],
+            [
+              -9.426454,
+              12.262832
+            ],
+            [
+              -9.341452,
+              12.247825
+            ],
+            [
+              -9.341452,
+              12.247825
+            ],
+            [
+              -9.340993,
+              12.272204
+            ],
+            [
+              -9.318359,
+              12.280941
+            ],
+            [
+              -9.323553,
+              12.315879
+            ],
+            [
+              -9.30385,
+              12.356066
+            ],
+            [
+              -9.30385,
+              12.356066
+            ],
+            [
+              -9.30385,
+              12.36803
+            ],
+            [
+              -9.30385,
+              12.36803
+            ],
+            [
+              -9.339077,
+              12.381514
+            ],
+            [
+              -9.355131,
+              12.421888
+            ],
+            [
+              -9.379234,
+              12.430022
+            ],
+            [
+              -9.380567,
+              12.452081
+            ],
+            [
+              -9.407189,
+              12.462207
+            ],
+            [
+              -9.367318,
+              12.478836
+            ],
+            [
+              -9.355638,
+              12.501558
+            ],
+            [
+              -9.327373,
+              12.481189
+            ],
+            [
+              -9.314579,
+              12.506235
+            ],
+            [
+              -9.314579,
+              12.506235
+            ],
+            [
+              -9.283777,
+              12.485579
+            ],
+            [
+              -9.25139,
+              12.506174
+            ],
+            [
+              -9.157561,
+              12.489574
+            ],
+            [
+              -9.096657,
+              12.452097
+            ],
+            [
+              -9.096657,
+              12.452097
+            ],
+            [
+              -9.044143,
+              12.429574
+            ],
+            [
+              -9.044143,
+              12.429574
+            ],
+            [
+              -9.012551,
+              12.418954
+            ],
+            [
+              -9.00592,
+              12.392127
+            ],
+            [
+              -8.954619,
+              12.357373
+            ],
+            [
+              -8.954619,
+              12.357373
+            ],
+            [
+              -8.933353,
+              12.324808
+            ],
+            [
+              -8.991392,
+              12.22303
+            ],
+            [
+              -8.991392,
+              12.22303
+            ],
+            [
+              -8.970583,
+              12.213177
+            ],
+            [
+              -8.966282,
+              12.186275
+            ],
+            [
+              -8.918527,
+              12.2047
+            ],
+            [
+              -8.891966,
+              12.175272
+            ],
+            [
+              -8.883502,
+              12.149309
+            ],
+            [
+              -8.911946,
+              12.093662
+            ],
+            [
+              -8.907288,
+              12.044176
+            ],
+            [
+              -8.880471,
+              12.044053
+            ],
+            [
+              -8.867342,
+              12.025974
+            ],
+            [
+              -8.849224,
+              12.047612
+            ],
+            [
+              -8.840734,
+              12.036882
+            ],
+            [
+              -8.827505,
+              12.047654
+            ],
+            [
+              -8.81763,
+              12.027455
+            ],
+            [
+              -8.81763,
+              12.027455
+            ],
+            [
+              -8.772277,
+              11.97548
+            ],
+            [
+              -8.798524,
+              11.828621
+            ],
+            [
+              -8.830756,
+              11.800415
+            ],
+            [
+              -8.819817,
+              11.781061
+            ],
+            [
+              -8.84889,
+              11.654649
+            ],
+            [
+              -8.774171,
+              11.625839
+            ],
+            [
+              -8.76068,
+              11.633844
+            ],
+            [
+              -8.746801,
+              11.611262
+            ],
+            [
+              -8.746801,
+              11.611262
+            ],
+            [
+              -8.701335,
+              11.645488
+            ],
+            [
+              -8.689556,
+              11.636548
+            ],
+            [
+              -8.641398,
+              11.549724
+            ],
+            [
+              -8.654782,
+              11.522352
+            ],
+            [
+              -8.614986,
+              11.476258
+            ],
+            [
+              -8.566604,
+              11.462112
+            ],
+            [
+              -8.531391,
+              11.493941
+            ],
+            [
+              -8.531391,
+              11.493941
+            ],
+            [
+              -8.498133,
+              11.416539
+            ],
+            [
+              -8.47999,
+              11.413752
+            ],
+            [
+              -8.473679,
+              11.428529
+            ],
+            [
+              -8.437288,
+              11.40113
+            ],
+            [
+              -8.352726,
+              11.376309
+            ],
+            [
+              -8.388591,
+              11.369577
+            ],
+            [
+              -8.408417,
+              11.345965
+            ],
+            [
+              -8.353435,
+              11.315359
+            ],
+            [
+              -8.378599,
+              11.277916
+            ],
+            [
+              -8.473259,
+              11.287434
+            ],
+            [
+              -8.476519,
+              11.228588
+            ],
+            [
+              -8.548986,
+              11.213495
+            ],
+            [
+              -8.55924,
+              11.137925
+            ],
+            [
+              -8.604308,
+              11.130352
+            ],
+            [
+              -8.600959,
+              11.095749
+            ],
+            [
+              -8.675935,
+              11.002089
+            ],
+            [
+              -8.67191,
+              10.962388
+            ],
+            [
+              -8.65717,
+              10.95151
+            ],
+            [
+              -8.593475,
+              10.971325
+            ],
+            [
+              -8.581695,
+              10.959861
+            ],
+            [
+              -8.511648,
+              10.999039
+            ],
+            [
+              -8.481146,
+              11.0714
+            ],
+            [
+              -8.362034,
+              11.071663
+            ],
+            [
+              -8.288725,
+              11.018655
+            ],
+            [
+              -8.256857,
+              10.895173
+            ],
+            [
+              -8.305966,
+              10.856466
+            ],
+            [
+              -8.303464,
+              10.81789
+            ],
+            [
+              -8.331245,
+              10.788134
+            ],
+            [
+              -8.330455,
+              10.772204
+            ],
+            [
+              -8.301095,
+              10.770229
+            ],
+            [
+              -8.289114,
+              10.752192
+            ],
+            [
+              -8.30228,
+              10.723753
+            ],
+            [
+              -8.288587,
+              10.698738
+            ],
+            [
+              -8.298988,
+              10.676356
+            ],
+            [
+              -8.322687,
+              10.670958
+            ],
+            [
+              -8.32532,
+              10.591041
+            ],
+            [
+              -8.287402,
+              10.595386
+            ],
+            [
+              -8.269496,
+              10.575374
+            ],
+            [
+              -8.231183,
+              10.419884
+            ],
+            [
+              -8.182569,
+              10.414881
+            ],
+            [
+              -8.110191,
+              10.454488
+            ],
+            [
+              -8.097141,
+              10.444906
+            ],
+            [
+              -8.103737,
+              10.389471
+            ],
+            [
+              -8.071218,
+              10.341152
+            ],
+            [
+              -8.049626,
+              10.331277
+            ],
+            [
+              -8.002492,
+              10.351158
+            ],
+            [
+              -7.985244,
+              10.34339
+            ],
+            [
+              -7.945088,
+              10.252545
+            ],
+            [
+              -7.979352,
+              10.170324
+            ],
+            [
+              -7.979352,
+              10.170324
+            ],
+            [
+              -7.936037,
+              10.153077
+            ],
+            [
+              -7.892721,
+              10.200211
+            ],
+            [
+              -7.833935,
+              10.213245
+            ],
+            [
+              -7.785024,
+              10.280655
+            ],
+            [
+              -7.748696,
+              10.305042
+            ],
+            [
+              -7.772614,
+              10.311386
+            ],
+            [
+              -7.749977,
+              10.323392
+            ],
+            [
+              -7.753215,
+              10.344594
+            ],
+            [
+              -7.722573,
+              10.346662
+            ],
+            [
+              -7.722729,
+              10.371625
+            ],
+            [
+              -7.73976,
+              10.371813
+            ],
+            [
+              -7.71665,
+              10.389987
+            ],
+            [
+              -7.71665,
+              10.389987
+            ],
+            [
+              -7.717926,
+              10.395642
+            ],
+            [
+              -7.717926,
+              10.395642
+            ],
+            [
+              -7.680947,
+              10.407443
+            ],
+            [
+              -7.626121,
+              10.46204
+            ],
+            [
+              -7.54807,
+              10.411919
+            ],
+            [
+              -7.518974,
+              10.459645
+            ],
+            [
+              -7.457228,
+              10.453334
+            ],
+            [
+              -7.438796,
+              10.422447
+            ],
+            [
+              -7.453449,
+              10.392285
+            ],
+            [
+              -7.423694,
+              10.35213
+            ],
+            [
+              -7.435175,
+              10.341932
+            ],
+            [
+              -7.391515,
+              10.352537
+            ],
+            [
+              -7.357427,
+              10.332002
+            ],
+            [
+              -7.363089,
+              10.274467
+            ],
+            [
+              -7.389292,
+              10.258364
+            ],
+            [
+              -7.377723,
+              10.245365
+            ],
+            [
+              -7.337537,
+              10.236172
+            ],
+            [
+              -7.278004,
+              10.26604
+            ],
+            [
+              -7.148583,
+              10.251953
+            ],
+            [
+              -7.084597,
+              10.209164
+            ],
+            [
+              -7.086045,
+              10.16519
+            ],
+            [
+              -7.049049,
+              10.147811
+            ],
+            [
+              -6.995023,
+              10.172364
+            ],
+            [
+              -6.977491,
+              10.218386
+            ],
+            [
+              -7.013105,
+              10.242583
+            ],
+            [
+              -7.01127,
+              10.262254
+            ],
+            [
+              -6.934804,
+              10.357404
+            ],
+            [
+              -6.934804,
+              10.357404
+            ],
+            [
+              -6.859148,
+              10.344946
+            ],
+            [
+              -6.806505,
+              10.386824
+            ],
+            [
+              -6.698501,
+              10.340825
+            ],
+            [
+              -6.678286,
+              10.338688
+            ],
+            [
+              -6.655542,
+              10.36109
+            ],
+            [
+              -6.655542,
+              10.36109
+            ],
+            [
+              -6.643112,
+              10.385644
+            ],
+            [
+              -6.643112,
+              10.385644
+            ],
+            [
+              -6.654553,
+              10.398041
+            ],
+            [
+              -6.626033,
+              10.438926
+            ],
+            [
+              -6.675876,
+              10.466598
+            ],
+            [
+              -6.681551,
+              10.488331
+            ],
+            [
+              -6.682215,
+              10.528197
+            ],
+            [
+              -6.659395,
+              10.536404
+            ],
+            [
+              -6.669135,
+              10.625597
+            ],
+            [
+              -6.644065,
+              10.63429
+            ],
+            [
+              -6.655187,
+              10.641196
+            ],
+            [
+              -6.640854,
+              10.673269
+            ],
+            [
+              -6.615223,
+              10.671935
+            ],
+            [
+              -6.589973,
+              10.623245
+            ],
+            [
+              -6.555195,
+              10.614288
+            ],
+            [
+              -6.555195,
+              10.614288
+            ],
+            [
+              -6.531134,
+              10.58928
+            ],
+            [
+              -6.427134,
+              10.562645
+            ],
+            [
+              -6.403199,
+              10.592641
+            ],
+            [
+              -6.403199,
+              10.592641
+            ],
+            [
+              -6.413795,
+              10.700758
+            ],
+            [
+              -6.389211,
+              10.707999
+            ],
+            [
+              -6.320884,
+              10.684025
+            ],
+            [
+              -6.246191,
+              10.740197
+            ],
+            [
+              -6.246191,
+              10.740197
+            ],
+            [
+              -6.210674,
+              10.724488
+            ],
+            [
+              -6.228427,
+              10.70358
+            ],
+            [
+              -6.231403,
+              10.660038
+            ],
+            [
+              -6.183113,
+              10.634245
+            ],
+            [
+              -6.223228,
+              10.615769
+            ],
+            [
+              -6.205066,
+              10.581067
+            ],
+            [
+              -6.24766,
+              10.531377
+            ],
+            [
+              -6.24766,
+              10.531377
+            ],
+            [
+              -6.231927,
+              10.516729
+            ],
+            [
+              -6.231927,
+              10.516729
+            ],
+            [
+              -6.215601,
+              10.52766
+            ],
+            [
+              -6.200845,
+              10.501542
+            ],
+            [
+              -6.162653,
+              10.49107
+            ],
+            [
+              -6.185643,
+              10.449091
+            ],
+            [
+              -6.155384,
+              10.419778
+            ],
+            [
+              -6.180538,
+              10.412321
+            ],
+            [
+              -6.187528,
+              10.388081
+            ],
+            [
+              -6.159408,
+              10.364928
+            ],
+            [
+              -6.192515,
+              10.33924
+            ],
+            [
+              -6.177362,
+              10.321834
+            ],
+            [
+              -6.186042,
+              10.305509
+            ],
+            [
+              -6.206246,
+              10.316304
+            ],
+            [
+              -6.232931,
+              10.302879
+            ],
+            [
+              -6.215447,
+              10.262747
+            ],
+            [
+              -6.215447,
+              10.262747
+            ],
+            [
+              -6.191369,
+              10.259119
+            ],
+            [
+              -6.196489,
+              10.238706
+            ],
+            [
+              -6.196489,
+              10.238706
+            ],
+            [
+              -6.130713,
+              10.20746
+            ],
+            [
+              -5.985932,
+              10.197135
+            ],
+            [
+              -5.955418,
+              10.244781
+            ],
+            [
+              -5.9541,
+              10.278032
+            ],
+            [
+              -5.886787,
+              10.265867
+            ],
+            [
+              -5.890639,
+              10.301652
+            ],
+            [
+              -5.872189,
+              10.317568
+            ],
+            [
+              -5.866918,
+              10.377784
+            ],
+            [
+              -5.840459,
+              10.379406
+            ],
+            [
+              -5.807999,
+              10.418284
+            ],
+            [
+              -5.807999,
+              10.418284
+            ],
+            [
+              -5.768889,
+              10.439522
+            ],
+            [
+              -5.703907,
+              10.431107
+            ],
+            [
+              -5.651395,
+              10.468109
+            ],
+            [
+              -5.617637,
+              10.45118
+            ],
+            [
+              -5.559955,
+              10.463953
+            ],
+            [
+              -5.513207,
+              10.430789
+            ],
+            [
+              -5.513207,
+              10.430789
+            ],
+            [
+              -5.478793,
+              10.512244
+            ],
+            [
+              -5.478793,
+              10.512244
+            ],
+            [
+              -5.456998,
+              10.557722
+            ],
+            [
+              -5.460514,
+              10.602517
+            ],
+            [
+              -5.478925,
+              10.623197
+            ],
+            [
+              -5.462432,
+              10.653423
+            ],
+            [
+              -5.462432,
+              10.653423
+            ],
+            [
+              -5.455235,
+              10.749932
+            ],
+            [
+              -5.468008,
+              10.764731
+            ],
+            [
+              -5.447718,
+              10.765499
+            ],
+            [
+              -5.447718,
+              10.765499
+            ],
+            [
+              -5.402723,
+              10.854347
+            ],
+            [
+              -5.451622,
+              10.901324
+            ],
+            [
+              -5.452003,
+              10.976044
+            ],
+            [
+              -5.492525,
+              10.973614
+            ],
+            [
+              -5.474772,
+              11.020759
+            ],
+            [
+              -5.474772,
+              11.020759
+            ],
+            [
+              -5.488518,
+              11.06484
+            ],
+            [
+              -5.488518,
+              11.06484
+            ],
+            [
+              -5.488879,
+              11.083035
+            ],
+            [
+              -5.382965,
+              11.105675
+            ],
+            [
+              -5.328613,
+              11.143635
+            ],
+            [
+              -5.32442,
+              11.206331
+            ],
+            [
+              -5.253339,
+              11.249399
+            ],
+            [
+              -5.256197,
+              11.34697
+            ],
+            [
+              -5.242491,
+              11.396671
+            ],
+            [
+              -5.242491,
+              11.396671
+            ],
+            [
+              -5.198715,
+              11.428803
+            ],
+            [
+              -5.209915,
+              11.457654
+            ],
+            [
+              -5.199565,
+              11.530271
+            ],
+            [
+              -5.23341,
+              11.600205
+            ],
+            [
+              -5.294994,
+              11.615543
+            ],
+            [
+              -5.265239,
+              11.679406
+            ],
+            [
+              -5.267518,
+              11.713851
+            ],
+            [
+              -5.267518,
+              11.713851
+            ],
+            [
+              -5.259327,
+              11.762937
+            ],
+            [
+              -5.29227,
+              11.765496
+            ],
+            [
+              -5.290227,
+              11.784607
+            ],
+            [
+              -5.322271,
+              11.803745
+            ],
+            [
+              -5.322271,
+              11.803745
+            ],
+            [
+              -5.345807,
+              11.807904
+            ],
+            [
+              -5.350756,
+              11.795295
+            ],
+            [
+              -5.405869,
+              11.826493
+            ],
+            [
+              -5.405869,
+              11.826493
+            ],
+            [
+              -5.378075,
+              11.843171
+            ],
+            [
+              -5.354006,
+              11.821165
+            ],
+            [
+              -5.323995,
+              11.848247
+            ],
+            [
+              -5.302655,
+              11.835326
+            ],
+            [
+              -5.284959,
+              11.854764
+            ],
+            [
+              -5.257498,
+              11.833182
+            ],
+            [
+              -5.244169,
+              11.865634
+            ],
+            [
+              -5.208971,
+              11.892401
+            ],
+            [
+              -5.208971,
+              11.892401
+            ],
+            [
+              -5.184271,
+              11.898438
+            ],
+            [
+              -5.144864,
+              11.948428
+            ],
+            [
+              -5.097429,
+              11.964006
+            ],
+            [
+              -5.097429,
+              11.964006
+            ],
+            [
+              -5.074635,
+              11.982503
+            ],
+            [
+              -4.866166,
+              12.002589
+            ],
+            [
+              -4.848429,
+              12.017904
+            ],
+            [
+              -4.733522,
+              12.003539
+            ],
+            [
+              -4.733522,
+              12.003539
+            ],
+            [
+              -4.701236,
+              12.064723
+            ],
+            [
+              -4.701236,
+              12.064723
+            ],
+            [
+              -4.683006,
+              12.065634
+            ],
+            [
+              -4.683006,
+              12.065634
+            ],
+            [
+              -4.648896,
+              12.060692
+            ],
+            [
+              -4.648896,
+              12.060692
+            ],
+            [
+              -4.630051,
+              12.059607
+            ],
+            [
+              -4.628675,
+              12.11374
+            ],
+            [
+              -4.607346,
+              12.139016
+            ],
+            [
+              -4.544065,
+              12.141653
+            ],
+            [
+              -4.579941,
+              12.202869
+            ],
+            [
+              -4.473276,
+              12.283371
+            ],
+            [
+              -4.473417,
+              12.331783
+            ],
+            [
+              -4.439641,
+              12.333753
+            ],
+            [
+              -4.418609,
+              12.30259
+            ],
+            [
+              -4.396295,
+              12.310532
+            ],
+            [
+              -4.439781,
+              12.418755
+            ],
+            [
+              -4.419948,
+              12.485767
+            ],
+            [
+              -4.364649,
+              12.533
+            ],
+            [
+              -4.402291,
+              12.560397
+            ],
+            [
+              -4.411587,
+              12.609841
+            ],
+            [
+              -4.480677,
+              12.658155
+            ],
+            [
+              -4.467887,
+              12.691835
+            ],
+            [
+              -4.479075,
+              12.722055
+            ],
+            [
+              -4.479075,
+              12.722055
+            ],
+            [
+              -4.431418,
+              12.711044
+            ],
+            [
+              -4.346758,
+              12.743846
+            ],
+            [
+              -4.300473,
+              12.701378
+            ],
+            [
+              -4.233531,
+              12.726606
+            ],
+            [
+              -4.233531,
+              12.726606
+            ],
+            [
+              -4.208981,
+              12.816605
+            ],
+            [
+              -4.22615,
+              12.866143
+            ],
+            [
+              -4.218269,
+              12.960996
+            ],
+            [
+              -4.265696,
+              12.990832
+            ],
+            [
+              -4.277348,
+              13.054505
+            ],
+            [
+              -4.30808,
+              13.054692
+            ],
+            [
+              -4.316164,
+              13.092329
+            ],
+            [
+              -4.347537,
+              13.121057
+            ],
+            [
+              -4.288174,
+              13.189566
+            ],
+            [
+              -4.230574,
+              13.182053
+            ],
+            [
+              -4.224988,
+              13.195345
+            ],
+            [
+              -4.258892,
+              13.236763
+            ],
+            [
+              -4.136244,
+              13.295887
+            ],
+            [
+              -4.105358,
+              13.339054
+            ],
+            [
+              -4.096689,
+              13.391838
+            ],
+            [
+              -4.015973,
+              13.437686
+            ],
+            [
+              -4.015973,
+              13.437686
+            ],
+            [
+              -3.987664,
+              13.434842
+            ],
+            [
+              -3.955112,
+              13.474693
+            ],
+            [
+              -3.96247,
+              13.4927
+            ],
+            [
+              -3.983431,
+              13.482926
+            ],
+            [
+              -3.97224,
+              13.524976
+            ],
+            [
+              -3.97224,
+              13.524976
+            ],
+            [
+              -3.94572,
+              13.494187
+            ],
+            [
+              -3.93753,
+              13.452572
+            ],
+            [
+              -3.89567,
+              13.442792
+            ],
+            [
+              -3.96319,
+              13.407634
+            ],
+            [
+              -3.960441,
+              13.377852
+            ],
+            [
+              -3.913489,
+              13.382687
+            ],
+            [
+              -3.843004,
+              13.363998
+            ],
+            [
+              -3.843004,
+              13.363998
+            ],
+            [
+              -3.79357,
+              13.369395
+            ],
+            [
+              -3.742905,
+              13.325473
+            ],
+            [
+              -3.737571,
+              13.303178
+            ],
+            [
+              -3.672693,
+              13.274934
+            ],
+            [
+              -3.586656,
+              13.200016
+            ],
+            [
+              -3.5525,
+              13.196848
+            ],
+            [
+              -3.552322,
+              13.166898
+            ],
+            [
+              -3.442868,
+              13.15761
+            ],
+            [
+              -3.442868,
+              13.15761
+            ],
+            [
+              -3.422262,
+              13.178668
+            ],
+            [
+              -3.447818,
+              13.256736
+            ],
+            [
+              -3.437479,
+              13.276557
+            ],
+            [
+              -3.437479,
+              13.276557
+            ],
+            [
+              -3.338456,
+              13.288197
+            ],
+            [
+              -3.338456,
+              13.288197
+            ],
+            [
+              -3.234142,
+              13.288968
+            ],
+            [
+              -3.23354,
+              13.30156
+            ],
+            [
+              -3.23354,
+              13.30156
+            ],
+            [
+              -3.278835,
+              13.555871
+            ],
+            [
+              -3.25042,
+              13.58573
+            ],
+            [
+              -3.247434,
+              13.683881
+            ],
+            [
+              -3.271895,
+              13.698872
+            ],
+            [
+              -3.262561,
+              13.713983
+            ],
+            [
+              -3.262561,
+              13.713983
+            ],
+            [
+              -3.212181,
+              13.706131
+            ],
+            [
+              -3.191598,
+              13.680885
+            ],
+            [
+              -3.191598,
+              13.680885
+            ],
+            [
+              -3.100416,
+              13.685829
+            ],
+            [
+              -3.061188,
+              13.65601
+            ],
+            [
+              -3.040313,
+              13.613599
+            ],
+            [
+              -3.001398,
+              13.657017
+            ],
+            [
+              -2.968243,
+              13.651355
+            ],
+            [
+              -2.95249,
+              13.624663
+            ],
+            [
+              -2.95249,
+              13.624663
+            ],
+            [
+              -2.874002,
+              13.654096
+            ],
+            [
+              -2.905943,
+              13.727169
+            ],
+            [
+              -2.90824,
+              13.823712
+            ],
+            [
+              -2.836147,
+              13.992887
+            ],
+            [
+              -2.854854,
+              14.006217
+            ],
+            [
+              -2.838967,
+              14.054385
+            ],
+            [
+              -2.676377,
+              14.135172
+            ],
+            [
+              -2.638407,
+              14.169973
+            ],
+            [
+              -2.638407,
+              14.169973
+            ],
+            [
+              -2.473564,
+              14.299451
+            ],
+            [
+              -2.297285,
+              14.248917
+            ],
+            [
+              -2.103259,
+              14.147003
+            ],
+            [
+              -2.103259,
+              14.147003
+            ],
+            [
+              -1.998162,
+              14.191679
+            ],
+            [
+              -1.992107,
+              14.283332
+            ],
+            [
+              -1.992107,
+              14.283332
+            ],
+            [
+              -1.9805,
+              14.475666
+            ],
+            [
+              -1.9805,
+              14.475666
+            ],
+            [
+              -1.907,
+              14.489555
+            ],
+            [
+              -1.7774,
+              14.4823
+            ],
+            [
+              -1.7774,
+              14.4823
+            ],
+            [
+              -1.678,
+              14.5015
+            ],
+            [
+              -1.3183,
+              14.7298
+            ],
+            [
+              -1.123751,
+              14.777466
+            ],
+            [
+              -1.123751,
+              14.777466
+            ],
+            [
+              -1.069027,
+              14.785124
+            ],
+            [
+              -1.029406,
+              14.819446
+            ],
+            [
+              -1.029406,
+              14.819446
+            ],
+            [
+              -0.96107,
+              14.87864
+            ],
+            [
+              -0.96107,
+              14.87864
+            ],
+            [
+              -0.744824,
+              15.065953
+            ],
+            [
+              -0.744824,
+              15.065953
+            ],
+            [
+              -0.723987,
+              15.084
+            ],
+            [
+              -0.45599,
+              15.084
+            ],
+            [
+              -0.45599,
+              15.084
+            ],
+            [
+              -0.431378,
+              15.083284
+            ],
+            [
+              -0.390241,
+              15.004103
+            ],
+            [
+              -0.24575,
+              15.079
+            ],
+            [
+              0.06152,
+              14.974683
+            ],
+            [
+              0.096937,
+              14.974827
+            ],
+            [
+              0.096937,
+              14.974827
+            ],
+            [
+              0.23223,
+              14.999829
+            ],
+            [
+              0.23223,
+              14.999829
+            ],
+            [
+              0.394631,
+              14.963993
+            ],
+            [
+              0.522642,
+              14.998217
+            ],
+            [
+              0.703472,
+              14.944888
+            ],
+            [
+              0.703472,
+              14.944888
+            ],
+            [
+              0.744849,
+              14.961949
+            ],
+            [
+              0.968179,
+              14.981871
+            ],
+            [
+              1.311499,
+              15.278128
+            ],
+            [
+              1.311499,
+              15.278128
+            ],
+            [
+              1.518109,
+              15.289108
+            ],
+            [
+              1.518109,
+              15.289108
+            ],
+            [
+              2.636366,
+              15.346796
+            ],
+            [
+              3.009086,
+              15.338457
+            ],
+            [
+              3.009086,
+              15.338457
+            ],
+            [
+              3.019968,
+              15.338195
+            ],
+            [
+              3.031485,
+              15.428574
+            ],
+            [
+              3.495491,
+              15.357762
+            ],
+            [
+              3.536306,
+              15.403418
+            ],
+            [
+              3.536893,
+              15.485183
+            ],
+            [
+              3.595828,
+              15.52104
+            ],
+            [
+              3.703728,
+              15.648148
+            ],
+            [
+              3.797957,
+              15.66374
+            ],
+            [
+              3.869669,
+              15.69677
+            ],
+            [
+              3.869669,
+              15.69677
+            ],
+            [
+              3.901029,
+              15.747036
+            ],
+            [
+              3.928064,
+              15.864421
+            ],
+            [
+              3.980084,
+              15.940592
+            ],
+            [
+              3.987906,
+              16.085982
+            ],
+            [
+              4.068249,
+              16.232774
+            ],
+            [
+              4.097133,
+              16.323219
+            ],
+            [
+              4.199854,
+              16.395069
+            ],
+            [
+              4.197507,
+              16.814799
+            ],
+            [
+              4.214297,
+              17.000021
+            ],
+            [
+              4.266669,
+              17.001741
+            ],
+            [
+              4.267095,
+              18.006665
+            ],
+            [
+              4.267095,
+              18.006665
+            ],
+            [
+              4.266462,
+              18.672285
+            ],
+            [
+              4.266462,
+              18.672285
+            ],
+            [
+              4.266708,
+              19.144146
+            ],
+            [
+              4.266708,
+              19.144146
+            ],
+            [
+              3.357648,
+              18.968147
+            ],
+            [
+              3.330973,
+              18.995416
+            ],
+            [
+              3.29562,
+              19.002023
+            ],
+            [
+              3.275907,
+              19.033355
+            ],
+            [
+              3.166116,
+              19.11325
+            ],
+            [
+              3.120424,
+              19.132311
+            ],
+            [
+              3.120424,
+              19.132311
+            ],
+            [
+              3.122644,
+              19.185182
+            ],
+            [
+              3.200581,
+              19.277088
+            ],
+            [
+              3.204217,
+              19.305195
+            ],
+            [
+              3.178257,
+              19.359073
+            ],
+            [
+              3.198362,
+              19.413381
+            ],
+            [
+              3.209464,
+              19.432128
+            ],
+            [
+              3.257855,
+              19.435542
+            ],
+            [
+              3.266116,
+              19.448499
+            ],
+            [
+              3.24811,
+              19.497843
+            ],
+            [
+              3.266377,
+              19.526828
+            ],
+            [
+              3.231869,
+              19.584463
+            ],
+            [
+              3.252191,
+              19.642682
+            ],
+            [
+              3.229954,
+              19.713642
+            ],
+            [
+              3.259589,
+              19.817559
+            ],
+            [
+              3.254628,
+              19.834791
+            ],
+            [
+              3.149014,
+              19.856724
+            ],
+            [
+              3.01488,
+              19.932502
+            ],
+            [
+              3.01488,
+              19.932502
+            ],
+            [
+              2.976943,
+              19.95318
+            ],
+            [
+              2.843441,
+              19.968069
+            ],
+            [
+              2.843441,
+              19.968069
+            ],
+            [
+              2.734948,
+              19.993553
+            ],
+            [
+              2.712301,
+              20.024997
+            ],
+            [
+              2.700909,
+              20.08685
+            ],
+            [
+              2.672463,
+              20.098786
+            ],
+            [
+              2.672463,
+              20.098786
+            ],
+            [
+              2.665264,
+              20.050863
+            ],
+            [
+              2.622458,
+              20.053872
+            ],
+            [
+              2.588199,
+              20.031899
+            ],
+            [
+              2.554439,
+              20.03939
+            ],
+            [
+              2.519918,
+              20.094666
+            ],
+            [
+              2.47605,
+              20.09543
+            ],
+            [
+              2.47605,
+              20.09543
+            ],
+            [
+              2.412825,
+              20.075615
+            ],
+            [
+              2.397525,
+              20.039789
+            ],
+            [
+              2.375423,
+              20.028382
+            ],
+            [
+              2.37835,
+              20.094229
+            ],
+            [
+              2.399822,
+              20.133178
+            ],
+            [
+              2.357373,
+              20.162244
+            ],
+            [
+              2.348683,
+              20.203096
+            ],
+            [
+              2.317919,
+              20.218177
+            ],
+            [
+              2.312027,
+              20.271115
+            ],
+            [
+              2.214543,
+              20.318726
+            ],
+            [
+              2.192347,
+              20.313352
+            ],
+            [
+              2.190171,
+              20.277906
+            ],
+            [
+              2.120554,
+              20.238254
+            ],
+            [
+              2.040424,
+              20.269614
+            ],
+            [
+              1.999862,
+              20.242941
+            ],
+            [
+              1.978931,
+              20.266976
+            ],
+            [
+              1.946854,
+              20.259812
+            ],
+            [
+              1.922476,
+              20.224314
+            ],
+            [
+              1.897563,
+              20.243025
+            ],
+            [
+              1.883236,
+              20.296593
+            ],
+            [
+              1.799409,
+              20.296914
+            ],
+            [
+              1.775031,
+              20.337223
+            ],
+            [
+              1.669285,
+              20.405119
+            ],
+            [
+              1.667574,
+              20.530003
+            ],
+            [
+              1.599572,
+              20.596081
+            ],
+            [
+              1.371936,
+              20.669749
+            ],
+            [
+              1.371936,
+              20.669749
+            ],
+            [
+              1.353225,
+              20.67702
+            ],
+            [
+              1.335369,
+              20.72182
+            ],
+            [
+              1.335369,
+              20.72182
+            ],
+            [
+              1.314626,
+              20.740746
+            ],
+            [
+              1.22973,
+              20.723745
+            ],
+            [
+              1.16408,
+              20.738607
+            ],
+            [
+              1.193591,
+              20.943255
+            ],
+            [
+              1.166556,
+              21.116364
+            ],
+            [
+              -0.021368,
+              21.885294
+            ],
+            [
+              -0.021368,
+              21.885294
+            ],
+            [
+              -4.833334,
+              25.0
+            ],
+            [
+              -4.833334,
+              25.0
+            ],
+            [
+              -6.57188,
+              25.000072
+            ],
+            [
+              -6.489894,
+              24.269449
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "ML",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+        "name": "Mali",
+        "id": "ML"
       }
     }
   ]

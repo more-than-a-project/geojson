@@ -3,1642 +3,651 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.4838308,
-            -27.3118178
-          ],
-          [
-            31.5558991,
-            -27.3155936
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.5558991,
-            -27.3155936
-          ],
-          [
-            31.5874099,
-            -27.3157699
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.5874099,
-            -27.3157699
-          ],
-          [
-            31.6006609,
-            -27.3158418
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.6006609,
-            -27.3158418
-          ],
-          [
-            31.6228188,
-            -27.3159634
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.6228188,
-            -27.3159634
-          ],
-          [
-            31.6254742,
-            -27.3159779
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.6254742,
-            -27.3159779
-          ],
-          [
-            31.7068702,
-            -27.3164094
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.7068702,
-            -27.3164094
-          ],
-          [
-            31.762334,
-            -27.3166483
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.762334,
-            -27.3166483
-          ],
-          [
-            31.8353199,
-            -27.3170099
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.8353199,
-            -27.3170099
-          ],
-          [
-            31.8355634,
-            -27.3170108
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.8355634,
-            -27.3170108
-          ],
-          [
-            31.8821087,
-            -27.3171917
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.8821087,
-            -27.3171917
-          ],
-          [
-            31.9018926,
-            -27.3172646
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.9018926,
-            -27.3172646
-          ],
-          [
-            31.9477199,
-            -27.3174301
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.9477199,
-            -27.3174301
-          ],
-          [
-            31.9777599,
-            -27.3175201
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.9777599,
-            -27.3175201
-          ],
-          [
-            31.9767914,
-            -27.2541461
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.9767914,
-            -27.2541461
-          ],
-          [
-            31.9739251,
-            -27.1636951
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.9739251,
-            -27.1636951
-          ],
-          [
-            31.9845998,
-            -27.0401679
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.9845998,
-            -27.0401679
-          ],
-          [
-            31.9957819,
-            -26.9496754
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.997276,
-            -26.9267276
-          ],
-          [
-            31.9957819,
-            -26.9496754
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.0108026,
-            -26.8103577
-          ],
-          [
-            31.997276,
-            -26.9267276
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.0108026,
-            -26.8103577
-          ],
-          [
-            32.01402,
-            -26.8092334
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.01402,
-            -26.8092334
-          ],
-          [
-            32.0539999,
-            -26.8183701
-          ],
-          [
-            32.1001399,
-            -26.8051001
-          ],
-          [
-            32.1194199,
-            -26.8380499
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.1194199,
-            -26.8380499
-          ],
-          [
-            32.134622,
-            -26.8402618
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.134622,
-            -26.8402618
-          ],
-          [
-            32.1255173,
-            -26.5072374
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.1255173,
-            -26.5072374
-          ],
-          [
-            32.1057876,
-            -26.4655673
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.1057876,
-            -26.4655673
-          ],
-          [
-            32.1045962,
-            -26.4630364
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.1045962,
-            -26.4630364
-          ],
-          [
-            32.0774184,
-            -26.4056457
-          ],
-          [
-            32.0743831,
-            -26.305709
-          ],
-          [
-            32.0984403,
-            -26.1941367
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.0984403,
-            -26.1941367
-          ],
-          [
-            32.0873004,
-            -26.0085248
-          ],
-          [
-            32.0030495,
-            -25.9969452
-          ],
-          [
-            31.9751905,
-            -25.9526462
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.9751905,
-            -25.9526462
-          ],
-          [
-            31.911121,
-            -25.980633
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.911121,
-            -25.980633
-          ],
-          [
-            31.8755083,
-            -25.9962468
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.8755083,
-            -25.9962468
-          ],
-          [
-            31.792839,
-            -25.953081
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.792839,
-            -25.953081
-          ],
-          [
-            31.7597769,
-            -25.9325779
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.7597769,
-            -25.9325779
-          ],
-          [
-            31.720357,
-            -25.908089
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.720357,
-            -25.908089
-          ],
-          [
-            31.603387,
-            -25.835295
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.603387,
-            -25.835295
-          ],
-          [
-            31.5831123,
-            -25.8224677
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.5831123,
-            -25.8224677
-          ],
-          [
-            31.539645,
-            -25.794974
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.539645,
-            -25.794974
-          ],
-          [
-            31.4887635,
-            -25.7635863
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.4887635,
-            -25.7635863
-          ],
-          [
-            31.4626149,
-            -25.7474316
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.4626149,
-            -25.7474316
-          ],
-          [
-            31.4163,
-            -25.71876
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.4163,
-            -25.71876
-          ],
-          [
-            31.31594,
-            -25.74304
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.31594,
-            -25.74304
-          ],
-          [
-            31.264714,
-            -25.8081712
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.264714,
-            -25.8081712
-          ],
-          [
-            31.2399928,
-            -25.8288099
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.2399928,
-            -25.8288099
-          ],
-          [
-            31.18457,
-            -25.8739
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.18457,
-            -25.8739
-          ],
-          [
-            31.12657,
-            -25.92115
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.12657,
-            -25.92115
-          ],
-          [
-            31.1164015,
-            -25.9661686
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.1164015,
-            -25.9661686
-          ],
-          [
-            31.11275,
-            -25.98257
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.11275,
-            -25.98257
-          ],
-          [
-            31.0858638,
-            -26.0344719
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.0858638,
-            -26.0344719
-          ],
-          [
-            31.0849638,
-            -26.0364693
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.0849638,
-            -26.0364693
-          ],
-          [
-            31.050116,
-            -26.104069
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.050116,
-            -26.104069
-          ],
-          [
-            31.0205289,
-            -26.1562932
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.0205289,
-            -26.1562932
-          ],
-          [
-            31.0181576,
-            -26.1605156
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.0181576,
-            -26.1605156
-          ],
-          [
-            30.998633,
-            -26.195585
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.998633,
-            -26.195585
-          ],
-          [
-            30.9892235,
-            -26.2124976
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.9892235,
-            -26.2124976
-          ],
-          [
-            30.961438,
-            -26.261732
-          ],
-          [
-            30.8999271,
-            -26.314376
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8999271,
-            -26.314376
-          ],
-          [
-            30.8883389,
-            -26.3273672
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8883389,
-            -26.3273672
-          ],
-          [
-            30.857558,
-            -26.383792
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.857558,
-            -26.383792
-          ],
-          [
-            30.8162885,
-            -26.4426591
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.8162885,
-            -26.4426591
-          ],
-          [
-            30.80506,
-            -26.466671
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.80506,
-            -26.466671
-          ],
-          [
-            30.80026,
-            -26.50406
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.80026,
-            -26.50406
-          ],
-          [
-            30.79101,
-            -26.6951798
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.79101,
-            -26.6951798
-          ],
-          [
-            30.793127,
-            -26.735981
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.793127,
-            -26.735981
-          ],
-          [
-            30.8132093,
-            -26.8444274
-          ],
-          [
-            30.887285,
-            -26.803585
-          ],
-          [
-            30.890428,
-            -26.7870945
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.890428,
-            -26.7870945
-          ],
-          [
-            30.897611,
-            -26.827047
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.897611,
-            -26.827047
-          ],
-          [
-            30.90742,
-            -26.85993
-          ],
-          [
-            30.97356,
-            -26.90821
-          ],
-          [
-            30.9768483,
-            -26.951092
-          ],
-          [
-            30.958326,
-            -26.992129
-          ],
-          [
-            30.98476,
-            -27.03698
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            30.98476,
-            -27.03698
-          ],
-          [
-            31.0377422,
-            -27.0796441
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.0377422,
-            -27.0796441
-          ],
-          [
-            31.15055,
-            -27.20208
-          ],
-          [
-            31.2296574,
-            -27.228141
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.2296574,
-            -27.228141
-          ],
-          [
-            31.27433,
-            -27.24317
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.27433,
-            -27.24317
-          ],
-          [
-            31.3184264,
-            -27.2575719
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.3184264,
-            -27.2575719
-          ],
-          [
-            31.367848,
-            -27.2738647
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.367848,
-            -27.2738647
-          ],
-          [
-            31.3988715,
-            -27.2840992
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.3988715,
-            -27.2840992
-          ],
-          [
-            31.4021516,
-            -27.2851567
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.4021516,
-            -27.2851567
-          ],
-          [
-            31.4136211,
-            -27.2889768
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SZ",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
-        "name": "eSwatini"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            31.4136211,
-            -27.2889768
-          ],
-          [
-            31.4838308,
-            -27.3118178
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.555899,
+              -27.315594
+            ],
+            [
+              31.58741,
+              -27.31577
+            ],
+            [
+              31.58741,
+              -27.31577
+            ],
+            [
+              31.600661,
+              -27.315842
+            ],
+            [
+              31.600661,
+              -27.315842
+            ],
+            [
+              31.622819,
+              -27.315963
+            ],
+            [
+              31.622819,
+              -27.315963
+            ],
+            [
+              31.625474,
+              -27.315978
+            ],
+            [
+              31.625474,
+              -27.315978
+            ],
+            [
+              31.70687,
+              -27.316409
+            ],
+            [
+              31.70687,
+              -27.316409
+            ],
+            [
+              31.762334,
+              -27.316648
+            ],
+            [
+              31.762334,
+              -27.316648
+            ],
+            [
+              31.83532,
+              -27.31701
+            ],
+            [
+              31.83532,
+              -27.31701
+            ],
+            [
+              31.835563,
+              -27.317011
+            ],
+            [
+              31.835563,
+              -27.317011
+            ],
+            [
+              31.882109,
+              -27.317192
+            ],
+            [
+              31.882109,
+              -27.317192
+            ],
+            [
+              31.901893,
+              -27.317265
+            ],
+            [
+              31.901893,
+              -27.317265
+            ],
+            [
+              31.94772,
+              -27.31743
+            ],
+            [
+              31.94772,
+              -27.31743
+            ],
+            [
+              31.97776,
+              -27.31752
+            ],
+            [
+              31.97776,
+              -27.31752
+            ],
+            [
+              31.976791,
+              -27.254146
+            ],
+            [
+              31.976791,
+              -27.254146
+            ],
+            [
+              31.973925,
+              -27.163695
+            ],
+            [
+              31.973925,
+              -27.163695
+            ],
+            [
+              31.9846,
+              -27.040168
+            ],
+            [
+              31.9846,
+              -27.040168
+            ],
+            [
+              31.995782,
+              -26.949675
+            ],
+            [
+              31.995782,
+              -26.949675
+            ],
+            [
+              31.997276,
+              -26.926728
+            ],
+            [
+              31.997276,
+              -26.926728
+            ],
+            [
+              32.010803,
+              -26.810358
+            ],
+            [
+              32.010803,
+              -26.810358
+            ],
+            [
+              32.01402,
+              -26.809233
+            ],
+            [
+              32.01402,
+              -26.809233
+            ],
+            [
+              32.054,
+              -26.81837
+            ],
+            [
+              32.10014,
+              -26.8051
+            ],
+            [
+              32.11942,
+              -26.83805
+            ],
+            [
+              32.11942,
+              -26.83805
+            ],
+            [
+              32.134622,
+              -26.840262
+            ],
+            [
+              32.134622,
+              -26.840262
+            ],
+            [
+              32.125517,
+              -26.507237
+            ],
+            [
+              32.125517,
+              -26.507237
+            ],
+            [
+              32.105788,
+              -26.465567
+            ],
+            [
+              32.105788,
+              -26.465567
+            ],
+            [
+              32.104596,
+              -26.463036
+            ],
+            [
+              32.104596,
+              -26.463036
+            ],
+            [
+              32.077418,
+              -26.405646
+            ],
+            [
+              32.074383,
+              -26.305709
+            ],
+            [
+              32.09844,
+              -26.194137
+            ],
+            [
+              32.09844,
+              -26.194137
+            ],
+            [
+              32.0873,
+              -26.008525
+            ],
+            [
+              32.00305,
+              -25.996945
+            ],
+            [
+              31.975191,
+              -25.952646
+            ],
+            [
+              31.975191,
+              -25.952646
+            ],
+            [
+              31.911121,
+              -25.980633
+            ],
+            [
+              31.911121,
+              -25.980633
+            ],
+            [
+              31.875508,
+              -25.996247
+            ],
+            [
+              31.875508,
+              -25.996247
+            ],
+            [
+              31.792839,
+              -25.953081
+            ],
+            [
+              31.792839,
+              -25.953081
+            ],
+            [
+              31.759777,
+              -25.932578
+            ],
+            [
+              31.759777,
+              -25.932578
+            ],
+            [
+              31.720357,
+              -25.908089
+            ],
+            [
+              31.720357,
+              -25.908089
+            ],
+            [
+              31.603387,
+              -25.835295
+            ],
+            [
+              31.603387,
+              -25.835295
+            ],
+            [
+              31.583112,
+              -25.822468
+            ],
+            [
+              31.583112,
+              -25.822468
+            ],
+            [
+              31.539645,
+              -25.794974
+            ],
+            [
+              31.539645,
+              -25.794974
+            ],
+            [
+              31.488764,
+              -25.763586
+            ],
+            [
+              31.488764,
+              -25.763586
+            ],
+            [
+              31.462615,
+              -25.747432
+            ],
+            [
+              31.462615,
+              -25.747432
+            ],
+            [
+              31.4163,
+              -25.71876
+            ],
+            [
+              31.4163,
+              -25.71876
+            ],
+            [
+              31.31594,
+              -25.74304
+            ],
+            [
+              31.31594,
+              -25.74304
+            ],
+            [
+              31.264714,
+              -25.808171
+            ],
+            [
+              31.264714,
+              -25.808171
+            ],
+            [
+              31.239993,
+              -25.82881
+            ],
+            [
+              31.239993,
+              -25.82881
+            ],
+            [
+              31.18457,
+              -25.8739
+            ],
+            [
+              31.18457,
+              -25.8739
+            ],
+            [
+              31.12657,
+              -25.92115
+            ],
+            [
+              31.12657,
+              -25.92115
+            ],
+            [
+              31.116401,
+              -25.966169
+            ],
+            [
+              31.116401,
+              -25.966169
+            ],
+            [
+              31.11275,
+              -25.98257
+            ],
+            [
+              31.11275,
+              -25.98257
+            ],
+            [
+              31.085864,
+              -26.034472
+            ],
+            [
+              31.085864,
+              -26.034472
+            ],
+            [
+              31.084964,
+              -26.036469
+            ],
+            [
+              31.084964,
+              -26.036469
+            ],
+            [
+              31.050116,
+              -26.104069
+            ],
+            [
+              31.050116,
+              -26.104069
+            ],
+            [
+              31.020529,
+              -26.156293
+            ],
+            [
+              31.020529,
+              -26.156293
+            ],
+            [
+              31.018158,
+              -26.160516
+            ],
+            [
+              31.018158,
+              -26.160516
+            ],
+            [
+              30.998633,
+              -26.195585
+            ],
+            [
+              30.998633,
+              -26.195585
+            ],
+            [
+              30.989224,
+              -26.212498
+            ],
+            [
+              30.989224,
+              -26.212498
+            ],
+            [
+              30.961438,
+              -26.261732
+            ],
+            [
+              30.899927,
+              -26.314376
+            ],
+            [
+              30.899927,
+              -26.314376
+            ],
+            [
+              30.888339,
+              -26.327367
+            ],
+            [
+              30.888339,
+              -26.327367
+            ],
+            [
+              30.857558,
+              -26.383792
+            ],
+            [
+              30.857558,
+              -26.383792
+            ],
+            [
+              30.816288,
+              -26.442659
+            ],
+            [
+              30.816288,
+              -26.442659
+            ],
+            [
+              30.80506,
+              -26.466671
+            ],
+            [
+              30.80506,
+              -26.466671
+            ],
+            [
+              30.80026,
+              -26.50406
+            ],
+            [
+              30.80026,
+              -26.50406
+            ],
+            [
+              30.79101,
+              -26.69518
+            ],
+            [
+              30.79101,
+              -26.69518
+            ],
+            [
+              30.793127,
+              -26.735981
+            ],
+            [
+              30.793127,
+              -26.735981
+            ],
+            [
+              30.813209,
+              -26.844427
+            ],
+            [
+              30.887285,
+              -26.803585
+            ],
+            [
+              30.890428,
+              -26.787094
+            ],
+            [
+              30.890428,
+              -26.787094
+            ],
+            [
+              30.897611,
+              -26.827047
+            ],
+            [
+              30.897611,
+              -26.827047
+            ],
+            [
+              30.90742,
+              -26.85993
+            ],
+            [
+              30.97356,
+              -26.90821
+            ],
+            [
+              30.976848,
+              -26.951092
+            ],
+            [
+              30.958326,
+              -26.992129
+            ],
+            [
+              30.98476,
+              -27.03698
+            ],
+            [
+              30.98476,
+              -27.03698
+            ],
+            [
+              31.037742,
+              -27.079644
+            ],
+            [
+              31.037742,
+              -27.079644
+            ],
+            [
+              31.15055,
+              -27.20208
+            ],
+            [
+              31.229657,
+              -27.228141
+            ],
+            [
+              31.229657,
+              -27.228141
+            ],
+            [
+              31.27433,
+              -27.24317
+            ],
+            [
+              31.27433,
+              -27.24317
+            ],
+            [
+              31.318426,
+              -27.257572
+            ],
+            [
+              31.318426,
+              -27.257572
+            ],
+            [
+              31.367848,
+              -27.273865
+            ],
+            [
+              31.367848,
+              -27.273865
+            ],
+            [
+              31.398871,
+              -27.284099
+            ],
+            [
+              31.398871,
+              -27.284099
+            ],
+            [
+              31.402152,
+              -27.285157
+            ],
+            [
+              31.402152,
+              -27.285157
+            ],
+            [
+              31.413621,
+              -27.288977
+            ],
+            [
+              31.413621,
+              -27.288977
+            ],
+            [
+              31.483831,
+              -27.311818
+            ],
+            [
+              31.483831,
+              -27.311818
+            ],
+            [
+              31.555899,
+              -27.315594
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "SZ",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
+        "name": "eSwatini",
+        "id": "SZ"
       }
     }
   ]

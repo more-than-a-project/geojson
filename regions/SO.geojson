@@ -3,2322 +3,1247 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.5634661,
-            9.3705978
-          ],
-          [
-            43.6429276,
-            9.3567568
-          ],
-          [
-            43.971644,
-            9.026278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.971644,
-            9.026278
-          ],
-          [
-            44.0064382,
-            8.9955251
-          ],
-          [
-            44.3802386,
-            8.874995
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.3802386,
-            8.874995
-          ],
-          [
-            44.6899986,
-            8.7725346
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.6899986,
-            8.7725346
-          ],
-          [
-            45.2900009,
-            8.57202
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.2900009,
-            8.57202
-          ],
-          [
-            45.6262438,
-            8.4617456
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.6262438,
-            8.4617456
-          ],
-          [
-            46.250015,
-            8.2543942
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.250015,
-            8.2543942
-          ],
-          [
-            47.0118848,
-            8.0007395
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.0118848,
-            8.0007395
-          ],
-          [
-            47.9199982,
-            8.0
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.9199982,
-            8.0
-          ],
-          [
-            47.9823797,
-            7.9997734
-          ],
-          [
-            47.557065,
-            7.5609488
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.557065,
-            7.5609488
-          ],
-          [
-            47.337517,
-            7.3826211
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.337517,
-            7.3826211
-          ],
-          [
-            46.8728619,
-            6.9077268
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.8728619,
-            6.9077268
-          ],
-          [
-            46.5214741,
-            6.5305194
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5214741,
-            6.5305194
-          ],
-          [
-            46.5110781,
-            6.5203314
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5110781,
-            6.5203314
-          ],
-          [
-            45.8484755,
-            5.9593474
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.8484755,
-            5.9593474
-          ],
-          [
-            45.5739276,
-            5.6939847
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.5739276,
-            5.6939847
-          ],
-          [
-            45.4109297,
-            5.5363816
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.4109297,
-            5.5363816
-          ],
-          [
-            44.9983473,
-            4.9458237
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9983473,
-            4.9458237
-          ],
-          [
-            44.9780113,
-            4.9233834
-          ],
-          [
-            44.5895692,
-            4.9319746
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.5895692,
-            4.9319746
-          ],
-          [
-            44.1539852,
-            4.9504394
-          ],
-          [
-            43.8090252,
-            4.9021071
-          ],
-          [
-            43.4346867,
-            4.794544
-          ],
-          [
-            43.1266094,
-            4.633388
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.1266094,
-            4.633388
-          ],
-          [
-            43.0347606,
-            4.5590424
-          ],
-          [
-            42.9895746,
-            4.4359751
-          ],
-          [
-            42.8841549,
-            4.3069829
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.8841549,
-            4.3069829
-          ],
-          [
-            42.8249036,
-            4.2667552
-          ],
-          [
-            42.7029924,
-            4.2603867
-          ],
-          [
-            42.554091,
-            4.2067094
-          ],
-          [
-            42.4011624,
-            4.1927315
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.4011624,
-            4.1927315
-          ],
-          [
-            42.0873715,
-            4.1791126
-          ],
-          [
-            42.0630513,
-            4.1632355
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.0630513,
-            4.1632355
-          ],
-          [
-            42.0003112,
-            4.0935225
-          ],
-          [
-            41.978884,
-            4.0953857
-          ],
-          [
-            41.9462773,
-            4.0554814
-          ],
-          [
-            41.9430166,
-            4.0166639
-          ],
-          [
-            41.9067502,
-            3.9826836
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.9067502,
-            3.9826836
-          ],
-          [
-            41.8640954,
-            3.9259408
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.8640954,
-            3.9259408
-          ],
-          [
-            41.8634766,
-            3.9251192
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.8634766,
-            3.9251192
-          ],
-          [
-            41.8587037,
-            3.9105664
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.8587037,
-            3.9105664
-          ],
-          [
-            41.6974163,
-            3.6896872
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.6974163,
-            3.6896872
-          ],
-          [
-            41.477528,
-            3.3836206
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.477528,
-            3.3836206
-          ],
-          [
-            41.3875826,
-            3.2516128
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.3875826,
-            3.2516128
-          ],
-          [
-            41.3105422,
-            3.1398136
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.3105422,
-            3.1398136
-          ],
-          [
-            41.1749439,
-            3.0120657
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.1749439,
-            3.0120657
-          ],
-          [
-            40.98918,
-            2.8282984
-          ],
-          [
-            40.9892211,
-            2.8104187
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.9892211,
-            2.8104187
-          ],
-          [
-            40.9893948,
-            2.7349166
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.9893948,
-            2.7349166
-          ],
-          [
-            40.9903722,
-            2.3099944
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.9903722,
-            2.3099944
-          ],
-          [
-            40.9915471,
-            2.1762583
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.9915471,
-            2.1762583
-          ],
-          [
-            40.9934022,
-            1.6949165
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.9934022,
-            1.6949165
-          ],
-          [
-            40.9932585,
-            1.2307847
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.9932585,
-            1.2307847
-          ],
-          [
-            40.9944436,
-            0.5163514
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.9944436,
-            0.5163514
-          ],
-          [
-            40.99466,
-            0.4613428
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.99466,
-            0.4613428
-          ],
-          [
-            40.9935391,
-            -0.120425
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.9935391,
-            -0.120425
-          ],
-          [
-            40.9933795,
-            -0.1996903
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.9933795,
-            -0.1996903
-          ],
-          [
-            40.9933761,
-            -0.7948009
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.9933761,
-            -0.7948009
-          ],
-          [
-            40.9933759,
-            -0.8339753
-          ],
-          [
-            41.5589115,
-            -1.5985737
-          ],
-          [
-            41.5593803,
-            -1.6620659
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.718166,
-            -1.8031969
-          ],
-          [
-            41.5593803,
-            -1.6620659
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.3569738,
-            0.2144481
-          ],
-          [
-            43.0259781,
-            -0.1476108
-          ],
-          [
-            42.7812538,
-            -0.3896709
-          ],
-          [
-            42.7519284,
-            -0.460542
-          ],
-          [
-            42.6040134,
-            -0.6581622
-          ],
-          [
-            42.5288305,
-            -0.7237729
-          ],
-          [
-            42.4704702,
-            -0.8191112
-          ],
-          [
-            41.9964502,
-            -1.3842227
-          ],
-          [
-            41.718166,
-            -1.8031969
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6633753,
-            0.5368891
-          ],
-          [
-            43.3569738,
-            0.2144481
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.661028,
-            1.3857399
-          ],
-          [
-            44.4620169,
-            1.2313251
-          ],
-          [
-            44.1476155,
-            0.9325525
-          ],
-          [
-            43.9134111,
-            0.7595747
-          ],
-          [
-            43.6633753,
-            0.5368891
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.2295837,
-            1.7498655
-          ],
-          [
-            44.9183218,
-            1.5679379
-          ],
-          [
-            44.661028,
-            1.3857399
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.3177585,
-            1.7868639
-          ],
-          [
-            45.2295837,
-            1.7498655
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.5509747,
-            1.9195651
-          ],
-          [
-            45.3177585,
-            1.7868639
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.2523258,
-            2.3813178
-          ],
-          [
-            46.1290082,
-            2.2681596
-          ],
-          [
-            45.9986259,
-            2.1767493
-          ],
-          [
-            45.5509747,
-            1.9195651
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.8804222,
-            3.0008072
-          ],
-          [
-            46.7094172,
-            2.8292796
-          ],
-          [
-            46.4946877,
-            2.6470526
-          ],
-          [
-            46.4336865,
-            2.5647216
-          ],
-          [
-            46.3595357,
-            2.5112045
-          ],
-          [
-            46.2523258,
-            2.3813178
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.2117866,
-            3.364465
-          ],
-          [
-            46.8804222,
-            3.0008072
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            48.0213565,
-            4.2486617
-          ],
-          [
-            47.620163,
-            3.7878816
-          ],
-          [
-            47.2117866,
-            3.364465
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            48.4940071,
-            4.9666052
-          ],
-          [
-            48.3654393,
-            4.7823364
-          ],
-          [
-            48.1561295,
-            4.4066666
-          ],
-          [
-            48.0213565,
-            4.2486617
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            49.3604849,
-            6.5734237
-          ],
-          [
-            49.2783876,
-            6.3645681
-          ],
-          [
-            49.2787801,
-            6.2824589
-          ],
-          [
-            49.2536686,
-            6.1768275
-          ],
-          [
-            49.0878995,
-            5.8240073
-          ],
-          [
-            48.8138591,
-            5.3885998
-          ],
-          [
-            48.4940071,
-            4.9666052
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            49.8103971,
-            7.2870638
-          ],
-          [
-            49.5403869,
-            6.9027104
-          ],
-          [
-            49.3953742,
-            6.6619206
-          ],
-          [
-            49.3604849,
-            6.5734237
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.3421754,
-            8.2084819
-          ],
-          [
-            50.320029,
-            8.130528
-          ],
-          [
-            50.2737066,
-            8.0558939
-          ],
-          [
-            50.1870187,
-            7.9772789
-          ],
-          [
-            50.1094846,
-            7.9341875
-          ],
-          [
-            50.0285925,
-            7.8520437
-          ],
-          [
-            50.0365272,
-            7.7808561
-          ],
-          [
-            50.0166608,
-            7.6820596
-          ],
-          [
-            49.8103971,
-            7.2870638
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.0831779,
-            9.9064383
-          ],
-          [
-            51.0140671,
-            9.5846305
-          ],
-          [
-            51.0475588,
-            9.4919734
-          ],
-          [
-            51.0339844,
-            9.3828016
-          ],
-          [
-            50.9759068,
-            9.2698779
-          ],
-          [
-            50.9018201,
-            9.1649238
-          ],
-          [
-            50.8543164,
-            9.1234078
-          ],
-          [
-            50.8394609,
-            9.0295597
-          ],
-          [
-            50.79902,
-            8.9527112
-          ],
-          [
-            50.6093385,
-            8.7706398
-          ],
-          [
-            50.503588,
-            8.4389295
-          ],
-          [
-            50.3421754,
-            8.2084819
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.3332166,
-            11.4494046
-          ],
-          [
-            51.2976658,
-            11.3148987
-          ],
-          [
-            51.3641362,
-            11.2356643
-          ],
-          [
-            51.3865363,
-            11.1432524
-          ],
-          [
-            51.3768157,
-            11.0813173
-          ],
-          [
-            51.3221611,
-            10.9499488
-          ],
-          [
-            51.3488767,
-            10.6830653
-          ],
-          [
-            51.462457,
-            10.6668245
-          ],
-          [
-            51.5270402,
-            10.6281336
-          ],
-          [
-            51.5978268,
-            10.532436
-          ],
-          [
-            51.6177696,
-            10.4248565
-          ],
-          [
-            51.5465299,
-            10.2549337
-          ],
-          [
-            51.4707552,
-            10.1863622
-          ],
-          [
-            51.3785354,
-            10.1630625
-          ],
-          [
-            51.2162023,
-            10.1826939
-          ],
-          [
-            51.1520056,
-            10.2142713
-          ],
-          [
-            51.1073798,
-            10.202838
-          ],
-          [
-            51.092417,
-            10.0880901
-          ],
-          [
-            51.1033494,
-            9.995358
-          ],
-          [
-            51.0831779,
-            9.9064383
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.2719735,
-            11.8224723
-          ],
-          [
-            50.325443,
-            11.8491255
-          ],
-          [
-            50.3765254,
-            11.9851749
-          ],
-          [
-            50.4551965,
-            12.0701655
-          ],
-          [
-            50.5485979,
-            12.1263089
-          ],
-          [
-            50.645977,
-            12.1433925
-          ],
-          [
-            50.7330056,
-            12.1845219
-          ],
-          [
-            50.8512155,
-            12.1806049
-          ],
-          [
-            51.1115419,
-            12.0726273
-          ],
-          [
-            51.3416564,
-            12.0321876
-          ],
-          [
-            51.3966717,
-            12.004779
-          ],
-          [
-            51.4578863,
-            11.9444104
-          ],
-          [
-            51.4924288,
-            11.8283699
-          ],
-          [
-            51.4402809,
-            11.5915232
-          ],
-          [
-            51.3332166,
-            11.4494046
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            49.5126296,
-            11.6463137
-          ],
-          [
-            49.6869955,
-            11.6805085
-          ],
-          [
-            49.7898297,
-            11.6612636
-          ],
-          [
-            49.9110749,
-            11.7130448
-          ],
-          [
-            50.0120309,
-            11.7061837
-          ],
-          [
-            50.2719735,
-            11.8224723
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            48.93961,
-            11.4426599
-          ],
-          [
-            49.1779116,
-            11.4948217
-          ],
-          [
-            49.2697396,
-            11.5342164
-          ],
-          [
-            49.3507681,
-            11.5329049
-          ],
-          [
-            49.4419499,
-            11.6157949
-          ],
-          [
-            49.5126296,
-            11.6463137
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.8881033,
-            11.3254731
-          ],
-          [
-            48.0739021,
-            11.3296489
-          ],
-          [
-            48.2724114,
-            11.4532313
-          ],
-          [
-            48.5096138,
-            11.5101613
-          ],
-          [
-            48.6879922,
-            11.5239748
-          ],
-          [
-            48.93961,
-            11.4426599
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.6655598,
-            10.9761747
-          ],
-          [
-            46.8202962,
-            11.0892549
-          ],
-          [
-            46.9655053,
-            11.157276
-          ],
-          [
-            47.0318657,
-            11.2269844
-          ],
-          [
-            47.067886,
-            11.3331914
-          ],
-          [
-            47.12924,
-            11.3923041
-          ],
-          [
-            47.1908871,
-            11.4211957
-          ],
-          [
-            47.2932604,
-            11.4244235
-          ],
-          [
-            47.3865482,
-            11.3756183
-          ],
-          [
-            47.5935746,
-            11.3741214
-          ],
-          [
-            47.7093276,
-            11.3071732
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.7093276,
-            11.3071732
-          ],
-          [
-            47.8881033,
-            11.3254731
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.0447589,
-            10.9750742
-          ],
-          [
-            46.0947914,
-            10.9655199
-          ],
-          [
-            46.2665595,
-            10.9813261
-          ],
-          [
-            46.3611353,
-            10.9447018
-          ],
-          [
-            46.4278053,
-            10.8918763
-          ],
-          [
-            46.5757923,
-            10.9289261
-          ],
-          [
-            46.6655598,
-            10.9761747
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.3890544,
-            10.6069294
-          ],
-          [
-            44.5818897,
-            10.5845245
-          ],
-          [
-            44.7469278,
-            10.6194082
-          ],
-          [
-            44.8665589,
-            10.6110462
-          ],
-          [
-            44.9966163,
-            10.6881329
-          ],
-          [
-            45.107706,
-            10.7267956
-          ],
-          [
-            45.2347888,
-            10.8428285
-          ],
-          [
-            45.309249,
-            10.8634467
-          ],
-          [
-            45.3893634,
-            10.8612964
-          ],
-          [
-            45.6799225,
-            11.0388101
-          ],
-          [
-            45.767303,
-            11.0661823
-          ],
-          [
-            45.8721447,
-            11.0585077
-          ],
-          [
-            46.0447589,
-            10.9750742
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.1855481,
-            10.7711466
-          ],
-          [
-            44.3890544,
-            10.6069294
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.8641404,
-            11.0534589
-          ],
-          [
-            44.0336791,
-            10.8784237
-          ],
-          [
-            44.1855481,
-            10.7711466
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.425311,
-            11.711432
-          ],
-          [
-            43.5444694,
-            11.700291
-          ],
-          [
-            43.6403334,
-            11.6202153
-          ],
-          [
-            43.707212,
-            11.4135855
-          ],
-          [
-            43.7021122,
-            11.314187
-          ],
-          [
-            43.8641404,
-            11.0534589
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2574443,
-            11.4610728
-          ],
-          [
-            43.3442521,
-            11.6223286
-          ],
-          [
-            43.425311,
-            11.711432
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2574443,
-            11.4610728
-          ],
-          [
-            43.2280068,
-            11.4119034
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2280068,
-            11.4119034
-          ],
-          [
-            42.96164,
-            10.98441
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.96164,
-            10.98441
-          ],
-          [
-            42.7657753,
-            10.7216226
-          ],
-          [
-            42.7098797,
-            10.6221873
-          ],
-          [
-            42.7198821,
-            10.5336369
-          ],
-          [
-            42.7471356,
-            10.5119494
-          ],
-          [
-            42.8177444,
-            10.318312
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.8177444,
-            10.318312
-          ],
-          [
-            42.8873443,
-            10.1896995
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.8873443,
-            10.1896995
-          ],
-          [
-            43.0247911,
-            10.0510533
-          ],
-          [
-            43.0902762,
-            9.9042515
-          ],
-          [
-            43.1291604,
-            9.8862864
-          ],
-          [
-            43.1500369,
-            9.8992399
-          ],
-          [
-            43.2569505,
-            9.8428969
-          ],
-          [
-            43.2862243,
-            9.6736703
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
-        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2862243,
-            9.6736703
-          ],
-          [
-            43.2982271,
-            9.6060745
-          ],
-          [
-            43.3301664,
-            9.6017074
-          ],
-          [
-            43.3997997,
-            9.5520162
-          ],
-          [
-            43.4635587,
-            9.4157664
-          ],
-          [
-            43.5634661,
-            9.3705978
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.971644,
+              9.026278
+            ],
+            [
+              44.006438,
+              8.995525
+            ],
+            [
+              44.380239,
+              8.874995
+            ],
+            [
+              44.380239,
+              8.874995
+            ],
+            [
+              44.689999,
+              8.772535
+            ],
+            [
+              44.689999,
+              8.772535
+            ],
+            [
+              45.290001,
+              8.57202
+            ],
+            [
+              45.290001,
+              8.57202
+            ],
+            [
+              45.626244,
+              8.461746
+            ],
+            [
+              45.626244,
+              8.461746
+            ],
+            [
+              46.250015,
+              8.254394
+            ],
+            [
+              46.250015,
+              8.254394
+            ],
+            [
+              47.011885,
+              8.000739
+            ],
+            [
+              47.011885,
+              8.000739
+            ],
+            [
+              47.919998,
+              8.0
+            ],
+            [
+              47.919998,
+              8.0
+            ],
+            [
+              47.98238,
+              7.999773
+            ],
+            [
+              47.557065,
+              7.560949
+            ],
+            [
+              47.557065,
+              7.560949
+            ],
+            [
+              47.337517,
+              7.382621
+            ],
+            [
+              47.337517,
+              7.382621
+            ],
+            [
+              46.872862,
+              6.907727
+            ],
+            [
+              46.872862,
+              6.907727
+            ],
+            [
+              46.521474,
+              6.530519
+            ],
+            [
+              46.521474,
+              6.530519
+            ],
+            [
+              46.511078,
+              6.520331
+            ],
+            [
+              46.511078,
+              6.520331
+            ],
+            [
+              45.848475,
+              5.959347
+            ],
+            [
+              45.848475,
+              5.959347
+            ],
+            [
+              45.573928,
+              5.693985
+            ],
+            [
+              45.573928,
+              5.693985
+            ],
+            [
+              45.41093,
+              5.536382
+            ],
+            [
+              45.41093,
+              5.536382
+            ],
+            [
+              44.998347,
+              4.945824
+            ],
+            [
+              44.998347,
+              4.945824
+            ],
+            [
+              44.978011,
+              4.923383
+            ],
+            [
+              44.589569,
+              4.931975
+            ],
+            [
+              44.589569,
+              4.931975
+            ],
+            [
+              44.153985,
+              4.950439
+            ],
+            [
+              43.809025,
+              4.902107
+            ],
+            [
+              43.434687,
+              4.794544
+            ],
+            [
+              43.126609,
+              4.633388
+            ],
+            [
+              43.126609,
+              4.633388
+            ],
+            [
+              43.034761,
+              4.559042
+            ],
+            [
+              42.989575,
+              4.435975
+            ],
+            [
+              42.884155,
+              4.306983
+            ],
+            [
+              42.884155,
+              4.306983
+            ],
+            [
+              42.824904,
+              4.266755
+            ],
+            [
+              42.702992,
+              4.260387
+            ],
+            [
+              42.554091,
+              4.206709
+            ],
+            [
+              42.401162,
+              4.192731
+            ],
+            [
+              42.401162,
+              4.192731
+            ],
+            [
+              42.087372,
+              4.179113
+            ],
+            [
+              42.063051,
+              4.163235
+            ],
+            [
+              42.063051,
+              4.163235
+            ],
+            [
+              42.000311,
+              4.093522
+            ],
+            [
+              41.978884,
+              4.095386
+            ],
+            [
+              41.946277,
+              4.055481
+            ],
+            [
+              41.943017,
+              4.016664
+            ],
+            [
+              41.90675,
+              3.982684
+            ],
+            [
+              41.90675,
+              3.982684
+            ],
+            [
+              41.864095,
+              3.925941
+            ],
+            [
+              41.864095,
+              3.925941
+            ],
+            [
+              41.863477,
+              3.925119
+            ],
+            [
+              41.863477,
+              3.925119
+            ],
+            [
+              41.858704,
+              3.910566
+            ],
+            [
+              41.858704,
+              3.910566
+            ],
+            [
+              41.697416,
+              3.689687
+            ],
+            [
+              41.697416,
+              3.689687
+            ],
+            [
+              41.477528,
+              3.383621
+            ],
+            [
+              41.477528,
+              3.383621
+            ],
+            [
+              41.387583,
+              3.251613
+            ],
+            [
+              41.387583,
+              3.251613
+            ],
+            [
+              41.310542,
+              3.139814
+            ],
+            [
+              41.310542,
+              3.139814
+            ],
+            [
+              41.174944,
+              3.012066
+            ],
+            [
+              41.174944,
+              3.012066
+            ],
+            [
+              40.98918,
+              2.828298
+            ],
+            [
+              40.989221,
+              2.810419
+            ],
+            [
+              40.989221,
+              2.810419
+            ],
+            [
+              40.989395,
+              2.734917
+            ],
+            [
+              40.989395,
+              2.734917
+            ],
+            [
+              40.990372,
+              2.309994
+            ],
+            [
+              40.990372,
+              2.309994
+            ],
+            [
+              40.991547,
+              2.176258
+            ],
+            [
+              40.991547,
+              2.176258
+            ],
+            [
+              40.993402,
+              1.694916
+            ],
+            [
+              40.993402,
+              1.694916
+            ],
+            [
+              40.993259,
+              1.230785
+            ],
+            [
+              40.993259,
+              1.230785
+            ],
+            [
+              40.994444,
+              0.516351
+            ],
+            [
+              40.994444,
+              0.516351
+            ],
+            [
+              40.99466,
+              0.461343
+            ],
+            [
+              40.99466,
+              0.461343
+            ],
+            [
+              40.993539,
+              -0.120425
+            ],
+            [
+              40.993539,
+              -0.120425
+            ],
+            [
+              40.99338,
+              -0.19969
+            ],
+            [
+              40.99338,
+              -0.19969
+            ],
+            [
+              40.993376,
+              -0.794801
+            ],
+            [
+              40.993376,
+              -0.794801
+            ],
+            [
+              40.993376,
+              -0.833975
+            ],
+            [
+              41.558912,
+              -1.598574
+            ],
+            [
+              41.55938,
+              -1.662066
+            ],
+            [
+              41.55938,
+              -1.662066
+            ],
+            [
+              41.718166,
+              -1.803197
+            ],
+            [
+              41.718166,
+              -1.803197
+            ],
+            [
+              41.99645,
+              -1.384223
+            ],
+            [
+              42.47047,
+              -0.819111
+            ],
+            [
+              42.52883,
+              -0.723773
+            ],
+            [
+              42.604013,
+              -0.658162
+            ],
+            [
+              42.751928,
+              -0.460542
+            ],
+            [
+              42.781254,
+              -0.389671
+            ],
+            [
+              43.025978,
+              -0.147611
+            ],
+            [
+              43.356974,
+              0.214448
+            ],
+            [
+              43.356974,
+              0.214448
+            ],
+            [
+              43.663375,
+              0.536889
+            ],
+            [
+              43.663375,
+              0.536889
+            ],
+            [
+              43.913411,
+              0.759575
+            ],
+            [
+              44.147616,
+              0.932553
+            ],
+            [
+              44.462017,
+              1.231325
+            ],
+            [
+              44.661028,
+              1.38574
+            ],
+            [
+              44.661028,
+              1.38574
+            ],
+            [
+              44.918322,
+              1.567938
+            ],
+            [
+              45.229584,
+              1.749866
+            ],
+            [
+              45.229584,
+              1.749866
+            ],
+            [
+              45.317758,
+              1.786864
+            ],
+            [
+              45.317758,
+              1.786864
+            ],
+            [
+              45.550975,
+              1.919565
+            ],
+            [
+              45.550975,
+              1.919565
+            ],
+            [
+              45.998626,
+              2.176749
+            ],
+            [
+              46.129008,
+              2.26816
+            ],
+            [
+              46.252326,
+              2.381318
+            ],
+            [
+              46.252326,
+              2.381318
+            ],
+            [
+              46.359536,
+              2.511204
+            ],
+            [
+              46.433687,
+              2.564722
+            ],
+            [
+              46.494688,
+              2.647053
+            ],
+            [
+              46.709417,
+              2.82928
+            ],
+            [
+              46.880422,
+              3.000807
+            ],
+            [
+              46.880422,
+              3.000807
+            ],
+            [
+              47.211787,
+              3.364465
+            ],
+            [
+              47.211787,
+              3.364465
+            ],
+            [
+              47.620163,
+              3.787882
+            ],
+            [
+              48.021357,
+              4.248662
+            ],
+            [
+              48.021357,
+              4.248662
+            ],
+            [
+              48.156129,
+              4.406667
+            ],
+            [
+              48.365439,
+              4.782336
+            ],
+            [
+              48.494007,
+              4.966605
+            ],
+            [
+              48.494007,
+              4.966605
+            ],
+            [
+              48.813859,
+              5.3886
+            ],
+            [
+              49.087899,
+              5.824007
+            ],
+            [
+              49.253669,
+              6.176827
+            ],
+            [
+              49.27878,
+              6.282459
+            ],
+            [
+              49.278388,
+              6.364568
+            ],
+            [
+              49.360485,
+              6.573424
+            ],
+            [
+              49.360485,
+              6.573424
+            ],
+            [
+              49.395374,
+              6.661921
+            ],
+            [
+              49.540387,
+              6.90271
+            ],
+            [
+              49.810397,
+              7.287064
+            ],
+            [
+              49.810397,
+              7.287064
+            ],
+            [
+              50.016661,
+              7.68206
+            ],
+            [
+              50.036527,
+              7.780856
+            ],
+            [
+              50.028593,
+              7.852044
+            ],
+            [
+              50.109485,
+              7.934188
+            ],
+            [
+              50.187019,
+              7.977279
+            ],
+            [
+              50.273707,
+              8.055894
+            ],
+            [
+              50.320029,
+              8.130528
+            ],
+            [
+              50.342175,
+              8.208482
+            ],
+            [
+              50.342175,
+              8.208482
+            ],
+            [
+              50.503588,
+              8.43893
+            ],
+            [
+              50.609338,
+              8.77064
+            ],
+            [
+              50.79902,
+              8.952711
+            ],
+            [
+              50.839461,
+              9.02956
+            ],
+            [
+              50.854316,
+              9.123408
+            ],
+            [
+              50.90182,
+              9.164924
+            ],
+            [
+              50.975907,
+              9.269878
+            ],
+            [
+              51.033984,
+              9.382802
+            ],
+            [
+              51.047559,
+              9.491973
+            ],
+            [
+              51.014067,
+              9.58463
+            ],
+            [
+              51.083178,
+              9.906438
+            ],
+            [
+              51.083178,
+              9.906438
+            ],
+            [
+              51.103349,
+              9.995358
+            ],
+            [
+              51.092417,
+              10.08809
+            ],
+            [
+              51.10738,
+              10.202838
+            ],
+            [
+              51.152006,
+              10.214271
+            ],
+            [
+              51.216202,
+              10.182694
+            ],
+            [
+              51.378535,
+              10.163063
+            ],
+            [
+              51.470755,
+              10.186362
+            ],
+            [
+              51.54653,
+              10.254934
+            ],
+            [
+              51.61777,
+              10.424857
+            ],
+            [
+              51.597827,
+              10.532436
+            ],
+            [
+              51.52704,
+              10.628134
+            ],
+            [
+              51.462457,
+              10.666825
+            ],
+            [
+              51.348877,
+              10.683065
+            ],
+            [
+              51.322161,
+              10.949949
+            ],
+            [
+              51.376816,
+              11.081317
+            ],
+            [
+              51.386536,
+              11.143252
+            ],
+            [
+              51.364136,
+              11.235664
+            ],
+            [
+              51.297666,
+              11.314899
+            ],
+            [
+              51.333217,
+              11.449405
+            ],
+            [
+              51.333217,
+              11.449405
+            ],
+            [
+              51.440281,
+              11.591523
+            ],
+            [
+              51.492429,
+              11.82837
+            ],
+            [
+              51.457886,
+              11.94441
+            ],
+            [
+              51.396672,
+              12.004779
+            ],
+            [
+              51.341656,
+              12.032188
+            ],
+            [
+              51.111542,
+              12.072627
+            ],
+            [
+              50.851216,
+              12.180605
+            ],
+            [
+              50.733006,
+              12.184522
+            ],
+            [
+              50.645977,
+              12.143392
+            ],
+            [
+              50.548598,
+              12.126309
+            ],
+            [
+              50.455196,
+              12.070165
+            ],
+            [
+              50.376525,
+              11.985175
+            ],
+            [
+              50.325443,
+              11.849125
+            ],
+            [
+              50.271974,
+              11.822472
+            ],
+            [
+              50.271974,
+              11.822472
+            ],
+            [
+              50.012031,
+              11.706184
+            ],
+            [
+              49.911075,
+              11.713045
+            ],
+            [
+              49.78983,
+              11.661264
+            ],
+            [
+              49.686996,
+              11.680509
+            ],
+            [
+              49.51263,
+              11.646314
+            ],
+            [
+              49.51263,
+              11.646314
+            ],
+            [
+              49.44195,
+              11.615795
+            ],
+            [
+              49.350768,
+              11.532905
+            ],
+            [
+              49.26974,
+              11.534216
+            ],
+            [
+              49.177912,
+              11.494822
+            ],
+            [
+              48.93961,
+              11.44266
+            ],
+            [
+              48.93961,
+              11.44266
+            ],
+            [
+              48.687992,
+              11.523975
+            ],
+            [
+              48.509614,
+              11.510161
+            ],
+            [
+              48.272411,
+              11.453231
+            ],
+            [
+              48.073902,
+              11.329649
+            ],
+            [
+              47.888103,
+              11.325473
+            ],
+            [
+              47.888103,
+              11.325473
+            ],
+            [
+              47.709328,
+              11.307173
+            ],
+            [
+              47.709328,
+              11.307173
+            ],
+            [
+              47.593575,
+              11.374121
+            ],
+            [
+              47.386548,
+              11.375618
+            ],
+            [
+              47.29326,
+              11.424423
+            ],
+            [
+              47.190887,
+              11.421196
+            ],
+            [
+              47.12924,
+              11.392304
+            ],
+            [
+              47.067886,
+              11.333191
+            ],
+            [
+              47.031866,
+              11.226984
+            ],
+            [
+              46.965505,
+              11.157276
+            ],
+            [
+              46.820296,
+              11.089255
+            ],
+            [
+              46.66556,
+              10.976175
+            ],
+            [
+              46.66556,
+              10.976175
+            ],
+            [
+              46.575792,
+              10.928926
+            ],
+            [
+              46.427805,
+              10.891876
+            ],
+            [
+              46.361135,
+              10.944702
+            ],
+            [
+              46.266559,
+              10.981326
+            ],
+            [
+              46.094791,
+              10.96552
+            ],
+            [
+              46.044759,
+              10.975074
+            ],
+            [
+              46.044759,
+              10.975074
+            ],
+            [
+              45.872145,
+              11.058508
+            ],
+            [
+              45.767303,
+              11.066182
+            ],
+            [
+              45.679923,
+              11.03881
+            ],
+            [
+              45.389363,
+              10.861296
+            ],
+            [
+              45.309249,
+              10.863447
+            ],
+            [
+              45.234789,
+              10.842828
+            ],
+            [
+              45.107706,
+              10.726796
+            ],
+            [
+              44.996616,
+              10.688133
+            ],
+            [
+              44.866559,
+              10.611046
+            ],
+            [
+              44.746928,
+              10.619408
+            ],
+            [
+              44.58189,
+              10.584525
+            ],
+            [
+              44.389054,
+              10.606929
+            ],
+            [
+              44.389054,
+              10.606929
+            ],
+            [
+              44.185548,
+              10.771147
+            ],
+            [
+              44.185548,
+              10.771147
+            ],
+            [
+              44.033679,
+              10.878424
+            ],
+            [
+              43.86414,
+              11.053459
+            ],
+            [
+              43.86414,
+              11.053459
+            ],
+            [
+              43.702112,
+              11.314187
+            ],
+            [
+              43.707212,
+              11.413585
+            ],
+            [
+              43.640333,
+              11.620215
+            ],
+            [
+              43.544469,
+              11.700291
+            ],
+            [
+              43.425311,
+              11.711432
+            ],
+            [
+              43.425311,
+              11.711432
+            ],
+            [
+              43.344252,
+              11.622329
+            ],
+            [
+              43.257444,
+              11.461073
+            ],
+            [
+              43.257444,
+              11.461073
+            ],
+            [
+              43.228007,
+              11.411903
+            ],
+            [
+              43.228007,
+              11.411903
+            ],
+            [
+              42.96164,
+              10.98441
+            ],
+            [
+              42.96164,
+              10.98441
+            ],
+            [
+              42.765775,
+              10.721623
+            ],
+            [
+              42.70988,
+              10.622187
+            ],
+            [
+              42.719882,
+              10.533637
+            ],
+            [
+              42.747136,
+              10.511949
+            ],
+            [
+              42.817744,
+              10.318312
+            ],
+            [
+              42.817744,
+              10.318312
+            ],
+            [
+              42.887344,
+              10.189699
+            ],
+            [
+              42.887344,
+              10.189699
+            ],
+            [
+              43.024791,
+              10.051053
+            ],
+            [
+              43.090276,
+              9.904252
+            ],
+            [
+              43.12916,
+              9.886286
+            ],
+            [
+              43.150037,
+              9.89924
+            ],
+            [
+              43.256951,
+              9.842897
+            ],
+            [
+              43.286224,
+              9.67367
+            ],
+            [
+              43.286224,
+              9.67367
+            ],
+            [
+              43.298227,
+              9.606075
+            ],
+            [
+              43.330166,
+              9.601707
+            ],
+            [
+              43.3998,
+              9.552016
+            ],
+            [
+              43.463559,
+              9.415766
+            ],
+            [
+              43.563466,
+              9.370598
+            ],
+            [
+              43.563466,
+              9.370598
+            ],
+            [
+              43.642928,
+              9.356757
+            ],
+            [
+              43.971644,
+              9.026278
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "SO",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
+        "name": "Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644",
+        "id": "SO"
       }
     }
   ]

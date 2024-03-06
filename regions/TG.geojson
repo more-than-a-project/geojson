@@ -3,3368 +3,1607 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.0021053,
-            11.0929682
-          ],
-          [
-            0.0254613,
-            11.0351092
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.0254613,
-            11.0351092
-          ],
-          [
-            0.0335263,
-            10.9788062
-          ],
-          [
-            0.0138652,
-            10.9697752
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.0138652,
-            10.9697752
-          ],
-          [
-            -0.0118206,
-            10.9441466
-          ],
-          [
-            -0.0231831,
-            10.8257385
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.0231831,
-            10.8257385
-          ],
-          [
-            -0.0699673,
-            10.7709824
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.0699673,
-            10.7709824
-          ],
-          [
-            -0.0725591,
-            10.7194886
-          ],
-          [
-            -0.0890524,
-            10.7135406
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.0890524,
-            10.7135406
-          ],
-          [
-            -0.078258,
-            10.690268
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.078258,
-            10.690268
-          ],
-          [
-            -0.059247,
-            10.632333
-          ],
-          [
-            0.041287,
-            10.601442
-          ],
-          [
-            0.060996,
-            10.560818
-          ],
-          [
-            0.145092,
-            10.5190371
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.145092,
-            10.5190371
-          ],
-          [
-            0.15426,
-            10.46508
-          ],
-          [
-            0.190356,
-            10.404317
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.190356,
-            10.404317
-          ],
-          [
-            0.1940781,
-            10.4029346
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.1940781,
-            10.4029346
-          ],
-          [
-            0.217696,
-            10.426923
-          ],
-          [
-            0.259261,
-            10.407587
-          ],
-          [
-            0.284481,
-            10.422458
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.284481,
-            10.422458
-          ],
-          [
-            0.30042,
-            10.402501
-          ],
-          [
-            0.290145,
-            10.376721
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.290145,
-            10.376721
-          ],
-          [
-            0.337212,
-            10.329093
-          ],
-          [
-            0.316164,
-            10.31074
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.316164,
-            10.31074
-          ],
-          [
-            0.395816,
-            10.314269
-          ],
-          [
-            0.369517,
-            10.284839
-          ],
-          [
-            0.3817512,
-            10.2732111
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.3817512,
-            10.2732111
-          ],
-          [
-            0.3615908,
-            10.2581078
-          ],
-          [
-            0.3530763,
-            10.0986805
-          ],
-          [
-            0.4160052,
-            10.0624788
-          ],
-          [
-            0.409627,
-            10.0208829
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.409627,
-            10.0208829
-          ],
-          [
-            0.3610428,
-            10.0306108
-          ],
-          [
-            0.3586711,
-            9.9888846
-          ],
-          [
-            0.3872639,
-            9.9494365
-          ],
-          [
-            0.3664528,
-            9.9315335
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.3664528,
-            9.9315335
-          ],
-          [
-            0.3512794,
-            9.9041698
-          ],
-          [
-            0.357399,
-            9.8466959
-          ],
-          [
-            0.3189048,
-            9.7278978
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.3189048,
-            9.7278978
-          ],
-          [
-            0.3448022,
-            9.7176855
-          ],
-          [
-            0.3510083,
-            9.6759226
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.3510083,
-            9.6759226
-          ],
-          [
-            0.3823734,
-            9.6449258
-          ],
-          [
-            0.3730001,
-            9.6081555
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.3730001,
-            9.6081555
-          ],
-          [
-            0.38369,
-            9.5914565
-          ],
-          [
-            0.3579479,
-            9.5732761
-          ],
-          [
-            0.2396178,
-            9.5741438
-          ],
-          [
-            0.2432501,
-            9.5245324
-          ],
-          [
-            0.2970869,
-            9.5228496
-          ],
-          [
-            0.3111942,
-            9.5066307
-          ],
-          [
-            0.2697037,
-            9.4788742
-          ],
-          [
-            0.2290404,
-            9.4859498
-          ],
-          [
-            0.2471797,
-            9.4380001
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.346056,
-            9.48867
-          ],
-          [
-            0.331704,
-            9.448234
-          ],
-          [
-            0.275777,
-            9.427417
-          ],
-          [
-            0.2471797,
-            9.4380001
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.414978,
-            9.496388
-          ],
-          [
-            0.346056,
-            9.48867
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.5509236,
-            9.4232862
-          ],
-          [
-            0.499967,
-            9.437939
-          ],
-          [
-            0.505662,
-            9.467607
-          ],
-          [
-            0.488754,
-            9.4869
-          ],
-          [
-            0.414978,
-            9.496388
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.5670034,
-            9.4059263
-          ],
-          [
-            0.5509236,
-            9.4232862
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.4843346,
-            9.1009825
-          ],
-          [
-            0.476761,
-            9.144977
-          ],
-          [
-            0.51157,
-            9.163661
-          ],
-          [
-            0.533602,
-            9.209416
-          ],
-          [
-            0.506066,
-            9.257323
-          ],
-          [
-            0.555794,
-            9.311206
-          ],
-          [
-            0.545134,
-            9.340876
-          ],
-          [
-            0.5670034,
-            9.4059263
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.480983,
-            8.979319
-          ],
-          [
-            0.456238,
-            9.043858
-          ],
-          [
-            0.4843346,
-            9.1009825
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.5203435,
-            8.8711456
-          ],
-          [
-            0.516568,
-            8.938686
-          ],
-          [
-            0.480983,
-            8.979319
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.5203435,
-            8.8711456
-          ],
-          [
-            0.519538,
-            8.852986
-          ],
-          [
-            0.495796,
-            8.839261
-          ],
-          [
-            0.491319,
-            8.800359
-          ],
-          [
-            0.469049,
-            8.79178
-          ],
-          [
-            0.448214,
-            8.811355
-          ],
-          [
-            0.42777,
-            8.779136
-          ],
-          [
-            0.3803832,
-            8.7928176
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.3803832,
-            8.7928176
-          ],
-          [
-            0.378167,
-            8.771988
-          ],
-          [
-            0.40092,
-            8.756869
-          ],
-          [
-            0.373978,
-            8.754942
-          ],
-          [
-            0.3826689,
-            8.7395378
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.3826689,
-            8.7395378
-          ],
-          [
-            0.471471,
-            8.599504
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.471471,
-            8.599504
-          ],
-          [
-            0.494451,
-            8.595063
-          ],
-          [
-            0.511813,
-            8.563565
-          ],
-          [
-            0.5299646,
-            8.5700206
-          ],
-          [
-            0.553671,
-            8.553357
-          ],
-          [
-            0.571388,
-            8.524106
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.571388,
-            8.524106
-          ],
-          [
-            0.644952,
-            8.494424
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.644952,
-            8.494424
-          ],
-          [
-            0.651659,
-            8.42244
-          ],
-          [
-            0.696493,
-            8.40474
-          ],
-          [
-            0.712553,
-            8.376809
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.712553,
-            8.376809
-          ],
-          [
-            0.731133,
-            8.286651
-          ],
-          [
-            0.688029,
-            8.280756
-          ],
-          [
-            0.674354,
-            8.259463
-          ],
-          [
-            0.638437,
-            8.260299
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.638437,
-            8.260299
-          ],
-          [
-            0.61929,
-            8.215801
-          ],
-          [
-            0.588614,
-            8.202469
-          ],
-          [
-            0.613856,
-            8.185164
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.613856,
-            8.185164
-          ],
-          [
-            0.584887,
-            8.097338
-          ],
-          [
-            0.597356,
-            8.061313
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.597356,
-            8.061313
-          ],
-          [
-            0.608242,
-            7.992083
-          ],
-          [
-            0.596606,
-            7.986999
-          ],
-          [
-            0.6206079,
-            7.9056882
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.6206079,
-            7.9056882
-          ],
-          [
-            0.6212822,
-            7.9013606
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.6212822,
-            7.9013606
-          ],
-          [
-            0.623881,
-            7.884681
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.623881,
-            7.884681
-          ],
-          [
-            0.617196,
-            7.796369
-          ],
-          [
-            0.631013,
-            7.767487
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.631013,
-            7.767487
-          ],
-          [
-            0.611434,
-            7.754866
-          ],
-          [
-            0.627113,
-            7.704283
-          ],
-          [
-            0.594896,
-            7.707068
-          ],
-          [
-            0.584244,
-            7.675342
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.584244,
-            7.675342
-          ],
-          [
-            0.586039,
-            7.622082
-          ],
-          [
-            0.51809,
-            7.592577
-          ],
-          [
-            0.5204075,
-            7.5200653
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.5204075,
-            7.5200653
-          ],
-          [
-            0.520325,
-            7.455266
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.520325,
-            7.455266
-          ],
-          [
-            0.532282,
-            7.457117
-          ],
-          [
-            0.535662,
-            7.426474
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.535662,
-            7.426474
-          ],
-          [
-            0.568686,
-            7.392208
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.568686,
-            7.392208
-          ],
-          [
-            0.61853,
-            7.412817
-          ],
-          [
-            0.644127,
-            7.40116
-          ],
-          [
-            0.653426,
-            7.337756
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.653426,
-            7.337756
-          ],
-          [
-            0.6433412,
-            7.2630613
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.6433412,
-            7.2630613
-          ],
-          [
-            0.616657,
-            7.181951
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.616657,
-            7.181951
-          ],
-          [
-            0.5958577,
-            7.1277632
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.5958577,
-            7.1277632
-          ],
-          [
-            0.591146,
-            7.111518
-          ],
-          [
-            0.609954,
-            7.105893
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.6057613,
-            7.0753934
-          ],
-          [
-            0.609954,
-            7.105893
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.6057613,
-            7.0753934
-          ],
-          [
-            0.59482,
-            7.002866
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.59482,
-            7.002866
-          ],
-          [
-            0.522706,
-            6.973193
-          ],
-          [
-            0.526272,
-            6.94122
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.526272,
-            6.94122
-          ],
-          [
-            0.566006,
-            6.921055
-          ],
-          [
-            0.558465,
-            6.887597
-          ],
-          [
-            0.535279,
-            6.876503
-          ],
-          [
-            0.531469,
-            6.833172
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.531469,
-            6.833172
-          ],
-          [
-            0.5343255,
-            6.8275003
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.57984,
-            6.807286
-          ],
-          [
-            0.548287,
-            6.833622
-          ],
-          [
-            0.5343255,
-            6.8275003
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.582411,
-            6.761584
-          ],
-          [
-            0.566499,
-            6.782703
-          ],
-          [
-            0.57984,
-            6.807286
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.650103,
-            6.737243
-          ],
-          [
-            0.582411,
-            6.761584
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.649652,
-            6.674318
-          ],
-          [
-            0.650103,
-            6.737243
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.649652,
-            6.674318
-          ],
-          [
-            0.6387144,
-            6.6545639
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.6387466,
-            6.6543401
-          ],
-          [
-            0.6387144,
-            6.6545639
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.6387466,
-            6.6543401
-          ],
-          [
-            0.63672,
-            6.633775
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.63672,
-            6.633775
-          ],
-          [
-            0.68415,
-            6.597625
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.747563,
-            6.562948
-          ],
-          [
-            0.728265,
-            6.593984
-          ],
-          [
-            0.68415,
-            6.597625
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.7283789,
-            6.5467524
-          ],
-          [
-            0.747563,
-            6.562948
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.714092,
-            6.531119
-          ],
-          [
-            0.7283789,
-            6.5467524
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.7169632,
-            6.5176461
-          ],
-          [
-            0.714092,
-            6.531119
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.7492239,
-            6.4481893
-          ],
-          [
-            0.744045,
-            6.483204
-          ],
-          [
-            0.7169632,
-            6.5176461
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.9639977,
-            6.3349512
-          ],
-          [
-            0.892177,
-            6.335511
-          ],
-          [
-            0.8577489,
-            6.3830728
-          ],
-          [
-            0.7875824,
-            6.413225
-          ],
-          [
-            0.782563,
-            6.433095
-          ],
-          [
-            0.7492239,
-            6.4481893
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.0828774,
-            6.1695017
-          ],
-          [
-            1.063258,
-            6.223399
-          ],
-          [
-            1.024198,
-            6.256126
-          ],
-          [
-            1.004332,
-            6.334456
-          ],
-          [
-            0.9639977,
-            6.3349512
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.1772951,
-            6.1692469
-          ],
-          [
-            1.0828774,
-            6.1695017
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.1772951,
-            6.1692469
-          ],
-          [
-            1.1994381,
-            6.1691206
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.1994381,
-            6.1691206
-          ],
-          [
-            1.1994065,
-            6.1595676
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.1994065,
-            6.1595676
-          ],
-          [
-            1.1995673,
-            6.151197
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.1995673,
-            6.151197
-          ],
-          [
-            1.1994256,
-            6.1366238
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.1994256,
-            6.1366238
-          ],
-          [
-            1.199519,
-            6.1341899
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.199519,
-            6.1341899
-          ],
-          [
-            1.1994194,
-            6.1234668
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.1994194,
-            6.1234668
-          ],
-          [
-            1.1996314,
-            6.1123604
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.1996314,
-            6.1123604
-          ],
-          [
-            1.2732942,
-            5.926547
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.2732942,
-            5.926547
-          ],
-          [
-            1.3568904,
-            5.9449069
-          ],
-          [
-            1.4379938,
-            5.9853334
-          ],
-          [
-            1.6730241,
-            6.0398696
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.6288049,
-            6.2351358
-          ],
-          [
-            1.6730241,
-            6.0398696
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.6295536,
-            6.2416179
-          ],
-          [
-            1.6288049,
-            6.2351358
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.7666561,
-            6.2763649
-          ],
-          [
-            1.6295536,
-            6.2416179
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.8087257,
-            6.2886758
-          ],
-          [
-            1.7666561,
-            6.2763649
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.758034,
-            6.4595933
-          ],
-          [
-            1.7555871,
-            6.4434946
-          ],
-          [
-            1.7788189,
-            6.4256728
-          ],
-          [
-            1.7633566,
-            6.4117168
-          ],
-          [
-            1.7848438,
-            6.3824863
-          ],
-          [
-            1.7877138,
-            6.3078872
-          ],
-          [
-            1.8087257,
-            6.2886758
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.6976413,
-            6.5552345
-          ],
-          [
-            1.693843,
-            6.5044323
-          ],
-          [
-            1.7378131,
-            6.4877704
-          ],
-          [
-            1.7317268,
-            6.4763238
-          ],
-          [
-            1.7526099,
-            6.4750954
-          ],
-          [
-            1.758034,
-            6.4595933
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.644522,
-            6.5870415
-          ],
-          [
-            1.6671922,
-            6.5797228
-          ],
-          [
-            1.6581777,
-            6.5719577
-          ],
-          [
-            1.6710301,
-            6.5555798
-          ],
-          [
-            1.6976413,
-            6.5552345
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.5754397,
-            6.6912794
-          ],
-          [
-            1.6155594,
-            6.6509913
-          ],
-          [
-            1.6024392,
-            6.6450113
-          ],
-          [
-            1.6101595,
-            6.6134158
-          ],
-          [
-            1.644522,
-            6.5870415
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.6081209,
-            6.7335674
-          ],
-          [
-            1.5908034,
-            6.7278346
-          ],
-          [
-            1.5932139,
-            6.7021233
-          ],
-          [
-            1.5754397,
-            6.6912794
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.6224697,
-            6.7422438
-          ],
-          [
-            1.6081209,
-            6.7335674
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.597179,
-            6.8658501
-          ],
-          [
-            1.597627,
-            6.8309228
-          ],
-          [
-            1.612564,
-            6.8251052
-          ],
-          [
-            1.5943251,
-            6.7994763
-          ],
-          [
-            1.6139791,
-            6.7897279
-          ],
-          [
-            1.6224697,
-            6.7422438
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.5773692,
-            6.9224483
-          ],
-          [
-            1.6061329,
-            6.9051852
-          ],
-          [
-            1.597179,
-            6.8658501
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.5778504,
-            6.9248358
-          ],
-          [
-            1.5773692,
-            6.9224483
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.5591747,
-            6.997177
-          ],
-          [
-            1.5778504,
-            6.9248358
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.6546855,
-            7.5300615
-          ],
-          [
-            1.6425,
-            6.995556
-          ],
-          [
-            1.5591747,
-            6.997177
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.641389,
-            7.636389
-          ],
-          [
-            1.6546855,
-            7.5300615
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.637222,
-            8.065278
-          ],
-          [
-            1.641389,
-            7.636389
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.6360419,
-            8.1922113
-          ],
-          [
-            1.637222,
-            8.065278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.613056,
-            8.374722
-          ],
-          [
-            1.634722,
-            8.357778
-          ],
-          [
-            1.6360419,
-            8.1922113
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.6249063,
-            8.5874903
-          ],
-          [
-            1.624722,
-            8.548056
-          ],
-          [
-            1.660833,
-            8.491667
-          ],
-          [
-            1.631111,
-            8.451944
-          ],
-          [
-            1.613056,
-            8.374722
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.6250801,
-            9.0041796
-          ],
-          [
-            1.6249063,
-            8.5874903
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.449167,
-            9.284444
-          ],
-          [
-            1.57,
-            9.165833
-          ],
-          [
-            1.606389,
-            9.099722
-          ],
-          [
-            1.6250801,
-            9.0041796
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.435,
-            9.298056
-          ],
-          [
-            1.449167,
-            9.284444
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.398889,
-            9.410833
-          ],
-          [
-            1.406944,
-            9.344722
-          ],
-          [
-            1.435,
-            9.298056
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.398056,
-            9.430278
-          ],
-          [
-            1.398889,
-            9.410833
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.361111,
-            9.485556
-          ],
-          [
-            1.388611,
-            9.492222
-          ],
-          [
-            1.398056,
-            9.430278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.3617471,
-            9.8459043
-          ],
-          [
-            1.373889,
-            9.646667
-          ],
-          [
-            1.368333,
-            9.596667
-          ],
-          [
-            1.3375,
-            9.5425
-          ],
-          [
-            1.361111,
-            9.485556
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.3588463,
-            9.914139
-          ],
-          [
-            1.3617471,
-            9.8459043
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.355,
-            9.995278
-          ],
-          [
-            1.3588463,
-            9.914139
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.325,
-            10.014444
-          ],
-          [
-            1.355,
-            9.995278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.1758135,
-            10.1066244
-          ],
-          [
-            1.325,
-            10.014444
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.000278,
-            10.219444
-          ],
-          [
-            1.1758135,
-            10.1066244
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.897222,
-            10.291944
-          ],
-          [
-            1.000278,
-            10.219444
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.801389,
-            10.668611
-          ],
-          [
-            0.806944,
-            10.579722
-          ],
-          [
-            0.785278,
-            10.524444
-          ],
-          [
-            0.776667,
-            10.376667
-          ],
-          [
-            0.897222,
-            10.291944
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.801389,
-            10.708056
-          ],
-          [
-            0.801389,
-            10.668611
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.9122091,
-            10.9961705
-          ],
-          [
-            0.888611,
-            10.92
-          ],
-          [
-            0.904444,
-            10.876944
-          ],
-          [
-            0.888611,
-            10.860833
-          ],
-          [
-            0.879444,
-            10.799722
-          ],
-          [
-            0.801389,
-            10.708056
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.7601419,
-            10.9973402
-          ],
-          [
-            0.9122091,
-            10.9961705
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.4998942,
-            10.9317163
-          ],
-          [
-            0.65631,
-            10.99736
-          ],
-          [
-            0.7601419,
-            10.9973402
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.42408,
-            11.02438
-          ],
-          [
-            0.5048348,
-            11.0093433
-          ],
-          [
-            0.4979789,
-            10.9889009
-          ],
-          [
-            0.5179023,
-            10.9708957
-          ],
-          [
-            0.4998942,
-            10.9317163
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.2635773,
-            11.0573832
-          ],
-          [
-            0.42408,
-            11.02438
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.1444764,
-            11.0805593
-          ],
-          [
-            0.2635773,
-            11.0573832
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.0453813,
-            11.1006888
-          ],
-          [
-            0.1444764,
-            11.0805593
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.0453813,
-            11.1006888
-          ],
-          [
-            0.0388732,
-            11.1011599
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.0388732,
-            11.1011599
-          ],
-          [
-            0.0136443,
-            11.1133617
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            0.0136443,
-            11.1133617
-          ],
-          [
-            -0.0031516,
-            11.1113891
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.1082708,
-            11.1338999
-          ],
-          [
-            -0.0031516,
-            11.1113891
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.1362307,
-            11.1395102
-          ],
-          [
-            -0.1082708,
-            11.1338999
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
-        "name": "Togo"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.1362307,
-            11.1395102
-          ],
-          [
-            -0.1430021,
-            11.105833
-          ],
-          [
-            -0.0950013,
-            11.0861265
-          ],
-          [
-            -0.0547031,
-            11.085965
-          ],
-          [
-            -0.0194262,
-            11.1144929
-          ],
-          [
-            0.0021053,
-            11.0929682
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.025461,
+              11.035109
+            ],
+            [
+              0.033526,
+              10.978806
+            ],
+            [
+              0.013865,
+              10.969775
+            ],
+            [
+              0.013865,
+              10.969775
+            ],
+            [
+              -0.011821,
+              10.944147
+            ],
+            [
+              -0.023183,
+              10.825738
+            ],
+            [
+              -0.023183,
+              10.825738
+            ],
+            [
+              -0.069967,
+              10.770982
+            ],
+            [
+              -0.069967,
+              10.770982
+            ],
+            [
+              -0.072559,
+              10.719489
+            ],
+            [
+              -0.089052,
+              10.713541
+            ],
+            [
+              -0.089052,
+              10.713541
+            ],
+            [
+              -0.078258,
+              10.690268
+            ],
+            [
+              -0.078258,
+              10.690268
+            ],
+            [
+              -0.059247,
+              10.632333
+            ],
+            [
+              0.041287,
+              10.601442
+            ],
+            [
+              0.060996,
+              10.560818
+            ],
+            [
+              0.145092,
+              10.519037
+            ],
+            [
+              0.145092,
+              10.519037
+            ],
+            [
+              0.15426,
+              10.46508
+            ],
+            [
+              0.190356,
+              10.404317
+            ],
+            [
+              0.190356,
+              10.404317
+            ],
+            [
+              0.194078,
+              10.402935
+            ],
+            [
+              0.194078,
+              10.402935
+            ],
+            [
+              0.217696,
+              10.426923
+            ],
+            [
+              0.259261,
+              10.407587
+            ],
+            [
+              0.284481,
+              10.422458
+            ],
+            [
+              0.284481,
+              10.422458
+            ],
+            [
+              0.30042,
+              10.402501
+            ],
+            [
+              0.290145,
+              10.376721
+            ],
+            [
+              0.290145,
+              10.376721
+            ],
+            [
+              0.337212,
+              10.329093
+            ],
+            [
+              0.316164,
+              10.31074
+            ],
+            [
+              0.316164,
+              10.31074
+            ],
+            [
+              0.395816,
+              10.314269
+            ],
+            [
+              0.369517,
+              10.284839
+            ],
+            [
+              0.381751,
+              10.273211
+            ],
+            [
+              0.381751,
+              10.273211
+            ],
+            [
+              0.361591,
+              10.258108
+            ],
+            [
+              0.353076,
+              10.098681
+            ],
+            [
+              0.416005,
+              10.062479
+            ],
+            [
+              0.409627,
+              10.020883
+            ],
+            [
+              0.409627,
+              10.020883
+            ],
+            [
+              0.361043,
+              10.030611
+            ],
+            [
+              0.358671,
+              9.988885
+            ],
+            [
+              0.387264,
+              9.949436
+            ],
+            [
+              0.366453,
+              9.931534
+            ],
+            [
+              0.366453,
+              9.931534
+            ],
+            [
+              0.351279,
+              9.90417
+            ],
+            [
+              0.357399,
+              9.846696
+            ],
+            [
+              0.318905,
+              9.727898
+            ],
+            [
+              0.318905,
+              9.727898
+            ],
+            [
+              0.344802,
+              9.717685
+            ],
+            [
+              0.351008,
+              9.675923
+            ],
+            [
+              0.351008,
+              9.675923
+            ],
+            [
+              0.382373,
+              9.644926
+            ],
+            [
+              0.373,
+              9.608156
+            ],
+            [
+              0.373,
+              9.608156
+            ],
+            [
+              0.38369,
+              9.591456
+            ],
+            [
+              0.357948,
+              9.573276
+            ],
+            [
+              0.239618,
+              9.574144
+            ],
+            [
+              0.24325,
+              9.524532
+            ],
+            [
+              0.297087,
+              9.52285
+            ],
+            [
+              0.311194,
+              9.506631
+            ],
+            [
+              0.269704,
+              9.478874
+            ],
+            [
+              0.22904,
+              9.48595
+            ],
+            [
+              0.24718,
+              9.438
+            ],
+            [
+              0.24718,
+              9.438
+            ],
+            [
+              0.275777,
+              9.427417
+            ],
+            [
+              0.331704,
+              9.448234
+            ],
+            [
+              0.346056,
+              9.48867
+            ],
+            [
+              0.346056,
+              9.48867
+            ],
+            [
+              0.414978,
+              9.496388
+            ],
+            [
+              0.414978,
+              9.496388
+            ],
+            [
+              0.488754,
+              9.4869
+            ],
+            [
+              0.505662,
+              9.467607
+            ],
+            [
+              0.499967,
+              9.437939
+            ],
+            [
+              0.550924,
+              9.423286
+            ],
+            [
+              0.550924,
+              9.423286
+            ],
+            [
+              0.567003,
+              9.405926
+            ],
+            [
+              0.567003,
+              9.405926
+            ],
+            [
+              0.545134,
+              9.340876
+            ],
+            [
+              0.555794,
+              9.311206
+            ],
+            [
+              0.506066,
+              9.257323
+            ],
+            [
+              0.533602,
+              9.209416
+            ],
+            [
+              0.51157,
+              9.163661
+            ],
+            [
+              0.476761,
+              9.144977
+            ],
+            [
+              0.484335,
+              9.100983
+            ],
+            [
+              0.484335,
+              9.100983
+            ],
+            [
+              0.456238,
+              9.043858
+            ],
+            [
+              0.480983,
+              8.979319
+            ],
+            [
+              0.480983,
+              8.979319
+            ],
+            [
+              0.516568,
+              8.938686
+            ],
+            [
+              0.520343,
+              8.871146
+            ],
+            [
+              0.520343,
+              8.871146
+            ],
+            [
+              0.519538,
+              8.852986
+            ],
+            [
+              0.495796,
+              8.839261
+            ],
+            [
+              0.491319,
+              8.800359
+            ],
+            [
+              0.469049,
+              8.79178
+            ],
+            [
+              0.448214,
+              8.811355
+            ],
+            [
+              0.42777,
+              8.779136
+            ],
+            [
+              0.380383,
+              8.792818
+            ],
+            [
+              0.380383,
+              8.792818
+            ],
+            [
+              0.378167,
+              8.771988
+            ],
+            [
+              0.40092,
+              8.756869
+            ],
+            [
+              0.373978,
+              8.754942
+            ],
+            [
+              0.382669,
+              8.739538
+            ],
+            [
+              0.382669,
+              8.739538
+            ],
+            [
+              0.471471,
+              8.599504
+            ],
+            [
+              0.471471,
+              8.599504
+            ],
+            [
+              0.494451,
+              8.595063
+            ],
+            [
+              0.511813,
+              8.563565
+            ],
+            [
+              0.529965,
+              8.570021
+            ],
+            [
+              0.553671,
+              8.553357
+            ],
+            [
+              0.571388,
+              8.524106
+            ],
+            [
+              0.571388,
+              8.524106
+            ],
+            [
+              0.644952,
+              8.494424
+            ],
+            [
+              0.644952,
+              8.494424
+            ],
+            [
+              0.651659,
+              8.42244
+            ],
+            [
+              0.696493,
+              8.40474
+            ],
+            [
+              0.712553,
+              8.376809
+            ],
+            [
+              0.712553,
+              8.376809
+            ],
+            [
+              0.731133,
+              8.286651
+            ],
+            [
+              0.688029,
+              8.280756
+            ],
+            [
+              0.674354,
+              8.259463
+            ],
+            [
+              0.638437,
+              8.260299
+            ],
+            [
+              0.638437,
+              8.260299
+            ],
+            [
+              0.61929,
+              8.215801
+            ],
+            [
+              0.588614,
+              8.202469
+            ],
+            [
+              0.613856,
+              8.185164
+            ],
+            [
+              0.613856,
+              8.185164
+            ],
+            [
+              0.584887,
+              8.097338
+            ],
+            [
+              0.597356,
+              8.061313
+            ],
+            [
+              0.597356,
+              8.061313
+            ],
+            [
+              0.608242,
+              7.992083
+            ],
+            [
+              0.596606,
+              7.986999
+            ],
+            [
+              0.620608,
+              7.905688
+            ],
+            [
+              0.620608,
+              7.905688
+            ],
+            [
+              0.621282,
+              7.901361
+            ],
+            [
+              0.621282,
+              7.901361
+            ],
+            [
+              0.623881,
+              7.884681
+            ],
+            [
+              0.623881,
+              7.884681
+            ],
+            [
+              0.617196,
+              7.796369
+            ],
+            [
+              0.631013,
+              7.767487
+            ],
+            [
+              0.631013,
+              7.767487
+            ],
+            [
+              0.611434,
+              7.754866
+            ],
+            [
+              0.627113,
+              7.704283
+            ],
+            [
+              0.594896,
+              7.707068
+            ],
+            [
+              0.584244,
+              7.675342
+            ],
+            [
+              0.584244,
+              7.675342
+            ],
+            [
+              0.586039,
+              7.622082
+            ],
+            [
+              0.51809,
+              7.592577
+            ],
+            [
+              0.520408,
+              7.520065
+            ],
+            [
+              0.520408,
+              7.520065
+            ],
+            [
+              0.520325,
+              7.455266
+            ],
+            [
+              0.520325,
+              7.455266
+            ],
+            [
+              0.532282,
+              7.457117
+            ],
+            [
+              0.535662,
+              7.426474
+            ],
+            [
+              0.535662,
+              7.426474
+            ],
+            [
+              0.568686,
+              7.392208
+            ],
+            [
+              0.568686,
+              7.392208
+            ],
+            [
+              0.61853,
+              7.412817
+            ],
+            [
+              0.644127,
+              7.40116
+            ],
+            [
+              0.653426,
+              7.337756
+            ],
+            [
+              0.653426,
+              7.337756
+            ],
+            [
+              0.643341,
+              7.263061
+            ],
+            [
+              0.643341,
+              7.263061
+            ],
+            [
+              0.616657,
+              7.181951
+            ],
+            [
+              0.616657,
+              7.181951
+            ],
+            [
+              0.595858,
+              7.127763
+            ],
+            [
+              0.595858,
+              7.127763
+            ],
+            [
+              0.591146,
+              7.111518
+            ],
+            [
+              0.609954,
+              7.105893
+            ],
+            [
+              0.609954,
+              7.105893
+            ],
+            [
+              0.605761,
+              7.075393
+            ],
+            [
+              0.605761,
+              7.075393
+            ],
+            [
+              0.59482,
+              7.002866
+            ],
+            [
+              0.59482,
+              7.002866
+            ],
+            [
+              0.522706,
+              6.973193
+            ],
+            [
+              0.526272,
+              6.94122
+            ],
+            [
+              0.526272,
+              6.94122
+            ],
+            [
+              0.566006,
+              6.921055
+            ],
+            [
+              0.558465,
+              6.887597
+            ],
+            [
+              0.535279,
+              6.876503
+            ],
+            [
+              0.531469,
+              6.833172
+            ],
+            [
+              0.531469,
+              6.833172
+            ],
+            [
+              0.534326,
+              6.8275
+            ],
+            [
+              0.534326,
+              6.8275
+            ],
+            [
+              0.548287,
+              6.833622
+            ],
+            [
+              0.57984,
+              6.807286
+            ],
+            [
+              0.57984,
+              6.807286
+            ],
+            [
+              0.566499,
+              6.782703
+            ],
+            [
+              0.582411,
+              6.761584
+            ],
+            [
+              0.582411,
+              6.761584
+            ],
+            [
+              0.650103,
+              6.737243
+            ],
+            [
+              0.650103,
+              6.737243
+            ],
+            [
+              0.649652,
+              6.674318
+            ],
+            [
+              0.649652,
+              6.674318
+            ],
+            [
+              0.638714,
+              6.654564
+            ],
+            [
+              0.638714,
+              6.654564
+            ],
+            [
+              0.638747,
+              6.65434
+            ],
+            [
+              0.638747,
+              6.65434
+            ],
+            [
+              0.63672,
+              6.633775
+            ],
+            [
+              0.63672,
+              6.633775
+            ],
+            [
+              0.68415,
+              6.597625
+            ],
+            [
+              0.68415,
+              6.597625
+            ],
+            [
+              0.728265,
+              6.593984
+            ],
+            [
+              0.747563,
+              6.562948
+            ],
+            [
+              0.747563,
+              6.562948
+            ],
+            [
+              0.728379,
+              6.546752
+            ],
+            [
+              0.728379,
+              6.546752
+            ],
+            [
+              0.714092,
+              6.531119
+            ],
+            [
+              0.714092,
+              6.531119
+            ],
+            [
+              0.716963,
+              6.517646
+            ],
+            [
+              0.716963,
+              6.517646
+            ],
+            [
+              0.744045,
+              6.483204
+            ],
+            [
+              0.749224,
+              6.448189
+            ],
+            [
+              0.749224,
+              6.448189
+            ],
+            [
+              0.782563,
+              6.433095
+            ],
+            [
+              0.787582,
+              6.413225
+            ],
+            [
+              0.857749,
+              6.383073
+            ],
+            [
+              0.892177,
+              6.335511
+            ],
+            [
+              0.963998,
+              6.334951
+            ],
+            [
+              0.963998,
+              6.334951
+            ],
+            [
+              1.004332,
+              6.334456
+            ],
+            [
+              1.024198,
+              6.256126
+            ],
+            [
+              1.063258,
+              6.223399
+            ],
+            [
+              1.082877,
+              6.169502
+            ],
+            [
+              1.082877,
+              6.169502
+            ],
+            [
+              1.177295,
+              6.169247
+            ],
+            [
+              1.177295,
+              6.169247
+            ],
+            [
+              1.199438,
+              6.169121
+            ],
+            [
+              1.199438,
+              6.169121
+            ],
+            [
+              1.199407,
+              6.159568
+            ],
+            [
+              1.199407,
+              6.159568
+            ],
+            [
+              1.199567,
+              6.151197
+            ],
+            [
+              1.199567,
+              6.151197
+            ],
+            [
+              1.199426,
+              6.136624
+            ],
+            [
+              1.199426,
+              6.136624
+            ],
+            [
+              1.199519,
+              6.13419
+            ],
+            [
+              1.199519,
+              6.13419
+            ],
+            [
+              1.199419,
+              6.123467
+            ],
+            [
+              1.199419,
+              6.123467
+            ],
+            [
+              1.199631,
+              6.11236
+            ],
+            [
+              1.199631,
+              6.11236
+            ],
+            [
+              1.273294,
+              5.926547
+            ],
+            [
+              1.273294,
+              5.926547
+            ],
+            [
+              1.35689,
+              5.944907
+            ],
+            [
+              1.437994,
+              5.985333
+            ],
+            [
+              1.673024,
+              6.03987
+            ],
+            [
+              1.673024,
+              6.03987
+            ],
+            [
+              1.628805,
+              6.235136
+            ],
+            [
+              1.628805,
+              6.235136
+            ],
+            [
+              1.629554,
+              6.241618
+            ],
+            [
+              1.629554,
+              6.241618
+            ],
+            [
+              1.766656,
+              6.276365
+            ],
+            [
+              1.766656,
+              6.276365
+            ],
+            [
+              1.808726,
+              6.288676
+            ],
+            [
+              1.808726,
+              6.288676
+            ],
+            [
+              1.787714,
+              6.307887
+            ],
+            [
+              1.784844,
+              6.382486
+            ],
+            [
+              1.763357,
+              6.411717
+            ],
+            [
+              1.778819,
+              6.425673
+            ],
+            [
+              1.755587,
+              6.443495
+            ],
+            [
+              1.758034,
+              6.459593
+            ],
+            [
+              1.758034,
+              6.459593
+            ],
+            [
+              1.75261,
+              6.475095
+            ],
+            [
+              1.731727,
+              6.476324
+            ],
+            [
+              1.737813,
+              6.48777
+            ],
+            [
+              1.693843,
+              6.504432
+            ],
+            [
+              1.697641,
+              6.555235
+            ],
+            [
+              1.697641,
+              6.555235
+            ],
+            [
+              1.67103,
+              6.55558
+            ],
+            [
+              1.658178,
+              6.571958
+            ],
+            [
+              1.667192,
+              6.579723
+            ],
+            [
+              1.644522,
+              6.587041
+            ],
+            [
+              1.644522,
+              6.587041
+            ],
+            [
+              1.610159,
+              6.613416
+            ],
+            [
+              1.602439,
+              6.645011
+            ],
+            [
+              1.615559,
+              6.650991
+            ],
+            [
+              1.57544,
+              6.691279
+            ],
+            [
+              1.57544,
+              6.691279
+            ],
+            [
+              1.593214,
+              6.702123
+            ],
+            [
+              1.590803,
+              6.727835
+            ],
+            [
+              1.608121,
+              6.733567
+            ],
+            [
+              1.608121,
+              6.733567
+            ],
+            [
+              1.62247,
+              6.742244
+            ],
+            [
+              1.62247,
+              6.742244
+            ],
+            [
+              1.613979,
+              6.789728
+            ],
+            [
+              1.594325,
+              6.799476
+            ],
+            [
+              1.612564,
+              6.825105
+            ],
+            [
+              1.597627,
+              6.830923
+            ],
+            [
+              1.597179,
+              6.86585
+            ],
+            [
+              1.597179,
+              6.86585
+            ],
+            [
+              1.606133,
+              6.905185
+            ],
+            [
+              1.577369,
+              6.922448
+            ],
+            [
+              1.577369,
+              6.922448
+            ],
+            [
+              1.57785,
+              6.924836
+            ],
+            [
+              1.57785,
+              6.924836
+            ],
+            [
+              1.559175,
+              6.997177
+            ],
+            [
+              1.559175,
+              6.997177
+            ],
+            [
+              1.6425,
+              6.995556
+            ],
+            [
+              1.654686,
+              7.530062
+            ],
+            [
+              1.654686,
+              7.530062
+            ],
+            [
+              1.641389,
+              7.636389
+            ],
+            [
+              1.641389,
+              7.636389
+            ],
+            [
+              1.637222,
+              8.065278
+            ],
+            [
+              1.637222,
+              8.065278
+            ],
+            [
+              1.636042,
+              8.192211
+            ],
+            [
+              1.636042,
+              8.192211
+            ],
+            [
+              1.634722,
+              8.357778
+            ],
+            [
+              1.613056,
+              8.374722
+            ],
+            [
+              1.613056,
+              8.374722
+            ],
+            [
+              1.631111,
+              8.451944
+            ],
+            [
+              1.660833,
+              8.491667
+            ],
+            [
+              1.624722,
+              8.548056
+            ],
+            [
+              1.624906,
+              8.58749
+            ],
+            [
+              1.624906,
+              8.58749
+            ],
+            [
+              1.62508,
+              9.00418
+            ],
+            [
+              1.62508,
+              9.00418
+            ],
+            [
+              1.606389,
+              9.099722
+            ],
+            [
+              1.57,
+              9.165833
+            ],
+            [
+              1.449167,
+              9.284444
+            ],
+            [
+              1.449167,
+              9.284444
+            ],
+            [
+              1.435,
+              9.298056
+            ],
+            [
+              1.435,
+              9.298056
+            ],
+            [
+              1.406944,
+              9.344722
+            ],
+            [
+              1.398889,
+              9.410833
+            ],
+            [
+              1.398889,
+              9.410833
+            ],
+            [
+              1.398056,
+              9.430278
+            ],
+            [
+              1.398056,
+              9.430278
+            ],
+            [
+              1.388611,
+              9.492222
+            ],
+            [
+              1.361111,
+              9.485556
+            ],
+            [
+              1.361111,
+              9.485556
+            ],
+            [
+              1.3375,
+              9.5425
+            ],
+            [
+              1.368333,
+              9.596667
+            ],
+            [
+              1.373889,
+              9.646667
+            ],
+            [
+              1.361747,
+              9.845904
+            ],
+            [
+              1.361747,
+              9.845904
+            ],
+            [
+              1.358846,
+              9.914139
+            ],
+            [
+              1.358846,
+              9.914139
+            ],
+            [
+              1.355,
+              9.995278
+            ],
+            [
+              1.355,
+              9.995278
+            ],
+            [
+              1.325,
+              10.014444
+            ],
+            [
+              1.325,
+              10.014444
+            ],
+            [
+              1.175814,
+              10.106624
+            ],
+            [
+              1.175814,
+              10.106624
+            ],
+            [
+              1.000278,
+              10.219444
+            ],
+            [
+              1.000278,
+              10.219444
+            ],
+            [
+              0.897222,
+              10.291944
+            ],
+            [
+              0.897222,
+              10.291944
+            ],
+            [
+              0.776667,
+              10.376667
+            ],
+            [
+              0.785278,
+              10.524444
+            ],
+            [
+              0.806944,
+              10.579722
+            ],
+            [
+              0.801389,
+              10.668611
+            ],
+            [
+              0.801389,
+              10.668611
+            ],
+            [
+              0.801389,
+              10.708056
+            ],
+            [
+              0.801389,
+              10.708056
+            ],
+            [
+              0.879444,
+              10.799722
+            ],
+            [
+              0.888611,
+              10.860833
+            ],
+            [
+              0.904444,
+              10.876944
+            ],
+            [
+              0.888611,
+              10.92
+            ],
+            [
+              0.912209,
+              10.99617
+            ],
+            [
+              0.912209,
+              10.99617
+            ],
+            [
+              0.760142,
+              10.99734
+            ],
+            [
+              0.760142,
+              10.99734
+            ],
+            [
+              0.65631,
+              10.99736
+            ],
+            [
+              0.499894,
+              10.931716
+            ],
+            [
+              0.499894,
+              10.931716
+            ],
+            [
+              0.517902,
+              10.970896
+            ],
+            [
+              0.497979,
+              10.988901
+            ],
+            [
+              0.504835,
+              11.009343
+            ],
+            [
+              0.42408,
+              11.02438
+            ],
+            [
+              0.42408,
+              11.02438
+            ],
+            [
+              0.263577,
+              11.057383
+            ],
+            [
+              0.263577,
+              11.057383
+            ],
+            [
+              0.144476,
+              11.080559
+            ],
+            [
+              0.144476,
+              11.080559
+            ],
+            [
+              0.045381,
+              11.100689
+            ],
+            [
+              0.045381,
+              11.100689
+            ],
+            [
+              0.038873,
+              11.10116
+            ],
+            [
+              0.038873,
+              11.10116
+            ],
+            [
+              0.013644,
+              11.113362
+            ],
+            [
+              0.013644,
+              11.113362
+            ],
+            [
+              -0.003152,
+              11.111389
+            ],
+            [
+              -0.003152,
+              11.111389
+            ],
+            [
+              -0.108271,
+              11.1339
+            ],
+            [
+              -0.108271,
+              11.1339
+            ],
+            [
+              -0.136231,
+              11.13951
+            ],
+            [
+              -0.136231,
+              11.13951
+            ],
+            [
+              -0.143002,
+              11.105833
+            ],
+            [
+              -0.095001,
+              11.086127
+            ],
+            [
+              -0.054703,
+              11.085965
+            ],
+            [
+              -0.019426,
+              11.114493
+            ],
+            [
+              0.002105,
+              11.092968
+            ],
+            [
+              0.002105,
+              11.092968
+            ],
+            [
+              0.025461,
+              11.035109
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "TG",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
+        "name": "Togo",
+        "id": "TG"
       }
     }
   ]

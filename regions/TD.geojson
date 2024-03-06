@@ -3,4528 +3,2655 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.2768085,
-            9.3594629
-          ],
-          [
-            14.2460918,
-            9.379798
-          ],
-          [
-            14.2278369,
-            9.4208671
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.2278369,
-            9.4208671
-          ],
-          [
-            14.2031577,
-            9.4474792
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.2031577,
-            9.4474792
-          ],
-          [
-            14.1894221,
-            9.4430505
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.149802,
-            9.5022407
-          ],
-          [
-            14.1894221,
-            9.4430505
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.149802,
-            9.5022407
-          ],
-          [
-            14.1155004,
-            9.5101774
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.1155004,
-            9.5101774
-          ],
-          [
-            14.0652904,
-            9.5685798
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.9766047,
-            9.6379366
-          ],
-          [
-            14.0380497,
-            9.6109798
-          ],
-          [
-            14.0652904,
-            9.5685798
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.2057401,
-            9.9988777
-          ],
-          [
-            14.1309794,
-            9.8200736
-          ],
-          [
-            14.0224454,
-            9.7279686
-          ],
-          [
-            13.9766047,
-            9.6379366
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.4875892,
-            9.9972364
-          ],
-          [
-            14.2057401,
-            9.9988777
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.6178419,
-            9.9703856
-          ],
-          [
-            14.4875892,
-            9.9972364
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.7300327,
-            9.9478123
-          ],
-          [
-            14.6178419,
-            9.9703856
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.8024208,
-            9.9352191
-          ],
-          [
-            14.7300327,
-            9.9478123
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.9635129,
-            9.9806186
-          ],
-          [
-            14.8024208,
-            9.9352191
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.1338591,
-            9.9904507
-          ],
-          [
-            15.0599645,
-            9.9456921
-          ],
-          [
-            14.9635129,
-            9.9806186
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.1792903,
-            9.9866355
-          ],
-          [
-            15.1338591,
-            9.9904507
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.2318542,
-            9.9874608
-          ],
-          [
-            15.1792903,
-            9.9866355
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.2480995,
-            9.989541
-          ],
-          [
-            15.2318542,
-            9.9874608
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.4320355,
-            10.2019035
-          ],
-          [
-            15.4991877,
-            10.1007193
-          ],
-          [
-            15.5318999,
-            10.0999693
-          ],
-          [
-            15.5596232,
-            10.0643187
-          ],
-          [
-            15.5806088,
-            10.0695688
-          ],
-          [
-            15.5881727,
-            10.0497721
-          ],
-          [
-            15.6171727,
-            10.0457048
-          ],
-          [
-            15.6884732,
-            9.9929085
-          ],
-          [
-            15.4138584,
-            9.9334816
-          ],
-          [
-            15.2480995,
-            9.989541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.256362,
-            10.4371486
-          ],
-          [
-            15.2804589,
-            10.4035725
-          ],
-          [
-            15.2794289,
-            10.3667634
-          ],
-          [
-            15.3036064,
-            10.3123754
-          ],
-          [
-            15.346452,
-            10.2969745
-          ],
-          [
-            15.4320355,
-            10.2019035
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.153054,
-            10.5326972
-          ],
-          [
-            15.2409768,
-            10.4767557
-          ],
-          [
-            15.256362,
-            10.4371486
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.108433,
-            10.7341958
-          ],
-          [
-            15.1615083,
-            10.6250738
-          ],
-          [
-            15.1416385,
-            10.5888921
-          ],
-          [
-            15.153054,
-            10.5326972
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.0493983,
-            10.9992136
-          ],
-          [
-            15.0804412,
-            10.9564444
-          ],
-          [
-            15.0951451,
-            10.8757907
-          ],
-          [
-            15.0674057,
-            10.8222097
-          ],
-          [
-            15.108433,
-            10.7341958
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.0465757,
-            11.0025396
-          ],
-          [
-            15.0493983,
-            10.9992136
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.0981375,
-            11.1302246
-          ],
-          [
-            15.1102084,
-            11.0893232
-          ],
-          [
-            15.0930691,
-            11.033938
-          ],
-          [
-            15.0480723,
-            11.0313527
-          ],
-          [
-            15.0465757,
-            11.0025396
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.0866425,
-            11.4613613
-          ],
-          [
-            15.0580287,
-            11.4148081
-          ],
-          [
-            15.0690043,
-            11.3685943
-          ],
-          [
-            15.048582,
-            11.346384
-          ],
-          [
-            15.0740147,
-            11.3224467
-          ],
-          [
-            15.0481421,
-            11.2819469
-          ],
-          [
-            15.0981375,
-            11.1302246
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.0494608,
-            12.0193278
-          ],
-          [
-            15.0863206,
-            11.9933475
-          ],
-          [
-            15.0469941,
-            11.9681434
-          ],
-          [
-            15.0631732,
-            11.9374577
-          ],
-          [
-            15.0393337,
-            11.9103798
-          ],
-          [
-            15.0482333,
-            11.8626261
-          ],
-          [
-            15.0629049,
-            11.8433847
-          ],
-          [
-            15.091964,
-            11.8533127
-          ],
-          [
-            15.096977,
-            11.8164655
-          ],
-          [
-            15.1226753,
-            11.7908669
-          ],
-          [
-            15.0802535,
-            11.7658542
-          ],
-          [
-            15.1051202,
-            11.730311
-          ],
-          [
-            15.0784457,
-            11.7354346
-          ],
-          [
-            15.0648093,
-            11.7178284
-          ],
-          [
-            15.0815409,
-            11.6888692
-          ],
-          [
-            15.0771797,
-            11.645606
-          ],
-          [
-            15.1006329,
-            11.6137544
-          ],
-          [
-            15.1007831,
-            11.5853624
-          ],
-          [
-            15.1443046,
-            11.5627014
-          ],
-          [
-            15.1333612,
-            11.5138153
-          ],
-          [
-            15.1069307,
-            11.5016279
-          ],
-          [
-            15.0866425,
-            11.4613613
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.060153,
-            12.0542935
-          ],
-          [
-            15.0568914,
-            12.0362986
-          ],
-          [
-            15.0382608,
-            12.0347351
-          ],
-          [
-            15.0494608,
-            12.0193278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.0330047,
-            12.1094821
-          ],
-          [
-            15.0369071,
-            12.078066
-          ],
-          [
-            15.060153,
-            12.0542935
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.9936548,
-            12.1156171
-          ],
-          [
-            15.0330047,
-            12.1094821
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.9657229,
-            12.0964061
-          ],
-          [
-            14.9934277,
-            12.0878273
-          ],
-          [
-            14.9936548,
-            12.1156171
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.922834,
-            12.1286
-          ],
-          [
-            14.9657229,
-            12.0964061
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.916687,
-            12.13894
-          ],
-          [
-            14.922834,
-            12.1286
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.9029321,
-            12.2248606
-          ],
-          [
-            14.8927617,
-            12.2029275
-          ],
-          [
-            14.9106038,
-            12.1851524
-          ],
-          [
-            14.8855305,
-            12.1652262
-          ],
-          [
-            14.916687,
-            12.13894
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.9029321,
-            12.2248606
-          ],
-          [
-            14.893384,
-            12.3073411
-          ],
-          [
-            14.9082112,
-            12.3311558
-          ],
-          [
-            14.9078143,
-            12.385108
-          ],
-          [
-            14.8752415,
-            12.4676078
-          ],
-          [
-            14.8561335,
-            12.4529936
-          ],
-          [
-            14.8446214,
-            12.4638679
-          ],
-          [
-            14.8583972,
-            12.4913973
-          ],
-          [
-            14.8547172,
-            12.5740413
-          ],
-          [
-            14.8320901,
-            12.6342245
-          ],
-          [
-            14.7718883,
-            12.6352168
-          ],
-          [
-            14.7470319,
-            12.6886054
-          ],
-          [
-            14.7223878,
-            12.6592233
-          ],
-          [
-            14.7080862,
-            12.6619241
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.5579211,
-            12.8812564
-          ],
-          [
-            14.5533872,
-            12.7783687
-          ],
-          [
-            14.573729,
-            12.7837623
-          ],
-          [
-            14.5901334,
-            12.7458734
-          ],
-          [
-            14.6207374,
-            12.774152
-          ],
-          [
-            14.6177804,
-            12.7429755
-          ],
-          [
-            14.6702456,
-            12.7193446
-          ],
-          [
-            14.7196734,
-            12.7211028
-          ],
-          [
-            14.7080862,
-            12.6619241
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.5125617,
-            12.9949588
-          ],
-          [
-            14.5617825,
-            12.9183889
-          ],
-          [
-            14.5719373,
-            12.8865968
-          ],
-          [
-            14.5579211,
-            12.8812564
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.083333,
-            13.083333
-          ],
-          [
-            14.466666,
-            13.083333
-          ],
-          [
-            14.5125617,
-            12.9949588
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.083333,
-            13.083333
-          ],
-          [
-            14.0080874,
-            13.1881048
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.0080874,
-            13.1881048
-          ],
-          [
-            13.9331827,
-            13.2922899
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.9331827,
-            13.2922899
-          ],
-          [
-            13.7621326,
-            13.5295242
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.7621326,
-            13.5295242
-          ],
-          [
-            13.6498733,
-            13.6852613
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.6498733,
-            13.6852613
-          ],
-          [
-            13.633381,
-            13.70816
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.58589,
-            13.9209
-          ],
-          [
-            13.633381,
-            13.70816
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.64423,
-            14.51582
-          ],
-          [
-            13.49975,
-            14.47785
-          ],
-          [
-            13.47348,
-            14.44282
-          ],
-          [
-            13.58589,
-            13.9209
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.0,
-            16.37046
-          ],
-          [
-            14.38476,
-            15.73155
-          ],
-          [
-            13.97018,
-            15.15653
-          ],
-          [
-            13.86951,
-            15.04284
-          ],
-          [
-            13.78968,
-            14.86321
-          ],
-          [
-            13.80996,
-            14.72173
-          ],
-          [
-            13.76873,
-            14.69197
-          ],
-          [
-            13.74557,
-            14.69834
-          ],
-          [
-            13.67731,
-            14.63656
-          ],
-          [
-            13.69602,
-            14.55112
-          ],
-          [
-            13.64423,
-            14.51582
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.45322,
-            16.84328
-          ],
-          [
-            15.0,
-            16.37046
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.5082951,
-            16.9490684
-          ],
-          [
-            15.50555,
-            16.89787
-          ],
-          [
-            15.45322,
-            16.84328
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.55942,
-            18.00625
-          ],
-          [
-            15.5082951,
-            16.9490684
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.9985831,
-            23.0012385
-          ],
-          [
-            15.194722,
-            21.998889
-          ],
-          [
-            15.2025,
-            21.495833
-          ],
-          [
-            15.284444,
-            21.445278
-          ],
-          [
-            15.627222,
-            20.955278
-          ],
-          [
-            15.584444,
-            20.93
-          ],
-          [
-            15.558333,
-            20.884444
-          ],
-          [
-            15.557222,
-            20.815833
-          ],
-          [
-            15.575833,
-            20.766389
-          ],
-          [
-            15.673889,
-            20.698889
-          ],
-          [
-            15.996667,
-            20.353056
-          ],
-          [
-            15.753889,
-            19.9325
-          ],
-          [
-            15.6025,
-            18.782222
-          ],
-          [
-            15.55942,
-            18.00625
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.9985831,
-            23.0012385
-          ],
-          [
-            16.0000107,
-            23.4507957
-          ],
-          [
-            17.8050041,
-            22.6587178
-          ],
-          [
-            19.1857653,
-            21.9902324
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            19.1857653,
-            21.9902324
-          ],
-          [
-            21.0246652,
-            21.0679135
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.0246652,
-            21.0679135
-          ],
-          [
-            22.3413924,
-            20.3866194
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            23.9999879,
-            19.4999907
-          ],
-          [
-            22.3413924,
-            20.3866194
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            23.9992188,
-            16.4932682
-          ],
-          [
-            23.9999879,
-            19.4999907
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            23.9996413,
-            15.6972542
-          ],
-          [
-            23.9992188,
-            16.4932682
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            23.1107143,
-            15.714883
-          ],
-          [
-            23.3968739,
-            15.6976968
-          ],
-          [
-            23.5518841,
-            15.7684153
-          ],
-          [
-            23.6636356,
-            15.7746929
-          ],
-          [
-            23.8114361,
-            15.7513989
-          ],
-          [
-            23.9996413,
-            15.6972542
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.9261784,
-            15.5317096
-          ],
-          [
-            22.936993,
-            15.5642894
-          ],
-          [
-            22.9975895,
-            15.5910771
-          ],
-          [
-            23.1107143,
-            15.714883
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.9184624,
-            15.4942782
-          ],
-          [
-            22.9261784,
-            15.5317096
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.9244393,
-            15.4705999
-          ],
-          [
-            22.9184624,
-            15.4942782
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            23.0000583,
-            15.3260392
-          ],
-          [
-            22.9881705,
-            15.4149632
-          ],
-          [
-            22.9244393,
-            15.4705999
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.9399086,
-            15.1107405
-          ],
-          [
-            22.9335983,
-            15.1665783
-          ],
-          [
-            22.9673771,
-            15.1824376
-          ],
-          [
-            23.0051426,
-            15.2313046
-          ],
-          [
-            22.9850582,
-            15.25946
-          ],
-          [
-            23.0000583,
-            15.3260392
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.7816967,
-            14.9909795
-          ],
-          [
-            22.882233,
-            15.0886477
-          ],
-          [
-            22.9268245,
-            15.094373
-          ],
-          [
-            22.9399086,
-            15.1107405
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.7816967,
-            14.9909795
-          ],
-          [
-            22.7501596,
-            14.9685936
-          ],
-          [
-            22.7536669,
-            14.9015198
-          ],
-          [
-            22.7105101,
-            14.8956461
-          ],
-          [
-            22.6750588,
-            14.8704488
-          ],
-          [
-            22.7200612,
-            14.6870518
-          ],
-          [
-            22.4058957,
-            14.5902241
-          ],
-          [
-            22.3837907,
-            14.5078509
-          ],
-          [
-            22.4471214,
-            14.4852428
-          ],
-          [
-            22.443187,
-            14.3692013
-          ],
-          [
-            22.4618181,
-            14.3310407
-          ],
-          [
-            22.4273938,
-            14.2885661
-          ],
-          [
-            22.4792147,
-            14.2327408
-          ],
-          [
-            22.5356416,
-            14.2356134
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.5356416,
-            14.2356134
-          ],
-          [
-            22.5576642,
-            14.227398
-          ],
-          [
-            22.556553,
-            14.206017
-          ],
-          [
-            22.5794966,
-            14.1844642
-          ],
-          [
-            22.5358379,
-            14.118802
-          ],
-          [
-            22.5036268,
-            14.1097556
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.5036268,
-            14.1097556
-          ],
-          [
-            22.433566,
-            14.0528086
-          ],
-          [
-            22.3924213,
-            14.0502035
-          ],
-          [
-            22.3423253,
-            14.0215867
-          ],
-          [
-            22.2051921,
-            13.9196866
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2051921,
-            13.9196866
-          ],
-          [
-            22.0725762,
-            13.7772215
-          ],
-          [
-            22.1236963,
-            13.7362965
-          ],
-          [
-            22.1310691,
-            13.7064079
-          ],
-          [
-            22.1152927,
-            13.6829989
-          ],
-          [
-            22.1581568,
-            13.6074014
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.1581568,
-            13.6074014
-          ],
-          [
-            22.2262237,
-            13.5467122
-          ],
-          [
-            22.2171938,
-            13.4682207
-          ],
-          [
-            22.2394274,
-            13.4212005
-          ],
-          [
-            22.2844385,
-            13.384635
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2844385,
-            13.384635
-          ],
-          [
-            22.2914127,
-            13.3550905
-          ],
-          [
-            22.2034852,
-            13.2614366
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2034852,
-            13.2614366
-          ],
-          [
-            22.1810054,
-            13.2483344
-          ],
-          [
-            22.1446514,
-            13.1819416
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.1446514,
-            13.1819416
-          ],
-          [
-            22.0869259,
-            13.1650659
-          ],
-          [
-            22.0715547,
-            13.1444865
-          ],
-          [
-            22.0100394,
-            13.1416119
-          ],
-          [
-            21.977367,
-            13.0747901
-          ],
-          [
-            21.9359989,
-            13.0654444
-          ],
-          [
-            21.9317346,
-            13.0239171
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.9317346,
-            13.0239171
-          ],
-          [
-            21.8990143,
-            12.9883238
-          ],
-          [
-            21.8452743,
-            12.836521
-          ],
-          [
-            21.8143904,
-            12.8085768
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.9850914,
-            12.6394809
-          ],
-          [
-            21.939474,
-            12.6359801
-          ],
-          [
-            21.8560233,
-            12.7286922
-          ],
-          [
-            21.8557602,
-            12.7753686
-          ],
-          [
-            21.8143904,
-            12.8085768
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2262441,
-            12.7351017
-          ],
-          [
-            22.210336,
-            12.7434288
-          ],
-          [
-            22.1939664,
-            12.699503
-          ],
-          [
-            22.1459686,
-            12.6640761
-          ],
-          [
-            21.9850914,
-            12.6394809
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.4358139,
-            12.3784669
-          ],
-          [
-            22.368147,
-            12.4418306
-          ],
-          [
-            22.4292068,
-            12.5232088
-          ],
-          [
-            22.4546022,
-            12.6291998
-          ],
-          [
-            22.3663697,
-            12.6585505
-          ],
-          [
-            22.2262441,
-            12.7351017
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.612094,
-            12.0584369
-          ],
-          [
-            22.5442337,
-            12.0620647
-          ],
-          [
-            22.4967851,
-            12.0311985
-          ],
-          [
-            22.4777688,
-            12.0343527
-          ],
-          [
-            22.4968873,
-            12.1622684
-          ],
-          [
-            22.4740946,
-            12.2373571
-          ],
-          [
-            22.4610077,
-            12.2361467
-          ],
-          [
-            22.4630515,
-            12.2607203
-          ],
-          [
-            22.4422966,
-            12.2832268
-          ],
-          [
-            22.4263259,
-            12.3507373
-          ],
-          [
-            22.4358139,
-            12.3784669
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.612094,
-            12.0584369
-          ],
-          [
-            22.6397431,
-            12.0698216
-          ],
-          [
-            22.572778,
-            11.799167
-          ],
-          [
-            22.552778,
-            11.665556
-          ],
-          [
-            22.561667,
-            11.621667
-          ],
-          [
-            22.641944,
-            11.516111
-          ],
-          [
-            22.775556,
-            11.462222
-          ],
-          [
-            22.791111,
-            11.401667
-          ],
-          [
-            22.930833,
-            11.415833
-          ],
-          [
-            22.941667,
-            11.348611
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.941667,
-            11.348611
-          ],
-          [
-            22.970833,
-            11.283056
-          ],
-          [
-            22.974722,
-            11.209167
-          ],
-          [
-            22.877778,
-            10.920556
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.877778,
-            10.920556
-          ],
-          [
-            22.785556,
-            10.931111
-          ],
-          [
-            22.7675,
-            10.955
-          ],
-          [
-            22.600278,
-            10.985556
-          ],
-          [
-            22.534722,
-            10.974722
-          ],
-          [
-            22.513611,
-            10.995556
-          ],
-          [
-            22.466111,
-            11.001389
-          ],
-          [
-            22.387222,
-            10.958333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.387222,
-            10.958333
-          ],
-          [
-            22.322778,
-            10.941667
-          ],
-          [
-            22.276667,
-            10.904722
-          ],
-          [
-            22.244722,
-            10.910833
-          ],
-          [
-            22.198889,
-            10.866389
-          ],
-          [
-            22.180833,
-            10.815833
-          ],
-          [
-            22.0475,
-            10.830556
-          ],
-          [
-            22.009444,
-            10.799167
-          ],
-          [
-            21.995833,
-            10.728889
-          ],
-          [
-            21.950833,
-            10.731667
-          ],
-          [
-            21.9075,
-            10.713889
-          ],
-          [
-            21.8575,
-            10.666667
-          ],
-          [
-            21.816667,
-            10.678333
-          ],
-          [
-            21.719444,
-            10.639444
-          ],
-          [
-            21.701389,
-            10.514444
-          ],
-          [
-            21.747778,
-            10.406667
-          ],
-          [
-            21.724722,
-            10.365833
-          ],
-          [
-            21.715556,
-            10.290556
-          ],
-          [
-            21.687778,
-            10.284722
-          ],
-          [
-            21.670833,
-            10.238889
-          ],
-          [
-            21.638889,
-            10.223056
-          ],
-          [
-            21.526944,
-            10.206389
-          ],
-          [
-            21.455278,
-            10.116389
-          ],
-          [
-            21.438333,
-            10.045833
-          ],
-          [
-            21.371944,
-            9.973889
-          ],
-          [
-            21.336111,
-            9.958333
-          ],
-          [
-            21.276389,
-            9.980556
-          ],
-          [
-            21.256389,
-            9.973611
-          ],
-          [
-            21.191944,
-            9.883611
-          ],
-          [
-            21.13,
-            9.842778
-          ],
-          [
-            21.103056,
-            9.7725
-          ],
-          [
-            21.068333,
-            9.752778
-          ],
-          [
-            21.0425,
-            9.766667
-          ],
-          [
-            21.018056,
-            9.7425
-          ],
-          [
-            21.0175,
-            9.710833
-          ],
-          [
-            20.993889,
-            9.681389
-          ],
-          [
-            20.997222,
-            9.633611
-          ],
-          [
-            20.975833,
-            9.628056
-          ],
-          [
-            20.985,
-            9.606111
-          ],
-          [
-            20.956389,
-            9.605556
-          ],
-          [
-            20.895833,
-            9.521667
-          ],
-          [
-            20.8357084,
-            9.4764777
-          ],
-          [
-            20.822222,
-            9.415833
-          ],
-          [
-            20.800833,
-            9.420556
-          ],
-          [
-            20.771111,
-            9.4025
-          ],
-          [
-            20.7709985,
-            9.3865822
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7709985,
-            9.3865822
-          ],
-          [
-            20.662222,
-            9.346944
-          ],
-          [
-            20.662778,
-            9.296389
-          ],
-          [
-            20.603333,
-            9.298056
-          ],
-          [
-            20.541389,
-            9.321667
-          ],
-          [
-            20.528611,
-            9.281667
-          ],
-          [
-            20.496389,
-            9.271944
-          ],
-          [
-            20.515,
-            9.208889
-          ],
-          [
-            20.482778,
-            9.207778
-          ],
-          [
-            20.443333,
-            9.141389
-          ],
-          [
-            20.410833,
-            9.137778
-          ],
-          [
-            20.371667,
-            9.108333
-          ],
-          [
-            20.253333,
-            9.115
-          ],
-          [
-            20.207222,
-            9.139722
-          ],
-          [
-            20.141667,
-            9.111944
-          ],
-          [
-            20.104722,
-            9.151111
-          ],
-          [
-            20.098611,
-            9.1275
-          ],
-          [
-            20.061944,
-            9.134444
-          ],
-          [
-            20.03,
-            9.111389
-          ],
-          [
-            20.029167,
-            9.088611
-          ],
-          [
-            20.003889,
-            9.106667
-          ],
-          [
-            19.9921138,
-            9.0830416
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            19.9921138,
-            9.0830416
-          ],
-          [
-            19.953333,
-            9.076389
-          ],
-          [
-            19.9375,
-            9.057222
-          ],
-          [
-            19.909167,
-            9.0625
-          ],
-          [
-            19.894722,
-            9.041944
-          ],
-          [
-            19.786389,
-            9.047778
-          ],
-          [
-            19.683889,
-            9.013611
-          ],
-          [
-            19.583056,
-            9.028056
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            19.583056,
-            9.028056
-          ],
-          [
-            19.560755,
-            9.0386528
-          ],
-          [
-            19.543786,
-            9.0223675
-          ],
-          [
-            19.5266252,
-            9.040073
-          ],
-          [
-            19.5160795,
-            9.0191483
-          ],
-          [
-            19.5027536,
-            9.0297528
-          ],
-          [
-            19.4795894,
-            9.0117778
-          ],
-          [
-            19.4777337,
-            9.0323956
-          ],
-          [
-            19.449899,
-            9.0075395
-          ],
-          [
-            19.4432882,
-            9.026554
-          ],
-          [
-            19.3991271,
-            9.0275533
-          ],
-          [
-            19.3903722,
-            9.0146942
-          ],
-          [
-            19.3621992,
-            9.0295486
-          ],
-          [
-            19.3511994,
-            9.0164679
-          ],
-          [
-            19.2819006,
-            9.0122719
-          ],
-          [
-            19.2196732,
-            9.0391427
-          ],
-          [
-            19.1471553,
-            9.0093276
-          ],
-          [
-            19.123737,
-            9.0245104
-          ],
-          [
-            19.1110939,
-            9.0066315
-          ],
-          [
-            19.0521664,
-            9.0130967
-          ],
-          [
-            19.0382483,
-            8.9831641
-          ],
-          [
-            19.0206262,
-            8.9933359
-          ],
-          [
-            19.0144528,
-            8.9690838
-          ],
-          [
-            18.9854151,
-            8.9725269
-          ],
-          [
-            18.9824878,
-            8.9429496
-          ],
-          [
-            18.9561105,
-            8.9608032
-          ],
-          [
-            18.9582383,
-            8.936769
-          ],
-          [
-            18.8810816,
-            8.899905
-          ],
-          [
-            18.8616533,
-            8.8778794
-          ],
-          [
-            18.8765271,
-            8.8450289
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            18.8765271,
-            8.8450289
-          ],
-          [
-            18.9028079,
-            8.8542924
-          ],
-          [
-            18.9094736,
-            8.810247
-          ],
-          [
-            18.9488678,
-            8.8105496
-          ],
-          [
-            19.0337102,
-            8.7314401
-          ],
-          [
-            19.1007236,
-            8.7003496
-          ],
-          [
-            19.1235604,
-            8.6739317
-          ],
-          [
-            19.1104971,
-            8.6645819
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            19.1104971,
-            8.6645819
-          ],
-          [
-            19.0794204,
-            8.6387121
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            19.0794204,
-            8.6387121
-          ],
-          [
-            19.06584,
-            8.63738
-          ],
-          [
-            19.048487,
-            8.5739184
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            19.0346355,
-            8.5278181
-          ],
-          [
-            19.048487,
-            8.5739184
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            18.9999809,
-            8.5196113
-          ],
-          [
-            19.0346355,
-            8.5278181
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            18.9923021,
-            8.4917141
-          ],
-          [
-            18.9848719,
-            8.508787
-          ],
-          [
-            18.9999809,
-            8.5196113
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            18.9693436,
-            8.4656757
-          ],
-          [
-            18.9702994,
-            8.4846816
-          ],
-          [
-            18.9923021,
-            8.4917141
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            18.9248583,
-            8.3996237
-          ],
-          [
-            18.9203357,
-            8.425128
-          ],
-          [
-            18.9693436,
-            8.4656757
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            18.8812904,
-            8.366909
-          ],
-          [
-            18.8930822,
-            8.3626967
-          ],
-          [
-            18.9248583,
-            8.3996237
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            18.8496823,
-            8.3464437
-          ],
-          [
-            18.8689429,
-            8.3416544
-          ],
-          [
-            18.8812904,
-            8.366909
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            18.8196203,
-            8.2766083
-          ],
-          [
-            18.8445943,
-            8.3063356
-          ],
-          [
-            18.8496823,
-            8.3464437
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            18.7479081,
-            8.2416495
-          ],
-          [
-            18.8196203,
-            8.2766083
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            18.7479081,
-            8.2416495
-          ],
-          [
-            18.6577,
-            8.19495
-          ],
-          [
-            18.6317049,
-            8.1392358
-          ],
-          [
-            18.6331159,
-            8.0796509
-          ],
-          [
-            18.6098051,
-            8.052832
-          ],
-          [
-            18.21544,
-            8.0195
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            18.21544,
-            8.0195
-          ],
-          [
-            18.12234,
-            8.01297
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            18.12234,
-            8.01297
-          ],
-          [
-            18.03198,
-            8.0093
-          ],
-          [
-            17.92164,
-            7.95861
-          ],
-          [
-            17.7248145,
-            7.9789655
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            17.4849029,
-            7.889725
-          ],
-          [
-            17.5105918,
-            7.872443
-          ],
-          [
-            17.519855,
-            7.8956105
-          ],
-          [
-            17.5348677,
-            7.8906888
-          ],
-          [
-            17.5334835,
-            7.9241198
-          ],
-          [
-            17.5526132,
-            7.9305526
-          ],
-          [
-            17.5630475,
-            7.9149099
-          ],
-          [
-            17.5887914,
-            7.9374904
-          ],
-          [
-            17.6059104,
-            7.9296114
-          ],
-          [
-            17.6433621,
-            7.9445373
-          ],
-          [
-            17.6617129,
-            7.9851638
-          ],
-          [
-            17.6975185,
-            7.9706669
-          ],
-          [
-            17.7248145,
-            7.9789655
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            17.2763598,
-            7.8100433
-          ],
-          [
-            17.293651,
-            7.8106974
-          ],
-          [
-            17.2959057,
-            7.8304899
-          ],
-          [
-            17.3318816,
-            7.8290446
-          ],
-          [
-            17.3599443,
-            7.8561927
-          ],
-          [
-            17.3992097,
-            7.8473836
-          ],
-          [
-            17.3993098,
-            7.8723903
-          ],
-          [
-            17.417934,
-            7.8648409
-          ],
-          [
-            17.4293885,
-            7.8847388
-          ],
-          [
-            17.4409588,
-            7.8716965
-          ],
-          [
-            17.4421122,
-            7.8916913
-          ],
-          [
-            17.4612416,
-            7.9020964
-          ],
-          [
-            17.4849029,
-            7.889725
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.8912063,
-            7.6195217
-          ],
-          [
-            16.9221522,
-            7.6098838
-          ],
-          [
-            16.951193,
-            7.6453378
-          ],
-          [
-            16.9632329,
-            7.6317557
-          ],
-          [
-            17.0352568,
-            7.6388797
-          ],
-          [
-            17.0392541,
-            7.658034
-          ],
-          [
-            17.0883877,
-            7.6654279
-          ],
-          [
-            17.0770652,
-            7.6889602
-          ],
-          [
-            17.0915049,
-            7.7015436
-          ],
-          [
-            17.1219427,
-            7.6661094
-          ],
-          [
-            17.1541112,
-            7.6703476
-          ],
-          [
-            17.1640239,
-            7.7177606
-          ],
-          [
-            17.2010626,
-            7.7217579
-          ],
-          [
-            17.2228681,
-            7.7704647
-          ],
-          [
-            17.2577644,
-            7.7528926
-          ],
-          [
-            17.2558943,
-            7.7875981
-          ],
-          [
-            17.2763598,
-            7.8100433
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.8377984,
-            7.5359927
-          ],
-          [
-            16.8665834,
-            7.5627072
-          ],
-          [
-            16.8926534,
-            7.5521294
-          ],
-          [
-            16.9064281,
-            7.5648468
-          ],
-          [
-            16.8863724,
-            7.57891
-          ],
-          [
-            16.9015584,
-            7.6036611
-          ],
-          [
-            16.8912063,
-            7.6195217
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.8123302,
-            7.5354672
-          ],
-          [
-            16.8377984,
-            7.5359927
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.7481025,
-            7.6233253
-          ],
-          [
-            16.7887665,
-            7.5907072
-          ],
-          [
-            16.8123302,
-            7.5354672
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.7294388,
-            7.6394465
-          ],
-          [
-            16.7481025,
-            7.6233253
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.7015031,
-            7.6395901
-          ],
-          [
-            16.7294388,
-            7.6394465
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.6844128,
-            7.6395458
-          ],
-          [
-            16.7015031,
-            7.6395901
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.6844128,
-            7.6395458
-          ],
-          [
-            16.6593557,
-            7.6728411
-          ],
-          [
-            16.6641417,
-            7.7350075
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.6641417,
-            7.7350075
-          ],
-          [
-            16.6375387,
-            7.7606864
-          ],
-          [
-            16.5895799,
-            7.7740028
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.5895799,
-            7.7740028
-          ],
-          [
-            16.5784894,
-            7.8563635
-          ],
-          [
-            16.5911434,
-            7.8866453
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.4253626,
-            7.7219477
-          ],
-          [
-            16.4086017,
-            7.7371799
-          ],
-          [
-            16.4194539,
-            7.7495331
-          ],
-          [
-            16.406016,
-            7.7726971
-          ],
-          [
-            16.432012,
-            7.8102415
-          ],
-          [
-            16.4500472,
-            7.7873666
-          ],
-          [
-            16.4800021,
-            7.790056
-          ],
-          [
-            16.5076503,
-            7.8481014
-          ],
-          [
-            16.5911434,
-            7.8866453
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.2295908,
-            7.6056279
-          ],
-          [
-            16.2958478,
-            7.6547431
-          ],
-          [
-            16.3865288,
-            7.6744007
-          ],
-          [
-            16.4253626,
-            7.7219477
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.2295908,
-            7.6056279
-          ],
-          [
-            16.1939174,
-            7.6179265
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.1939174,
-            7.6179265
-          ],
-          [
-            16.1601001,
-            7.5934672
-          ],
-          [
-            16.1196363,
-            7.5917125
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            16.1196363,
-            7.5917125
-          ],
-          [
-            16.0466051,
-            7.57576
-          ],
-          [
-            16.0103507,
-            7.5056891
-          ],
-          [
-            15.9185907,
-            7.4707091
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.9185907,
-            7.4707091
-          ],
-          [
-            15.80959,
-            7.44107
-          ],
-          [
-            15.74297,
-            7.47853
-          ],
-          [
-            15.72795,
-            7.51913
-          ],
-          [
-            15.56036,
-            7.51051
-          ],
-          [
-            15.493433,
-            7.5247985
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.493433,
-            7.5247985
-          ],
-          [
-            15.5359742,
-            7.5598867
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.5359742,
-            7.5598867
-          ],
-          [
-            15.5375839,
-            7.5654728
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.5375839,
-            7.5654728
-          ],
-          [
-            15.5616268,
-            7.5853874
-          ],
-          [
-            15.5606479,
-            7.6039078
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.5606479,
-            7.6039078
-          ],
-          [
-            15.5893582,
-            7.6780822
-          ],
-          [
-            15.5864138,
-            7.7556569
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.3118546,
-            8.2696044
-          ],
-          [
-            15.394854,
-            8.093707
-          ],
-          [
-            15.393964,
-            8.046506
-          ],
-          [
-            15.451778,
-            7.8852898
-          ],
-          [
-            15.506378,
-            7.7920221
-          ],
-          [
-            15.587413,
-            7.7738952
-          ],
-          [
-            15.5864138,
-            7.7556569
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.2226486,
-            8.4604621
-          ],
-          [
-            15.3118546,
-            8.2696044
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.1540815,
-            8.5722329
-          ],
-          [
-            15.2226486,
-            8.4604621
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.0747979,
-            8.675003
-          ],
-          [
-            15.109015,
-            8.659348
-          ],
-          [
-            15.117583,
-            8.63152
-          ],
-          [
-            15.150939,
-            8.605862
-          ],
-          [
-            15.1540815,
-            8.5722329
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.0747979,
-            8.675003
-          ],
-          [
-            15.0540054,
-            8.6776651
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            15.0540054,
-            8.6776651
-          ],
-          [
-            14.9812478,
-            8.6864574
-          ],
-          [
-            14.989407,
-            8.7258663
-          ],
-          [
-            14.9488413,
-            8.7546887
-          ],
-          [
-            14.9075138,
-            8.7615599
-          ],
-          [
-            14.9229526,
-            8.7763305
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.9229526,
-            8.7763305
-          ],
-          [
-            14.8999768,
-            8.8128355
-          ],
-          [
-            14.8362647,
-            8.8116583
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.6125084,
-            8.9797023
-          ],
-          [
-            14.8362647,
-            8.8116583
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.5833528,
-            9.0015699
-          ],
-          [
-            14.6125084,
-            8.9797023
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.4293082,
-            9.130704
-          ],
-          [
-            14.464023,
-            9.114894
-          ],
-          [
-            14.4894441,
-            9.0591537
-          ],
-          [
-            14.5833528,
-            9.0015699
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.4293082,
-            9.130704
-          ],
-          [
-            14.4195744,
-            9.136146
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.4195744,
-            9.136146
-          ],
-          [
-            14.353745,
-            9.191825
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.358133,
-            9.1967869
-          ],
-          [
-            14.353745,
-            9.191825
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.3767972,
-            9.271807
-          ],
-          [
-            14.3483001,
-            9.2162048
-          ],
-          [
-            14.358133,
-            9.1967869
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.2836378,
-            9.3613187
-          ],
-          [
-            14.304327,
-            9.371684
-          ],
-          [
-            14.339203,
-            9.309876
-          ],
-          [
-            14.373162,
-            9.294147
-          ],
-          [
-            14.3767972,
-            9.271807
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
-        "name": "Tchad \u062a\u0634\u0627\u062f"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.2768085,
-            9.3594629
-          ],
-          [
-            14.2836378,
-            9.3613187
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.227837,
+              9.420867
+            ],
+            [
+              14.203158,
+              9.447479
+            ],
+            [
+              14.203158,
+              9.447479
+            ],
+            [
+              14.189422,
+              9.443051
+            ],
+            [
+              14.189422,
+              9.443051
+            ],
+            [
+              14.149802,
+              9.502241
+            ],
+            [
+              14.149802,
+              9.502241
+            ],
+            [
+              14.1155,
+              9.510177
+            ],
+            [
+              14.1155,
+              9.510177
+            ],
+            [
+              14.06529,
+              9.56858
+            ],
+            [
+              14.06529,
+              9.56858
+            ],
+            [
+              14.03805,
+              9.61098
+            ],
+            [
+              13.976605,
+              9.637937
+            ],
+            [
+              13.976605,
+              9.637937
+            ],
+            [
+              14.022445,
+              9.727969
+            ],
+            [
+              14.130979,
+              9.820074
+            ],
+            [
+              14.20574,
+              9.998878
+            ],
+            [
+              14.20574,
+              9.998878
+            ],
+            [
+              14.487589,
+              9.997236
+            ],
+            [
+              14.487589,
+              9.997236
+            ],
+            [
+              14.617842,
+              9.970386
+            ],
+            [
+              14.617842,
+              9.970386
+            ],
+            [
+              14.730033,
+              9.947812
+            ],
+            [
+              14.730033,
+              9.947812
+            ],
+            [
+              14.802421,
+              9.935219
+            ],
+            [
+              14.802421,
+              9.935219
+            ],
+            [
+              14.963513,
+              9.980619
+            ],
+            [
+              14.963513,
+              9.980619
+            ],
+            [
+              15.059964,
+              9.945692
+            ],
+            [
+              15.133859,
+              9.990451
+            ],
+            [
+              15.133859,
+              9.990451
+            ],
+            [
+              15.17929,
+              9.986636
+            ],
+            [
+              15.17929,
+              9.986636
+            ],
+            [
+              15.231854,
+              9.987461
+            ],
+            [
+              15.231854,
+              9.987461
+            ],
+            [
+              15.2481,
+              9.989541
+            ],
+            [
+              15.2481,
+              9.989541
+            ],
+            [
+              15.413858,
+              9.933482
+            ],
+            [
+              15.688473,
+              9.992909
+            ],
+            [
+              15.617173,
+              10.045705
+            ],
+            [
+              15.588173,
+              10.049772
+            ],
+            [
+              15.580609,
+              10.069569
+            ],
+            [
+              15.559623,
+              10.064319
+            ],
+            [
+              15.5319,
+              10.099969
+            ],
+            [
+              15.499188,
+              10.100719
+            ],
+            [
+              15.432035,
+              10.201904
+            ],
+            [
+              15.432035,
+              10.201904
+            ],
+            [
+              15.346452,
+              10.296974
+            ],
+            [
+              15.303606,
+              10.312375
+            ],
+            [
+              15.279429,
+              10.366763
+            ],
+            [
+              15.280459,
+              10.403572
+            ],
+            [
+              15.256362,
+              10.437149
+            ],
+            [
+              15.256362,
+              10.437149
+            ],
+            [
+              15.240977,
+              10.476756
+            ],
+            [
+              15.153054,
+              10.532697
+            ],
+            [
+              15.153054,
+              10.532697
+            ],
+            [
+              15.141638,
+              10.588892
+            ],
+            [
+              15.161508,
+              10.625074
+            ],
+            [
+              15.108433,
+              10.734196
+            ],
+            [
+              15.108433,
+              10.734196
+            ],
+            [
+              15.067406,
+              10.82221
+            ],
+            [
+              15.095145,
+              10.875791
+            ],
+            [
+              15.080441,
+              10.956444
+            ],
+            [
+              15.049398,
+              10.999214
+            ],
+            [
+              15.049398,
+              10.999214
+            ],
+            [
+              15.046576,
+              11.00254
+            ],
+            [
+              15.046576,
+              11.00254
+            ],
+            [
+              15.048072,
+              11.031353
+            ],
+            [
+              15.093069,
+              11.033938
+            ],
+            [
+              15.110208,
+              11.089323
+            ],
+            [
+              15.098137,
+              11.130225
+            ],
+            [
+              15.098137,
+              11.130225
+            ],
+            [
+              15.048142,
+              11.281947
+            ],
+            [
+              15.074015,
+              11.322447
+            ],
+            [
+              15.048582,
+              11.346384
+            ],
+            [
+              15.069004,
+              11.368594
+            ],
+            [
+              15.058029,
+              11.414808
+            ],
+            [
+              15.086642,
+              11.461361
+            ],
+            [
+              15.086642,
+              11.461361
+            ],
+            [
+              15.106931,
+              11.501628
+            ],
+            [
+              15.133361,
+              11.513815
+            ],
+            [
+              15.144305,
+              11.562701
+            ],
+            [
+              15.100783,
+              11.585362
+            ],
+            [
+              15.100633,
+              11.613754
+            ],
+            [
+              15.07718,
+              11.645606
+            ],
+            [
+              15.081541,
+              11.688869
+            ],
+            [
+              15.064809,
+              11.717828
+            ],
+            [
+              15.078446,
+              11.735435
+            ],
+            [
+              15.10512,
+              11.730311
+            ],
+            [
+              15.080253,
+              11.765854
+            ],
+            [
+              15.122675,
+              11.790867
+            ],
+            [
+              15.096977,
+              11.816465
+            ],
+            [
+              15.091964,
+              11.853313
+            ],
+            [
+              15.062905,
+              11.843385
+            ],
+            [
+              15.048233,
+              11.862626
+            ],
+            [
+              15.039334,
+              11.91038
+            ],
+            [
+              15.063173,
+              11.937458
+            ],
+            [
+              15.046994,
+              11.968143
+            ],
+            [
+              15.086321,
+              11.993348
+            ],
+            [
+              15.049461,
+              12.019328
+            ],
+            [
+              15.049461,
+              12.019328
+            ],
+            [
+              15.038261,
+              12.034735
+            ],
+            [
+              15.056891,
+              12.036299
+            ],
+            [
+              15.060153,
+              12.054293
+            ],
+            [
+              15.060153,
+              12.054293
+            ],
+            [
+              15.036907,
+              12.078066
+            ],
+            [
+              15.033005,
+              12.109482
+            ],
+            [
+              15.033005,
+              12.109482
+            ],
+            [
+              14.993655,
+              12.115617
+            ],
+            [
+              14.993655,
+              12.115617
+            ],
+            [
+              14.993428,
+              12.087827
+            ],
+            [
+              14.965723,
+              12.096406
+            ],
+            [
+              14.965723,
+              12.096406
+            ],
+            [
+              14.922834,
+              12.1286
+            ],
+            [
+              14.922834,
+              12.1286
+            ],
+            [
+              14.916687,
+              12.13894
+            ],
+            [
+              14.916687,
+              12.13894
+            ],
+            [
+              14.88553,
+              12.165226
+            ],
+            [
+              14.910604,
+              12.185152
+            ],
+            [
+              14.892762,
+              12.202927
+            ],
+            [
+              14.902932,
+              12.224861
+            ],
+            [
+              14.902932,
+              12.224861
+            ],
+            [
+              14.893384,
+              12.307341
+            ],
+            [
+              14.908211,
+              12.331156
+            ],
+            [
+              14.907814,
+              12.385108
+            ],
+            [
+              14.875241,
+              12.467608
+            ],
+            [
+              14.856134,
+              12.452994
+            ],
+            [
+              14.844621,
+              12.463868
+            ],
+            [
+              14.858397,
+              12.491397
+            ],
+            [
+              14.854717,
+              12.574041
+            ],
+            [
+              14.83209,
+              12.634225
+            ],
+            [
+              14.771888,
+              12.635217
+            ],
+            [
+              14.747032,
+              12.688605
+            ],
+            [
+              14.722388,
+              12.659223
+            ],
+            [
+              14.708086,
+              12.661924
+            ],
+            [
+              14.708086,
+              12.661924
+            ],
+            [
+              14.719673,
+              12.721103
+            ],
+            [
+              14.670246,
+              12.719345
+            ],
+            [
+              14.61778,
+              12.742976
+            ],
+            [
+              14.620737,
+              12.774152
+            ],
+            [
+              14.590133,
+              12.745873
+            ],
+            [
+              14.573729,
+              12.783762
+            ],
+            [
+              14.553387,
+              12.778369
+            ],
+            [
+              14.557921,
+              12.881256
+            ],
+            [
+              14.557921,
+              12.881256
+            ],
+            [
+              14.571937,
+              12.886597
+            ],
+            [
+              14.561782,
+              12.918389
+            ],
+            [
+              14.512562,
+              12.994959
+            ],
+            [
+              14.512562,
+              12.994959
+            ],
+            [
+              14.466666,
+              13.083333
+            ],
+            [
+              14.083333,
+              13.083333
+            ],
+            [
+              14.083333,
+              13.083333
+            ],
+            [
+              14.008087,
+              13.188105
+            ],
+            [
+              14.008087,
+              13.188105
+            ],
+            [
+              13.933183,
+              13.29229
+            ],
+            [
+              13.933183,
+              13.29229
+            ],
+            [
+              13.762133,
+              13.529524
+            ],
+            [
+              13.762133,
+              13.529524
+            ],
+            [
+              13.649873,
+              13.685261
+            ],
+            [
+              13.649873,
+              13.685261
+            ],
+            [
+              13.633381,
+              13.70816
+            ],
+            [
+              13.633381,
+              13.70816
+            ],
+            [
+              13.58589,
+              13.9209
+            ],
+            [
+              13.58589,
+              13.9209
+            ],
+            [
+              13.47348,
+              14.44282
+            ],
+            [
+              13.49975,
+              14.47785
+            ],
+            [
+              13.64423,
+              14.51582
+            ],
+            [
+              13.64423,
+              14.51582
+            ],
+            [
+              13.69602,
+              14.55112
+            ],
+            [
+              13.67731,
+              14.63656
+            ],
+            [
+              13.74557,
+              14.69834
+            ],
+            [
+              13.76873,
+              14.69197
+            ],
+            [
+              13.80996,
+              14.72173
+            ],
+            [
+              13.78968,
+              14.86321
+            ],
+            [
+              13.86951,
+              15.04284
+            ],
+            [
+              13.97018,
+              15.15653
+            ],
+            [
+              14.38476,
+              15.73155
+            ],
+            [
+              15.0,
+              16.37046
+            ],
+            [
+              15.0,
+              16.37046
+            ],
+            [
+              15.45322,
+              16.84328
+            ],
+            [
+              15.45322,
+              16.84328
+            ],
+            [
+              15.50555,
+              16.89787
+            ],
+            [
+              15.508295,
+              16.949068
+            ],
+            [
+              15.508295,
+              16.949068
+            ],
+            [
+              15.55942,
+              18.00625
+            ],
+            [
+              15.55942,
+              18.00625
+            ],
+            [
+              15.6025,
+              18.782222
+            ],
+            [
+              15.753889,
+              19.9325
+            ],
+            [
+              15.996667,
+              20.353056
+            ],
+            [
+              15.673889,
+              20.698889
+            ],
+            [
+              15.575833,
+              20.766389
+            ],
+            [
+              15.557222,
+              20.815833
+            ],
+            [
+              15.558333,
+              20.884444
+            ],
+            [
+              15.584444,
+              20.93
+            ],
+            [
+              15.627222,
+              20.955278
+            ],
+            [
+              15.284444,
+              21.445278
+            ],
+            [
+              15.2025,
+              21.495833
+            ],
+            [
+              15.194722,
+              21.998889
+            ],
+            [
+              14.998583,
+              23.001238
+            ],
+            [
+              14.998583,
+              23.001238
+            ],
+            [
+              16.000011,
+              23.450796
+            ],
+            [
+              17.805004,
+              22.658718
+            ],
+            [
+              19.185765,
+              21.990232
+            ],
+            [
+              19.185765,
+              21.990232
+            ],
+            [
+              21.024665,
+              21.067913
+            ],
+            [
+              21.024665,
+              21.067913
+            ],
+            [
+              22.341392,
+              20.386619
+            ],
+            [
+              22.341392,
+              20.386619
+            ],
+            [
+              23.999988,
+              19.499991
+            ],
+            [
+              23.999988,
+              19.499991
+            ],
+            [
+              23.999219,
+              16.493268
+            ],
+            [
+              23.999219,
+              16.493268
+            ],
+            [
+              23.999641,
+              15.697254
+            ],
+            [
+              23.999641,
+              15.697254
+            ],
+            [
+              23.811436,
+              15.751399
+            ],
+            [
+              23.663636,
+              15.774693
+            ],
+            [
+              23.551884,
+              15.768415
+            ],
+            [
+              23.396874,
+              15.697697
+            ],
+            [
+              23.110714,
+              15.714883
+            ],
+            [
+              23.110714,
+              15.714883
+            ],
+            [
+              22.99759,
+              15.591077
+            ],
+            [
+              22.936993,
+              15.564289
+            ],
+            [
+              22.926178,
+              15.53171
+            ],
+            [
+              22.926178,
+              15.53171
+            ],
+            [
+              22.918462,
+              15.494278
+            ],
+            [
+              22.918462,
+              15.494278
+            ],
+            [
+              22.924439,
+              15.4706
+            ],
+            [
+              22.924439,
+              15.4706
+            ],
+            [
+              22.98817,
+              15.414963
+            ],
+            [
+              23.000058,
+              15.326039
+            ],
+            [
+              23.000058,
+              15.326039
+            ],
+            [
+              22.985058,
+              15.25946
+            ],
+            [
+              23.005143,
+              15.231305
+            ],
+            [
+              22.967377,
+              15.182438
+            ],
+            [
+              22.933598,
+              15.166578
+            ],
+            [
+              22.939909,
+              15.110741
+            ],
+            [
+              22.939909,
+              15.110741
+            ],
+            [
+              22.926824,
+              15.094373
+            ],
+            [
+              22.882233,
+              15.088648
+            ],
+            [
+              22.781697,
+              14.990979
+            ],
+            [
+              22.781697,
+              14.990979
+            ],
+            [
+              22.75016,
+              14.968594
+            ],
+            [
+              22.753667,
+              14.90152
+            ],
+            [
+              22.71051,
+              14.895646
+            ],
+            [
+              22.675059,
+              14.870449
+            ],
+            [
+              22.720061,
+              14.687052
+            ],
+            [
+              22.405896,
+              14.590224
+            ],
+            [
+              22.383791,
+              14.507851
+            ],
+            [
+              22.447121,
+              14.485243
+            ],
+            [
+              22.443187,
+              14.369201
+            ],
+            [
+              22.461818,
+              14.331041
+            ],
+            [
+              22.427394,
+              14.288566
+            ],
+            [
+              22.479215,
+              14.232741
+            ],
+            [
+              22.535642,
+              14.235613
+            ],
+            [
+              22.535642,
+              14.235613
+            ],
+            [
+              22.557664,
+              14.227398
+            ],
+            [
+              22.556553,
+              14.206017
+            ],
+            [
+              22.579497,
+              14.184464
+            ],
+            [
+              22.535838,
+              14.118802
+            ],
+            [
+              22.503627,
+              14.109756
+            ],
+            [
+              22.503627,
+              14.109756
+            ],
+            [
+              22.433566,
+              14.052809
+            ],
+            [
+              22.392421,
+              14.050204
+            ],
+            [
+              22.342325,
+              14.021587
+            ],
+            [
+              22.205192,
+              13.919687
+            ],
+            [
+              22.205192,
+              13.919687
+            ],
+            [
+              22.072576,
+              13.777221
+            ],
+            [
+              22.123696,
+              13.736296
+            ],
+            [
+              22.131069,
+              13.706408
+            ],
+            [
+              22.115293,
+              13.682999
+            ],
+            [
+              22.158157,
+              13.607401
+            ],
+            [
+              22.158157,
+              13.607401
+            ],
+            [
+              22.226224,
+              13.546712
+            ],
+            [
+              22.217194,
+              13.468221
+            ],
+            [
+              22.239427,
+              13.4212
+            ],
+            [
+              22.284439,
+              13.384635
+            ],
+            [
+              22.284439,
+              13.384635
+            ],
+            [
+              22.291413,
+              13.35509
+            ],
+            [
+              22.203485,
+              13.261437
+            ],
+            [
+              22.203485,
+              13.261437
+            ],
+            [
+              22.181005,
+              13.248334
+            ],
+            [
+              22.144651,
+              13.181942
+            ],
+            [
+              22.144651,
+              13.181942
+            ],
+            [
+              22.086926,
+              13.165066
+            ],
+            [
+              22.071555,
+              13.144486
+            ],
+            [
+              22.010039,
+              13.141612
+            ],
+            [
+              21.977367,
+              13.07479
+            ],
+            [
+              21.935999,
+              13.065444
+            ],
+            [
+              21.931735,
+              13.023917
+            ],
+            [
+              21.931735,
+              13.023917
+            ],
+            [
+              21.899014,
+              12.988324
+            ],
+            [
+              21.845274,
+              12.836521
+            ],
+            [
+              21.81439,
+              12.808577
+            ],
+            [
+              21.81439,
+              12.808577
+            ],
+            [
+              21.85576,
+              12.775369
+            ],
+            [
+              21.856023,
+              12.728692
+            ],
+            [
+              21.939474,
+              12.63598
+            ],
+            [
+              21.985091,
+              12.639481
+            ],
+            [
+              21.985091,
+              12.639481
+            ],
+            [
+              22.145969,
+              12.664076
+            ],
+            [
+              22.193966,
+              12.699503
+            ],
+            [
+              22.210336,
+              12.743429
+            ],
+            [
+              22.226244,
+              12.735102
+            ],
+            [
+              22.226244,
+              12.735102
+            ],
+            [
+              22.36637,
+              12.658551
+            ],
+            [
+              22.454602,
+              12.6292
+            ],
+            [
+              22.429207,
+              12.523209
+            ],
+            [
+              22.368147,
+              12.441831
+            ],
+            [
+              22.435814,
+              12.378467
+            ],
+            [
+              22.435814,
+              12.378467
+            ],
+            [
+              22.426326,
+              12.350737
+            ],
+            [
+              22.442297,
+              12.283227
+            ],
+            [
+              22.463051,
+              12.26072
+            ],
+            [
+              22.461008,
+              12.236147
+            ],
+            [
+              22.474095,
+              12.237357
+            ],
+            [
+              22.496887,
+              12.162268
+            ],
+            [
+              22.477769,
+              12.034353
+            ],
+            [
+              22.496785,
+              12.031199
+            ],
+            [
+              22.544234,
+              12.062065
+            ],
+            [
+              22.612094,
+              12.058437
+            ],
+            [
+              22.612094,
+              12.058437
+            ],
+            [
+              22.639743,
+              12.069822
+            ],
+            [
+              22.572778,
+              11.799167
+            ],
+            [
+              22.552778,
+              11.665556
+            ],
+            [
+              22.561667,
+              11.621667
+            ],
+            [
+              22.641944,
+              11.516111
+            ],
+            [
+              22.775556,
+              11.462222
+            ],
+            [
+              22.791111,
+              11.401667
+            ],
+            [
+              22.930833,
+              11.415833
+            ],
+            [
+              22.941667,
+              11.348611
+            ],
+            [
+              22.941667,
+              11.348611
+            ],
+            [
+              22.970833,
+              11.283056
+            ],
+            [
+              22.974722,
+              11.209167
+            ],
+            [
+              22.877778,
+              10.920556
+            ],
+            [
+              22.877778,
+              10.920556
+            ],
+            [
+              22.785556,
+              10.931111
+            ],
+            [
+              22.7675,
+              10.955
+            ],
+            [
+              22.600278,
+              10.985556
+            ],
+            [
+              22.534722,
+              10.974722
+            ],
+            [
+              22.513611,
+              10.995556
+            ],
+            [
+              22.466111,
+              11.001389
+            ],
+            [
+              22.387222,
+              10.958333
+            ],
+            [
+              22.387222,
+              10.958333
+            ],
+            [
+              22.322778,
+              10.941667
+            ],
+            [
+              22.276667,
+              10.904722
+            ],
+            [
+              22.244722,
+              10.910833
+            ],
+            [
+              22.198889,
+              10.866389
+            ],
+            [
+              22.180833,
+              10.815833
+            ],
+            [
+              22.0475,
+              10.830556
+            ],
+            [
+              22.009444,
+              10.799167
+            ],
+            [
+              21.995833,
+              10.728889
+            ],
+            [
+              21.950833,
+              10.731667
+            ],
+            [
+              21.9075,
+              10.713889
+            ],
+            [
+              21.8575,
+              10.666667
+            ],
+            [
+              21.816667,
+              10.678333
+            ],
+            [
+              21.719444,
+              10.639444
+            ],
+            [
+              21.701389,
+              10.514444
+            ],
+            [
+              21.747778,
+              10.406667
+            ],
+            [
+              21.724722,
+              10.365833
+            ],
+            [
+              21.715556,
+              10.290556
+            ],
+            [
+              21.687778,
+              10.284722
+            ],
+            [
+              21.670833,
+              10.238889
+            ],
+            [
+              21.638889,
+              10.223056
+            ],
+            [
+              21.526944,
+              10.206389
+            ],
+            [
+              21.455278,
+              10.116389
+            ],
+            [
+              21.438333,
+              10.045833
+            ],
+            [
+              21.371944,
+              9.973889
+            ],
+            [
+              21.336111,
+              9.958333
+            ],
+            [
+              21.276389,
+              9.980556
+            ],
+            [
+              21.256389,
+              9.973611
+            ],
+            [
+              21.191944,
+              9.883611
+            ],
+            [
+              21.13,
+              9.842778
+            ],
+            [
+              21.103056,
+              9.7725
+            ],
+            [
+              21.068333,
+              9.752778
+            ],
+            [
+              21.0425,
+              9.766667
+            ],
+            [
+              21.018056,
+              9.7425
+            ],
+            [
+              21.0175,
+              9.710833
+            ],
+            [
+              20.993889,
+              9.681389
+            ],
+            [
+              20.997222,
+              9.633611
+            ],
+            [
+              20.975833,
+              9.628056
+            ],
+            [
+              20.985,
+              9.606111
+            ],
+            [
+              20.956389,
+              9.605556
+            ],
+            [
+              20.895833,
+              9.521667
+            ],
+            [
+              20.835708,
+              9.476478
+            ],
+            [
+              20.822222,
+              9.415833
+            ],
+            [
+              20.800833,
+              9.420556
+            ],
+            [
+              20.771111,
+              9.4025
+            ],
+            [
+              20.770999,
+              9.386582
+            ],
+            [
+              20.770999,
+              9.386582
+            ],
+            [
+              20.662222,
+              9.346944
+            ],
+            [
+              20.662778,
+              9.296389
+            ],
+            [
+              20.603333,
+              9.298056
+            ],
+            [
+              20.541389,
+              9.321667
+            ],
+            [
+              20.528611,
+              9.281667
+            ],
+            [
+              20.496389,
+              9.271944
+            ],
+            [
+              20.515,
+              9.208889
+            ],
+            [
+              20.482778,
+              9.207778
+            ],
+            [
+              20.443333,
+              9.141389
+            ],
+            [
+              20.410833,
+              9.137778
+            ],
+            [
+              20.371667,
+              9.108333
+            ],
+            [
+              20.253333,
+              9.115
+            ],
+            [
+              20.207222,
+              9.139722
+            ],
+            [
+              20.141667,
+              9.111944
+            ],
+            [
+              20.104722,
+              9.151111
+            ],
+            [
+              20.098611,
+              9.1275
+            ],
+            [
+              20.061944,
+              9.134444
+            ],
+            [
+              20.03,
+              9.111389
+            ],
+            [
+              20.029167,
+              9.088611
+            ],
+            [
+              20.003889,
+              9.106667
+            ],
+            [
+              19.992114,
+              9.083042
+            ],
+            [
+              19.992114,
+              9.083042
+            ],
+            [
+              19.953333,
+              9.076389
+            ],
+            [
+              19.9375,
+              9.057222
+            ],
+            [
+              19.909167,
+              9.0625
+            ],
+            [
+              19.894722,
+              9.041944
+            ],
+            [
+              19.786389,
+              9.047778
+            ],
+            [
+              19.683889,
+              9.013611
+            ],
+            [
+              19.583056,
+              9.028056
+            ],
+            [
+              19.583056,
+              9.028056
+            ],
+            [
+              19.560755,
+              9.038653
+            ],
+            [
+              19.543786,
+              9.022367
+            ],
+            [
+              19.526625,
+              9.040073
+            ],
+            [
+              19.51608,
+              9.019148
+            ],
+            [
+              19.502754,
+              9.029753
+            ],
+            [
+              19.479589,
+              9.011778
+            ],
+            [
+              19.477734,
+              9.032396
+            ],
+            [
+              19.449899,
+              9.00754
+            ],
+            [
+              19.443288,
+              9.026554
+            ],
+            [
+              19.399127,
+              9.027553
+            ],
+            [
+              19.390372,
+              9.014694
+            ],
+            [
+              19.362199,
+              9.029549
+            ],
+            [
+              19.351199,
+              9.016468
+            ],
+            [
+              19.281901,
+              9.012272
+            ],
+            [
+              19.219673,
+              9.039143
+            ],
+            [
+              19.147155,
+              9.009328
+            ],
+            [
+              19.123737,
+              9.02451
+            ],
+            [
+              19.111094,
+              9.006631
+            ],
+            [
+              19.052166,
+              9.013097
+            ],
+            [
+              19.038248,
+              8.983164
+            ],
+            [
+              19.020626,
+              8.993336
+            ],
+            [
+              19.014453,
+              8.969084
+            ],
+            [
+              18.985415,
+              8.972527
+            ],
+            [
+              18.982488,
+              8.94295
+            ],
+            [
+              18.956111,
+              8.960803
+            ],
+            [
+              18.958238,
+              8.936769
+            ],
+            [
+              18.881082,
+              8.899905
+            ],
+            [
+              18.861653,
+              8.877879
+            ],
+            [
+              18.876527,
+              8.845029
+            ],
+            [
+              18.876527,
+              8.845029
+            ],
+            [
+              18.902808,
+              8.854292
+            ],
+            [
+              18.909474,
+              8.810247
+            ],
+            [
+              18.948868,
+              8.81055
+            ],
+            [
+              19.03371,
+              8.73144
+            ],
+            [
+              19.100724,
+              8.70035
+            ],
+            [
+              19.12356,
+              8.673932
+            ],
+            [
+              19.110497,
+              8.664582
+            ],
+            [
+              19.110497,
+              8.664582
+            ],
+            [
+              19.07942,
+              8.638712
+            ],
+            [
+              19.07942,
+              8.638712
+            ],
+            [
+              19.06584,
+              8.63738
+            ],
+            [
+              19.048487,
+              8.573918
+            ],
+            [
+              19.048487,
+              8.573918
+            ],
+            [
+              19.034636,
+              8.527818
+            ],
+            [
+              19.034636,
+              8.527818
+            ],
+            [
+              18.999981,
+              8.519611
+            ],
+            [
+              18.999981,
+              8.519611
+            ],
+            [
+              18.984872,
+              8.508787
+            ],
+            [
+              18.992302,
+              8.491714
+            ],
+            [
+              18.992302,
+              8.491714
+            ],
+            [
+              18.970299,
+              8.484682
+            ],
+            [
+              18.969344,
+              8.465676
+            ],
+            [
+              18.969344,
+              8.465676
+            ],
+            [
+              18.920336,
+              8.425128
+            ],
+            [
+              18.924858,
+              8.399624
+            ],
+            [
+              18.924858,
+              8.399624
+            ],
+            [
+              18.893082,
+              8.362697
+            ],
+            [
+              18.88129,
+              8.366909
+            ],
+            [
+              18.88129,
+              8.366909
+            ],
+            [
+              18.868943,
+              8.341654
+            ],
+            [
+              18.849682,
+              8.346444
+            ],
+            [
+              18.849682,
+              8.346444
+            ],
+            [
+              18.844594,
+              8.306336
+            ],
+            [
+              18.81962,
+              8.276608
+            ],
+            [
+              18.81962,
+              8.276608
+            ],
+            [
+              18.747908,
+              8.241649
+            ],
+            [
+              18.747908,
+              8.241649
+            ],
+            [
+              18.6577,
+              8.19495
+            ],
+            [
+              18.631705,
+              8.139236
+            ],
+            [
+              18.633116,
+              8.079651
+            ],
+            [
+              18.609805,
+              8.052832
+            ],
+            [
+              18.21544,
+              8.0195
+            ],
+            [
+              18.21544,
+              8.0195
+            ],
+            [
+              18.12234,
+              8.01297
+            ],
+            [
+              18.12234,
+              8.01297
+            ],
+            [
+              18.03198,
+              8.0093
+            ],
+            [
+              17.92164,
+              7.95861
+            ],
+            [
+              17.724815,
+              7.978966
+            ],
+            [
+              17.724815,
+              7.978966
+            ],
+            [
+              17.697519,
+              7.970667
+            ],
+            [
+              17.661713,
+              7.985164
+            ],
+            [
+              17.643362,
+              7.944537
+            ],
+            [
+              17.60591,
+              7.929611
+            ],
+            [
+              17.588791,
+              7.93749
+            ],
+            [
+              17.563047,
+              7.91491
+            ],
+            [
+              17.552613,
+              7.930553
+            ],
+            [
+              17.533483,
+              7.92412
+            ],
+            [
+              17.534868,
+              7.890689
+            ],
+            [
+              17.519855,
+              7.895611
+            ],
+            [
+              17.510592,
+              7.872443
+            ],
+            [
+              17.484903,
+              7.889725
+            ],
+            [
+              17.484903,
+              7.889725
+            ],
+            [
+              17.461242,
+              7.902096
+            ],
+            [
+              17.442112,
+              7.891691
+            ],
+            [
+              17.440959,
+              7.871696
+            ],
+            [
+              17.429389,
+              7.884739
+            ],
+            [
+              17.417934,
+              7.864841
+            ],
+            [
+              17.39931,
+              7.87239
+            ],
+            [
+              17.39921,
+              7.847384
+            ],
+            [
+              17.359944,
+              7.856193
+            ],
+            [
+              17.331882,
+              7.829045
+            ],
+            [
+              17.295906,
+              7.83049
+            ],
+            [
+              17.293651,
+              7.810697
+            ],
+            [
+              17.27636,
+              7.810043
+            ],
+            [
+              17.27636,
+              7.810043
+            ],
+            [
+              17.255894,
+              7.787598
+            ],
+            [
+              17.257764,
+              7.752893
+            ],
+            [
+              17.222868,
+              7.770465
+            ],
+            [
+              17.201063,
+              7.721758
+            ],
+            [
+              17.164024,
+              7.717761
+            ],
+            [
+              17.154111,
+              7.670348
+            ],
+            [
+              17.121943,
+              7.666109
+            ],
+            [
+              17.091505,
+              7.701544
+            ],
+            [
+              17.077065,
+              7.68896
+            ],
+            [
+              17.088388,
+              7.665428
+            ],
+            [
+              17.039254,
+              7.658034
+            ],
+            [
+              17.035257,
+              7.63888
+            ],
+            [
+              16.963233,
+              7.631756
+            ],
+            [
+              16.951193,
+              7.645338
+            ],
+            [
+              16.922152,
+              7.609884
+            ],
+            [
+              16.891206,
+              7.619522
+            ],
+            [
+              16.891206,
+              7.619522
+            ],
+            [
+              16.901558,
+              7.603661
+            ],
+            [
+              16.886372,
+              7.57891
+            ],
+            [
+              16.906428,
+              7.564847
+            ],
+            [
+              16.892653,
+              7.552129
+            ],
+            [
+              16.866583,
+              7.562707
+            ],
+            [
+              16.837798,
+              7.535993
+            ],
+            [
+              16.837798,
+              7.535993
+            ],
+            [
+              16.81233,
+              7.535467
+            ],
+            [
+              16.81233,
+              7.535467
+            ],
+            [
+              16.788767,
+              7.590707
+            ],
+            [
+              16.748103,
+              7.623325
+            ],
+            [
+              16.748103,
+              7.623325
+            ],
+            [
+              16.729439,
+              7.639447
+            ],
+            [
+              16.729439,
+              7.639447
+            ],
+            [
+              16.701503,
+              7.63959
+            ],
+            [
+              16.701503,
+              7.63959
+            ],
+            [
+              16.684413,
+              7.639546
+            ],
+            [
+              16.684413,
+              7.639546
+            ],
+            [
+              16.659356,
+              7.672841
+            ],
+            [
+              16.664142,
+              7.735008
+            ],
+            [
+              16.664142,
+              7.735008
+            ],
+            [
+              16.637539,
+              7.760686
+            ],
+            [
+              16.58958,
+              7.774003
+            ],
+            [
+              16.58958,
+              7.774003
+            ],
+            [
+              16.578489,
+              7.856363
+            ],
+            [
+              16.591143,
+              7.886645
+            ],
+            [
+              16.591143,
+              7.886645
+            ],
+            [
+              16.50765,
+              7.848101
+            ],
+            [
+              16.480002,
+              7.790056
+            ],
+            [
+              16.450047,
+              7.787367
+            ],
+            [
+              16.432012,
+              7.810242
+            ],
+            [
+              16.406016,
+              7.772697
+            ],
+            [
+              16.419454,
+              7.749533
+            ],
+            [
+              16.408602,
+              7.73718
+            ],
+            [
+              16.425363,
+              7.721948
+            ],
+            [
+              16.425363,
+              7.721948
+            ],
+            [
+              16.386529,
+              7.674401
+            ],
+            [
+              16.295848,
+              7.654743
+            ],
+            [
+              16.229591,
+              7.605628
+            ],
+            [
+              16.229591,
+              7.605628
+            ],
+            [
+              16.193917,
+              7.617927
+            ],
+            [
+              16.193917,
+              7.617927
+            ],
+            [
+              16.1601,
+              7.593467
+            ],
+            [
+              16.119636,
+              7.591712
+            ],
+            [
+              16.119636,
+              7.591712
+            ],
+            [
+              16.046605,
+              7.57576
+            ],
+            [
+              16.010351,
+              7.505689
+            ],
+            [
+              15.918591,
+              7.470709
+            ],
+            [
+              15.918591,
+              7.470709
+            ],
+            [
+              15.80959,
+              7.44107
+            ],
+            [
+              15.74297,
+              7.47853
+            ],
+            [
+              15.72795,
+              7.51913
+            ],
+            [
+              15.56036,
+              7.51051
+            ],
+            [
+              15.493433,
+              7.524799
+            ],
+            [
+              15.493433,
+              7.524799
+            ],
+            [
+              15.535974,
+              7.559887
+            ],
+            [
+              15.535974,
+              7.559887
+            ],
+            [
+              15.537584,
+              7.565473
+            ],
+            [
+              15.537584,
+              7.565473
+            ],
+            [
+              15.561627,
+              7.585387
+            ],
+            [
+              15.560648,
+              7.603908
+            ],
+            [
+              15.560648,
+              7.603908
+            ],
+            [
+              15.589358,
+              7.678082
+            ],
+            [
+              15.586414,
+              7.755657
+            ],
+            [
+              15.586414,
+              7.755657
+            ],
+            [
+              15.587413,
+              7.773895
+            ],
+            [
+              15.506378,
+              7.792022
+            ],
+            [
+              15.451778,
+              7.88529
+            ],
+            [
+              15.393964,
+              8.046506
+            ],
+            [
+              15.394854,
+              8.093707
+            ],
+            [
+              15.311855,
+              8.269604
+            ],
+            [
+              15.311855,
+              8.269604
+            ],
+            [
+              15.222649,
+              8.460462
+            ],
+            [
+              15.222649,
+              8.460462
+            ],
+            [
+              15.154082,
+              8.572233
+            ],
+            [
+              15.154082,
+              8.572233
+            ],
+            [
+              15.150939,
+              8.605862
+            ],
+            [
+              15.117583,
+              8.63152
+            ],
+            [
+              15.109015,
+              8.659348
+            ],
+            [
+              15.074798,
+              8.675003
+            ],
+            [
+              15.074798,
+              8.675003
+            ],
+            [
+              15.054005,
+              8.677665
+            ],
+            [
+              15.054005,
+              8.677665
+            ],
+            [
+              14.981248,
+              8.686457
+            ],
+            [
+              14.989407,
+              8.725866
+            ],
+            [
+              14.948841,
+              8.754689
+            ],
+            [
+              14.907514,
+              8.76156
+            ],
+            [
+              14.922953,
+              8.776331
+            ],
+            [
+              14.922953,
+              8.776331
+            ],
+            [
+              14.899977,
+              8.812836
+            ],
+            [
+              14.836265,
+              8.811658
+            ],
+            [
+              14.836265,
+              8.811658
+            ],
+            [
+              14.612508,
+              8.979702
+            ],
+            [
+              14.612508,
+              8.979702
+            ],
+            [
+              14.583353,
+              9.00157
+            ],
+            [
+              14.583353,
+              9.00157
+            ],
+            [
+              14.489444,
+              9.059154
+            ],
+            [
+              14.464023,
+              9.114894
+            ],
+            [
+              14.429308,
+              9.130704
+            ],
+            [
+              14.429308,
+              9.130704
+            ],
+            [
+              14.419574,
+              9.136146
+            ],
+            [
+              14.419574,
+              9.136146
+            ],
+            [
+              14.353745,
+              9.191825
+            ],
+            [
+              14.353745,
+              9.191825
+            ],
+            [
+              14.358133,
+              9.196787
+            ],
+            [
+              14.358133,
+              9.196787
+            ],
+            [
+              14.3483,
+              9.216205
+            ],
+            [
+              14.376797,
+              9.271807
+            ],
+            [
+              14.376797,
+              9.271807
+            ],
+            [
+              14.373162,
+              9.294147
+            ],
+            [
+              14.339203,
+              9.309876
+            ],
+            [
+              14.304327,
+              9.371684
+            ],
+            [
+              14.283638,
+              9.361319
+            ],
+            [
+              14.283638,
+              9.361319
+            ],
+            [
+              14.276808,
+              9.359463
+            ],
+            [
+              14.276808,
+              9.359463
+            ],
+            [
+              14.246092,
+              9.379798
+            ],
+            [
+              14.227837,
+              9.420867
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "TD",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+        "name": "Tchad \u062a\u0634\u0627\u062f",
+        "id": "TD"
       }
     }
   ]

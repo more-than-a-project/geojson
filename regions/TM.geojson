@@ -3,4806 +3,2751 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.0008947,
-            38.1959582
-          ],
-          [
-            57.0761452,
-            38.1994725
-          ],
-          [
-            57.147222,
-            38.255
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.8517964,
-            38.2309989
-          ],
-          [
-            56.9919985,
-            38.2143439
-          ],
-          [
-            57.0008947,
-            38.1959582
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.578333,
-            38.255278
-          ],
-          [
-            56.613889,
-            38.240556
-          ],
-          [
-            56.664167,
-            38.268333
-          ],
-          [
-            56.756389,
-            38.285
-          ],
-          [
-            56.7927133,
-            38.2516589
-          ],
-          [
-            56.8517964,
-            38.2309989
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.3280182,
-            38.1565067
-          ],
-          [
-            56.3185205,
-            38.1790722
-          ],
-          [
-            56.3327792,
-            38.1975537
-          ],
-          [
-            56.424444,
-            38.254722
-          ],
-          [
-            56.538889,
-            38.266111
-          ],
-          [
-            56.578333,
-            38.255278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.2889756,
-            38.0846583
-          ],
-          [
-            56.335248,
-            38.0772496
-          ],
-          [
-            56.3330377,
-            38.0992148
-          ],
-          [
-            56.352079,
-            38.1171643
-          ],
-          [
-            56.3280182,
-            38.1565067
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.164444,
-            38.095
-          ],
-          [
-            56.216111,
-            38.072222
-          ],
-          [
-            56.2889756,
-            38.0846583
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.9282736,
-            38.0926222
-          ],
-          [
-            55.9858853,
-            38.0765806
-          ],
-          [
-            56.164444,
-            38.095
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.841944,
-            38.101944
-          ],
-          [
-            55.9282736,
-            38.0926222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.6827879,
-            38.1103571
-          ],
-          [
-            55.756111,
-            38.125278
-          ],
-          [
-            55.806389,
-            38.1225
-          ],
-          [
-            55.841944,
-            38.101944
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2957659,
-            38.0028555
-          ],
-          [
-            55.442778,
-            38.086111
-          ],
-          [
-            55.6827879,
-            38.1103571
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.273663,
-            37.9904761
-          ],
-          [
-            55.2957659,
-            38.0028555
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.273663,
-            37.9904761
-          ],
-          [
-            55.2616759,
-            37.9906073
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2616759,
-            37.9906073
-          ],
-          [
-            55.2237193,
-            37.9768844
-          ],
-          [
-            55.2041172,
-            37.9492023
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2041172,
-            37.9492023
-          ],
-          [
-            55.1695862,
-            37.9606129
-          ],
-          [
-            55.1462848,
-            37.9505546
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.1462848,
-            37.9505546
-          ],
-          [
-            55.0800692,
-            37.9148527
-          ],
-          [
-            55.01241,
-            37.8433425
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.01241,
-            37.8433425
-          ],
-          [
-            54.995735,
-            37.8335678
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.995735,
-            37.8335678
-          ],
-          [
-            54.950314,
-            37.7971132
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.950314,
-            37.7971132
-          ],
-          [
-            54.8911009,
-            37.7635043
-          ],
-          [
-            54.8658672,
-            37.7668571
-          ],
-          [
-            54.8324553,
-            37.7269818
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.8324553,
-            37.7269818
-          ],
-          [
-            54.7877525,
-            37.6298503
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.7877525,
-            37.6298503
-          ],
-          [
-            54.8190261,
-            37.6002549
-          ],
-          [
-            54.7985684,
-            37.5220193
-          ],
-          [
-            54.7584238,
-            37.4982235
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.5866231,
-            37.4599729
-          ],
-          [
-            54.6736676,
-            37.437055
-          ],
-          [
-            54.7300027,
-            37.4913891
-          ],
-          [
-            54.7584238,
-            37.4982235
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.5795374,
-            37.4548216
-          ],
-          [
-            54.5866231,
-            37.4599729
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.2242496,
-            37.3216901
-          ],
-          [
-            54.2446779,
-            37.3199856
-          ],
-          [
-            54.2851929,
-            37.351769
-          ],
-          [
-            54.3976597,
-            37.3606995
-          ],
-          [
-            54.4886716,
-            37.4192615
-          ],
-          [
-            54.5795374,
-            37.4548216
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.1654921,
-            37.3265843
-          ],
-          [
-            54.2242496,
-            37.3216901
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.9706342,
-            37.3460666
-          ],
-          [
-            54.1654921,
-            37.3265843
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.9706491,
-            37.3460373
-          ],
-          [
-            53.9706342,
-            37.3460666
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.6649493,
-            37.3561378
-          ],
-          [
-            53.9706491,
-            37.3460373
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.6649493,
-            37.3561378
-          ],
-          [
-            53.649749,
-            37.4193139
-          ],
-          [
-            53.6565433,
-            37.4783474
-          ],
-          [
-            53.5816625,
-            37.7060618
-          ],
-          [
-            53.5608938,
-            37.9099761
-          ],
-          [
-            53.5680717,
-            38.0717127
-          ],
-          [
-            53.6092962,
-            38.2006876
-          ],
-          [
-            53.6176993,
-            38.3392195
-          ],
-          [
-            53.5793779,
-            38.487453
-          ],
-          [
-            53.5796682,
-            38.5729785
-          ],
-          [
-            53.6129124,
-            38.6982643
-          ],
-          [
-            53.6866816,
-            38.8448915
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.6866816,
-            38.8448915
-          ],
-          [
-            53.5830535,
-            38.8909282
-          ],
-          [
-            53.4639325,
-            38.9825561
-          ],
-          [
-            53.3764353,
-            39.0754065
-          ],
-          [
-            53.3124446,
-            38.9858998
-          ],
-          [
-            53.3222264,
-            38.7528756
-          ],
-          [
-            53.2545123,
-            38.6547867
-          ],
-          [
-            53.1676472,
-            38.609142
-          ],
-          [
-            53.0620677,
-            38.5942001
-          ],
-          [
-            52.9581836,
-            38.6142537
-          ],
-          [
-            52.8727739,
-            38.6660718
-          ],
-          [
-            52.8187599,
-            38.7386722
-          ],
-          [
-            52.782997,
-            38.8612536
-          ],
-          [
-            52.7788877,
-            39.0494945
-          ],
-          [
-            52.8177827,
-            39.1716267
-          ],
-          [
-            52.9094181,
-            39.2635701
-          ],
-          [
-            52.8551151,
-            39.3530131
-          ],
-          [
-            52.8386547,
-            39.4286463
-          ],
-          [
-            52.855707,
-            39.5086262
-          ],
-          [
-            52.8993071,
-            39.5767465
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.8993071,
-            39.5767465
-          ],
-          [
-            52.801457,
-            39.6573228
-          ],
-          [
-            52.6756989,
-            39.7975355
-          ],
-          [
-            52.549964,
-            39.8956083
-          ],
-          [
-            52.4832294,
-            40.0319405
-          ],
-          [
-            52.4854477,
-            40.1350205
-          ],
-          [
-            52.4451547,
-            40.2898666
-          ],
-          [
-            52.4739752,
-            40.502757
-          ],
-          [
-            52.5064184,
-            40.6009346
-          ],
-          [
-            52.5723799,
-            40.6899952
-          ],
-          [
-            52.5808447,
-            40.792814
-          ],
-          [
-            52.6550636,
-            40.9501607
-          ],
-          [
-            52.5922814,
-            41.0405441
-          ],
-          [
-            52.5834977,
-            41.157141
-          ],
-          [
-            52.5555771,
-            41.2507985
-          ],
-          [
-            52.4902492,
-            41.3206863
-          ],
-          [
-            52.3887852,
-            41.3539832
-          ],
-          [
-            52.3146859,
-            41.4146155
-          ],
-          [
-            52.2766681,
-            41.5033177
-          ],
-          [
-            52.292674,
-            41.5926379
-          ],
-          [
-            52.2670368,
-            41.6142587
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.147222,
-            38.255
-          ],
-          [
-            57.1848766,
-            38.2763114
-          ],
-          [
-            57.243889,
-            38.270833
-          ],
-          [
-            57.2963749,
-            38.1615295
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.2963749,
-            38.1615295
-          ],
-          [
-            57.338056,
-            38.133889
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.338056,
-            38.133889
-          ],
-          [
-            57.373889,
-            38.0825
-          ],
-          [
-            57.348333,
-            37.998889
-          ],
-          [
-            57.3588133,
-            37.9848987
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.3588133,
-            37.9848987
-          ],
-          [
-            57.5121923,
-            37.919263
-          ],
-          [
-            57.5796241,
-            37.9380422
-          ],
-          [
-            57.6938263,
-            37.9189108
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.6938263,
-            37.9189108
-          ],
-          [
-            57.745,
-            37.906667
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.745,
-            37.906667
-          ],
-          [
-            57.7718544,
-            37.899318
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.7718544,
-            37.899318
-          ],
-          [
-            57.7958352,
-            37.899553
-          ],
-          [
-            57.8254738,
-            37.8632465
-          ],
-          [
-            57.8716475,
-            37.8736353
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.8716475,
-            37.8736353
-          ],
-          [
-            58.0235771,
-            37.81289
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.0235771,
-            37.81289
-          ],
-          [
-            58.2037562,
-            37.7743015
-          ],
-          [
-            58.234376,
-            37.7066255
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.234376,
-            37.7066255
-          ],
-          [
-            58.2270467,
-            37.6840365
-          ],
-          [
-            58.2421005,
-            37.680074
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.2421005,
-            37.680074
-          ],
-          [
-            58.3112048,
-            37.662222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.3112048,
-            37.662222
-          ],
-          [
-            58.3596512,
-            37.6611066
-          ],
-          [
-            58.3663087,
-            37.6372465
-          ],
-          [
-            58.3884341,
-            37.6269846
-          ],
-          [
-            58.4896025,
-            37.6443967
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.4896025,
-            37.6443967
-          ],
-          [
-            58.55,
-            37.705833
-          ],
-          [
-            58.688056,
-            37.650556
-          ],
-          [
-            58.793333,
-            37.6625
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.793333,
-            37.6625
-          ],
-          [
-            58.822778,
-            37.703611
-          ],
-          [
-            58.876389,
-            37.669167
-          ],
-          [
-            58.941111,
-            37.667222
-          ],
-          [
-            59.0663705,
-            37.625191
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.0663705,
-            37.625191
-          ],
-          [
-            59.0898627,
-            37.6060057
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.0898627,
-            37.6060057
-          ],
-          [
-            59.154722,
-            37.571111
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.154722,
-            37.571111
-          ],
-          [
-            59.174086,
-            37.5427625
-          ],
-          [
-            59.2292497,
-            37.5120499
-          ],
-          [
-            59.3534794,
-            37.5284162
-          ],
-          [
-            59.392131,
-            37.4791374
-          ],
-          [
-            59.3814207,
-            37.4497464
-          ],
-          [
-            59.4113447,
-            37.4357739
-          ],
-          [
-            59.377877,
-            37.4075897
-          ],
-          [
-            59.3998972,
-            37.3151972
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.3998972,
-            37.3151972
-          ],
-          [
-            59.4334955,
-            37.3054859
-          ],
-          [
-            59.435967,
-            37.2869617
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.435967,
-            37.2869617
-          ],
-          [
-            59.4887952,
-            37.2403767
-          ],
-          [
-            59.4747378,
-            37.2147753
-          ],
-          [
-            59.5238974,
-            37.1883142
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.5238974,
-            37.1883142
-          ],
-          [
-            59.5483406,
-            37.1701781
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.5483406,
-            37.1701781
-          ],
-          [
-            59.5470734,
-            37.1448077
-          ],
-          [
-            59.5677057,
-            37.1332209
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.5677057,
-            37.1332209
-          ],
-          [
-            59.584145,
-            37.1342223
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.584145,
-            37.1342223
-          ],
-          [
-            59.6433988,
-            37.1192367
-          ],
-          [
-            59.6534908,
-            37.1422099
-          ],
-          [
-            59.6789985,
-            37.1412196
-          ],
-          [
-            59.7474053,
-            37.1077803
-          ],
-          [
-            59.7718478,
-            37.1253495
-          ],
-          [
-            59.8995292,
-            37.0514459
-          ],
-          [
-            60.0042005,
-            37.0410369
-          ],
-          [
-            60.0849842,
-            36.977755
-          ],
-          [
-            60.1071392,
-            36.9211266
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.1071392,
-            36.9211266
-          ],
-          [
-            60.2408015,
-            36.7847158
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.2408015,
-            36.7847158
-          ],
-          [
-            60.3446242,
-            36.6388088
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.3446242,
-            36.6388088
-          ],
-          [
-            60.3606236,
-            36.6294918
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.3606236,
-            36.6294918
-          ],
-          [
-            60.6384009,
-            36.6253586
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.6384009,
-            36.6253586
-          ],
-          [
-            60.7781099,
-            36.6280533
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.7781099,
-            36.6280533
-          ],
-          [
-            61.1454174,
-            36.6464182
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            61.1655619,
-            36.0030545
-          ],
-          [
-            61.163843,
-            36.0350164
-          ],
-          [
-            61.207664,
-            36.1046443
-          ],
-          [
-            61.229585,
-            36.1140126
-          ],
-          [
-            61.2197361,
-            36.1200524
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            61.2197361,
-            36.1200524
-          ],
-          [
-            61.2194045,
-            36.1925391
-          ],
-          [
-            61.149279,
-            36.317514
-          ],
-          [
-            61.160346,
-            36.3309433
-          ],
-          [
-            61.1403343,
-            36.3937358
-          ],
-          [
-            61.1669915,
-            36.4145951
-          ],
-          [
-            61.1584864,
-            36.4520761
-          ],
-          [
-            61.1734378,
-            36.4666324
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            61.1602844,
-            35.9507704
-          ],
-          [
-            61.1169824,
-            35.9629353
-          ],
-          [
-            61.1690275,
-            35.9903658
-          ],
-          [
-            61.1655619,
-            36.0030545
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            61.1734378,
-            36.4666324
-          ],
-          [
-            61.1566972,
-            36.5065146
-          ],
-          [
-            61.1833846,
-            36.5270956
-          ],
-          [
-            61.1857588,
-            36.5666311
-          ],
-          [
-            61.1454174,
-            36.6464182
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            61.1722681,
-            35.9474458
-          ],
-          [
-            61.1602844,
-            35.9507704
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            61.2166545,
-            35.675801
-          ],
-          [
-            61.248333,
-            35.723611
-          ],
-          [
-            61.262222,
-            35.819722
-          ],
-          [
-            61.245,
-            35.897222
-          ],
-          [
-            61.1722681,
-            35.9474458
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            61.2740947,
-            35.604842
-          ],
-          [
-            61.2166545,
-            35.675801
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            61.2740947,
-            35.604842
-          ],
-          [
-            61.3733027,
-            35.6236636
-          ],
-          [
-            61.3754653,
-            35.5907992
-          ],
-          [
-            61.4009102,
-            35.5836552
-          ],
-          [
-            61.3867558,
-            35.5667113
-          ],
-          [
-            61.4749355,
-            35.5056001
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            61.4749355,
-            35.5056001
-          ],
-          [
-            61.587758,
-            35.43695
-          ],
-          [
-            61.779568,
-            35.411173
-          ],
-          [
-            61.968227,
-            35.454013
-          ],
-          [
-            62.0076347,
-            35.4459433
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            62.0076347,
-            35.4459433
-          ],
-          [
-            62.06428,
-            35.43442
-          ],
-          [
-            62.153722,
-            35.340903
-          ],
-          [
-            62.266188,
-            35.29516
-          ],
-          [
-            62.291054,
-            35.256222
-          ],
-          [
-            62.305539,
-            35.129093
-          ],
-          [
-            62.477245,
-            35.278589
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            62.477245,
-            35.278589
-          ],
-          [
-            62.525005,
-            35.273665
-          ],
-          [
-            62.577663,
-            35.220716
-          ],
-          [
-            62.608839,
-            35.236578
-          ],
-          [
-            62.627865,
-            35.20793
-          ],
-          [
-            62.654912,
-            35.231858
-          ],
-          [
-            62.733203,
-            35.250165
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            62.733203,
-            35.250165
-          ],
-          [
-            62.785671,
-            35.301161
-          ],
-          [
-            62.81601,
-            35.299982
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            63.027206,
-            35.413822
-          ],
-          [
-            63.013123,
-            35.417513
-          ],
-          [
-            63.023329,
-            35.401247
-          ],
-          [
-            63.006325,
-            35.410881
-          ],
-          [
-            62.893752,
-            35.358719
-          ],
-          [
-            62.891751,
-            35.343989
-          ],
-          [
-            62.81601,
-            35.299982
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            63.2449473,
-            35.68297
-          ],
-          [
-            63.094889,
-            35.618425
-          ],
-          [
-            63.106185,
-            35.549355
-          ],
-          [
-            63.130245,
-            35.54322
-          ],
-          [
-            63.111694,
-            35.510466
-          ],
-          [
-            63.108815,
-            35.446774
-          ],
-          [
-            63.098922,
-            35.41791
-          ],
-          [
-            63.027206,
-            35.413822
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            63.2449473,
-            35.68297
-          ],
-          [
-            63.2446863,
-            35.6981148
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            63.1728892,
-            35.7359948
-          ],
-          [
-            63.1949263,
-            35.712948
-          ],
-          [
-            63.2446863,
-            35.6981148
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            63.1594244,
-            35.7561879
-          ],
-          [
-            63.1728892,
-            35.7359948
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            63.1594244,
-            35.7561879
-          ],
-          [
-            63.1308161,
-            35.7931648
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            63.1308161,
-            35.7931648
-          ],
-          [
-            63.1258999,
-            35.8082013
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            63.1258999,
-            35.8082013
-          ],
-          [
-            63.1183951,
-            35.8091061
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            63.4635977,
-            35.8907141
-          ],
-          [
-            63.2988635,
-            35.8566994
-          ],
-          [
-            63.1207783,
-            35.8619122
-          ],
-          [
-            63.1077622,
-            35.8233002
-          ],
-          [
-            63.1183951,
-            35.8091061
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            63.998158,
-            36.03222
-          ],
-          [
-            63.703341,
-            35.967624
-          ],
-          [
-            63.5364049,
-            35.9477637
-          ],
-          [
-            63.500515,
-            35.8983908
-          ],
-          [
-            63.4635977,
-            35.8907141
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            64.2788336,
-            36.1517702
-          ],
-          [
-            64.169781,
-            36.163019
-          ],
-          [
-            64.112082,
-            36.12294
-          ],
-          [
-            64.093274,
-            36.129387
-          ],
-          [
-            64.057833,
-            36.102161
-          ],
-          [
-            64.068541,
-            35.997294
-          ],
-          [
-            63.998158,
-            36.03222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            64.590004,
-            36.3785807
-          ],
-          [
-            64.579957,
-            36.351645
-          ],
-          [
-            64.445229,
-            36.242727
-          ],
-          [
-            64.316071,
-            36.208557
-          ],
-          [
-            64.2788336,
-            36.1517702
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            64.618753,
-            36.6341976
-          ],
-          [
-            64.636311,
-            36.442278
-          ],
-          [
-            64.590004,
-            36.3785807
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            64.7575017,
-            36.8658946
-          ],
-          [
-            64.618753,
-            36.6341976
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            64.7575017,
-            36.8658946
-          ],
-          [
-            64.7976594,
-            36.9217821
-          ],
-          [
-            64.7895834,
-            36.9581729
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            64.7895834,
-            36.9581729
-          ],
-          [
-            64.7552597,
-            37.1126435
-          ],
-          [
-            65.0037035,
-            37.2209019
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            65.0037035,
-            37.2209019
-          ],
-          [
-            65.123696,
-            37.2441851
-          ],
-          [
-            65.190556,
-            37.235833
-          ],
-          [
-            65.2283574,
-            37.2509865
-          ],
-          [
-            65.2684355,
-            37.2330023
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            65.2684355,
-            37.2330023
-          ],
-          [
-            65.4396201,
-            37.2329941
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            65.4396201,
-            37.2329941
-          ],
-          [
-            65.519161,
-            37.2365515
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            65.519161,
-            37.2365515
-          ],
-          [
-            65.5558563,
-            37.2406638
-          ],
-          [
-            65.6436569,
-            37.3294386
-          ],
-          [
-            65.6461924,
-            37.4385637
-          ],
-          [
-            65.6994092,
-            37.5333113
-          ],
-          [
-            65.7805815,
-            37.5280166
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            65.7805815,
-            37.5280166
-          ],
-          [
-            65.8642939,
-            37.4868285
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            65.8642939,
-            37.4868285
-          ],
-          [
-            65.973889,
-            37.466944
-          ],
-          [
-            66.008056,
-            37.455278
-          ],
-          [
-            66.0024135,
-            37.4423125
-          ],
-          [
-            66.0700489,
-            37.4462201
-          ],
-          [
-            66.1137484,
-            37.401272
-          ],
-          [
-            66.1590202,
-            37.3947093
-          ],
-          [
-            66.1694588,
-            37.3678863
-          ],
-          [
-            66.2551502,
-            37.3495787
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            66.2551502,
-            37.3495787
-          ],
-          [
-            66.3067644,
-            37.3201599
-          ],
-          [
-            66.4309989,
-            37.3192473
-          ],
-          [
-            66.5514896,
-            37.354385
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            66.5514896,
-            37.354385
-          ],
-          [
-            66.5230848,
-            37.3751028
-          ],
-          [
-            66.5259712,
-            37.3962265
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            66.5259712,
-            37.3962265
-          ],
-          [
-            66.5844187,
-            37.4436963
-          ],
-          [
-            66.584764,
-            37.4701072
-          ],
-          [
-            66.5469248,
-            37.5034937
-          ],
-          [
-            66.525621,
-            37.5581607
-          ],
-          [
-            66.5498006,
-            37.6965893
-          ],
-          [
-            66.5393522,
-            37.7496831
-          ],
-          [
-            66.5595033,
-            37.8021221
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            66.5595033,
-            37.8021221
-          ],
-          [
-            66.6067949,
-            37.8684776
-          ],
-          [
-            66.6893139,
-            37.9140991
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            66.6893139,
-            37.9140991
-          ],
-          [
-            66.6903725,
-            37.9549099
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            66.6903725,
-            37.9549099
-          ],
-          [
-            66.6811358,
-            37.9714076
-          ],
-          [
-            66.596715,
-            38.0017902
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            66.596715,
-            38.0017902
-          ],
-          [
-            66.5593787,
-            38.003247
-          ],
-          [
-            66.5279141,
-            38.0294528
-          ],
-          [
-            66.4685941,
-            38.0322857
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            65.9189754,
-            38.2748828
-          ],
-          [
-            65.9170734,
-            38.2754778
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            66.4685941,
-            38.0322857
-          ],
-          [
-            66.3923979,
-            38.0329448
-          ],
-          [
-            66.2711151,
-            38.1079914
-          ],
-          [
-            66.2469001,
-            38.1563626
-          ],
-          [
-            66.20386,
-            38.1658666
-          ],
-          [
-            66.1910176,
-            38.1554568
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            66.1910176,
-            38.1554568
-          ],
-          [
-            66.1149394,
-            38.1752798
-          ],
-          [
-            66.0979557,
-            38.1998023
-          ],
-          [
-            66.0062241,
-            38.232989
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            66.0062241,
-            38.232989
-          ],
-          [
-            65.9774065,
-            38.2275615
-          ],
-          [
-            65.9189754,
-            38.2748828
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            65.8279505,
-            38.2555713
-          ],
-          [
-            65.5397416,
-            38.2893162
-          ],
-          [
-            65.5415462,
-            38.3002704
-          ],
-          [
-            65.171182,
-            38.5025633
-          ],
-          [
-            65.1143704,
-            38.5497841
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            65.8528348,
-            38.2759313
-          ],
-          [
-            65.8413725,
-            38.2521152
-          ],
-          [
-            65.8279505,
-            38.2555713
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            65.9170734,
-            38.2754778
-          ],
-          [
-            65.8528348,
-            38.2759313
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            65.1143704,
-            38.5497841
-          ],
-          [
-            65.0374611,
-            38.6057401
-          ],
-          [
-            64.9929451,
-            38.6121552
-          ],
-          [
-            64.8960615,
-            38.6704654
-          ],
-          [
-            64.8204509,
-            38.6830301
-          ],
-          [
-            64.7168192,
-            38.7521476
-          ],
-          [
-            64.5248086,
-            38.8467872
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            64.5248086,
-            38.8467872
-          ],
-          [
-            64.3864971,
-            38.9522084
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            64.3864971,
-            38.9522084
-          ],
-          [
-            64.3305917,
-            38.9952609
-          ],
-          [
-            64.181194,
-            38.9618603
-          ],
-          [
-            63.7051492,
-            39.2238659
-          ],
-          [
-            63.694214,
-            39.2724385
-          ],
-          [
-            63.6352601,
-            39.3019297
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            63.6352601,
-            39.3019297
-          ],
-          [
-            63.5175842,
-            39.3637079
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            63.5175842,
-            39.3637079
-          ],
-          [
-            62.4930063,
-            39.9485329
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            62.4930063,
-            39.9485329
-          ],
-          [
-            62.4426583,
-            39.9911013
-          ],
-          [
-            62.4270052,
-            40.064861
-          ],
-          [
-            62.3964967,
-            40.0992805
-          ],
-          [
-            62.4137839,
-            40.1735074
-          ],
-          [
-            62.3904486,
-            40.2427268
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            62.3904486,
-            40.2427268
-          ],
-          [
-            62.3931646,
-            40.3107797
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            62.3931646,
-            40.3107797
-          ],
-          [
-            62.3345726,
-            40.3749465
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            62.3345726,
-            40.3749465
-          ],
-          [
-            62.3494599,
-            40.4382973
-          ],
-          [
-            62.2077182,
-            40.5085152
-          ],
-          [
-            62.1558619,
-            40.5500718
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            62.1558619,
-            40.5500718
-          ],
-          [
-            62.0519985,
-            40.6988686
-          ],
-          [
-            62.0420752,
-            40.7577433
-          ],
-          [
-            61.9856876,
-            40.8369429
-          ],
-          [
-            62.0001185,
-            40.892406
-          ],
-          [
-            61.9963694,
-            40.9735364
-          ],
-          [
-            61.9637344,
-            41.0273582
-          ],
-          [
-            61.9009556,
-            41.0534178
-          ],
-          [
-            61.8827096,
-            41.1100696
-          ],
-          [
-            61.7567479,
-            41.175739
-          ],
-          [
-            61.7128335,
-            41.2151385
-          ],
-          [
-            61.6499339,
-            41.2314343
-          ],
-          [
-            61.626885,
-            41.2649877
-          ],
-          [
-            61.54541,
-            41.2615497
-          ],
-          [
-            61.481034,
-            41.2867284
-          ],
-          [
-            61.4084977,
-            41.2878131
-          ],
-          [
-            61.4031806,
-            41.2181007
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            61.4031806,
-            41.2181007
-          ],
-          [
-            61.3955025,
-            41.2084057
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            61.3955025,
-            41.2084057
-          ],
-          [
-            61.3974669,
-            41.1965362
-          ],
-          [
-            61.3304548,
-            41.1478119
-          ],
-          [
-            61.217757,
-            41.1544318
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            61.217757,
-            41.1544318
-          ],
-          [
-            61.1286075,
-            41.1902273
-          ],
-          [
-            61.0904175,
-            41.2301051
-          ],
-          [
-            61.0824441,
-            41.2147256
-          ],
-          [
-            61.0650247,
-            41.2542651
-          ],
-          [
-            61.0516165,
-            41.2459056
-          ],
-          [
-            61.0335305,
-            41.269236
-          ],
-          [
-            61.0297963,
-            41.2226581
-          ],
-          [
-            60.9685654,
-            41.2457945
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.9685654,
-            41.2457945
-          ],
-          [
-            60.9448991,
-            41.2478293
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.9448991,
-            41.2478293
-          ],
-          [
-            60.6809313,
-            41.255412
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.6809313,
-            41.255412
-          ],
-          [
-            60.5120348,
-            41.2164809
-          ],
-          [
-            60.4252922,
-            41.2434879
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.4252922,
-            41.2434879
-          ],
-          [
-            60.2762582,
-            41.3303784
-          ],
-          [
-            60.2300222,
-            41.3372015
-          ],
-          [
-            60.1517521,
-            41.3798609
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.1517521,
-            41.3798609
-          ],
-          [
-            60.093114,
-            41.4131935
-          ],
-          [
-            60.0740766,
-            41.457487
-          ],
-          [
-            60.1039083,
-            41.542131
-          ],
-          [
-            60.1765123,
-            41.5776611
-          ],
-          [
-            60.1518006,
-            41.652358
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.1518006,
-            41.652358
-          ],
-          [
-            60.0818954,
-            41.7032673
-          ],
-          [
-            60.0465068,
-            41.7507685
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.0465068,
-            41.7507685
-          ],
-          [
-            60.0920805,
-            41.8110828
-          ],
-          [
-            60.1765261,
-            41.7980797
-          ],
-          [
-            60.2979191,
-            41.7522738
-          ],
-          [
-            60.32674,
-            41.7599509
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.32674,
-            41.7599509
-          ],
-          [
-            60.2648375,
-            41.8154149
-          ],
-          [
-            60.1568213,
-            41.8582973
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            60.1568213,
-            41.8582973
-          ],
-          [
-            60.1040613,
-            41.9034981
-          ],
-          [
-            60.0254345,
-            41.9200978
-          ],
-          [
-            60.0248212,
-            41.9503575
-          ],
-          [
-            59.9697518,
-            41.9405164
-          ],
-          [
-            59.9379387,
-            41.96925
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.9379387,
-            41.96925
-          ],
-          [
-            59.9164724,
-            41.9917137
-          ],
-          [
-            59.9505043,
-            42.0197445
-          ],
-          [
-            60.0214862,
-            41.9948714
-          ],
-          [
-            60.0483226,
-            42.0878222
-          ],
-          [
-            60.0204006,
-            42.1179096
-          ],
-          [
-            59.9502023,
-            42.1431637
-          ],
-          [
-            59.9716588,
-            42.15754
-          ],
-          [
-            59.9671438,
-            42.179192
-          ],
-          [
-            60.0152656,
-            42.164915
-          ],
-          [
-            60.021255,
-            42.1787541
-          ],
-          [
-            60.0127809,
-            42.2129234
-          ],
-          [
-            59.9548655,
-            42.231505
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.9548655,
-            42.231505
-          ],
-          [
-            59.9316644,
-            42.2742922
-          ],
-          [
-            59.8939151,
-            42.2841659
-          ],
-          [
-            59.8907661,
-            42.3023887
-          ],
-          [
-            59.8120593,
-            42.2729268
-          ],
-          [
-            59.7525692,
-            42.293168
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.7525692,
-            42.293168
-          ],
-          [
-            59.7355096,
-            42.302286
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.7355096,
-            42.302286
-          ],
-          [
-            59.6537434,
-            42.2891111
-          ],
-          [
-            59.6077089,
-            42.2980171
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.6077089,
-            42.2980171
-          ],
-          [
-            59.5786754,
-            42.2857346
-          ],
-          [
-            59.4365205,
-            42.2915727
-          ],
-          [
-            59.4181921,
-            42.3248985
-          ],
-          [
-            59.3526098,
-            42.3474159
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.3526098,
-            42.3474159
-          ],
-          [
-            59.3034432,
-            42.3606549
-          ],
-          [
-            59.2585951,
-            42.4144513
-          ],
-          [
-            59.268969,
-            42.4286168
-          ],
-          [
-            59.1713359,
-            42.5310919
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.1713359,
-            42.5310919
-          ],
-          [
-            59.0551927,
-            42.5199665
-          ],
-          [
-            59.0086441,
-            42.525136
-          ],
-          [
-            58.975685,
-            42.5478666
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.975685,
-            42.5478666
-          ],
-          [
-            58.6254398,
-            42.7996686
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.6254398,
-            42.7996686
-          ],
-          [
-            58.6271431,
-            42.7547391
-          ],
-          [
-            58.6127651,
-            42.7547996
-          ],
-          [
-            58.6458053,
-            42.7233005
-          ],
-          [
-            58.5954991,
-            42.7199444
-          ],
-          [
-            58.6084014,
-            42.6963172
-          ],
-          [
-            58.5903739,
-            42.648989
-          ],
-          [
-            58.4841721,
-            42.6429215
-          ],
-          [
-            58.2743183,
-            42.6879959
-          ],
-          [
-            58.150446,
-            42.6300907
-          ],
-          [
-            58.166459,
-            42.599091
-          ],
-          [
-            58.2992557,
-            42.5592866
-          ],
-          [
-            58.4068602,
-            42.4033539
-          ],
-          [
-            58.411501,
-            42.3711016
-          ],
-          [
-            58.4320528,
-            42.3729195
-          ],
-          [
-            58.5135465,
-            42.3251289
-          ],
-          [
-            58.5118126,
-            42.2815278
-          ],
-          [
-            58.4450061,
-            42.2961655
-          ],
-          [
-            58.3950526,
-            42.2872158
-          ],
-          [
-            58.3963547,
-            42.3570938
-          ],
-          [
-            58.3530071,
-            42.4287297
-          ],
-          [
-            58.3055796,
-            42.4558261
-          ],
-          [
-            58.2096028,
-            42.4724544
-          ],
-          [
-            58.1325969,
-            42.4445374
-          ],
-          [
-            58.1448362,
-            42.4912594
-          ],
-          [
-            58.0630366,
-            42.5084799
-          ],
-          [
-            58.0694623,
-            42.5361429
-          ],
-          [
-            58.0540611,
-            42.544184
-          ],
-          [
-            58.03022,
-            42.500077
-          ],
-          [
-            58.0121669,
-            42.4948881
-          ],
-          [
-            58.0037014,
-            42.515096
-          ],
-          [
-            57.9989331,
-            42.4825157
-          ],
-          [
-            57.9789932,
-            42.4847535
-          ],
-          [
-            57.9677228,
-            42.4278263
-          ],
-          [
-            57.9426322,
-            42.4445749
-          ],
-          [
-            57.9072911,
-            42.4254736
-          ],
-          [
-            57.9602772,
-            42.3809627
-          ],
-          [
-            57.9500268,
-            42.3770825
-          ],
-          [
-            57.9609912,
-            42.3475776
-          ],
-          [
-            57.9286207,
-            42.302672
-          ],
-          [
-            57.9486371,
-            42.2289477
-          ],
-          [
-            57.8990805,
-            42.231808
-          ],
-          [
-            57.9042822,
-            42.2162207
-          ],
-          [
-            57.8835263,
-            42.2118015
-          ],
-          [
-            57.8407906,
-            42.2381986
-          ],
-          [
-            57.8489502,
-            42.2147099
-          ],
-          [
-            57.8349769,
-            42.2142944
-          ],
-          [
-            57.8544069,
-            42.1999778
-          ],
-          [
-            57.8584754,
-            42.1717123
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.8584754,
-            42.1717123
-          ],
-          [
-            57.8492561,
-            42.1855446
-          ],
-          [
-            57.8410965,
-            42.1719396
-          ],
-          [
-            57.8018286,
-            42.1693694
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.8018286,
-            42.1693694
-          ],
-          [
-            57.6329454,
-            42.1430434
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.6329454,
-            42.1430434
-          ],
-          [
-            57.4334931,
-            42.1563149
-          ],
-          [
-            57.2936215,
-            42.1379877
-          ],
-          [
-            57.1281547,
-            41.9292808
-          ],
-          [
-            57.0468682,
-            41.9236422
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.0468682,
-            41.9236422
-          ],
-          [
-            56.9669128,
-            41.8891469
-          ],
-          [
-            56.9775031,
-            41.6712131
-          ],
-          [
-            57.0420205,
-            41.5654249
-          ],
-          [
-            57.0398963,
-            41.4412794
-          ],
-          [
-            57.0520383,
-            41.4196054
-          ],
-          [
-            57.1006918,
-            41.3635344
-          ],
-          [
-            57.1662009,
-            41.3799323
-          ],
-          [
-            57.1898871,
-            41.3417306
-          ],
-          [
-            57.0596145,
-            41.3218754
-          ],
-          [
-            57.0701541,
-            41.2751873
-          ],
-          [
-            57.0414085,
-            41.2409748
-          ],
-          [
-            56.7892417,
-            41.2815026
-          ],
-          [
-            56.4291714,
-            41.3003714
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.4291714,
-            41.3003714
-          ],
-          [
-            55.9985531,
-            41.3222103
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.773821,
-            41.284082
-          ],
-          [
-            55.811717,
-            41.278338
-          ],
-          [
-            55.816356,
-            41.297155
-          ],
-          [
-            55.8767136,
-            41.3317862
-          ],
-          [
-            55.9985531,
-            41.3222103
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.603316,
-            41.246392
-          ],
-          [
-            55.63561,
-            41.282813
-          ],
-          [
-            55.727086,
-            41.279493
-          ],
-          [
-            55.721496,
-            41.293192
-          ],
-          [
-            55.743336,
-            41.302058
-          ],
-          [
-            55.773821,
-            41.284082
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.398313,
-            41.337222
-          ],
-          [
-            55.412545,
-            41.295688
-          ],
-          [
-            55.430472,
-            41.279495
-          ],
-          [
-            55.442191,
-            41.293651
-          ],
-          [
-            55.455302,
-            41.267093
-          ],
-          [
-            55.537273,
-            41.256589
-          ],
-          [
-            55.557026,
-            41.27561
-          ],
-          [
-            55.545235,
-            41.287966
-          ],
-          [
-            55.567019,
-            41.294407
-          ],
-          [
-            55.576874,
-            41.27195
-          ],
-          [
-            55.600034,
-            41.272913
-          ],
-          [
-            55.603316,
-            41.246392
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.4499836,
-            41.7619674
-          ],
-          [
-            52.984788,
-            42.121175
-          ],
-          [
-            53.570558,
-            42.288924
-          ],
-          [
-            54.2178099,
-            42.3790865
-          ],
-          [
-            54.779482,
-            42.052549
-          ],
-          [
-            54.928925,
-            41.928325
-          ],
-          [
-            54.952115,
-            41.906308
-          ],
-          [
-            54.949976,
-            41.833213
-          ],
-          [
-            55.066234,
-            41.699339
-          ],
-          [
-            55.119606,
-            41.604653
-          ],
-          [
-            55.315465,
-            41.390882
-          ],
-          [
-            55.398313,
-            41.337222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "TM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
-        "name": "T\u00fcrkmenistan"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.2670368,
-            41.6142587
-          ],
-          [
-            52.4499836,
-            41.7619674
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.147222,
+              38.255
+            ],
+            [
+              57.184877,
+              38.276311
+            ],
+            [
+              57.243889,
+              38.270833
+            ],
+            [
+              57.296375,
+              38.16153
+            ],
+            [
+              57.296375,
+              38.16153
+            ],
+            [
+              57.338056,
+              38.133889
+            ],
+            [
+              57.338056,
+              38.133889
+            ],
+            [
+              57.373889,
+              38.0825
+            ],
+            [
+              57.348333,
+              37.998889
+            ],
+            [
+              57.358813,
+              37.984899
+            ],
+            [
+              57.358813,
+              37.984899
+            ],
+            [
+              57.512192,
+              37.919263
+            ],
+            [
+              57.579624,
+              37.938042
+            ],
+            [
+              57.693826,
+              37.918911
+            ],
+            [
+              57.693826,
+              37.918911
+            ],
+            [
+              57.745,
+              37.906667
+            ],
+            [
+              57.745,
+              37.906667
+            ],
+            [
+              57.771854,
+              37.899318
+            ],
+            [
+              57.771854,
+              37.899318
+            ],
+            [
+              57.795835,
+              37.899553
+            ],
+            [
+              57.825474,
+              37.863247
+            ],
+            [
+              57.871648,
+              37.873635
+            ],
+            [
+              57.871648,
+              37.873635
+            ],
+            [
+              58.023577,
+              37.81289
+            ],
+            [
+              58.023577,
+              37.81289
+            ],
+            [
+              58.203756,
+              37.774301
+            ],
+            [
+              58.234376,
+              37.706626
+            ],
+            [
+              58.234376,
+              37.706626
+            ],
+            [
+              58.227047,
+              37.684036
+            ],
+            [
+              58.2421,
+              37.680074
+            ],
+            [
+              58.2421,
+              37.680074
+            ],
+            [
+              58.311205,
+              37.662222
+            ],
+            [
+              58.311205,
+              37.662222
+            ],
+            [
+              58.359651,
+              37.661107
+            ],
+            [
+              58.366309,
+              37.637247
+            ],
+            [
+              58.388434,
+              37.626985
+            ],
+            [
+              58.489602,
+              37.644397
+            ],
+            [
+              58.489602,
+              37.644397
+            ],
+            [
+              58.55,
+              37.705833
+            ],
+            [
+              58.688056,
+              37.650556
+            ],
+            [
+              58.793333,
+              37.6625
+            ],
+            [
+              58.793333,
+              37.6625
+            ],
+            [
+              58.822778,
+              37.703611
+            ],
+            [
+              58.876389,
+              37.669167
+            ],
+            [
+              58.941111,
+              37.667222
+            ],
+            [
+              59.06637,
+              37.625191
+            ],
+            [
+              59.06637,
+              37.625191
+            ],
+            [
+              59.089863,
+              37.606006
+            ],
+            [
+              59.089863,
+              37.606006
+            ],
+            [
+              59.154722,
+              37.571111
+            ],
+            [
+              59.154722,
+              37.571111
+            ],
+            [
+              59.174086,
+              37.542763
+            ],
+            [
+              59.22925,
+              37.51205
+            ],
+            [
+              59.353479,
+              37.528416
+            ],
+            [
+              59.392131,
+              37.479137
+            ],
+            [
+              59.381421,
+              37.449746
+            ],
+            [
+              59.411345,
+              37.435774
+            ],
+            [
+              59.377877,
+              37.40759
+            ],
+            [
+              59.399897,
+              37.315197
+            ],
+            [
+              59.399897,
+              37.315197
+            ],
+            [
+              59.433495,
+              37.305486
+            ],
+            [
+              59.435967,
+              37.286962
+            ],
+            [
+              59.435967,
+              37.286962
+            ],
+            [
+              59.488795,
+              37.240377
+            ],
+            [
+              59.474738,
+              37.214775
+            ],
+            [
+              59.523897,
+              37.188314
+            ],
+            [
+              59.523897,
+              37.188314
+            ],
+            [
+              59.548341,
+              37.170178
+            ],
+            [
+              59.548341,
+              37.170178
+            ],
+            [
+              59.547073,
+              37.144808
+            ],
+            [
+              59.567706,
+              37.133221
+            ],
+            [
+              59.567706,
+              37.133221
+            ],
+            [
+              59.584145,
+              37.134222
+            ],
+            [
+              59.584145,
+              37.134222
+            ],
+            [
+              59.643399,
+              37.119237
+            ],
+            [
+              59.653491,
+              37.14221
+            ],
+            [
+              59.678998,
+              37.14122
+            ],
+            [
+              59.747405,
+              37.10778
+            ],
+            [
+              59.771848,
+              37.125349
+            ],
+            [
+              59.899529,
+              37.051446
+            ],
+            [
+              60.004201,
+              37.041037
+            ],
+            [
+              60.084984,
+              36.977755
+            ],
+            [
+              60.107139,
+              36.921127
+            ],
+            [
+              60.107139,
+              36.921127
+            ],
+            [
+              60.240802,
+              36.784716
+            ],
+            [
+              60.240802,
+              36.784716
+            ],
+            [
+              60.344624,
+              36.638809
+            ],
+            [
+              60.344624,
+              36.638809
+            ],
+            [
+              60.360624,
+              36.629492
+            ],
+            [
+              60.360624,
+              36.629492
+            ],
+            [
+              60.638401,
+              36.625359
+            ],
+            [
+              60.638401,
+              36.625359
+            ],
+            [
+              60.77811,
+              36.628053
+            ],
+            [
+              60.77811,
+              36.628053
+            ],
+            [
+              61.145417,
+              36.646418
+            ],
+            [
+              61.145417,
+              36.646418
+            ],
+            [
+              61.185759,
+              36.566631
+            ],
+            [
+              61.183385,
+              36.527096
+            ],
+            [
+              61.156697,
+              36.506515
+            ],
+            [
+              61.173438,
+              36.466632
+            ],
+            [
+              61.173438,
+              36.466632
+            ],
+            [
+              61.158486,
+              36.452076
+            ],
+            [
+              61.166992,
+              36.414595
+            ],
+            [
+              61.140334,
+              36.393736
+            ],
+            [
+              61.160346,
+              36.330943
+            ],
+            [
+              61.149279,
+              36.317514
+            ],
+            [
+              61.219405,
+              36.192539
+            ],
+            [
+              61.219736,
+              36.120052
+            ],
+            [
+              61.219736,
+              36.120052
+            ],
+            [
+              61.229585,
+              36.114013
+            ],
+            [
+              61.207664,
+              36.104644
+            ],
+            [
+              61.163843,
+              36.035016
+            ],
+            [
+              61.165562,
+              36.003054
+            ],
+            [
+              61.165562,
+              36.003054
+            ],
+            [
+              61.169027,
+              35.990366
+            ],
+            [
+              61.116982,
+              35.962935
+            ],
+            [
+              61.160284,
+              35.95077
+            ],
+            [
+              61.160284,
+              35.95077
+            ],
+            [
+              61.172268,
+              35.947446
+            ],
+            [
+              61.172268,
+              35.947446
+            ],
+            [
+              61.245,
+              35.897222
+            ],
+            [
+              61.262222,
+              35.819722
+            ],
+            [
+              61.248333,
+              35.723611
+            ],
+            [
+              61.216654,
+              35.675801
+            ],
+            [
+              61.216654,
+              35.675801
+            ],
+            [
+              61.274095,
+              35.604842
+            ],
+            [
+              61.274095,
+              35.604842
+            ],
+            [
+              61.373303,
+              35.623664
+            ],
+            [
+              61.375465,
+              35.590799
+            ],
+            [
+              61.40091,
+              35.583655
+            ],
+            [
+              61.386756,
+              35.566711
+            ],
+            [
+              61.474936,
+              35.5056
+            ],
+            [
+              61.474936,
+              35.5056
+            ],
+            [
+              61.587758,
+              35.43695
+            ],
+            [
+              61.779568,
+              35.411173
+            ],
+            [
+              61.968227,
+              35.454013
+            ],
+            [
+              62.007635,
+              35.445943
+            ],
+            [
+              62.007635,
+              35.445943
+            ],
+            [
+              62.06428,
+              35.43442
+            ],
+            [
+              62.153722,
+              35.340903
+            ],
+            [
+              62.266188,
+              35.29516
+            ],
+            [
+              62.291054,
+              35.256222
+            ],
+            [
+              62.305539,
+              35.129093
+            ],
+            [
+              62.477245,
+              35.278589
+            ],
+            [
+              62.477245,
+              35.278589
+            ],
+            [
+              62.525005,
+              35.273665
+            ],
+            [
+              62.577663,
+              35.220716
+            ],
+            [
+              62.608839,
+              35.236578
+            ],
+            [
+              62.627865,
+              35.20793
+            ],
+            [
+              62.654912,
+              35.231858
+            ],
+            [
+              62.733203,
+              35.250165
+            ],
+            [
+              62.733203,
+              35.250165
+            ],
+            [
+              62.785671,
+              35.301161
+            ],
+            [
+              62.81601,
+              35.299982
+            ],
+            [
+              62.81601,
+              35.299982
+            ],
+            [
+              62.891751,
+              35.343989
+            ],
+            [
+              62.893752,
+              35.358719
+            ],
+            [
+              63.006325,
+              35.410881
+            ],
+            [
+              63.023329,
+              35.401247
+            ],
+            [
+              63.013123,
+              35.417513
+            ],
+            [
+              63.027206,
+              35.413822
+            ],
+            [
+              63.027206,
+              35.413822
+            ],
+            [
+              63.098922,
+              35.41791
+            ],
+            [
+              63.108815,
+              35.446774
+            ],
+            [
+              63.111694,
+              35.510466
+            ],
+            [
+              63.130245,
+              35.54322
+            ],
+            [
+              63.106185,
+              35.549355
+            ],
+            [
+              63.094889,
+              35.618425
+            ],
+            [
+              63.244947,
+              35.68297
+            ],
+            [
+              63.244947,
+              35.68297
+            ],
+            [
+              63.244686,
+              35.698115
+            ],
+            [
+              63.244686,
+              35.698115
+            ],
+            [
+              63.194926,
+              35.712948
+            ],
+            [
+              63.172889,
+              35.735995
+            ],
+            [
+              63.172889,
+              35.735995
+            ],
+            [
+              63.159424,
+              35.756188
+            ],
+            [
+              63.159424,
+              35.756188
+            ],
+            [
+              63.130816,
+              35.793165
+            ],
+            [
+              63.130816,
+              35.793165
+            ],
+            [
+              63.1259,
+              35.808201
+            ],
+            [
+              63.1259,
+              35.808201
+            ],
+            [
+              63.118395,
+              35.809106
+            ],
+            [
+              63.118395,
+              35.809106
+            ],
+            [
+              63.107762,
+              35.8233
+            ],
+            [
+              63.120778,
+              35.861912
+            ],
+            [
+              63.298864,
+              35.856699
+            ],
+            [
+              63.463598,
+              35.890714
+            ],
+            [
+              63.463598,
+              35.890714
+            ],
+            [
+              63.500515,
+              35.898391
+            ],
+            [
+              63.536405,
+              35.947764
+            ],
+            [
+              63.703341,
+              35.967624
+            ],
+            [
+              63.998158,
+              36.03222
+            ],
+            [
+              63.998158,
+              36.03222
+            ],
+            [
+              64.068541,
+              35.997294
+            ],
+            [
+              64.057833,
+              36.102161
+            ],
+            [
+              64.093274,
+              36.129387
+            ],
+            [
+              64.112082,
+              36.12294
+            ],
+            [
+              64.169781,
+              36.163019
+            ],
+            [
+              64.278834,
+              36.15177
+            ],
+            [
+              64.278834,
+              36.15177
+            ],
+            [
+              64.316071,
+              36.208557
+            ],
+            [
+              64.445229,
+              36.242727
+            ],
+            [
+              64.579957,
+              36.351645
+            ],
+            [
+              64.590004,
+              36.378581
+            ],
+            [
+              64.590004,
+              36.378581
+            ],
+            [
+              64.636311,
+              36.442278
+            ],
+            [
+              64.618753,
+              36.634198
+            ],
+            [
+              64.618753,
+              36.634198
+            ],
+            [
+              64.757502,
+              36.865895
+            ],
+            [
+              64.757502,
+              36.865895
+            ],
+            [
+              64.797659,
+              36.921782
+            ],
+            [
+              64.789583,
+              36.958173
+            ],
+            [
+              64.789583,
+              36.958173
+            ],
+            [
+              64.75526,
+              37.112643
+            ],
+            [
+              65.003704,
+              37.220902
+            ],
+            [
+              65.003704,
+              37.220902
+            ],
+            [
+              65.123696,
+              37.244185
+            ],
+            [
+              65.190556,
+              37.235833
+            ],
+            [
+              65.228357,
+              37.250987
+            ],
+            [
+              65.268435,
+              37.233002
+            ],
+            [
+              65.268435,
+              37.233002
+            ],
+            [
+              65.43962,
+              37.232994
+            ],
+            [
+              65.43962,
+              37.232994
+            ],
+            [
+              65.519161,
+              37.236551
+            ],
+            [
+              65.519161,
+              37.236551
+            ],
+            [
+              65.555856,
+              37.240664
+            ],
+            [
+              65.643657,
+              37.329439
+            ],
+            [
+              65.646192,
+              37.438564
+            ],
+            [
+              65.699409,
+              37.533311
+            ],
+            [
+              65.780581,
+              37.528017
+            ],
+            [
+              65.780581,
+              37.528017
+            ],
+            [
+              65.864294,
+              37.486829
+            ],
+            [
+              65.864294,
+              37.486829
+            ],
+            [
+              65.973889,
+              37.466944
+            ],
+            [
+              66.008056,
+              37.455278
+            ],
+            [
+              66.002414,
+              37.442312
+            ],
+            [
+              66.070049,
+              37.44622
+            ],
+            [
+              66.113748,
+              37.401272
+            ],
+            [
+              66.15902,
+              37.394709
+            ],
+            [
+              66.169459,
+              37.367886
+            ],
+            [
+              66.25515,
+              37.349579
+            ],
+            [
+              66.25515,
+              37.349579
+            ],
+            [
+              66.306764,
+              37.32016
+            ],
+            [
+              66.430999,
+              37.319247
+            ],
+            [
+              66.55149,
+              37.354385
+            ],
+            [
+              66.55149,
+              37.354385
+            ],
+            [
+              66.523085,
+              37.375103
+            ],
+            [
+              66.525971,
+              37.396226
+            ],
+            [
+              66.525971,
+              37.396226
+            ],
+            [
+              66.584419,
+              37.443696
+            ],
+            [
+              66.584764,
+              37.470107
+            ],
+            [
+              66.546925,
+              37.503494
+            ],
+            [
+              66.525621,
+              37.558161
+            ],
+            [
+              66.549801,
+              37.696589
+            ],
+            [
+              66.539352,
+              37.749683
+            ],
+            [
+              66.559503,
+              37.802122
+            ],
+            [
+              66.559503,
+              37.802122
+            ],
+            [
+              66.606795,
+              37.868478
+            ],
+            [
+              66.689314,
+              37.914099
+            ],
+            [
+              66.689314,
+              37.914099
+            ],
+            [
+              66.690372,
+              37.95491
+            ],
+            [
+              66.690372,
+              37.95491
+            ],
+            [
+              66.681136,
+              37.971408
+            ],
+            [
+              66.596715,
+              38.00179
+            ],
+            [
+              66.596715,
+              38.00179
+            ],
+            [
+              66.559379,
+              38.003247
+            ],
+            [
+              66.527914,
+              38.029453
+            ],
+            [
+              66.468594,
+              38.032286
+            ],
+            [
+              66.468594,
+              38.032286
+            ],
+            [
+              66.392398,
+              38.032945
+            ],
+            [
+              66.271115,
+              38.107991
+            ],
+            [
+              66.2469,
+              38.156363
+            ],
+            [
+              66.20386,
+              38.165867
+            ],
+            [
+              66.191018,
+              38.155457
+            ],
+            [
+              66.191018,
+              38.155457
+            ],
+            [
+              66.114939,
+              38.17528
+            ],
+            [
+              66.097956,
+              38.199802
+            ],
+            [
+              66.006224,
+              38.232989
+            ],
+            [
+              66.006224,
+              38.232989
+            ],
+            [
+              65.977407,
+              38.227562
+            ],
+            [
+              65.918975,
+              38.274883
+            ],
+            [
+              65.918975,
+              38.274883
+            ],
+            [
+              65.917073,
+              38.275478
+            ],
+            [
+              65.917073,
+              38.275478
+            ],
+            [
+              65.852835,
+              38.275931
+            ],
+            [
+              65.852835,
+              38.275931
+            ],
+            [
+              65.841373,
+              38.252115
+            ],
+            [
+              65.827951,
+              38.255571
+            ],
+            [
+              65.827951,
+              38.255571
+            ],
+            [
+              65.539742,
+              38.289316
+            ],
+            [
+              65.541546,
+              38.30027
+            ],
+            [
+              65.171182,
+              38.502563
+            ],
+            [
+              65.11437,
+              38.549784
+            ],
+            [
+              65.11437,
+              38.549784
+            ],
+            [
+              65.037461,
+              38.60574
+            ],
+            [
+              64.992945,
+              38.612155
+            ],
+            [
+              64.896062,
+              38.670465
+            ],
+            [
+              64.820451,
+              38.68303
+            ],
+            [
+              64.716819,
+              38.752148
+            ],
+            [
+              64.524809,
+              38.846787
+            ],
+            [
+              64.524809,
+              38.846787
+            ],
+            [
+              64.386497,
+              38.952208
+            ],
+            [
+              64.386497,
+              38.952208
+            ],
+            [
+              64.330592,
+              38.995261
+            ],
+            [
+              64.181194,
+              38.96186
+            ],
+            [
+              63.705149,
+              39.223866
+            ],
+            [
+              63.694214,
+              39.272438
+            ],
+            [
+              63.63526,
+              39.30193
+            ],
+            [
+              63.63526,
+              39.30193
+            ],
+            [
+              63.517584,
+              39.363708
+            ],
+            [
+              63.517584,
+              39.363708
+            ],
+            [
+              62.493006,
+              39.948533
+            ],
+            [
+              62.493006,
+              39.948533
+            ],
+            [
+              62.442658,
+              39.991101
+            ],
+            [
+              62.427005,
+              40.064861
+            ],
+            [
+              62.396497,
+              40.09928
+            ],
+            [
+              62.413784,
+              40.173507
+            ],
+            [
+              62.390449,
+              40.242727
+            ],
+            [
+              62.390449,
+              40.242727
+            ],
+            [
+              62.393165,
+              40.31078
+            ],
+            [
+              62.393165,
+              40.31078
+            ],
+            [
+              62.334573,
+              40.374947
+            ],
+            [
+              62.334573,
+              40.374947
+            ],
+            [
+              62.34946,
+              40.438297
+            ],
+            [
+              62.207718,
+              40.508515
+            ],
+            [
+              62.155862,
+              40.550072
+            ],
+            [
+              62.155862,
+              40.550072
+            ],
+            [
+              62.051999,
+              40.698869
+            ],
+            [
+              62.042075,
+              40.757743
+            ],
+            [
+              61.985688,
+              40.836943
+            ],
+            [
+              62.000118,
+              40.892406
+            ],
+            [
+              61.996369,
+              40.973536
+            ],
+            [
+              61.963734,
+              41.027358
+            ],
+            [
+              61.900956,
+              41.053418
+            ],
+            [
+              61.88271,
+              41.11007
+            ],
+            [
+              61.756748,
+              41.175739
+            ],
+            [
+              61.712834,
+              41.215139
+            ],
+            [
+              61.649934,
+              41.231434
+            ],
+            [
+              61.626885,
+              41.264988
+            ],
+            [
+              61.54541,
+              41.26155
+            ],
+            [
+              61.481034,
+              41.286728
+            ],
+            [
+              61.408498,
+              41.287813
+            ],
+            [
+              61.403181,
+              41.218101
+            ],
+            [
+              61.403181,
+              41.218101
+            ],
+            [
+              61.395502,
+              41.208406
+            ],
+            [
+              61.395502,
+              41.208406
+            ],
+            [
+              61.397467,
+              41.196536
+            ],
+            [
+              61.330455,
+              41.147812
+            ],
+            [
+              61.217757,
+              41.154432
+            ],
+            [
+              61.217757,
+              41.154432
+            ],
+            [
+              61.128608,
+              41.190227
+            ],
+            [
+              61.090418,
+              41.230105
+            ],
+            [
+              61.082444,
+              41.214726
+            ],
+            [
+              61.065025,
+              41.254265
+            ],
+            [
+              61.051617,
+              41.245906
+            ],
+            [
+              61.03353,
+              41.269236
+            ],
+            [
+              61.029796,
+              41.222658
+            ],
+            [
+              60.968565,
+              41.245795
+            ],
+            [
+              60.968565,
+              41.245795
+            ],
+            [
+              60.944899,
+              41.247829
+            ],
+            [
+              60.944899,
+              41.247829
+            ],
+            [
+              60.680931,
+              41.255412
+            ],
+            [
+              60.680931,
+              41.255412
+            ],
+            [
+              60.512035,
+              41.216481
+            ],
+            [
+              60.425292,
+              41.243488
+            ],
+            [
+              60.425292,
+              41.243488
+            ],
+            [
+              60.276258,
+              41.330378
+            ],
+            [
+              60.230022,
+              41.337201
+            ],
+            [
+              60.151752,
+              41.379861
+            ],
+            [
+              60.151752,
+              41.379861
+            ],
+            [
+              60.093114,
+              41.413193
+            ],
+            [
+              60.074077,
+              41.457487
+            ],
+            [
+              60.103908,
+              41.542131
+            ],
+            [
+              60.176512,
+              41.577661
+            ],
+            [
+              60.151801,
+              41.652358
+            ],
+            [
+              60.151801,
+              41.652358
+            ],
+            [
+              60.081895,
+              41.703267
+            ],
+            [
+              60.046507,
+              41.750768
+            ],
+            [
+              60.046507,
+              41.750768
+            ],
+            [
+              60.092081,
+              41.811083
+            ],
+            [
+              60.176526,
+              41.79808
+            ],
+            [
+              60.297919,
+              41.752274
+            ],
+            [
+              60.32674,
+              41.759951
+            ],
+            [
+              60.32674,
+              41.759951
+            ],
+            [
+              60.264837,
+              41.815415
+            ],
+            [
+              60.156821,
+              41.858297
+            ],
+            [
+              60.156821,
+              41.858297
+            ],
+            [
+              60.104061,
+              41.903498
+            ],
+            [
+              60.025435,
+              41.920098
+            ],
+            [
+              60.024821,
+              41.950358
+            ],
+            [
+              59.969752,
+              41.940516
+            ],
+            [
+              59.937939,
+              41.96925
+            ],
+            [
+              59.937939,
+              41.96925
+            ],
+            [
+              59.916472,
+              41.991714
+            ],
+            [
+              59.950504,
+              42.019745
+            ],
+            [
+              60.021486,
+              41.994871
+            ],
+            [
+              60.048323,
+              42.087822
+            ],
+            [
+              60.020401,
+              42.11791
+            ],
+            [
+              59.950202,
+              42.143164
+            ],
+            [
+              59.971659,
+              42.15754
+            ],
+            [
+              59.967144,
+              42.179192
+            ],
+            [
+              60.015266,
+              42.164915
+            ],
+            [
+              60.021255,
+              42.178754
+            ],
+            [
+              60.012781,
+              42.212923
+            ],
+            [
+              59.954865,
+              42.231505
+            ],
+            [
+              59.954865,
+              42.231505
+            ],
+            [
+              59.931664,
+              42.274292
+            ],
+            [
+              59.893915,
+              42.284166
+            ],
+            [
+              59.890766,
+              42.302389
+            ],
+            [
+              59.812059,
+              42.272927
+            ],
+            [
+              59.752569,
+              42.293168
+            ],
+            [
+              59.752569,
+              42.293168
+            ],
+            [
+              59.73551,
+              42.302286
+            ],
+            [
+              59.73551,
+              42.302286
+            ],
+            [
+              59.653743,
+              42.289111
+            ],
+            [
+              59.607709,
+              42.298017
+            ],
+            [
+              59.607709,
+              42.298017
+            ],
+            [
+              59.578675,
+              42.285735
+            ],
+            [
+              59.436521,
+              42.291573
+            ],
+            [
+              59.418192,
+              42.324899
+            ],
+            [
+              59.35261,
+              42.347416
+            ],
+            [
+              59.35261,
+              42.347416
+            ],
+            [
+              59.303443,
+              42.360655
+            ],
+            [
+              59.258595,
+              42.414451
+            ],
+            [
+              59.268969,
+              42.428617
+            ],
+            [
+              59.171336,
+              42.531092
+            ],
+            [
+              59.171336,
+              42.531092
+            ],
+            [
+              59.055193,
+              42.519967
+            ],
+            [
+              59.008644,
+              42.525136
+            ],
+            [
+              58.975685,
+              42.547867
+            ],
+            [
+              58.975685,
+              42.547867
+            ],
+            [
+              58.62544,
+              42.799669
+            ],
+            [
+              58.62544,
+              42.799669
+            ],
+            [
+              58.627143,
+              42.754739
+            ],
+            [
+              58.612765,
+              42.7548
+            ],
+            [
+              58.645805,
+              42.723301
+            ],
+            [
+              58.595499,
+              42.719944
+            ],
+            [
+              58.608401,
+              42.696317
+            ],
+            [
+              58.590374,
+              42.648989
+            ],
+            [
+              58.484172,
+              42.642921
+            ],
+            [
+              58.274318,
+              42.687996
+            ],
+            [
+              58.150446,
+              42.630091
+            ],
+            [
+              58.166459,
+              42.599091
+            ],
+            [
+              58.299256,
+              42.559287
+            ],
+            [
+              58.40686,
+              42.403354
+            ],
+            [
+              58.411501,
+              42.371102
+            ],
+            [
+              58.432053,
+              42.37292
+            ],
+            [
+              58.513546,
+              42.325129
+            ],
+            [
+              58.511813,
+              42.281528
+            ],
+            [
+              58.445006,
+              42.296166
+            ],
+            [
+              58.395053,
+              42.287216
+            ],
+            [
+              58.396355,
+              42.357094
+            ],
+            [
+              58.353007,
+              42.42873
+            ],
+            [
+              58.30558,
+              42.455826
+            ],
+            [
+              58.209603,
+              42.472454
+            ],
+            [
+              58.132597,
+              42.444537
+            ],
+            [
+              58.144836,
+              42.491259
+            ],
+            [
+              58.063037,
+              42.50848
+            ],
+            [
+              58.069462,
+              42.536143
+            ],
+            [
+              58.054061,
+              42.544184
+            ],
+            [
+              58.03022,
+              42.500077
+            ],
+            [
+              58.012167,
+              42.494888
+            ],
+            [
+              58.003701,
+              42.515096
+            ],
+            [
+              57.998933,
+              42.482516
+            ],
+            [
+              57.978993,
+              42.484753
+            ],
+            [
+              57.967723,
+              42.427826
+            ],
+            [
+              57.942632,
+              42.444575
+            ],
+            [
+              57.907291,
+              42.425474
+            ],
+            [
+              57.960277,
+              42.380963
+            ],
+            [
+              57.950027,
+              42.377083
+            ],
+            [
+              57.960991,
+              42.347578
+            ],
+            [
+              57.928621,
+              42.302672
+            ],
+            [
+              57.948637,
+              42.228948
+            ],
+            [
+              57.89908,
+              42.231808
+            ],
+            [
+              57.904282,
+              42.216221
+            ],
+            [
+              57.883526,
+              42.211801
+            ],
+            [
+              57.840791,
+              42.238199
+            ],
+            [
+              57.84895,
+              42.21471
+            ],
+            [
+              57.834977,
+              42.214294
+            ],
+            [
+              57.854407,
+              42.199978
+            ],
+            [
+              57.858475,
+              42.171712
+            ],
+            [
+              57.858475,
+              42.171712
+            ],
+            [
+              57.849256,
+              42.185545
+            ],
+            [
+              57.841096,
+              42.17194
+            ],
+            [
+              57.801829,
+              42.169369
+            ],
+            [
+              57.801829,
+              42.169369
+            ],
+            [
+              57.632945,
+              42.143043
+            ],
+            [
+              57.632945,
+              42.143043
+            ],
+            [
+              57.433493,
+              42.156315
+            ],
+            [
+              57.293622,
+              42.137988
+            ],
+            [
+              57.128155,
+              41.929281
+            ],
+            [
+              57.046868,
+              41.923642
+            ],
+            [
+              57.046868,
+              41.923642
+            ],
+            [
+              56.966913,
+              41.889147
+            ],
+            [
+              56.977503,
+              41.671213
+            ],
+            [
+              57.04202,
+              41.565425
+            ],
+            [
+              57.039896,
+              41.441279
+            ],
+            [
+              57.052038,
+              41.419605
+            ],
+            [
+              57.100692,
+              41.363534
+            ],
+            [
+              57.166201,
+              41.379932
+            ],
+            [
+              57.189887,
+              41.341731
+            ],
+            [
+              57.059615,
+              41.321875
+            ],
+            [
+              57.070154,
+              41.275187
+            ],
+            [
+              57.041409,
+              41.240975
+            ],
+            [
+              56.789242,
+              41.281503
+            ],
+            [
+              56.429171,
+              41.300371
+            ],
+            [
+              56.429171,
+              41.300371
+            ],
+            [
+              55.998553,
+              41.32221
+            ],
+            [
+              55.998553,
+              41.32221
+            ],
+            [
+              55.876714,
+              41.331786
+            ],
+            [
+              55.816356,
+              41.297155
+            ],
+            [
+              55.811717,
+              41.278338
+            ],
+            [
+              55.773821,
+              41.284082
+            ],
+            [
+              55.773821,
+              41.284082
+            ],
+            [
+              55.743336,
+              41.302058
+            ],
+            [
+              55.721496,
+              41.293192
+            ],
+            [
+              55.727086,
+              41.279493
+            ],
+            [
+              55.63561,
+              41.282813
+            ],
+            [
+              55.603316,
+              41.246392
+            ],
+            [
+              55.603316,
+              41.246392
+            ],
+            [
+              55.600034,
+              41.272913
+            ],
+            [
+              55.576874,
+              41.27195
+            ],
+            [
+              55.567019,
+              41.294407
+            ],
+            [
+              55.545235,
+              41.287966
+            ],
+            [
+              55.557026,
+              41.27561
+            ],
+            [
+              55.537273,
+              41.256589
+            ],
+            [
+              55.455302,
+              41.267093
+            ],
+            [
+              55.442191,
+              41.293651
+            ],
+            [
+              55.430472,
+              41.279495
+            ],
+            [
+              55.412545,
+              41.295688
+            ],
+            [
+              55.398313,
+              41.337222
+            ],
+            [
+              55.398313,
+              41.337222
+            ],
+            [
+              55.315465,
+              41.390882
+            ],
+            [
+              55.119606,
+              41.604653
+            ],
+            [
+              55.066234,
+              41.699339
+            ],
+            [
+              54.949976,
+              41.833213
+            ],
+            [
+              54.952115,
+              41.906308
+            ],
+            [
+              54.928925,
+              41.928325
+            ],
+            [
+              54.779482,
+              42.052549
+            ],
+            [
+              54.21781,
+              42.379086
+            ],
+            [
+              53.570558,
+              42.288924
+            ],
+            [
+              52.984788,
+              42.121175
+            ],
+            [
+              52.449984,
+              41.761967
+            ],
+            [
+              52.449984,
+              41.761967
+            ],
+            [
+              52.267037,
+              41.614259
+            ],
+            [
+              52.267037,
+              41.614259
+            ],
+            [
+              52.292674,
+              41.592638
+            ],
+            [
+              52.276668,
+              41.503318
+            ],
+            [
+              52.314686,
+              41.414615
+            ],
+            [
+              52.388785,
+              41.353983
+            ],
+            [
+              52.490249,
+              41.320686
+            ],
+            [
+              52.555577,
+              41.250799
+            ],
+            [
+              52.583498,
+              41.157141
+            ],
+            [
+              52.592281,
+              41.040544
+            ],
+            [
+              52.655064,
+              40.950161
+            ],
+            [
+              52.580845,
+              40.792814
+            ],
+            [
+              52.57238,
+              40.689995
+            ],
+            [
+              52.506418,
+              40.600935
+            ],
+            [
+              52.473975,
+              40.502757
+            ],
+            [
+              52.445155,
+              40.289867
+            ],
+            [
+              52.485448,
+              40.135021
+            ],
+            [
+              52.483229,
+              40.03194
+            ],
+            [
+              52.549964,
+              39.895608
+            ],
+            [
+              52.675699,
+              39.797536
+            ],
+            [
+              52.801457,
+              39.657323
+            ],
+            [
+              52.899307,
+              39.576746
+            ],
+            [
+              52.899307,
+              39.576746
+            ],
+            [
+              52.855707,
+              39.508626
+            ],
+            [
+              52.838655,
+              39.428646
+            ],
+            [
+              52.855115,
+              39.353013
+            ],
+            [
+              52.909418,
+              39.26357
+            ],
+            [
+              52.817783,
+              39.171627
+            ],
+            [
+              52.778888,
+              39.049495
+            ],
+            [
+              52.782997,
+              38.861254
+            ],
+            [
+              52.81876,
+              38.738672
+            ],
+            [
+              52.872774,
+              38.666072
+            ],
+            [
+              52.958184,
+              38.614254
+            ],
+            [
+              53.062068,
+              38.5942
+            ],
+            [
+              53.167647,
+              38.609142
+            ],
+            [
+              53.254512,
+              38.654787
+            ],
+            [
+              53.322226,
+              38.752876
+            ],
+            [
+              53.312445,
+              38.9859
+            ],
+            [
+              53.376435,
+              39.075406
+            ],
+            [
+              53.463932,
+              38.982556
+            ],
+            [
+              53.583053,
+              38.890928
+            ],
+            [
+              53.686682,
+              38.844892
+            ],
+            [
+              53.686682,
+              38.844892
+            ],
+            [
+              53.612912,
+              38.698264
+            ],
+            [
+              53.579668,
+              38.572978
+            ],
+            [
+              53.579378,
+              38.487453
+            ],
+            [
+              53.617699,
+              38.339219
+            ],
+            [
+              53.609296,
+              38.200688
+            ],
+            [
+              53.568072,
+              38.071713
+            ],
+            [
+              53.560894,
+              37.909976
+            ],
+            [
+              53.581663,
+              37.706062
+            ],
+            [
+              53.656543,
+              37.478347
+            ],
+            [
+              53.649749,
+              37.419314
+            ],
+            [
+              53.664949,
+              37.356138
+            ],
+            [
+              53.664949,
+              37.356138
+            ],
+            [
+              53.970649,
+              37.346037
+            ],
+            [
+              53.970649,
+              37.346037
+            ],
+            [
+              53.970634,
+              37.346067
+            ],
+            [
+              53.970634,
+              37.346067
+            ],
+            [
+              54.165492,
+              37.326584
+            ],
+            [
+              54.165492,
+              37.326584
+            ],
+            [
+              54.22425,
+              37.32169
+            ],
+            [
+              54.22425,
+              37.32169
+            ],
+            [
+              54.244678,
+              37.319986
+            ],
+            [
+              54.285193,
+              37.351769
+            ],
+            [
+              54.39766,
+              37.3607
+            ],
+            [
+              54.488672,
+              37.419261
+            ],
+            [
+              54.579537,
+              37.454822
+            ],
+            [
+              54.579537,
+              37.454822
+            ],
+            [
+              54.586623,
+              37.459973
+            ],
+            [
+              54.586623,
+              37.459973
+            ],
+            [
+              54.673668,
+              37.437055
+            ],
+            [
+              54.730003,
+              37.491389
+            ],
+            [
+              54.758424,
+              37.498224
+            ],
+            [
+              54.758424,
+              37.498224
+            ],
+            [
+              54.798568,
+              37.522019
+            ],
+            [
+              54.819026,
+              37.600255
+            ],
+            [
+              54.787753,
+              37.62985
+            ],
+            [
+              54.787753,
+              37.62985
+            ],
+            [
+              54.832455,
+              37.726982
+            ],
+            [
+              54.832455,
+              37.726982
+            ],
+            [
+              54.865867,
+              37.766857
+            ],
+            [
+              54.891101,
+              37.763504
+            ],
+            [
+              54.950314,
+              37.797113
+            ],
+            [
+              54.950314,
+              37.797113
+            ],
+            [
+              54.995735,
+              37.833568
+            ],
+            [
+              54.995735,
+              37.833568
+            ],
+            [
+              55.01241,
+              37.843342
+            ],
+            [
+              55.01241,
+              37.843342
+            ],
+            [
+              55.080069,
+              37.914853
+            ],
+            [
+              55.146285,
+              37.950555
+            ],
+            [
+              55.146285,
+              37.950555
+            ],
+            [
+              55.169586,
+              37.960613
+            ],
+            [
+              55.204117,
+              37.949202
+            ],
+            [
+              55.204117,
+              37.949202
+            ],
+            [
+              55.223719,
+              37.976884
+            ],
+            [
+              55.261676,
+              37.990607
+            ],
+            [
+              55.261676,
+              37.990607
+            ],
+            [
+              55.273663,
+              37.990476
+            ],
+            [
+              55.273663,
+              37.990476
+            ],
+            [
+              55.295766,
+              38.002856
+            ],
+            [
+              55.295766,
+              38.002856
+            ],
+            [
+              55.442778,
+              38.086111
+            ],
+            [
+              55.682788,
+              38.110357
+            ],
+            [
+              55.682788,
+              38.110357
+            ],
+            [
+              55.756111,
+              38.125278
+            ],
+            [
+              55.806389,
+              38.1225
+            ],
+            [
+              55.841944,
+              38.101944
+            ],
+            [
+              55.841944,
+              38.101944
+            ],
+            [
+              55.928274,
+              38.092622
+            ],
+            [
+              55.928274,
+              38.092622
+            ],
+            [
+              55.985885,
+              38.076581
+            ],
+            [
+              56.164444,
+              38.095
+            ],
+            [
+              56.164444,
+              38.095
+            ],
+            [
+              56.216111,
+              38.072222
+            ],
+            [
+              56.288976,
+              38.084658
+            ],
+            [
+              56.288976,
+              38.084658
+            ],
+            [
+              56.335248,
+              38.07725
+            ],
+            [
+              56.333038,
+              38.099215
+            ],
+            [
+              56.352079,
+              38.117164
+            ],
+            [
+              56.328018,
+              38.156507
+            ],
+            [
+              56.328018,
+              38.156507
+            ],
+            [
+              56.31852,
+              38.179072
+            ],
+            [
+              56.332779,
+              38.197554
+            ],
+            [
+              56.424444,
+              38.254722
+            ],
+            [
+              56.538889,
+              38.266111
+            ],
+            [
+              56.578333,
+              38.255278
+            ],
+            [
+              56.578333,
+              38.255278
+            ],
+            [
+              56.613889,
+              38.240556
+            ],
+            [
+              56.664167,
+              38.268333
+            ],
+            [
+              56.756389,
+              38.285
+            ],
+            [
+              56.792713,
+              38.251659
+            ],
+            [
+              56.851796,
+              38.230999
+            ],
+            [
+              56.851796,
+              38.230999
+            ],
+            [
+              56.991999,
+              38.214344
+            ],
+            [
+              57.000895,
+              38.195958
+            ],
+            [
+              57.000895,
+              38.195958
+            ],
+            [
+              57.076145,
+              38.199472
+            ],
+            [
+              57.147222,
+              38.255
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "TM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
+        "name": "T\u00fcrkmenistan",
+        "id": "TM"
       }
     }
   ]

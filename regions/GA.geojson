@@ -3,3910 +3,2275 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.2239663,
-            -2.3600303
-          ],
-          [
-            13.3055591,
-            -2.3928644
-          ],
-          [
-            13.334999,
-            -2.3892627
-          ],
-          [
-            13.3767557,
-            -2.4263088
-          ],
-          [
-            13.4464502,
-            -2.4158682
-          ],
-          [
-            13.4879923,
-            -2.4356773
-          ],
-          [
-            13.5116816,
-            -2.395287
-          ],
-          [
-            13.546443,
-            -2.3753914
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.546443,
-            -2.3753914
-          ],
-          [
-            13.5981989,
-            -2.3268522
-          ],
-          [
-            13.6165667,
-            -2.3368003
-          ],
-          [
-            13.6363886,
-            -2.3014605
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.7654634,
-            -2.0893368
-          ],
-          [
-            13.728764,
-            -2.159236
-          ],
-          [
-            13.72722,
-            -2.192417
-          ],
-          [
-            13.6363886,
-            -2.3014605
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.9961892,
-            -2.4954318
-          ],
-          [
-            13.981666,
-            -2.46179
-          ],
-          [
-            13.954674,
-            -2.462673
-          ],
-          [
-            13.919923,
-            -2.49218
-          ],
-          [
-            13.866157,
-            -2.467077
-          ],
-          [
-            13.871095,
-            -2.40731
-          ],
-          [
-            13.936156,
-            -2.348938
-          ],
-          [
-            13.878712,
-            -2.315204
-          ],
-          [
-            13.876831,
-            -2.270468
-          ],
-          [
-            13.848242,
-            -2.252147
-          ],
-          [
-            13.809985,
-            -2.15037
-          ],
-          [
-            13.779968,
-            -2.129256
-          ],
-          [
-            13.7654634,
-            -2.0893368
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.108962,
-            -2.499196
-          ],
-          [
-            14.101776,
-            -2.51161
-          ],
-          [
-            14.070371,
-            -2.496501
-          ],
-          [
-            14.057217,
-            -2.472888
-          ],
-          [
-            13.9961892,
-            -2.4954318
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.3056726,
-            -1.9478612
-          ],
-          [
-            14.303463,
-            -1.97223
-          ],
-          [
-            14.261799,
-            -1.975987
-          ],
-          [
-            14.242052,
-            -2.012031
-          ],
-          [
-            14.270851,
-            -2.052956
-          ],
-          [
-            14.255983,
-            -2.102475
-          ],
-          [
-            14.266395,
-            -2.130861
-          ],
-          [
-            14.225022,
-            -2.1518
-          ],
-          [
-            14.22686,
-            -2.193269
-          ],
-          [
-            14.151665,
-            -2.231449
-          ],
-          [
-            14.187199,
-            -2.245497
-          ],
-          [
-            14.194941,
-            -2.282778
-          ],
-          [
-            14.259899,
-            -2.340238
-          ],
-          [
-            14.153698,
-            -2.390401
-          ],
-          [
-            14.13707,
-            -2.417647
-          ],
-          [
-            14.142491,
-            -2.45552
-          ],
-          [
-            14.112732,
-            -2.47517
-          ],
-          [
-            14.108962,
-            -2.499196
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.371389,
-            -1.928611
-          ],
-          [
-            14.3056726,
-            -1.9478612
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.427778,
-            -1.895833
-          ],
-          [
-            14.371389,
-            -1.928611
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.457778,
-            -1.181944
-          ],
-          [
-            14.481944,
-            -1.212778
-          ],
-          [
-            14.4825,
-            -1.26
-          ],
-          [
-            14.444722,
-            -1.338056
-          ],
-          [
-            14.494167,
-            -1.377222
-          ],
-          [
-            14.505,
-            -1.406667
-          ],
-          [
-            14.474167,
-            -1.4375
-          ],
-          [
-            14.470833,
-            -1.481389
-          ],
-          [
-            14.453611,
-            -1.492222
-          ],
-          [
-            14.479722,
-            -1.519722
-          ],
-          [
-            14.480556,
-            -1.545556
-          ],
-          [
-            14.4475,
-            -1.5525
-          ],
-          [
-            14.431111,
-            -1.582778
-          ],
-          [
-            14.383889,
-            -1.610833
-          ],
-          [
-            14.414722,
-            -1.634722
-          ],
-          [
-            14.424167,
-            -1.671667
-          ],
-          [
-            14.452222,
-            -1.666944
-          ],
-          [
-            14.468056,
-            -1.686111
-          ],
-          [
-            14.440556,
-            -1.699167
-          ],
-          [
-            14.416111,
-            -1.750556
-          ],
-          [
-            14.429167,
-            -1.793056
-          ],
-          [
-            14.413889,
-            -1.853333
-          ],
-          [
-            14.427778,
-            -1.895833
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.4175,
-            -1.033889
-          ],
-          [
-            14.452222,
-            -1.115556
-          ],
-          [
-            14.445556,
-            -1.160556
-          ],
-          [
-            14.457778,
-            -1.181944
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.428611,
-            -1.020556
-          ],
-          [
-            14.4175,
-            -1.033889
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.538889,
-            -0.595556
-          ],
-          [
-            14.531944,
-            -0.644722
-          ],
-          [
-            14.474722,
-            -0.72
-          ],
-          [
-            14.465833,
-            -0.785
-          ],
-          [
-            14.488611,
-            -0.81
-          ],
-          [
-            14.489167,
-            -0.841111
-          ],
-          [
-            14.43,
-            -0.906389
-          ],
-          [
-            14.428611,
-            -1.020556
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.875833,
-            -0.101944
-          ],
-          [
-            13.906667,
-            -0.222222
-          ],
-          [
-            13.930278,
-            -0.220833
-          ],
-          [
-            13.965278,
-            -0.171667
-          ],
-          [
-            14.018889,
-            -0.208333
-          ],
-          [
-            14.085,
-            -0.218056
-          ],
-          [
-            14.121944,
-            -0.256944
-          ],
-          [
-            14.146667,
-            -0.252778
-          ],
-          [
-            14.19,
-            -0.34
-          ],
-          [
-            14.191389,
-            -0.427222
-          ],
-          [
-            14.226667,
-            -0.3975
-          ],
-          [
-            14.260278,
-            -0.4175
-          ],
-          [
-            14.291944,
-            -0.400833
-          ],
-          [
-            14.351667,
-            -0.407222
-          ],
-          [
-            14.438333,
-            -0.458333
-          ],
-          [
-            14.447222,
-            -0.490833
-          ],
-          [
-            14.4775,
-            -0.5
-          ],
-          [
-            14.538889,
-            -0.595556
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.881944,
-            0.256111
-          ],
-          [
-            13.910833,
-            0.158611
-          ],
-          [
-            13.908889,
-            0.089444
-          ],
-          [
-            13.945278,
-            0.072778
-          ],
-          [
-            13.935,
-            0.041667
-          ],
-          [
-            13.952222,
-            -0.018056
-          ],
-          [
-            13.913056,
-            -0.030556
-          ],
-          [
-            13.875833,
-            -0.101944
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.060833,
-            0.468889
-          ],
-          [
-            13.972778,
-            0.406389
-          ],
-          [
-            13.929444,
-            0.312222
-          ],
-          [
-            13.881944,
-            0.256111
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.068333,
-            0.521389
-          ],
-          [
-            14.083611,
-            0.508056
-          ],
-          [
-            14.060833,
-            0.468889
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.3973373,
-            1.0871344
-          ],
-          [
-            14.496111,
-            0.95
-          ],
-          [
-            14.468056,
-            0.909722
-          ],
-          [
-            14.484444,
-            0.878611
-          ],
-          [
-            14.466667,
-            0.834167
-          ],
-          [
-            14.4275,
-            0.819167
-          ],
-          [
-            14.413056,
-            0.773333
-          ],
-          [
-            14.364722,
-            0.725
-          ],
-          [
-            14.376389,
-            0.665278
-          ],
-          [
-            14.238333,
-            0.566944
-          ],
-          [
-            14.143333,
-            0.594167
-          ],
-          [
-            14.106944,
-            0.583056
-          ],
-          [
-            14.075833,
-            0.559444
-          ],
-          [
-            14.068333,
-            0.521389
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.3973373,
-            1.0871344
-          ],
-          [
-            14.3065166,
-            1.2195191
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.3065166,
-            1.2195191
-          ],
-          [
-            14.290123,
-            1.2436534
-          ],
-          [
-            14.2980087,
-            1.2653135
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.2980087,
-            1.2653135
-          ],
-          [
-            14.3032202,
-            1.3047739
-          ],
-          [
-            14.2556841,
-            1.357483
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.2556841,
-            1.357483
-          ],
-          [
-            14.1959037,
-            1.3840421
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.1959037,
-            1.3840421
-          ],
-          [
-            14.1845184,
-            1.3977107
-          ],
-          [
-            14.1288572,
-            1.3964464
-          ],
-          [
-            14.09253,
-            1.3745405
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.09253,
-            1.3745405
-          ],
-          [
-            14.0525914,
-            1.3901339
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            14.0525914,
-            1.3901339
-          ],
-          [
-            14.0089524,
-            1.4357944
-          ],
-          [
-            13.9739652,
-            1.4185593
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.9739652,
-            1.4185593
-          ],
-          [
-            13.9540255,
-            1.4184681
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.9540255,
-            1.4184681
-          ],
-          [
-            13.8753756,
-            1.4282346
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.8753756,
-            1.4282346
-          ],
-          [
-            13.8048833,
-            1.4377471
-          ],
-          [
-            13.8109801,
-            1.4112645
-          ],
-          [
-            13.7990182,
-            1.4082512
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.7990182,
-            1.4082512
-          ],
-          [
-            13.7819114,
-            1.3916641
-          ],
-          [
-            13.7829816,
-            1.3616749
-          ],
-          [
-            13.7596035,
-            1.3473318
-          ],
-          [
-            13.7367189,
-            1.3704406
-          ],
-          [
-            13.7250996,
-            1.3592911
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.7250996,
-            1.3592911
-          ],
-          [
-            13.6932135,
-            1.3460608
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.6932135,
-            1.3460608
-          ],
-          [
-            13.6548986,
-            1.3446371
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.6548986,
-            1.3446371
-          ],
-          [
-            13.6318585,
-            1.3426777
-          ],
-          [
-            13.6329659,
-            1.327797
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.6329659,
-            1.327797
-          ],
-          [
-            13.6054282,
-            1.3282629
-          ],
-          [
-            13.5619045,
-            1.2782839
-          ],
-          [
-            13.5380583,
-            1.283109
-          ],
-          [
-            13.5112578,
-            1.263674
-          ],
-          [
-            13.4364801,
-            1.2866396
-          ],
-          [
-            13.4375272,
-            1.3003614
-          ],
-          [
-            13.4122281,
-            1.2910093
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.4122281,
-            1.2910093
-          ],
-          [
-            13.3969121,
-            1.2778843
-          ],
-          [
-            13.3731596,
-            1.2886731
-          ],
-          [
-            13.3679527,
-            1.2628749
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.3679527,
-            1.2628749
-          ],
-          [
-            13.3429813,
-            1.2534089
-          ],
-          [
-            13.3230046,
-            1.2642333
-          ],
-          [
-            13.3220637,
-            1.2421611
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.3220637,
-            1.2421611
-          ],
-          [
-            13.3082789,
-            1.2186985
-          ],
-          [
-            13.2889353,
-            1.2297181
-          ],
-          [
-            13.1919754,
-            1.2162425
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.153215,
-            1.2354907
-          ],
-          [
-            13.1919754,
-            1.2162425
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.2527008,
-            1.3906544
-          ],
-          [
-            13.2404267,
-            1.3431278
-          ],
-          [
-            13.2596688,
-            1.3377836
-          ],
-          [
-            13.2573116,
-            1.3173314
-          ],
-          [
-            13.2230866,
-            1.2839947
-          ],
-          [
-            13.1881374,
-            1.2911812
-          ],
-          [
-            13.1786746,
-            1.2496065
-          ],
-          [
-            13.153215,
-            1.2354907
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.1428234,
-            1.5505668
-          ],
-          [
-            13.1596886,
-            1.5223642
-          ],
-          [
-            13.1761989,
-            1.5350243
-          ],
-          [
-            13.1886098,
-            1.5208127
-          ],
-          [
-            13.1894027,
-            1.4853948
-          ],
-          [
-            13.2188314,
-            1.4751167
-          ],
-          [
-            13.2305056,
-            1.414566
-          ],
-          [
-            13.2527008,
-            1.3906544
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.1427307,
-            1.6043882
-          ],
-          [
-            13.145124,
-            1.5897412
-          ],
-          [
-            13.1252453,
-            1.5822328
-          ],
-          [
-            13.1428234,
-            1.5505668
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.1720963,
-            1.7511294
-          ],
-          [
-            13.1351926,
-            1.7019319
-          ],
-          [
-            13.1427307,
-            1.6043882
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.2083542,
-            1.9681311
-          ],
-          [
-            13.2147058,
-            1.9459256
-          ],
-          [
-            13.1544689,
-            1.8884889
-          ],
-          [
-            13.2033376,
-            1.8506518
-          ],
-          [
-            13.1894812,
-            1.8243714
-          ],
-          [
-            13.1966056,
-            1.7930517
-          ],
-          [
-            13.1819643,
-            1.7926594
-          ],
-          [
-            13.1720963,
-            1.7511294
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.2948592,
-            2.1705553
-          ],
-          [
-            13.298328,
-            2.1444521
-          ],
-          [
-            13.2846735,
-            2.1363274
-          ],
-          [
-            13.301197,
-            2.1091982
-          ],
-          [
-            13.2973731,
-            2.0654435
-          ],
-          [
-            13.2901862,
-            2.0485318
-          ],
-          [
-            13.2778341,
-            2.0524542
-          ],
-          [
-            13.2885151,
-            2.040452
-          ],
-          [
-            13.235427,
-            2.014255
-          ],
-          [
-            13.2083542,
-            1.9681311
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.2473526,
-            2.2740072
-          ],
-          [
-            13.2688075,
-            2.2414329
-          ],
-          [
-            13.2813269,
-            2.2519976
-          ],
-          [
-            13.3000347,
-            2.227721
-          ],
-          [
-            13.3055473,
-            2.2069585
-          ],
-          [
-            13.2852182,
-            2.1892117
-          ],
-          [
-            13.2948592,
-            2.1705553
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.0134084,
-            2.2498407
-          ],
-          [
-            13.0847817,
-            2.2407819
-          ],
-          [
-            13.1129527,
-            2.2521142
-          ],
-          [
-            13.1105372,
-            2.2690995
-          ],
-          [
-            13.1575005,
-            2.2867961
-          ],
-          [
-            13.1926369,
-            2.2835934
-          ],
-          [
-            13.1862769,
-            2.2714654
-          ],
-          [
-            13.2053386,
-            2.2599975
-          ],
-          [
-            13.2473526,
-            2.2740072
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.9675777,
-            2.2428769
-          ],
-          [
-            13.0134084,
-            2.2498407
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.8889129,
-            2.2391762
-          ],
-          [
-            12.9167408,
-            2.255493
-          ],
-          [
-            12.9675777,
-            2.2428769
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.6543402,
-            2.2446491
-          ],
-          [
-            12.7418983,
-            2.2229746
-          ],
-          [
-            12.8182983,
-            2.2598348
-          ],
-          [
-            12.8230941,
-            2.2426551
-          ],
-          [
-            12.8579682,
-            2.2287665
-          ],
-          [
-            12.8775805,
-            2.2488945
-          ],
-          [
-            12.8889129,
-            2.2391762
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.6079644,
-            2.2589757
-          ],
-          [
-            12.6543402,
-            2.2446491
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.5272518,
-            2.2585858
-          ],
-          [
-            12.5720501,
-            2.271579
-          ],
-          [
-            12.6079644,
-            2.2589757
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.5272518,
-            2.2585858
-          ],
-          [
-            12.5161319,
-            2.2599802
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.5161319,
-            2.2599802
-          ],
-          [
-            12.4544782,
-            2.2520743
-          ],
-          [
-            12.3074829,
-            2.2875318
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.3074829,
-            2.2875318
-          ],
-          [
-            12.2532588,
-            2.2552678
-          ],
-          [
-            12.2076988,
-            2.2821172
-          ],
-          [
-            12.1675888,
-            2.2855797
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.1675888,
-            2.2855797
-          ],
-          [
-            12.1529281,
-            2.2757278
-          ],
-          [
-            12.112951,
-            2.288349
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.9823641,
-            2.2918969
-          ],
-          [
-            12.112951,
-            2.288349
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.9357242,
-            2.2832155
-          ],
-          [
-            11.9823641,
-            2.2918969
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.9357242,
-            2.2832155
-          ],
-          [
-            11.8965055,
-            2.284925
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.8965055,
-            2.284925
-          ],
-          [
-            11.8696395,
-            2.2844367
-          ],
-          [
-            11.8657915,
-            2.2715232
-          ],
-          [
-            11.8284714,
-            2.2842085
-          ],
-          [
-            11.7539069,
-            2.2708239
-          ],
-          [
-            11.7475412,
-            2.2969594
-          ],
-          [
-            11.6654815,
-            2.3183725
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.648655,
-            2.3052969
-          ],
-          [
-            11.6654815,
-            2.3183725
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.5035475,
-            2.3024541
-          ],
-          [
-            11.648655,
-            2.3052969
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.4282323,
-            2.2971241
-          ],
-          [
-            11.5035475,
-            2.3024541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.3885534,
-            2.3010756
-          ],
-          [
-            11.4282323,
-            2.2971241
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.359111,
-            2.1719355
-          ],
-          [
-            11.3624703,
-            2.2191176
-          ],
-          [
-            11.3507706,
-            2.2250303
-          ],
-          [
-            11.3802783,
-            2.2633743
-          ],
-          [
-            11.3634442,
-            2.2862408
-          ],
-          [
-            11.3885534,
-            2.3010756
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.3396057,
-            1.9326511
-          ],
-          [
-            11.3204569,
-            2.0476377
-          ],
-          [
-            11.3612305,
-            2.1440508
-          ],
-          [
-            11.359111,
-            2.1719355
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.3818359,
-            1.9031172
-          ],
-          [
-            11.3396057,
-            1.9326511
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.4041625,
-            1.8329252
-          ],
-          [
-            11.4113617,
-            1.8768152
-          ],
-          [
-            11.3818359,
-            1.9031172
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.4041625,
-            1.8329252
-          ],
-          [
-            11.3952176,
-            1.8293363
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.3786061,
-            1.7533892
-          ],
-          [
-            11.3952176,
-            1.8293363
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.3478254,
-            1.6744114
-          ],
-          [
-            11.3776188,
-            1.6834429
-          ],
-          [
-            11.3786061,
-            1.7533892
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.3478254,
-            1.6744114
-          ],
-          [
-            11.3333414,
-            1.6595834
-          ],
-          [
-            11.3333201,
-            1.4762211
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.3333201,
-            1.4762211
-          ],
-          [
-            11.333325,
-            1.0000253
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.333325,
-            1.0000253
-          ],
-          [
-            11.3062825,
-            0.9999764
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.3062825,
-            0.9999764
-          ],
-          [
-            10.9725755,
-            0.9999148
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.9725755,
-            0.9999148
-          ],
-          [
-            10.9516518,
-            1.0000037
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.9516518,
-            1.0000037
-          ],
-          [
-            10.9495925,
-            1.0273384
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.9495925,
-            1.0273384
-          ],
-          [
-            10.7853984,
-            1.0269951
-          ],
-          [
-            10.679784,
-            1.0000491
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.679784,
-            1.0000491
-          ],
-          [
-            10.4653502,
-            1.0000551
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.4653502,
-            1.0000551
-          ],
-          [
-            10.2880902,
-            0.9999384
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.2880902,
-            0.9999384
-          ],
-          [
-            10.1962224,
-            1.0000304
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.1962224,
-            1.0000304
-          ],
-          [
-            10.1335837,
-            0.9999883
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.1335837,
-            0.9999883
-          ],
-          [
-            9.9955724,
-            0.9999216
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.9955724,
-            0.9999216
-          ],
-          [
-            9.9856433,
-            0.9810678
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.9856433,
-            0.9810678
-          ],
-          [
-            9.9922762,
-            0.9350314
-          ],
-          [
-            9.9519735,
-            0.9219855
-          ],
-          [
-            9.9308576,
-            0.9333768
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.9308576,
-            0.9333768
-          ],
-          [
-            9.8958236,
-            0.9516287
-          ],
-          [
-            9.8727996,
-            0.9942396
-          ],
-          [
-            9.7946548,
-            1.0001128
-          ],
-          [
-            9.7373719,
-            1.0698617
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.7373719,
-            1.0698617
-          ],
-          [
-            9.6654426,
-            1.0653425
-          ],
-          [
-            9.5892485,
-            1.0222551
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.5191256,
-            0.9629838
-          ],
-          [
-            9.5474614,
-            1.0226179
-          ],
-          [
-            9.5892485,
-            1.0222551
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.1492944,
-            0.7534473
-          ],
-          [
-            9.3547849,
-            0.8464565
-          ],
-          [
-            9.5191256,
-            0.9629838
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.1031493,
-            0.3669736
-          ],
-          [
-            9.1092133,
-            0.6112376
-          ],
-          [
-            9.1492944,
-            0.7534473
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.8097483,
-            -0.0946417
-          ],
-          [
-            9.1031493,
-            0.3669736
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.9073973,
-            -2.9604256
-          ],
-          [
-            9.7523997,
-            -2.8419427
-          ],
-          [
-            9.6927474,
-            -2.750872
-          ],
-          [
-            9.4732753,
-            -2.5336592
-          ],
-          [
-            9.4033561,
-            -2.4190161
-          ],
-          [
-            9.3873191,
-            -2.3177618
-          ],
-          [
-            9.120719,
-            -2.0209233
-          ],
-          [
-            9.0725297,
-            -1.9170074
-          ],
-          [
-            9.0405495,
-            -1.7033747
-          ],
-          [
-            8.8437772,
-            -1.4434454
-          ],
-          [
-            8.7908537,
-            -1.3251748
-          ],
-          [
-            8.7814643,
-            -1.2479729
-          ],
-          [
-            8.6709263,
-            -1.0944837
-          ],
-          [
-            8.643675,
-            -1.0023006
-          ],
-          [
-            8.5149097,
-            -0.7475144
-          ],
-          [
-            8.5013528,
-            -0.6317769
-          ],
-          [
-            8.5257942,
-            -0.5419772
-          ],
-          [
-            8.8097483,
-            -0.0946417
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.043616,
-            -4.126909
-          ],
-          [
-            10.867133,
-            -3.9859079
-          ],
-          [
-            10.783808,
-            -3.8132493
-          ],
-          [
-            10.4884328,
-            -3.566508
-          ],
-          [
-            10.4494853,
-            -3.4946221
-          ],
-          [
-            10.4417685,
-            -3.4290836
-          ],
-          [
-            10.2741795,
-            -3.2346877
-          ],
-          [
-            9.9073973,
-            -2.9604256
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.043616,
-            -4.126909
-          ],
-          [
-            11.147722,
-            -3.9568858
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.1525105,
-            -3.9490526
-          ],
-          [
-            11.147722,
-            -3.9568858
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.4707642,
-            -3.5278863
-          ],
-          [
-            11.4454614,
-            -3.5813788
-          ],
-          [
-            11.3340623,
-            -3.5961873
-          ],
-          [
-            11.2261139,
-            -3.6997193
-          ],
-          [
-            11.1967341,
-            -3.7666772
-          ],
-          [
-            11.2101504,
-            -3.7733174
-          ],
-          [
-            11.2193606,
-            -3.8272581
-          ],
-          [
-            11.1525105,
-            -3.9490526
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.529722,
-            -3.506944
-          ],
-          [
-            11.496944,
-            -3.506944
-          ],
-          [
-            11.4707642,
-            -3.5278863
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.701667,
-            -3.696389
-          ],
-          [
-            11.679722,
-            -3.690833
-          ],
-          [
-            11.587222,
-            -3.538333
-          ],
-          [
-            11.529722,
-            -3.506944
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.7656076,
-            -3.690278
-          ],
-          [
-            11.701667,
-            -3.696389
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.873611,
-            -3.708611
-          ],
-          [
-            11.7656076,
-            -3.690278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.698889,
-            -3.173056
-          ],
-          [
-            11.801111,
-            -3.214722
-          ],
-          [
-            11.870833,
-            -3.275833
-          ],
-          [
-            11.953889,
-            -3.288611
-          ],
-          [
-            11.974444,
-            -3.316111
-          ],
-          [
-            11.963611,
-            -3.351667
-          ],
-          [
-            11.91,
-            -3.394167
-          ],
-          [
-            11.839444,
-            -3.556111
-          ],
-          [
-            11.8525,
-            -3.589722
-          ],
-          [
-            11.927222,
-            -3.631389
-          ],
-          [
-            11.873611,
-            -3.708611
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.552006,
-            -2.8734576
-          ],
-          [
-            11.642778,
-            -2.818056
-          ],
-          [
-            11.804444,
-            -3.013056
-          ],
-          [
-            11.766111,
-            -3.047222
-          ],
-          [
-            11.731944,
-            -3.037778
-          ],
-          [
-            11.7175,
-            -3.050556
-          ],
-          [
-            11.701111,
-            -3.088889
-          ],
-          [
-            11.698889,
-            -3.173056
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.552006,
-            -2.8734576
-          ],
-          [
-            11.550461,
-            -2.8725253
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.550461,
-            -2.8725253
-          ],
-          [
-            11.532774,
-            -2.8420707
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.532774,
-            -2.8420707
-          ],
-          [
-            11.5474572,
-            -2.7769752
-          ],
-          [
-            11.5744855,
-            -2.7526383
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.5744855,
-            -2.7526383
-          ],
-          [
-            11.5879393,
-            -2.6849012
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.5879393,
-            -2.6849012
-          ],
-          [
-            11.6051076,
-            -2.6710044
-          ],
-          [
-            11.6058138,
-            -2.6320969
-          ],
-          [
-            11.5522051,
-            -2.5607276
-          ],
-          [
-            11.5552324,
-            -2.4831242
-          ],
-          [
-            11.5226841,
-            -2.371747
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.6298017,
-            -2.4051402
-          ],
-          [
-            11.6191587,
-            -2.4122579
-          ],
-          [
-            11.6188562,
-            -2.3943435
-          ],
-          [
-            11.6067347,
-            -2.4052903
-          ],
-          [
-            11.6085372,
-            -2.3861453
-          ],
-          [
-            11.5823803,
-            -2.3963073
-          ],
-          [
-            11.5900397,
-            -2.362528
-          ],
-          [
-            11.557897,
-            -2.3781271
-          ],
-          [
-            11.5226841,
-            -2.371747
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.7306947,
-            -2.5484809
-          ],
-          [
-            11.7062715,
-            -2.4945583
-          ],
-          [
-            11.6779409,
-            -2.4843841
-          ],
-          [
-            11.6699266,
-            -2.4599237
-          ],
-          [
-            11.6363142,
-            -2.4578035
-          ],
-          [
-            11.6494248,
-            -2.4404816
-          ],
-          [
-            11.6312813,
-            -2.4298782
-          ],
-          [
-            11.6414843,
-            -2.4171759
-          ],
-          [
-            11.6298017,
-            -2.4051402
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.8446347,
-            -2.434037
-          ],
-          [
-            11.8251511,
-            -2.4348088
-          ],
-          [
-            11.8134781,
-            -2.4571366
-          ],
-          [
-            11.7736205,
-            -2.4530312
-          ],
-          [
-            11.7629778,
-            -2.5187267
-          ],
-          [
-            11.7306947,
-            -2.5484809
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.9314316,
-            -2.364703
-          ],
-          [
-            11.8963909,
-            -2.3782442
-          ],
-          [
-            11.886681,
-            -2.4249257
-          ],
-          [
-            11.8446347,
-            -2.434037
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.4715032,
-            -2.4654051
-          ],
-          [
-            12.0292845,
-            -2.4651575
-          ],
-          [
-            11.9314316,
-            -2.364703
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.5081921,
-            -2.3930842
-          ],
-          [
-            12.5131863,
-            -2.4457373
-          ],
-          [
-            12.4863213,
-            -2.4461151
-          ],
-          [
-            12.4715032,
-            -2.4654051
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.5027999,
-            -2.213835
-          ],
-          [
-            12.4878792,
-            -2.2776897
-          ],
-          [
-            12.4610183,
-            -2.2934339
-          ],
-          [
-            12.4753293,
-            -2.3201569
-          ],
-          [
-            12.4643686,
-            -2.3283497
-          ],
-          [
-            12.4765744,
-            -2.3385689
-          ],
-          [
-            12.495676,
-            -2.328178
-          ],
-          [
-            12.511028,
-            -2.3489215
-          ],
-          [
-            12.4978881,
-            -2.3657901
-          ],
-          [
-            12.5081921,
-            -2.3930842
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.5051772,
-            -2.1306365
-          ],
-          [
-            12.475168,
-            -2.1664643
-          ],
-          [
-            12.5013214,
-            -2.192773
-          ],
-          [
-            12.4810446,
-            -2.21106
-          ],
-          [
-            12.5027999,
-            -2.213835
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.450104,
-            -2.0328214
-          ],
-          [
-            12.4452084,
-            -2.0458867
-          ],
-          [
-            12.5051772,
-            -2.1306365
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.4471546,
-            -1.9220507
-          ],
-          [
-            12.4631439,
-            -1.938758
-          ],
-          [
-            12.4452621,
-            -1.9851818
-          ],
-          [
-            12.450104,
-            -2.0328214
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.4511955,
-            -1.8710214
-          ],
-          [
-            12.4471546,
-            -1.9220507
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.750987,
-            -1.899374
-          ],
-          [
-            12.716782,
-            -1.850423
-          ],
-          [
-            12.668511,
-            -1.841805
-          ],
-          [
-            12.651773,
-            -1.812454
-          ],
-          [
-            12.628224,
-            -1.831026
-          ],
-          [
-            12.60867,
-            -1.813096
-          ],
-          [
-            12.579767,
-            -1.818778
-          ],
-          [
-            12.587497,
-            -1.83602
-          ],
-          [
-            12.519027,
-            -1.867691
-          ],
-          [
-            12.536898,
-            -1.90095
-          ],
-          [
-            12.520581,
-            -1.924846
-          ],
-          [
-            12.494364,
-            -1.925297
-          ],
-          [
-            12.4511955,
-            -1.8710214
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.0009715,
-            -2.3673585
-          ],
-          [
-            13.017123,
-            -2.296202
-          ],
-          [
-            13.043073,
-            -2.288989
-          ],
-          [
-            13.040335,
-            -2.276306
-          ],
-          [
-            13.015316,
-            -2.271384
-          ],
-          [
-            12.963062,
-            -2.178293
-          ],
-          [
-            12.938208,
-            -2.2022
-          ],
-          [
-            12.914849,
-            -2.155447
-          ],
-          [
-            12.894622,
-            -2.148832
-          ],
-          [
-            12.917506,
-            -2.119917
-          ],
-          [
-            12.884016,
-            -2.101278
-          ],
-          [
-            12.909746,
-            -2.08993
-          ],
-          [
-            12.899656,
-            -2.069472
-          ],
-          [
-            12.875661,
-            -2.064097
-          ],
-          [
-            12.863233,
-            -2.010921
-          ],
-          [
-            12.84239,
-            -1.993056
-          ],
-          [
-            12.847582,
-            -1.945989
-          ],
-          [
-            12.817936,
-            -1.930359
-          ],
-          [
-            12.824584,
-            -1.902751
-          ],
-          [
-            12.795566,
-            -1.911701
-          ],
-          [
-            12.767484,
-            -1.883629
-          ],
-          [
-            12.750987,
-            -1.899374
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
-        "name": "Gabon"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            13.2239663,
-            -2.3600303
-          ],
-          [
-            13.209665,
-            -2.347709
-          ],
-          [
-            13.139902,
-            -2.371911
-          ],
-          [
-            13.031043,
-            -2.321025
-          ],
-          [
-            13.0009715,
-            -2.3673585
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.546443,
+              -2.375391
+            ],
+            [
+              13.598199,
+              -2.326852
+            ],
+            [
+              13.616567,
+              -2.3368
+            ],
+            [
+              13.636389,
+              -2.301461
+            ],
+            [
+              13.636389,
+              -2.301461
+            ],
+            [
+              13.72722,
+              -2.192417
+            ],
+            [
+              13.728764,
+              -2.159236
+            ],
+            [
+              13.765463,
+              -2.089337
+            ],
+            [
+              13.765463,
+              -2.089337
+            ],
+            [
+              13.779968,
+              -2.129256
+            ],
+            [
+              13.809985,
+              -2.15037
+            ],
+            [
+              13.848242,
+              -2.252147
+            ],
+            [
+              13.876831,
+              -2.270468
+            ],
+            [
+              13.878712,
+              -2.315204
+            ],
+            [
+              13.936156,
+              -2.348938
+            ],
+            [
+              13.871095,
+              -2.40731
+            ],
+            [
+              13.866157,
+              -2.467077
+            ],
+            [
+              13.919923,
+              -2.49218
+            ],
+            [
+              13.954674,
+              -2.462673
+            ],
+            [
+              13.981666,
+              -2.46179
+            ],
+            [
+              13.996189,
+              -2.495432
+            ],
+            [
+              13.996189,
+              -2.495432
+            ],
+            [
+              14.057217,
+              -2.472888
+            ],
+            [
+              14.070371,
+              -2.496501
+            ],
+            [
+              14.101776,
+              -2.51161
+            ],
+            [
+              14.108962,
+              -2.499196
+            ],
+            [
+              14.108962,
+              -2.499196
+            ],
+            [
+              14.112732,
+              -2.47517
+            ],
+            [
+              14.142491,
+              -2.45552
+            ],
+            [
+              14.13707,
+              -2.417647
+            ],
+            [
+              14.153698,
+              -2.390401
+            ],
+            [
+              14.259899,
+              -2.340238
+            ],
+            [
+              14.194941,
+              -2.282778
+            ],
+            [
+              14.187199,
+              -2.245497
+            ],
+            [
+              14.151665,
+              -2.231449
+            ],
+            [
+              14.22686,
+              -2.193269
+            ],
+            [
+              14.225022,
+              -2.1518
+            ],
+            [
+              14.266395,
+              -2.130861
+            ],
+            [
+              14.255983,
+              -2.102475
+            ],
+            [
+              14.270851,
+              -2.052956
+            ],
+            [
+              14.242052,
+              -2.012031
+            ],
+            [
+              14.261799,
+              -1.975987
+            ],
+            [
+              14.303463,
+              -1.97223
+            ],
+            [
+              14.305673,
+              -1.947861
+            ],
+            [
+              14.305673,
+              -1.947861
+            ],
+            [
+              14.371389,
+              -1.928611
+            ],
+            [
+              14.371389,
+              -1.928611
+            ],
+            [
+              14.427778,
+              -1.895833
+            ],
+            [
+              14.427778,
+              -1.895833
+            ],
+            [
+              14.413889,
+              -1.853333
+            ],
+            [
+              14.429167,
+              -1.793056
+            ],
+            [
+              14.416111,
+              -1.750556
+            ],
+            [
+              14.440556,
+              -1.699167
+            ],
+            [
+              14.468056,
+              -1.686111
+            ],
+            [
+              14.452222,
+              -1.666944
+            ],
+            [
+              14.424167,
+              -1.671667
+            ],
+            [
+              14.414722,
+              -1.634722
+            ],
+            [
+              14.383889,
+              -1.610833
+            ],
+            [
+              14.431111,
+              -1.582778
+            ],
+            [
+              14.4475,
+              -1.5525
+            ],
+            [
+              14.480556,
+              -1.545556
+            ],
+            [
+              14.479722,
+              -1.519722
+            ],
+            [
+              14.453611,
+              -1.492222
+            ],
+            [
+              14.470833,
+              -1.481389
+            ],
+            [
+              14.474167,
+              -1.4375
+            ],
+            [
+              14.505,
+              -1.406667
+            ],
+            [
+              14.494167,
+              -1.377222
+            ],
+            [
+              14.444722,
+              -1.338056
+            ],
+            [
+              14.4825,
+              -1.26
+            ],
+            [
+              14.481944,
+              -1.212778
+            ],
+            [
+              14.457778,
+              -1.181944
+            ],
+            [
+              14.457778,
+              -1.181944
+            ],
+            [
+              14.445556,
+              -1.160556
+            ],
+            [
+              14.452222,
+              -1.115556
+            ],
+            [
+              14.4175,
+              -1.033889
+            ],
+            [
+              14.4175,
+              -1.033889
+            ],
+            [
+              14.428611,
+              -1.020556
+            ],
+            [
+              14.428611,
+              -1.020556
+            ],
+            [
+              14.43,
+              -0.906389
+            ],
+            [
+              14.489167,
+              -0.841111
+            ],
+            [
+              14.488611,
+              -0.81
+            ],
+            [
+              14.465833,
+              -0.785
+            ],
+            [
+              14.474722,
+              -0.72
+            ],
+            [
+              14.531944,
+              -0.644722
+            ],
+            [
+              14.538889,
+              -0.595556
+            ],
+            [
+              14.538889,
+              -0.595556
+            ],
+            [
+              14.4775,
+              -0.5
+            ],
+            [
+              14.447222,
+              -0.490833
+            ],
+            [
+              14.438333,
+              -0.458333
+            ],
+            [
+              14.351667,
+              -0.407222
+            ],
+            [
+              14.291944,
+              -0.400833
+            ],
+            [
+              14.260278,
+              -0.4175
+            ],
+            [
+              14.226667,
+              -0.3975
+            ],
+            [
+              14.191389,
+              -0.427222
+            ],
+            [
+              14.19,
+              -0.34
+            ],
+            [
+              14.146667,
+              -0.252778
+            ],
+            [
+              14.121944,
+              -0.256944
+            ],
+            [
+              14.085,
+              -0.218056
+            ],
+            [
+              14.018889,
+              -0.208333
+            ],
+            [
+              13.965278,
+              -0.171667
+            ],
+            [
+              13.930278,
+              -0.220833
+            ],
+            [
+              13.906667,
+              -0.222222
+            ],
+            [
+              13.875833,
+              -0.101944
+            ],
+            [
+              13.875833,
+              -0.101944
+            ],
+            [
+              13.913056,
+              -0.030556
+            ],
+            [
+              13.952222,
+              -0.018056
+            ],
+            [
+              13.935,
+              0.041667
+            ],
+            [
+              13.945278,
+              0.072778
+            ],
+            [
+              13.908889,
+              0.089444
+            ],
+            [
+              13.910833,
+              0.158611
+            ],
+            [
+              13.881944,
+              0.256111
+            ],
+            [
+              13.881944,
+              0.256111
+            ],
+            [
+              13.929444,
+              0.312222
+            ],
+            [
+              13.972778,
+              0.406389
+            ],
+            [
+              14.060833,
+              0.468889
+            ],
+            [
+              14.060833,
+              0.468889
+            ],
+            [
+              14.083611,
+              0.508056
+            ],
+            [
+              14.068333,
+              0.521389
+            ],
+            [
+              14.068333,
+              0.521389
+            ],
+            [
+              14.075833,
+              0.559444
+            ],
+            [
+              14.106944,
+              0.583056
+            ],
+            [
+              14.143333,
+              0.594167
+            ],
+            [
+              14.238333,
+              0.566944
+            ],
+            [
+              14.376389,
+              0.665278
+            ],
+            [
+              14.364722,
+              0.725
+            ],
+            [
+              14.413056,
+              0.773333
+            ],
+            [
+              14.4275,
+              0.819167
+            ],
+            [
+              14.466667,
+              0.834167
+            ],
+            [
+              14.484444,
+              0.878611
+            ],
+            [
+              14.468056,
+              0.909722
+            ],
+            [
+              14.496111,
+              0.95
+            ],
+            [
+              14.397337,
+              1.087134
+            ],
+            [
+              14.397337,
+              1.087134
+            ],
+            [
+              14.306517,
+              1.219519
+            ],
+            [
+              14.306517,
+              1.219519
+            ],
+            [
+              14.290123,
+              1.243653
+            ],
+            [
+              14.298009,
+              1.265313
+            ],
+            [
+              14.298009,
+              1.265313
+            ],
+            [
+              14.30322,
+              1.304774
+            ],
+            [
+              14.255684,
+              1.357483
+            ],
+            [
+              14.255684,
+              1.357483
+            ],
+            [
+              14.195904,
+              1.384042
+            ],
+            [
+              14.195904,
+              1.384042
+            ],
+            [
+              14.184518,
+              1.397711
+            ],
+            [
+              14.128857,
+              1.396446
+            ],
+            [
+              14.09253,
+              1.37454
+            ],
+            [
+              14.09253,
+              1.37454
+            ],
+            [
+              14.052591,
+              1.390134
+            ],
+            [
+              14.052591,
+              1.390134
+            ],
+            [
+              14.008952,
+              1.435794
+            ],
+            [
+              13.973965,
+              1.418559
+            ],
+            [
+              13.973965,
+              1.418559
+            ],
+            [
+              13.954026,
+              1.418468
+            ],
+            [
+              13.954026,
+              1.418468
+            ],
+            [
+              13.875376,
+              1.428235
+            ],
+            [
+              13.875376,
+              1.428235
+            ],
+            [
+              13.804883,
+              1.437747
+            ],
+            [
+              13.81098,
+              1.411264
+            ],
+            [
+              13.799018,
+              1.408251
+            ],
+            [
+              13.799018,
+              1.408251
+            ],
+            [
+              13.781911,
+              1.391664
+            ],
+            [
+              13.782982,
+              1.361675
+            ],
+            [
+              13.759604,
+              1.347332
+            ],
+            [
+              13.736719,
+              1.370441
+            ],
+            [
+              13.7251,
+              1.359291
+            ],
+            [
+              13.7251,
+              1.359291
+            ],
+            [
+              13.693214,
+              1.346061
+            ],
+            [
+              13.693214,
+              1.346061
+            ],
+            [
+              13.654899,
+              1.344637
+            ],
+            [
+              13.654899,
+              1.344637
+            ],
+            [
+              13.631858,
+              1.342678
+            ],
+            [
+              13.632966,
+              1.327797
+            ],
+            [
+              13.632966,
+              1.327797
+            ],
+            [
+              13.605428,
+              1.328263
+            ],
+            [
+              13.561905,
+              1.278284
+            ],
+            [
+              13.538058,
+              1.283109
+            ],
+            [
+              13.511258,
+              1.263674
+            ],
+            [
+              13.43648,
+              1.28664
+            ],
+            [
+              13.437527,
+              1.300361
+            ],
+            [
+              13.412228,
+              1.291009
+            ],
+            [
+              13.412228,
+              1.291009
+            ],
+            [
+              13.396912,
+              1.277884
+            ],
+            [
+              13.37316,
+              1.288673
+            ],
+            [
+              13.367953,
+              1.262875
+            ],
+            [
+              13.367953,
+              1.262875
+            ],
+            [
+              13.342981,
+              1.253409
+            ],
+            [
+              13.323005,
+              1.264233
+            ],
+            [
+              13.322064,
+              1.242161
+            ],
+            [
+              13.322064,
+              1.242161
+            ],
+            [
+              13.308279,
+              1.218698
+            ],
+            [
+              13.288935,
+              1.229718
+            ],
+            [
+              13.191975,
+              1.216242
+            ],
+            [
+              13.191975,
+              1.216242
+            ],
+            [
+              13.153215,
+              1.235491
+            ],
+            [
+              13.153215,
+              1.235491
+            ],
+            [
+              13.178675,
+              1.249607
+            ],
+            [
+              13.188137,
+              1.291181
+            ],
+            [
+              13.223087,
+              1.283995
+            ],
+            [
+              13.257312,
+              1.317331
+            ],
+            [
+              13.259669,
+              1.337784
+            ],
+            [
+              13.240427,
+              1.343128
+            ],
+            [
+              13.252701,
+              1.390654
+            ],
+            [
+              13.252701,
+              1.390654
+            ],
+            [
+              13.230506,
+              1.414566
+            ],
+            [
+              13.218831,
+              1.475117
+            ],
+            [
+              13.189403,
+              1.485395
+            ],
+            [
+              13.18861,
+              1.520813
+            ],
+            [
+              13.176199,
+              1.535024
+            ],
+            [
+              13.159689,
+              1.522364
+            ],
+            [
+              13.142823,
+              1.550567
+            ],
+            [
+              13.142823,
+              1.550567
+            ],
+            [
+              13.125245,
+              1.582233
+            ],
+            [
+              13.145124,
+              1.589741
+            ],
+            [
+              13.142731,
+              1.604388
+            ],
+            [
+              13.142731,
+              1.604388
+            ],
+            [
+              13.135193,
+              1.701932
+            ],
+            [
+              13.172096,
+              1.751129
+            ],
+            [
+              13.172096,
+              1.751129
+            ],
+            [
+              13.181964,
+              1.792659
+            ],
+            [
+              13.196606,
+              1.793052
+            ],
+            [
+              13.189481,
+              1.824371
+            ],
+            [
+              13.203338,
+              1.850652
+            ],
+            [
+              13.154469,
+              1.888489
+            ],
+            [
+              13.214706,
+              1.945926
+            ],
+            [
+              13.208354,
+              1.968131
+            ],
+            [
+              13.208354,
+              1.968131
+            ],
+            [
+              13.235427,
+              2.014255
+            ],
+            [
+              13.288515,
+              2.040452
+            ],
+            [
+              13.277834,
+              2.052454
+            ],
+            [
+              13.290186,
+              2.048532
+            ],
+            [
+              13.297373,
+              2.065444
+            ],
+            [
+              13.301197,
+              2.109198
+            ],
+            [
+              13.284674,
+              2.136327
+            ],
+            [
+              13.298328,
+              2.144452
+            ],
+            [
+              13.294859,
+              2.170555
+            ],
+            [
+              13.294859,
+              2.170555
+            ],
+            [
+              13.285218,
+              2.189212
+            ],
+            [
+              13.305547,
+              2.206958
+            ],
+            [
+              13.300035,
+              2.227721
+            ],
+            [
+              13.281327,
+              2.251998
+            ],
+            [
+              13.268807,
+              2.241433
+            ],
+            [
+              13.247353,
+              2.274007
+            ],
+            [
+              13.247353,
+              2.274007
+            ],
+            [
+              13.205339,
+              2.259997
+            ],
+            [
+              13.186277,
+              2.271465
+            ],
+            [
+              13.192637,
+              2.283593
+            ],
+            [
+              13.1575,
+              2.286796
+            ],
+            [
+              13.110537,
+              2.269099
+            ],
+            [
+              13.112953,
+              2.252114
+            ],
+            [
+              13.084782,
+              2.240782
+            ],
+            [
+              13.013408,
+              2.249841
+            ],
+            [
+              13.013408,
+              2.249841
+            ],
+            [
+              12.967578,
+              2.242877
+            ],
+            [
+              12.967578,
+              2.242877
+            ],
+            [
+              12.916741,
+              2.255493
+            ],
+            [
+              12.888913,
+              2.239176
+            ],
+            [
+              12.888913,
+              2.239176
+            ],
+            [
+              12.877581,
+              2.248895
+            ],
+            [
+              12.857968,
+              2.228766
+            ],
+            [
+              12.823094,
+              2.242655
+            ],
+            [
+              12.818298,
+              2.259835
+            ],
+            [
+              12.741898,
+              2.222975
+            ],
+            [
+              12.65434,
+              2.244649
+            ],
+            [
+              12.65434,
+              2.244649
+            ],
+            [
+              12.607964,
+              2.258976
+            ],
+            [
+              12.607964,
+              2.258976
+            ],
+            [
+              12.57205,
+              2.271579
+            ],
+            [
+              12.527252,
+              2.258586
+            ],
+            [
+              12.527252,
+              2.258586
+            ],
+            [
+              12.516132,
+              2.25998
+            ],
+            [
+              12.516132,
+              2.25998
+            ],
+            [
+              12.454478,
+              2.252074
+            ],
+            [
+              12.307483,
+              2.287532
+            ],
+            [
+              12.307483,
+              2.287532
+            ],
+            [
+              12.253259,
+              2.255268
+            ],
+            [
+              12.207699,
+              2.282117
+            ],
+            [
+              12.167589,
+              2.28558
+            ],
+            [
+              12.167589,
+              2.28558
+            ],
+            [
+              12.152928,
+              2.275728
+            ],
+            [
+              12.112951,
+              2.288349
+            ],
+            [
+              12.112951,
+              2.288349
+            ],
+            [
+              11.982364,
+              2.291897
+            ],
+            [
+              11.982364,
+              2.291897
+            ],
+            [
+              11.935724,
+              2.283215
+            ],
+            [
+              11.935724,
+              2.283215
+            ],
+            [
+              11.896505,
+              2.284925
+            ],
+            [
+              11.896505,
+              2.284925
+            ],
+            [
+              11.869639,
+              2.284437
+            ],
+            [
+              11.865792,
+              2.271523
+            ],
+            [
+              11.828471,
+              2.284209
+            ],
+            [
+              11.753907,
+              2.270824
+            ],
+            [
+              11.747541,
+              2.296959
+            ],
+            [
+              11.665482,
+              2.318373
+            ],
+            [
+              11.665482,
+              2.318373
+            ],
+            [
+              11.648655,
+              2.305297
+            ],
+            [
+              11.648655,
+              2.305297
+            ],
+            [
+              11.503547,
+              2.302454
+            ],
+            [
+              11.503547,
+              2.302454
+            ],
+            [
+              11.428232,
+              2.297124
+            ],
+            [
+              11.428232,
+              2.297124
+            ],
+            [
+              11.388553,
+              2.301076
+            ],
+            [
+              11.388553,
+              2.301076
+            ],
+            [
+              11.363444,
+              2.286241
+            ],
+            [
+              11.380278,
+              2.263374
+            ],
+            [
+              11.350771,
+              2.22503
+            ],
+            [
+              11.36247,
+              2.219118
+            ],
+            [
+              11.359111,
+              2.171936
+            ],
+            [
+              11.359111,
+              2.171936
+            ],
+            [
+              11.36123,
+              2.144051
+            ],
+            [
+              11.320457,
+              2.047638
+            ],
+            [
+              11.339606,
+              1.932651
+            ],
+            [
+              11.339606,
+              1.932651
+            ],
+            [
+              11.381836,
+              1.903117
+            ],
+            [
+              11.381836,
+              1.903117
+            ],
+            [
+              11.411362,
+              1.876815
+            ],
+            [
+              11.404162,
+              1.832925
+            ],
+            [
+              11.404162,
+              1.832925
+            ],
+            [
+              11.395218,
+              1.829336
+            ],
+            [
+              11.395218,
+              1.829336
+            ],
+            [
+              11.378606,
+              1.753389
+            ],
+            [
+              11.378606,
+              1.753389
+            ],
+            [
+              11.377619,
+              1.683443
+            ],
+            [
+              11.347825,
+              1.674411
+            ],
+            [
+              11.347825,
+              1.674411
+            ],
+            [
+              11.333341,
+              1.659583
+            ],
+            [
+              11.33332,
+              1.476221
+            ],
+            [
+              11.33332,
+              1.476221
+            ],
+            [
+              11.333325,
+              1.000025
+            ],
+            [
+              11.333325,
+              1.000025
+            ],
+            [
+              11.306283,
+              0.999976
+            ],
+            [
+              11.306283,
+              0.999976
+            ],
+            [
+              10.972575,
+              0.999915
+            ],
+            [
+              10.972575,
+              0.999915
+            ],
+            [
+              10.951652,
+              1.000004
+            ],
+            [
+              10.951652,
+              1.000004
+            ],
+            [
+              10.949592,
+              1.027338
+            ],
+            [
+              10.949592,
+              1.027338
+            ],
+            [
+              10.785398,
+              1.026995
+            ],
+            [
+              10.679784,
+              1.000049
+            ],
+            [
+              10.679784,
+              1.000049
+            ],
+            [
+              10.46535,
+              1.000055
+            ],
+            [
+              10.46535,
+              1.000055
+            ],
+            [
+              10.28809,
+              0.999938
+            ],
+            [
+              10.28809,
+              0.999938
+            ],
+            [
+              10.196222,
+              1.00003
+            ],
+            [
+              10.196222,
+              1.00003
+            ],
+            [
+              10.133584,
+              0.999988
+            ],
+            [
+              10.133584,
+              0.999988
+            ],
+            [
+              9.995572,
+              0.999922
+            ],
+            [
+              9.995572,
+              0.999922
+            ],
+            [
+              9.985643,
+              0.981068
+            ],
+            [
+              9.985643,
+              0.981068
+            ],
+            [
+              9.992276,
+              0.935031
+            ],
+            [
+              9.951973,
+              0.921986
+            ],
+            [
+              9.930858,
+              0.933377
+            ],
+            [
+              9.930858,
+              0.933377
+            ],
+            [
+              9.895824,
+              0.951629
+            ],
+            [
+              9.8728,
+              0.99424
+            ],
+            [
+              9.794655,
+              1.000113
+            ],
+            [
+              9.737372,
+              1.069862
+            ],
+            [
+              9.737372,
+              1.069862
+            ],
+            [
+              9.665443,
+              1.065343
+            ],
+            [
+              9.589249,
+              1.022255
+            ],
+            [
+              9.589249,
+              1.022255
+            ],
+            [
+              9.547461,
+              1.022618
+            ],
+            [
+              9.519126,
+              0.962984
+            ],
+            [
+              9.519126,
+              0.962984
+            ],
+            [
+              9.354785,
+              0.846456
+            ],
+            [
+              9.149294,
+              0.753447
+            ],
+            [
+              9.149294,
+              0.753447
+            ],
+            [
+              9.109213,
+              0.611238
+            ],
+            [
+              9.103149,
+              0.366974
+            ],
+            [
+              9.103149,
+              0.366974
+            ],
+            [
+              8.809748,
+              -0.094642
+            ],
+            [
+              8.809748,
+              -0.094642
+            ],
+            [
+              8.525794,
+              -0.541977
+            ],
+            [
+              8.501353,
+              -0.631777
+            ],
+            [
+              8.51491,
+              -0.747514
+            ],
+            [
+              8.643675,
+              -1.002301
+            ],
+            [
+              8.670926,
+              -1.094484
+            ],
+            [
+              8.781464,
+              -1.247973
+            ],
+            [
+              8.790854,
+              -1.325175
+            ],
+            [
+              8.843777,
+              -1.443445
+            ],
+            [
+              9.040549,
+              -1.703375
+            ],
+            [
+              9.07253,
+              -1.917007
+            ],
+            [
+              9.120719,
+              -2.020923
+            ],
+            [
+              9.387319,
+              -2.317762
+            ],
+            [
+              9.403356,
+              -2.419016
+            ],
+            [
+              9.473275,
+              -2.533659
+            ],
+            [
+              9.692747,
+              -2.750872
+            ],
+            [
+              9.7524,
+              -2.841943
+            ],
+            [
+              9.907397,
+              -2.960426
+            ],
+            [
+              9.907397,
+              -2.960426
+            ],
+            [
+              10.27418,
+              -3.234688
+            ],
+            [
+              10.441769,
+              -3.429084
+            ],
+            [
+              10.449485,
+              -3.494622
+            ],
+            [
+              10.488433,
+              -3.566508
+            ],
+            [
+              10.783808,
+              -3.813249
+            ],
+            [
+              10.867133,
+              -3.985908
+            ],
+            [
+              11.043616,
+              -4.126909
+            ],
+            [
+              11.043616,
+              -4.126909
+            ],
+            [
+              11.147722,
+              -3.956886
+            ],
+            [
+              11.147722,
+              -3.956886
+            ],
+            [
+              11.15251,
+              -3.949053
+            ],
+            [
+              11.15251,
+              -3.949053
+            ],
+            [
+              11.219361,
+              -3.827258
+            ],
+            [
+              11.21015,
+              -3.773317
+            ],
+            [
+              11.196734,
+              -3.766677
+            ],
+            [
+              11.226114,
+              -3.699719
+            ],
+            [
+              11.334062,
+              -3.596187
+            ],
+            [
+              11.445461,
+              -3.581379
+            ],
+            [
+              11.470764,
+              -3.527886
+            ],
+            [
+              11.470764,
+              -3.527886
+            ],
+            [
+              11.496944,
+              -3.506944
+            ],
+            [
+              11.529722,
+              -3.506944
+            ],
+            [
+              11.529722,
+              -3.506944
+            ],
+            [
+              11.587222,
+              -3.538333
+            ],
+            [
+              11.679722,
+              -3.690833
+            ],
+            [
+              11.701667,
+              -3.696389
+            ],
+            [
+              11.701667,
+              -3.696389
+            ],
+            [
+              11.765608,
+              -3.690278
+            ],
+            [
+              11.765608,
+              -3.690278
+            ],
+            [
+              11.873611,
+              -3.708611
+            ],
+            [
+              11.873611,
+              -3.708611
+            ],
+            [
+              11.927222,
+              -3.631389
+            ],
+            [
+              11.8525,
+              -3.589722
+            ],
+            [
+              11.839444,
+              -3.556111
+            ],
+            [
+              11.91,
+              -3.394167
+            ],
+            [
+              11.963611,
+              -3.351667
+            ],
+            [
+              11.974444,
+              -3.316111
+            ],
+            [
+              11.953889,
+              -3.288611
+            ],
+            [
+              11.870833,
+              -3.275833
+            ],
+            [
+              11.801111,
+              -3.214722
+            ],
+            [
+              11.698889,
+              -3.173056
+            ],
+            [
+              11.698889,
+              -3.173056
+            ],
+            [
+              11.701111,
+              -3.088889
+            ],
+            [
+              11.7175,
+              -3.050556
+            ],
+            [
+              11.731944,
+              -3.037778
+            ],
+            [
+              11.766111,
+              -3.047222
+            ],
+            [
+              11.804444,
+              -3.013056
+            ],
+            [
+              11.642778,
+              -2.818056
+            ],
+            [
+              11.552006,
+              -2.873458
+            ],
+            [
+              11.552006,
+              -2.873458
+            ],
+            [
+              11.550461,
+              -2.872525
+            ],
+            [
+              11.550461,
+              -2.872525
+            ],
+            [
+              11.532774,
+              -2.842071
+            ],
+            [
+              11.532774,
+              -2.842071
+            ],
+            [
+              11.547457,
+              -2.776975
+            ],
+            [
+              11.574485,
+              -2.752638
+            ],
+            [
+              11.574485,
+              -2.752638
+            ],
+            [
+              11.587939,
+              -2.684901
+            ],
+            [
+              11.587939,
+              -2.684901
+            ],
+            [
+              11.605108,
+              -2.671004
+            ],
+            [
+              11.605814,
+              -2.632097
+            ],
+            [
+              11.552205,
+              -2.560728
+            ],
+            [
+              11.555232,
+              -2.483124
+            ],
+            [
+              11.522684,
+              -2.371747
+            ],
+            [
+              11.522684,
+              -2.371747
+            ],
+            [
+              11.557897,
+              -2.378127
+            ],
+            [
+              11.59004,
+              -2.362528
+            ],
+            [
+              11.58238,
+              -2.396307
+            ],
+            [
+              11.608537,
+              -2.386145
+            ],
+            [
+              11.606735,
+              -2.40529
+            ],
+            [
+              11.618856,
+              -2.394344
+            ],
+            [
+              11.619159,
+              -2.412258
+            ],
+            [
+              11.629802,
+              -2.40514
+            ],
+            [
+              11.629802,
+              -2.40514
+            ],
+            [
+              11.641484,
+              -2.417176
+            ],
+            [
+              11.631281,
+              -2.429878
+            ],
+            [
+              11.649425,
+              -2.440482
+            ],
+            [
+              11.636314,
+              -2.457803
+            ],
+            [
+              11.669927,
+              -2.459924
+            ],
+            [
+              11.677941,
+              -2.484384
+            ],
+            [
+              11.706271,
+              -2.494558
+            ],
+            [
+              11.730695,
+              -2.548481
+            ],
+            [
+              11.730695,
+              -2.548481
+            ],
+            [
+              11.762978,
+              -2.518727
+            ],
+            [
+              11.77362,
+              -2.453031
+            ],
+            [
+              11.813478,
+              -2.457137
+            ],
+            [
+              11.825151,
+              -2.434809
+            ],
+            [
+              11.844635,
+              -2.434037
+            ],
+            [
+              11.844635,
+              -2.434037
+            ],
+            [
+              11.886681,
+              -2.424926
+            ],
+            [
+              11.896391,
+              -2.378244
+            ],
+            [
+              11.931432,
+              -2.364703
+            ],
+            [
+              11.931432,
+              -2.364703
+            ],
+            [
+              12.029284,
+              -2.465158
+            ],
+            [
+              12.471503,
+              -2.465405
+            ],
+            [
+              12.471503,
+              -2.465405
+            ],
+            [
+              12.486321,
+              -2.446115
+            ],
+            [
+              12.513186,
+              -2.445737
+            ],
+            [
+              12.508192,
+              -2.393084
+            ],
+            [
+              12.508192,
+              -2.393084
+            ],
+            [
+              12.497888,
+              -2.36579
+            ],
+            [
+              12.511028,
+              -2.348921
+            ],
+            [
+              12.495676,
+              -2.328178
+            ],
+            [
+              12.476574,
+              -2.338569
+            ],
+            [
+              12.464369,
+              -2.32835
+            ],
+            [
+              12.475329,
+              -2.320157
+            ],
+            [
+              12.461018,
+              -2.293434
+            ],
+            [
+              12.487879,
+              -2.27769
+            ],
+            [
+              12.5028,
+              -2.213835
+            ],
+            [
+              12.5028,
+              -2.213835
+            ],
+            [
+              12.481045,
+              -2.21106
+            ],
+            [
+              12.501321,
+              -2.192773
+            ],
+            [
+              12.475168,
+              -2.166464
+            ],
+            [
+              12.505177,
+              -2.130637
+            ],
+            [
+              12.505177,
+              -2.130637
+            ],
+            [
+              12.445208,
+              -2.045887
+            ],
+            [
+              12.450104,
+              -2.032821
+            ],
+            [
+              12.450104,
+              -2.032821
+            ],
+            [
+              12.445262,
+              -1.985182
+            ],
+            [
+              12.463144,
+              -1.938758
+            ],
+            [
+              12.447155,
+              -1.922051
+            ],
+            [
+              12.447155,
+              -1.922051
+            ],
+            [
+              12.451196,
+              -1.871021
+            ],
+            [
+              12.451196,
+              -1.871021
+            ],
+            [
+              12.494364,
+              -1.925297
+            ],
+            [
+              12.520581,
+              -1.924846
+            ],
+            [
+              12.536898,
+              -1.90095
+            ],
+            [
+              12.519027,
+              -1.867691
+            ],
+            [
+              12.587497,
+              -1.83602
+            ],
+            [
+              12.579767,
+              -1.818778
+            ],
+            [
+              12.60867,
+              -1.813096
+            ],
+            [
+              12.628224,
+              -1.831026
+            ],
+            [
+              12.651773,
+              -1.812454
+            ],
+            [
+              12.668511,
+              -1.841805
+            ],
+            [
+              12.716782,
+              -1.850423
+            ],
+            [
+              12.750987,
+              -1.899374
+            ],
+            [
+              12.750987,
+              -1.899374
+            ],
+            [
+              12.767484,
+              -1.883629
+            ],
+            [
+              12.795566,
+              -1.911701
+            ],
+            [
+              12.824584,
+              -1.902751
+            ],
+            [
+              12.817936,
+              -1.930359
+            ],
+            [
+              12.847582,
+              -1.945989
+            ],
+            [
+              12.84239,
+              -1.993056
+            ],
+            [
+              12.863233,
+              -2.010921
+            ],
+            [
+              12.875661,
+              -2.064097
+            ],
+            [
+              12.899656,
+              -2.069472
+            ],
+            [
+              12.909746,
+              -2.08993
+            ],
+            [
+              12.884016,
+              -2.101278
+            ],
+            [
+              12.917506,
+              -2.119917
+            ],
+            [
+              12.894622,
+              -2.148832
+            ],
+            [
+              12.914849,
+              -2.155447
+            ],
+            [
+              12.938208,
+              -2.2022
+            ],
+            [
+              12.963062,
+              -2.178293
+            ],
+            [
+              13.015316,
+              -2.271384
+            ],
+            [
+              13.040335,
+              -2.276306
+            ],
+            [
+              13.043073,
+              -2.288989
+            ],
+            [
+              13.017123,
+              -2.296202
+            ],
+            [
+              13.000972,
+              -2.367358
+            ],
+            [
+              13.000972,
+              -2.367358
+            ],
+            [
+              13.031043,
+              -2.321025
+            ],
+            [
+              13.139902,
+              -2.371911
+            ],
+            [
+              13.209665,
+              -2.347709
+            ],
+            [
+              13.223966,
+              -2.36003
+            ],
+            [
+              13.223966,
+              -2.36003
+            ],
+            [
+              13.305559,
+              -2.392864
+            ],
+            [
+              13.334999,
+              -2.389263
+            ],
+            [
+              13.376756,
+              -2.426309
+            ],
+            [
+              13.44645,
+              -2.415868
+            ],
+            [
+              13.487992,
+              -2.435677
+            ],
+            [
+              13.511682,
+              -2.395287
+            ],
+            [
+              13.546443,
+              -2.375391
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "GA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+        "name": "Gabon",
+        "id": "GA"
       }
     }
   ]

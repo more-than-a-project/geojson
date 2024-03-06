@@ -3,3496 +3,2161 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.3048688,
-            -11.0032265
-          ],
-          [
-            33.2915079,
-            -10.9825706
-          ],
-          [
-            33.3075298,
-            -10.9836966
-          ],
-          [
-            33.3114033,
-            -10.942559
-          ],
-          [
-            33.2799381,
-            -10.9005827
-          ],
-          [
-            33.2504765,
-            -10.9090641
-          ],
-          [
-            33.2448395,
-            -10.8918157
-          ],
-          [
-            33.2652624,
-            -10.8671024
-          ],
-          [
-            33.290664,
-            -10.8781016
-          ],
-          [
-            33.3128983,
-            -10.8681558
-          ],
-          [
-            33.3364248,
-            -10.8215461
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.3364248,
-            -10.8215461
-          ],
-          [
-            33.3657798,
-            -10.8271472
-          ],
-          [
-            33.3964703,
-            -10.8067414
-          ],
-          [
-            33.4577928,
-            -10.8198576
-          ],
-          [
-            33.4763077,
-            -10.7926939
-          ],
-          [
-            33.5312082,
-            -10.7632083
-          ],
-          [
-            33.5368121,
-            -10.7332207
-          ],
-          [
-            33.5501889,
-            -10.7347063
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.5501889,
-            -10.7347063
-          ],
-          [
-            33.5527482,
-            -10.727442
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.5527482,
-            -10.727442
-          ],
-          [
-            33.5670569,
-            -10.7055105
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.5670569,
-            -10.7055105
-          ],
-          [
-            33.5974007,
-            -10.6601897
-          ],
-          [
-            33.6166266,
-            -10.6635935
-          ],
-          [
-            33.7058129,
-            -10.5749146
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.7058129,
-            -10.5749146
-          ],
-          [
-            33.7077883,
-            -10.57259
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.7077883,
-            -10.57259
-          ],
-          [
-            33.7083078,
-            -10.5689733
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.6756666,
-            -10.5303402
-          ],
-          [
-            33.67836,
-            -10.576334
-          ],
-          [
-            33.7083078,
-            -10.5689733
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.6655755,
-            -10.533452
-          ],
-          [
-            33.6756666,
-            -10.5303402
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.324798,
-            -10.0450494
-          ],
-          [
-            33.3152902,
-            -10.0612195
-          ],
-          [
-            33.3264634,
-            -10.0749499
-          ],
-          [
-            33.3984827,
-            -10.1075449
-          ],
-          [
-            33.4409811,
-            -10.1598113
-          ],
-          [
-            33.5003276,
-            -10.1794431
-          ],
-          [
-            33.5441277,
-            -10.2317884
-          ],
-          [
-            33.564139,
-            -10.2358602
-          ],
-          [
-            33.5388259,
-            -10.3038721
-          ],
-          [
-            33.541031,
-            -10.3380057
-          ],
-          [
-            33.5581114,
-            -10.3485119
-          ],
-          [
-            33.5494322,
-            -10.3714468
-          ],
-          [
-            33.5735061,
-            -10.4372172
-          ],
-          [
-            33.6338082,
-            -10.4594596
-          ],
-          [
-            33.6217177,
-            -10.4965181
-          ],
-          [
-            33.6655755,
-            -10.533452
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.380958,
-            -9.9160719
-          ],
-          [
-            33.3553257,
-            -9.9340903
-          ],
-          [
-            33.324798,
-            -10.0450494
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.0621473,
-            -9.6271293
-          ],
-          [
-            33.0987525,
-            -9.6829073
-          ],
-          [
-            33.1239615,
-            -9.5974444
-          ],
-          [
-            33.1555568,
-            -9.6165172
-          ],
-          [
-            33.192588,
-            -9.6008173
-          ],
-          [
-            33.2202378,
-            -9.6227608
-          ],
-          [
-            33.2295519,
-            -9.7423474
-          ],
-          [
-            33.2829675,
-            -9.775684
-          ],
-          [
-            33.2916093,
-            -9.807142
-          ],
-          [
-            33.3516162,
-            -9.8384781
-          ],
-          [
-            33.380958,
-            -9.9160719
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.9593881,
-            -9.3998931
-          ],
-          [
-            32.9498077,
-            -9.4884571
-          ],
-          [
-            32.9799867,
-            -9.4806208
-          ],
-          [
-            32.9936821,
-            -9.4976003
-          ],
-          [
-            33.0314178,
-            -9.5013779
-          ],
-          [
-            32.9994955,
-            -9.5742011
-          ],
-          [
-            33.027542,
-            -9.6392595
-          ],
-          [
-            33.0621473,
-            -9.6271293
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.9593881,
-            -9.3998931
-          ],
-          [
-            32.9927054,
-            -9.368301
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.9927054,
-            -9.368301
-          ],
-          [
-            33.0315476,
-            -9.4076431
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.0315476,
-            -9.4076431
-          ],
-          [
-            33.0618061,
-            -9.433874
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.0618061,
-            -9.433874
-          ],
-          [
-            33.1212055,
-            -9.4720941
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.1212055,
-            -9.4720941
-          ],
-          [
-            33.1235334,
-            -9.4736187
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.1235334,
-            -9.4736187
-          ],
-          [
-            33.1443416,
-            -9.4933352
-          ],
-          [
-            33.2124962,
-            -9.5097901
-          ],
-          [
-            33.223175,
-            -9.4986049
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.223175,
-            -9.4986049
-          ],
-          [
-            33.3259442,
-            -9.4860748
-          ],
-          [
-            33.3633318,
-            -9.5266146
-          ],
-          [
-            33.3941549,
-            -9.5346199
-          ],
-          [
-            33.4255907,
-            -9.5774404
-          ],
-          [
-            33.420524,
-            -9.5939009
-          ],
-          [
-            33.4503563,
-            -9.616221
-          ],
-          [
-            33.5108833,
-            -9.6260022
-          ],
-          [
-            33.5537773,
-            -9.5875326
-          ],
-          [
-            33.5865553,
-            -9.5792881
-          ],
-          [
-            33.6421636,
-            -9.6032274
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.6421636,
-            -9.6032274
-          ],
-          [
-            33.6716736,
-            -9.6082379
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.6716736,
-            -9.6082379
-          ],
-          [
-            33.7050026,
-            -9.6078802
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.7050026,
-            -9.6078802
-          ],
-          [
-            33.7224819,
-            -9.5836619
-          ],
-          [
-            33.7738166,
-            -9.5865474
-          ],
-          [
-            33.8252413,
-            -9.641824
-          ],
-          [
-            33.9049783,
-            -9.6904011
-          ],
-          [
-            33.9154853,
-            -9.7144604
-          ],
-          [
-            33.9400027,
-            -9.7188671
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.9400027,
-            -9.7188671
-          ],
-          [
-            33.967849,
-            -9.618212
-          ],
-          [
-            33.9498836,
-            -9.582147
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.9498836,
-            -9.582147
-          ],
-          [
-            33.9678544,
-            -9.5312284
-          ],
-          [
-            34.0120009,
-            -9.5023444
-          ],
-          [
-            34.0397362,
-            -9.4937997
-          ],
-          [
-            34.0630031,
-            -9.523507
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.0630031,
-            -9.523507
-          ],
-          [
-            34.0782098,
-            -9.5283068
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.0782098,
-            -9.5283068
-          ],
-          [
-            34.1337597,
-            -9.5794308
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.1337597,
-            -9.5794308
-          ],
-          [
-            34.2417428,
-            -9.6780836
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.2417428,
-            -9.6780836
-          ],
-          [
-            34.3273535,
-            -9.7582742
-          ],
-          [
-            34.3489775,
-            -9.8021003
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3489775,
-            -9.8021003
-          ],
-          [
-            34.4221428,
-            -9.8947666
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4221428,
-            -9.8947666
-          ],
-          [
-            34.4385995,
-            -9.9177532
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4385995,
-            -9.9177532
-          ],
-          [
-            34.4694328,
-            -9.9599122
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4694328,
-            -9.9599122
-          ],
-          [
-            34.4925937,
-            -9.9809574
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4925937,
-            -9.9809574
-          ],
-          [
-            34.5050204,
-            -10.0021424
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5050204,
-            -10.0021424
-          ],
-          [
-            34.5352489,
-            -10.0591939
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5352489,
-            -10.0591939
-          ],
-          [
-            34.541945,
-            -10.0811568
-          ],
-          [
-            34.5193152,
-            -10.118918
-          ],
-          [
-            34.5596865,
-            -10.1884979
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5596865,
-            -10.1884979
-          ],
-          [
-            34.5815492,
-            -10.3210124
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5815492,
-            -10.3210124
-          ],
-          [
-            34.561784,
-            -10.4077222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.561784,
-            -10.4077222
-          ],
-          [
-            34.571232,
-            -10.4601048
-          ],
-          [
-            34.5888944,
-            -10.4564542
-          ],
-          [
-            34.5955825,
-            -10.482392
-          ],
-          [
-            34.5724369,
-            -10.5341661
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5724369,
-            -10.5341661
-          ],
-          [
-            34.5801973,
-            -10.5682526
-          ],
-          [
-            34.6249849,
-            -10.5969519
-          ],
-          [
-            34.6173245,
-            -10.6199832
-          ],
-          [
-            34.6448547,
-            -10.6455011
-          ],
-          [
-            34.6597463,
-            -10.6885368
-          ],
-          [
-            34.6493715,
-            -10.7131082
-          ],
-          [
-            34.6725324,
-            -10.7378383
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.6725324,
-            -10.7378383
-          ],
-          [
-            34.6787095,
-            -10.9120012
-          ],
-          [
-            34.6214417,
-            -11.0065258
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.6214417,
-            -11.0065258
-          ],
-          [
-            34.6145833,
-            -11.0462137
-          ],
-          [
-            34.6298048,
-            -11.048754
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.6298048,
-            -11.048754
-          ],
-          [
-            34.6359685,
-            -11.1067921
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.6359685,
-            -11.1067921
-          ],
-          [
-            34.7064623,
-            -11.1805832
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.7064623,
-            -11.1805832
-          ],
-          [
-            34.7566974,
-            -11.2085395
-          ],
-          [
-            34.7725332,
-            -11.2570151
-          ],
-          [
-            34.7973087,
-            -11.273185
-          ],
-          [
-            34.785381,
-            -11.2961717
-          ],
-          [
-            34.7932868,
-            -11.3234579
-          ],
-          [
-            34.9189147,
-            -11.3898668
-          ],
-          [
-            34.9243784,
-            -11.4298648
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9243784,
-            -11.4298648
-          ],
-          [
-            34.955838,
-            -11.4916058
-          ],
-          [
-            34.9591506,
-            -11.57368
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9591506,
-            -11.57368
-          ],
-          [
-            34.6368966,
-            -11.573566
-          ],
-          [
-            34.6344259,
-            -11.7392417
-          ],
-          [
-            34.5907557,
-            -11.8560077
-          ],
-          [
-            34.4838765,
-            -11.9723907
-          ],
-          [
-            34.3782306,
-            -12.1716518
-          ],
-          [
-            34.4172599,
-            -12.2654427
-          ],
-          [
-            34.4557362,
-            -12.570796
-          ],
-          [
-            34.5205641,
-            -12.6823188
-          ],
-          [
-            34.5350232,
-            -12.736354
-          ],
-          [
-            34.5324121,
-            -12.9074136
-          ],
-          [
-            34.5761163,
-            -13.2322419
-          ],
-          [
-            34.5615271,
-            -13.3481669
-          ],
-          [
-            34.6071738,
-            -13.48311
-          ],
-          [
-            34.8668983,
-            -13.4831105
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.8668983,
-            -13.4831105
-          ],
-          [
-            35.0895755,
-            -13.6993081
-          ],
-          [
-            35.161829,
-            -13.7945809
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.161829,
-            -13.7945809
-          ],
-          [
-            35.387169,
-            -14.0594113
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.387169,
-            -14.0594113
-          ],
-          [
-            35.4867849,
-            -14.1706567
-          ],
-          [
-            35.5205526,
-            -14.2582382
-          ],
-          [
-            35.7696107,
-            -14.5541696
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7696107,
-            -14.5541696
-          ],
-          [
-            35.8720982,
-            -14.6756206
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.8720982,
-            -14.6756206
-          ],
-          [
-            35.8721121,
-            -14.8953629
-          ],
-          [
-            35.9185731,
-            -14.8953503
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.9185731,
-            -14.8953503
-          ],
-          [
-            35.7900652,
-            -15.1699635
-          ],
-          [
-            35.7990677,
-            -15.2045094
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7990677,
-            -15.2045094
-          ],
-          [
-            35.8513697,
-            -15.4415867
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.8513697,
-            -15.4415867
-          ],
-          [
-            35.8510432,
-            -15.4500335
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.8510432,
-            -15.4500335
-          ],
-          [
-            35.8197071,
-            -15.8429306
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.8197071,
-            -15.8429306
-          ],
-          [
-            35.8125697,
-            -15.9338756
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.8125697,
-            -15.9338756
-          ],
-          [
-            35.8131254,
-            -16.0350884
-          ],
-          [
-            35.7122909,
-            -16.1012067
-          ],
-          [
-            35.6656526,
-            -16.0993986
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6656526,
-            -16.0993986
-          ],
-          [
-            35.5938519,
-            -16.1337086
-          ],
-          [
-            35.5575019,
-            -16.1216348
-          ],
-          [
-            35.5222949,
-            -16.1683063
-          ],
-          [
-            35.4966665,
-            -16.154639
-          ],
-          [
-            35.4866195,
-            -16.1205822
-          ],
-          [
-            35.4296374,
-            -16.1138496
-          ],
-          [
-            35.3077201,
-            -16.2175823
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3077201,
-            -16.2175823
-          ],
-          [
-            35.2781652,
-            -16.3210089
-          ],
-          [
-            35.3028725,
-            -16.3457183
-          ],
-          [
-            35.2948526,
-            -16.3595124
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2948526,
-            -16.3595124
-          ],
-          [
-            35.2621503,
-            -16.4107757
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2621503,
-            -16.4107757
-          ],
-          [
-            35.2573408,
-            -16.481263
-          ],
-          [
-            35.1457681,
-            -16.5570683
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1457681,
-            -16.5570683
-          ],
-          [
-            35.1520657,
-            -16.5707244
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1520657,
-            -16.5707244
-          ],
-          [
-            35.1669765,
-            -16.6195763
-          ],
-          [
-            35.2147253,
-            -16.6542663
-          ],
-          [
-            35.2284638,
-            -16.6465041
-          ],
-          [
-            35.2356768,
-            -16.6704706
-          ],
-          [
-            35.2887698,
-            -16.7111192
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2887698,
-            -16.7111192
-          ],
-          [
-            35.2895176,
-            -16.796314
-          ],
-          [
-            35.3147041,
-            -16.8310902
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3147041,
-            -16.8310902
-          ],
-          [
-            35.2706227,
-            -16.8937159
-          ],
-          [
-            35.2850113,
-            -16.9015454
-          ],
-          [
-            35.2630995,
-            -16.9393721
-          ],
-          [
-            35.2675513,
-            -16.9599897
-          ],
-          [
-            35.2940728,
-            -16.9616767
-          ],
-          [
-            35.3051018,
-            -16.982352
-          ],
-          [
-            35.2919298,
-            -17.0345712
-          ],
-          [
-            35.2973935,
-            -17.0599691
-          ],
-          [
-            35.3138393,
-            -17.0634055
-          ],
-          [
-            35.3009437,
-            -17.0973175
-          ],
-          [
-            35.3091158,
-            -17.1232665
-          ],
-          [
-            35.2954675,
-            -17.1291221
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2954675,
-            -17.1291221
-          ],
-          [
-            35.0973949,
-            -17.1296031
-          ],
-          [
-            35.0791818,
-            -17.112529
-          ],
-          [
-            35.1085222,
-            -17.0872486
-          ],
-          [
-            35.0565399,
-            -17.0493954
-          ],
-          [
-            35.0637259,
-            -17.0216271
-          ],
-          [
-            35.0510489,
-            -17.0104734
-          ],
-          [
-            35.135431,
-            -16.9713121
-          ],
-          [
-            35.1550987,
-            -16.9352278
-          ],
-          [
-            35.171517,
-            -16.937869
-          ],
-          [
-            35.1462405,
-            -16.8739457
-          ],
-          [
-            35.1611647,
-            -16.8451824
-          ],
-          [
-            35.1358275,
-            -16.8181202
-          ],
-          [
-            35.0415601,
-            -16.8287192
-          ],
-          [
-            34.9900923,
-            -16.789006
-          ],
-          [
-            34.9860222,
-            -16.7532063
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9860222,
-            -16.7532063
-          ],
-          [
-            34.9674132,
-            -16.739173
-          ],
-          [
-            34.9196599,
-            -16.7473672
-          ],
-          [
-            34.9141375,
-            -16.6994384
-          ],
-          [
-            34.8949674,
-            -16.6889497
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.8949674,
-            -16.6889497
-          ],
-          [
-            34.8582547,
-            -16.675904
-          ],
-          [
-            34.8373904,
-            -16.6028786
-          ],
-          [
-            34.7725787,
-            -16.5860515
-          ],
-          [
-            34.7771986,
-            -16.5491962
-          ],
-          [
-            34.7524346,
-            -16.5127768
-          ],
-          [
-            34.7179682,
-            -16.4963829
-          ],
-          [
-            34.6821012,
-            -16.502535
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.6821012,
-            -16.502535
-          ],
-          [
-            34.6810171,
-            -16.4384709
-          ],
-          [
-            34.6520591,
-            -16.4532235
-          ],
-          [
-            34.5938795,
-            -16.4178618
-          ],
-          [
-            34.5704198,
-            -16.3143582
-          ],
-          [
-            34.5240203,
-            -16.2798798
-          ],
-          [
-            34.4896539,
-            -16.2962893
-          ],
-          [
-            34.4273389,
-            -16.2584614
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4273389,
-            -16.2584614
-          ],
-          [
-            34.3976891,
-            -16.1852956
-          ],
-          [
-            34.4054814,
-            -16.1218552
-          ],
-          [
-            34.4364273,
-            -16.0690809
-          ],
-          [
-            34.430168,
-            -16.0432503
-          ],
-          [
-            34.3883245,
-            -16.026037
-          ],
-          [
-            34.3553771,
-            -15.9641508
-          ],
-          [
-            34.3279742,
-            -15.964052
-          ],
-          [
-            34.3080032,
-            -15.9310319
-          ],
-          [
-            34.2601362,
-            -15.9207211
-          ],
-          [
-            34.251476,
-            -15.8966268
-          ],
-          [
-            34.2637375,
-            -15.8869591
-          ],
-          [
-            34.2491408,
-            -15.8440657
-          ],
-          [
-            34.2719904,
-            -15.7967557
-          ],
-          [
-            34.3005683,
-            -15.7594002
-          ],
-          [
-            34.3525186,
-            -15.7443789
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3525186,
-            -15.7443789
-          ],
-          [
-            34.3751607,
-            -15.7297211
-          ],
-          [
-            34.3914289,
-            -15.6859517
-          ],
-          [
-            34.435165,
-            -15.6646978
-          ],
-          [
-            34.4303235,
-            -15.6265262
-          ],
-          [
-            34.457951,
-            -15.608898
-          ],
-          [
-            34.438993,
-            -15.5857633
-          ],
-          [
-            34.427052,
-            -15.5000946
-          ],
-          [
-            34.4404338,
-            -15.4596776
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4404338,
-            -15.4596776
-          ],
-          [
-            34.4413069,
-            -15.4230207
-          ],
-          [
-            34.4723313,
-            -15.4302552
-          ],
-          [
-            34.4923873,
-            -15.4113208
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4923873,
-            -15.4113208
-          ],
-          [
-            34.5163684,
-            -15.4077451
-          ],
-          [
-            34.5221961,
-            -15.3485412
-          ],
-          [
-            34.540739,
-            -15.3285851
-          ],
-          [
-            34.5564394,
-            -15.34047
-          ],
-          [
-            34.5746968,
-            -15.3261999
-          ],
-          [
-            34.570857,
-            -15.3094392
-          ],
-          [
-            34.5988292,
-            -15.286363
-          ],
-          [
-            34.6037448,
-            -15.2379554
-          ],
-          [
-            34.5834633,
-            -15.2104522
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5834633,
-            -15.2104522
-          ],
-          [
-            34.5687876,
-            -15.123768
-          ],
-          [
-            34.5919389,
-            -15.096157
-          ],
-          [
-            34.5730721,
-            -15.0672525
-          ],
-          [
-            34.6223738,
-            -15.002667
-          ],
-          [
-            34.5652919,
-            -14.8989006
-          ],
-          [
-            34.5840024,
-            -14.8113274
-          ],
-          [
-            34.5204941,
-            -14.6847131
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5204941,
-            -14.6847131
-          ],
-          [
-            34.5515879,
-            -14.6472458
-          ],
-          [
-            34.538152,
-            -14.5915915
-          ],
-          [
-            34.5157731,
-            -14.5547059
-          ],
-          [
-            34.4646361,
-            -14.5195124
-          ],
-          [
-            34.3999977,
-            -14.4129239
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3999977,
-            -14.4129239
-          ],
-          [
-            34.392582,
-            -14.3951198
-          ],
-          [
-            34.3575507,
-            -14.386368
-          ],
-          [
-            34.3000396,
-            -14.3992197
-          ],
-          [
-            34.2643673,
-            -14.4312768
-          ],
-          [
-            34.2346958,
-            -14.4249253
-          ],
-          [
-            34.2125862,
-            -14.4418604
-          ],
-          [
-            34.0848825,
-            -14.4586097
-          ],
-          [
-            34.0870492,
-            -14.4896027
-          ],
-          [
-            33.9360167,
-            -14.4705901
-          ],
-          [
-            33.8837638,
-            -14.499516
-          ],
-          [
-            33.8855933,
-            -14.5165234
-          ],
-          [
-            33.8662315,
-            -14.5124275
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.8662315,
-            -14.5124275
-          ],
-          [
-            33.800194,
-            -14.5519604
-          ],
-          [
-            33.7343939,
-            -14.499623
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.7343939,
-            -14.499623
-          ],
-          [
-            33.7107054,
-            -14.5075904
-          ],
-          [
-            33.7026741,
-            -14.5372731
-          ],
-          [
-            33.7177123,
-            -14.5784378
-          ],
-          [
-            33.67835,
-            -14.6163013
-          ],
-          [
-            33.6500608,
-            -14.5957694
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.6500608,
-            -14.5957694
-          ],
-          [
-            33.6238604,
-            -14.564414
-          ],
-          [
-            33.6270072,
-            -14.5314672
-          ],
-          [
-            33.6079001,
-            -14.492111
-          ],
-          [
-            33.5622804,
-            -14.4785119
-          ],
-          [
-            33.5361301,
-            -14.428115
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.5361301,
-            -14.428115
-          ],
-          [
-            33.4701715,
-            -14.4009891
-          ],
-          [
-            33.3850756,
-            -14.2197466
-          ],
-          [
-            33.3643659,
-            -14.2100615
-          ],
-          [
-            33.3569221,
-            -14.2202713
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.3569221,
-            -14.2202713
-          ],
-          [
-            33.3416294,
-            -14.2165554
-          ],
-          [
-            33.3225433,
-            -14.1697918
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.3225433,
-            -14.1697918
-          ],
-          [
-            33.2985855,
-            -14.148215
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.2985855,
-            -14.148215
-          ],
-          [
-            33.3222295,
-            -14.0840662
-          ],
-          [
-            33.2960082,
-            -14.0328258
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.2960082,
-            -14.0328258
-          ],
-          [
-            33.2643707,
-            -14.026467
-          ],
-          [
-            33.2410831,
-            -13.9987688
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.8025965,
-            -13.8010718
-          ],
-          [
-            32.8274067,
-            -13.7851771
-          ],
-          [
-            32.890532,
-            -13.815143
-          ],
-          [
-            32.9045801,
-            -13.8533973
-          ],
-          [
-            32.953187,
-            -13.9058632
-          ],
-          [
-            32.9408671,
-            -13.9478185
-          ],
-          [
-            32.9962273,
-            -13.9492777
-          ],
-          [
-            32.9939161,
-            -14.0055167
-          ],
-          [
-            33.0348908,
-            -14.0556498
-          ],
-          [
-            33.0795647,
-            -13.9759394
-          ],
-          [
-            33.132782,
-            -13.9601003
-          ],
-          [
-            33.1497891,
-            -13.9400634
-          ],
-          [
-            33.1884456,
-            -13.9615952
-          ],
-          [
-            33.2049537,
-            -14.0008311
-          ],
-          [
-            33.2410831,
-            -13.9987688
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.6799249,
-            -13.6109234
-          ],
-          [
-            32.672695,
-            -13.6229619
-          ],
-          [
-            32.702515,
-            -13.6398323
-          ],
-          [
-            32.7526746,
-            -13.6517368
-          ],
-          [
-            32.7619212,
-            -13.636673
-          ],
-          [
-            32.7958769,
-            -13.653492
-          ],
-          [
-            32.7975445,
-            -13.6790548
-          ],
-          [
-            32.8372665,
-            -13.705162
-          ],
-          [
-            32.8374362,
-            -13.7308355
-          ],
-          [
-            32.8175536,
-            -13.7258525
-          ],
-          [
-            32.7972286,
-            -13.7510649
-          ],
-          [
-            32.7807865,
-            -13.7487978
-          ],
-          [
-            32.771026,
-            -13.7812324
-          ],
-          [
-            32.8025965,
-            -13.8010718
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.9254448,
-            -13.3636791
-          ],
-          [
-            32.917963,
-            -13.4163005
-          ],
-          [
-            32.884948,
-            -13.4589738
-          ],
-          [
-            32.8457873,
-            -13.4632016
-          ],
-          [
-            32.8499857,
-            -13.5151532
-          ],
-          [
-            32.7593134,
-            -13.5621743
-          ],
-          [
-            32.7427107,
-            -13.5851337
-          ],
-          [
-            32.6863118,
-            -13.5723724
-          ],
-          [
-            32.6799249,
-            -13.6109234
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.9424302,
-            -13.2920277
-          ],
-          [
-            32.9254448,
-            -13.3636791
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.9503507,
-            -12.7645024
-          ],
-          [
-            32.9384215,
-            -12.773329
-          ],
-          [
-            32.9552974,
-            -12.8213546
-          ],
-          [
-            32.9466542,
-            -12.8471543
-          ],
-          [
-            32.9779441,
-            -12.8839292
-          ],
-          [
-            33.023296,
-            -12.8943308
-          ],
-          [
-            33.0284279,
-            -12.9121764
-          ],
-          [
-            33.0153341,
-            -12.9893827
-          ],
-          [
-            32.9849206,
-            -13.0344615
-          ],
-          [
-            32.9959765,
-            -13.0624317
-          ],
-          [
-            32.9745742,
-            -13.1146182
-          ],
-          [
-            32.9787563,
-            -13.1597675
-          ],
-          [
-            33.0199884,
-            -13.2116502
-          ],
-          [
-            32.9812983,
-            -13.2329182
-          ],
-          [
-            32.9424302,
-            -13.2920277
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.9503507,
-            -12.7645024
-          ],
-          [
-            33.0053818,
-            -12.710597
-          ],
-          [
-            33.0209274,
-            -12.6527398
-          ],
-          [
-            33.045516,
-            -12.6236509
-          ],
-          [
-            33.0775357,
-            -12.59899
-          ],
-          [
-            33.0962791,
-            -12.6029373
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.0962791,
-            -12.6029373
-          ],
-          [
-            33.1596978,
-            -12.600603
-          ],
-          [
-            33.1813132,
-            -12.6135416
-          ],
-          [
-            33.1847976,
-            -12.639922
-          ],
-          [
-            33.2723631,
-            -12.541156
-          ],
-          [
-            33.3190877,
-            -12.5266086
-          ],
-          [
-            33.3659572,
-            -12.5591774
-          ],
-          [
-            33.4104371,
-            -12.523181
-          ],
-          [
-            33.4314323,
-            -12.4799497
-          ],
-          [
-            33.4809453,
-            -12.4559575
-          ],
-          [
-            33.4754753,
-            -12.4153879
-          ],
-          [
-            33.5032814,
-            -12.4112203
-          ],
-          [
-            33.5485546,
-            -12.3639267
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.5485546,
-            -12.3639267
-          ],
-          [
-            33.539426,
-            -12.3371903
-          ],
-          [
-            33.4755005,
-            -12.3254482
-          ],
-          [
-            33.3750012,
-            -12.3473666
-          ],
-          [
-            33.3110705,
-            -12.244333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.3110705,
-            -12.244333
-          ],
-          [
-            33.3099197,
-            -12.1720702
-          ],
-          [
-            33.2839039,
-            -12.1704532
-          ],
-          [
-            33.2563008,
-            -12.133947
-          ],
-          [
-            33.2741536,
-            -12.0646677
-          ],
-          [
-            33.3126906,
-            -11.9983757
-          ],
-          [
-            33.3235456,
-            -11.9257541
-          ],
-          [
-            33.3063421,
-            -11.8647766
-          ],
-          [
-            33.333978,
-            -11.7957253
-          ],
-          [
-            33.3140819,
-            -11.7197115
-          ],
-          [
-            33.3197148,
-            -11.6118185
-          ],
-          [
-            33.2902338,
-            -11.5781674
-          ],
-          [
-            33.2267117,
-            -11.5913876
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.340031,
-            -11.2948358
-          ],
-          [
-            33.3088891,
-            -11.3390031
-          ],
-          [
-            33.3113775,
-            -11.3647171
-          ],
-          [
-            33.290787,
-            -11.3720195
-          ],
-          [
-            33.2916285,
-            -11.4382521
-          ],
-          [
-            33.2331722,
-            -11.4220387
-          ],
-          [
-            33.2482751,
-            -11.4541559
-          ],
-          [
-            33.2344465,
-            -11.4783206
-          ],
-          [
-            33.2524398,
-            -11.5134939
-          ],
-          [
-            33.2267117,
-            -11.5913876
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.340031,
-            -11.2948358
-          ],
-          [
-            33.3554805,
-            -11.2524118
-          ],
-          [
-            33.3807147,
-            -11.2338915
-          ],
-          [
-            33.4045756,
-            -11.158114
-          ],
-          [
-            33.3596004,
-            -11.096467
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.3596004,
-            -11.096467
-          ],
-          [
-            33.329063,
-            -11.0699502
-          ],
-          [
-            33.3048688,
-            -11.0032265
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.6758123,
-            -12.0923924
-          ],
-          [
-            34.7147888,
-            -12.0017384
-          ],
-          [
-            34.7441922,
-            -12.0003201
-          ],
-          [
-            34.7909179,
-            -12.0322302
-          ],
-          [
-            34.7823331,
-            -12.0814501
-          ],
-          [
-            34.7301396,
-            -12.1323766
-          ],
-          [
-            34.7063783,
-            -12.1364847
-          ],
-          [
-            34.6758123,
-            -12.0923924
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MW",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
-        "name": "Malawi"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5859601,
-            -11.983567
-          ],
-          [
-            34.6202655,
-            -11.9749701
-          ],
-          [
-            34.6584267,
-            -12.0008385
-          ],
-          [
-            34.6619548,
-            -12.0432979
-          ],
-          [
-            34.6327592,
-            -12.0811967
-          ],
-          [
-            34.6018724,
-            -12.0824355
-          ],
-          [
-            34.582056,
-            -12.065327
-          ],
-          [
-            34.5723513,
-            -12.0115658
-          ],
-          [
-            34.5859601,
-            -11.983567
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.336425,
+              -10.821546
+            ],
+            [
+              33.36578,
+              -10.827147
+            ],
+            [
+              33.39647,
+              -10.806741
+            ],
+            [
+              33.457793,
+              -10.819858
+            ],
+            [
+              33.476308,
+              -10.792694
+            ],
+            [
+              33.531208,
+              -10.763208
+            ],
+            [
+              33.536812,
+              -10.733221
+            ],
+            [
+              33.550189,
+              -10.734706
+            ],
+            [
+              33.550189,
+              -10.734706
+            ],
+            [
+              33.552748,
+              -10.727442
+            ],
+            [
+              33.552748,
+              -10.727442
+            ],
+            [
+              33.567057,
+              -10.705511
+            ],
+            [
+              33.567057,
+              -10.705511
+            ],
+            [
+              33.597401,
+              -10.66019
+            ],
+            [
+              33.616627,
+              -10.663593
+            ],
+            [
+              33.705813,
+              -10.574915
+            ],
+            [
+              33.705813,
+              -10.574915
+            ],
+            [
+              33.707788,
+              -10.57259
+            ],
+            [
+              33.707788,
+              -10.57259
+            ],
+            [
+              33.708308,
+              -10.568973
+            ],
+            [
+              33.708308,
+              -10.568973
+            ],
+            [
+              33.67836,
+              -10.576334
+            ],
+            [
+              33.675667,
+              -10.53034
+            ],
+            [
+              33.675667,
+              -10.53034
+            ],
+            [
+              33.665576,
+              -10.533452
+            ],
+            [
+              33.665576,
+              -10.533452
+            ],
+            [
+              33.621718,
+              -10.496518
+            ],
+            [
+              33.633808,
+              -10.45946
+            ],
+            [
+              33.573506,
+              -10.437217
+            ],
+            [
+              33.549432,
+              -10.371447
+            ],
+            [
+              33.558111,
+              -10.348512
+            ],
+            [
+              33.541031,
+              -10.338006
+            ],
+            [
+              33.538826,
+              -10.303872
+            ],
+            [
+              33.564139,
+              -10.23586
+            ],
+            [
+              33.544128,
+              -10.231788
+            ],
+            [
+              33.500328,
+              -10.179443
+            ],
+            [
+              33.440981,
+              -10.159811
+            ],
+            [
+              33.398483,
+              -10.107545
+            ],
+            [
+              33.326463,
+              -10.07495
+            ],
+            [
+              33.31529,
+              -10.061219
+            ],
+            [
+              33.324798,
+              -10.045049
+            ],
+            [
+              33.324798,
+              -10.045049
+            ],
+            [
+              33.355326,
+              -9.93409
+            ],
+            [
+              33.380958,
+              -9.916072
+            ],
+            [
+              33.380958,
+              -9.916072
+            ],
+            [
+              33.351616,
+              -9.838478
+            ],
+            [
+              33.291609,
+              -9.807142
+            ],
+            [
+              33.282967,
+              -9.775684
+            ],
+            [
+              33.229552,
+              -9.742347
+            ],
+            [
+              33.220238,
+              -9.622761
+            ],
+            [
+              33.192588,
+              -9.600817
+            ],
+            [
+              33.155557,
+              -9.616517
+            ],
+            [
+              33.123962,
+              -9.597444
+            ],
+            [
+              33.098753,
+              -9.682907
+            ],
+            [
+              33.062147,
+              -9.627129
+            ],
+            [
+              33.062147,
+              -9.627129
+            ],
+            [
+              33.027542,
+              -9.639259
+            ],
+            [
+              32.999496,
+              -9.574201
+            ],
+            [
+              33.031418,
+              -9.501378
+            ],
+            [
+              32.993682,
+              -9.4976
+            ],
+            [
+              32.979987,
+              -9.480621
+            ],
+            [
+              32.949808,
+              -9.488457
+            ],
+            [
+              32.959388,
+              -9.399893
+            ],
+            [
+              32.959388,
+              -9.399893
+            ],
+            [
+              32.992705,
+              -9.368301
+            ],
+            [
+              32.992705,
+              -9.368301
+            ],
+            [
+              33.031548,
+              -9.407643
+            ],
+            [
+              33.031548,
+              -9.407643
+            ],
+            [
+              33.061806,
+              -9.433874
+            ],
+            [
+              33.061806,
+              -9.433874
+            ],
+            [
+              33.121206,
+              -9.472094
+            ],
+            [
+              33.121206,
+              -9.472094
+            ],
+            [
+              33.123533,
+              -9.473619
+            ],
+            [
+              33.123533,
+              -9.473619
+            ],
+            [
+              33.144342,
+              -9.493335
+            ],
+            [
+              33.212496,
+              -9.50979
+            ],
+            [
+              33.223175,
+              -9.498605
+            ],
+            [
+              33.223175,
+              -9.498605
+            ],
+            [
+              33.325944,
+              -9.486075
+            ],
+            [
+              33.363332,
+              -9.526615
+            ],
+            [
+              33.394155,
+              -9.53462
+            ],
+            [
+              33.425591,
+              -9.57744
+            ],
+            [
+              33.420524,
+              -9.593901
+            ],
+            [
+              33.450356,
+              -9.616221
+            ],
+            [
+              33.510883,
+              -9.626002
+            ],
+            [
+              33.553777,
+              -9.587533
+            ],
+            [
+              33.586555,
+              -9.579288
+            ],
+            [
+              33.642164,
+              -9.603227
+            ],
+            [
+              33.642164,
+              -9.603227
+            ],
+            [
+              33.671674,
+              -9.608238
+            ],
+            [
+              33.671674,
+              -9.608238
+            ],
+            [
+              33.705003,
+              -9.60788
+            ],
+            [
+              33.705003,
+              -9.60788
+            ],
+            [
+              33.722482,
+              -9.583662
+            ],
+            [
+              33.773817,
+              -9.586547
+            ],
+            [
+              33.825241,
+              -9.641824
+            ],
+            [
+              33.904978,
+              -9.690401
+            ],
+            [
+              33.915485,
+              -9.71446
+            ],
+            [
+              33.940003,
+              -9.718867
+            ],
+            [
+              33.940003,
+              -9.718867
+            ],
+            [
+              33.967849,
+              -9.618212
+            ],
+            [
+              33.949884,
+              -9.582147
+            ],
+            [
+              33.949884,
+              -9.582147
+            ],
+            [
+              33.967854,
+              -9.531228
+            ],
+            [
+              34.012001,
+              -9.502344
+            ],
+            [
+              34.039736,
+              -9.4938
+            ],
+            [
+              34.063003,
+              -9.523507
+            ],
+            [
+              34.063003,
+              -9.523507
+            ],
+            [
+              34.07821,
+              -9.528307
+            ],
+            [
+              34.07821,
+              -9.528307
+            ],
+            [
+              34.13376,
+              -9.579431
+            ],
+            [
+              34.13376,
+              -9.579431
+            ],
+            [
+              34.241743,
+              -9.678084
+            ],
+            [
+              34.241743,
+              -9.678084
+            ],
+            [
+              34.327354,
+              -9.758274
+            ],
+            [
+              34.348977,
+              -9.8021
+            ],
+            [
+              34.348977,
+              -9.8021
+            ],
+            [
+              34.422143,
+              -9.894767
+            ],
+            [
+              34.422143,
+              -9.894767
+            ],
+            [
+              34.4386,
+              -9.917753
+            ],
+            [
+              34.4386,
+              -9.917753
+            ],
+            [
+              34.469433,
+              -9.959912
+            ],
+            [
+              34.469433,
+              -9.959912
+            ],
+            [
+              34.492594,
+              -9.980957
+            ],
+            [
+              34.492594,
+              -9.980957
+            ],
+            [
+              34.50502,
+              -10.002142
+            ],
+            [
+              34.50502,
+              -10.002142
+            ],
+            [
+              34.535249,
+              -10.059194
+            ],
+            [
+              34.535249,
+              -10.059194
+            ],
+            [
+              34.541945,
+              -10.081157
+            ],
+            [
+              34.519315,
+              -10.118918
+            ],
+            [
+              34.559686,
+              -10.188498
+            ],
+            [
+              34.559686,
+              -10.188498
+            ],
+            [
+              34.581549,
+              -10.321012
+            ],
+            [
+              34.581549,
+              -10.321012
+            ],
+            [
+              34.561784,
+              -10.407722
+            ],
+            [
+              34.561784,
+              -10.407722
+            ],
+            [
+              34.571232,
+              -10.460105
+            ],
+            [
+              34.588894,
+              -10.456454
+            ],
+            [
+              34.595582,
+              -10.482392
+            ],
+            [
+              34.572437,
+              -10.534166
+            ],
+            [
+              34.572437,
+              -10.534166
+            ],
+            [
+              34.580197,
+              -10.568253
+            ],
+            [
+              34.624985,
+              -10.596952
+            ],
+            [
+              34.617325,
+              -10.619983
+            ],
+            [
+              34.644855,
+              -10.645501
+            ],
+            [
+              34.659746,
+              -10.688537
+            ],
+            [
+              34.649372,
+              -10.713108
+            ],
+            [
+              34.672532,
+              -10.737838
+            ],
+            [
+              34.672532,
+              -10.737838
+            ],
+            [
+              34.678709,
+              -10.912001
+            ],
+            [
+              34.621442,
+              -11.006526
+            ],
+            [
+              34.621442,
+              -11.006526
+            ],
+            [
+              34.614583,
+              -11.046214
+            ],
+            [
+              34.629805,
+              -11.048754
+            ],
+            [
+              34.629805,
+              -11.048754
+            ],
+            [
+              34.635968,
+              -11.106792
+            ],
+            [
+              34.635968,
+              -11.106792
+            ],
+            [
+              34.706462,
+              -11.180583
+            ],
+            [
+              34.706462,
+              -11.180583
+            ],
+            [
+              34.756697,
+              -11.20854
+            ],
+            [
+              34.772533,
+              -11.257015
+            ],
+            [
+              34.797309,
+              -11.273185
+            ],
+            [
+              34.785381,
+              -11.296172
+            ],
+            [
+              34.793287,
+              -11.323458
+            ],
+            [
+              34.918915,
+              -11.389867
+            ],
+            [
+              34.924378,
+              -11.429865
+            ],
+            [
+              34.924378,
+              -11.429865
+            ],
+            [
+              34.955838,
+              -11.491606
+            ],
+            [
+              34.959151,
+              -11.57368
+            ],
+            [
+              34.959151,
+              -11.57368
+            ],
+            [
+              34.636897,
+              -11.573566
+            ],
+            [
+              34.634426,
+              -11.739242
+            ],
+            [
+              34.590756,
+              -11.856008
+            ],
+            [
+              34.483877,
+              -11.972391
+            ],
+            [
+              34.378231,
+              -12.171652
+            ],
+            [
+              34.41726,
+              -12.265443
+            ],
+            [
+              34.455736,
+              -12.570796
+            ],
+            [
+              34.520564,
+              -12.682319
+            ],
+            [
+              34.535023,
+              -12.736354
+            ],
+            [
+              34.532412,
+              -12.907414
+            ],
+            [
+              34.576116,
+              -13.232242
+            ],
+            [
+              34.561527,
+              -13.348167
+            ],
+            [
+              34.607174,
+              -13.48311
+            ],
+            [
+              34.866898,
+              -13.483111
+            ],
+            [
+              34.866898,
+              -13.483111
+            ],
+            [
+              35.089576,
+              -13.699308
+            ],
+            [
+              35.161829,
+              -13.794581
+            ],
+            [
+              35.161829,
+              -13.794581
+            ],
+            [
+              35.387169,
+              -14.059411
+            ],
+            [
+              35.387169,
+              -14.059411
+            ],
+            [
+              35.486785,
+              -14.170657
+            ],
+            [
+              35.520553,
+              -14.258238
+            ],
+            [
+              35.769611,
+              -14.55417
+            ],
+            [
+              35.769611,
+              -14.55417
+            ],
+            [
+              35.872098,
+              -14.675621
+            ],
+            [
+              35.872098,
+              -14.675621
+            ],
+            [
+              35.872112,
+              -14.895363
+            ],
+            [
+              35.918573,
+              -14.89535
+            ],
+            [
+              35.918573,
+              -14.89535
+            ],
+            [
+              35.790065,
+              -15.169963
+            ],
+            [
+              35.799068,
+              -15.204509
+            ],
+            [
+              35.799068,
+              -15.204509
+            ],
+            [
+              35.85137,
+              -15.441587
+            ],
+            [
+              35.85137,
+              -15.441587
+            ],
+            [
+              35.851043,
+              -15.450033
+            ],
+            [
+              35.851043,
+              -15.450033
+            ],
+            [
+              35.819707,
+              -15.842931
+            ],
+            [
+              35.819707,
+              -15.842931
+            ],
+            [
+              35.81257,
+              -15.933876
+            ],
+            [
+              35.81257,
+              -15.933876
+            ],
+            [
+              35.813125,
+              -16.035088
+            ],
+            [
+              35.712291,
+              -16.101207
+            ],
+            [
+              35.665653,
+              -16.099399
+            ],
+            [
+              35.665653,
+              -16.099399
+            ],
+            [
+              35.593852,
+              -16.133709
+            ],
+            [
+              35.557502,
+              -16.121635
+            ],
+            [
+              35.522295,
+              -16.168306
+            ],
+            [
+              35.496667,
+              -16.154639
+            ],
+            [
+              35.48662,
+              -16.120582
+            ],
+            [
+              35.429637,
+              -16.11385
+            ],
+            [
+              35.30772,
+              -16.217582
+            ],
+            [
+              35.30772,
+              -16.217582
+            ],
+            [
+              35.278165,
+              -16.321009
+            ],
+            [
+              35.302872,
+              -16.345718
+            ],
+            [
+              35.294853,
+              -16.359512
+            ],
+            [
+              35.294853,
+              -16.359512
+            ],
+            [
+              35.26215,
+              -16.410776
+            ],
+            [
+              35.26215,
+              -16.410776
+            ],
+            [
+              35.257341,
+              -16.481263
+            ],
+            [
+              35.145768,
+              -16.557068
+            ],
+            [
+              35.145768,
+              -16.557068
+            ],
+            [
+              35.152066,
+              -16.570724
+            ],
+            [
+              35.152066,
+              -16.570724
+            ],
+            [
+              35.166976,
+              -16.619576
+            ],
+            [
+              35.214725,
+              -16.654266
+            ],
+            [
+              35.228464,
+              -16.646504
+            ],
+            [
+              35.235677,
+              -16.670471
+            ],
+            [
+              35.28877,
+              -16.711119
+            ],
+            [
+              35.28877,
+              -16.711119
+            ],
+            [
+              35.289518,
+              -16.796314
+            ],
+            [
+              35.314704,
+              -16.83109
+            ],
+            [
+              35.314704,
+              -16.83109
+            ],
+            [
+              35.270623,
+              -16.893716
+            ],
+            [
+              35.285011,
+              -16.901545
+            ],
+            [
+              35.2631,
+              -16.939372
+            ],
+            [
+              35.267551,
+              -16.95999
+            ],
+            [
+              35.294073,
+              -16.961677
+            ],
+            [
+              35.305102,
+              -16.982352
+            ],
+            [
+              35.29193,
+              -17.034571
+            ],
+            [
+              35.297393,
+              -17.059969
+            ],
+            [
+              35.313839,
+              -17.063405
+            ],
+            [
+              35.300944,
+              -17.097317
+            ],
+            [
+              35.309116,
+              -17.123266
+            ],
+            [
+              35.295468,
+              -17.129122
+            ],
+            [
+              35.295468,
+              -17.129122
+            ],
+            [
+              35.097395,
+              -17.129603
+            ],
+            [
+              35.079182,
+              -17.112529
+            ],
+            [
+              35.108522,
+              -17.087249
+            ],
+            [
+              35.05654,
+              -17.049395
+            ],
+            [
+              35.063726,
+              -17.021627
+            ],
+            [
+              35.051049,
+              -17.010473
+            ],
+            [
+              35.135431,
+              -16.971312
+            ],
+            [
+              35.155099,
+              -16.935228
+            ],
+            [
+              35.171517,
+              -16.937869
+            ],
+            [
+              35.14624,
+              -16.873946
+            ],
+            [
+              35.161165,
+              -16.845182
+            ],
+            [
+              35.135827,
+              -16.81812
+            ],
+            [
+              35.04156,
+              -16.828719
+            ],
+            [
+              34.990092,
+              -16.789006
+            ],
+            [
+              34.986022,
+              -16.753206
+            ],
+            [
+              34.986022,
+              -16.753206
+            ],
+            [
+              34.967413,
+              -16.739173
+            ],
+            [
+              34.91966,
+              -16.747367
+            ],
+            [
+              34.914138,
+              -16.699438
+            ],
+            [
+              34.894967,
+              -16.68895
+            ],
+            [
+              34.894967,
+              -16.68895
+            ],
+            [
+              34.858255,
+              -16.675904
+            ],
+            [
+              34.83739,
+              -16.602879
+            ],
+            [
+              34.772579,
+              -16.586051
+            ],
+            [
+              34.777199,
+              -16.549196
+            ],
+            [
+              34.752435,
+              -16.512777
+            ],
+            [
+              34.717968,
+              -16.496383
+            ],
+            [
+              34.682101,
+              -16.502535
+            ],
+            [
+              34.682101,
+              -16.502535
+            ],
+            [
+              34.681017,
+              -16.438471
+            ],
+            [
+              34.652059,
+              -16.453224
+            ],
+            [
+              34.593879,
+              -16.417862
+            ],
+            [
+              34.57042,
+              -16.314358
+            ],
+            [
+              34.52402,
+              -16.27988
+            ],
+            [
+              34.489654,
+              -16.296289
+            ],
+            [
+              34.427339,
+              -16.258461
+            ],
+            [
+              34.427339,
+              -16.258461
+            ],
+            [
+              34.397689,
+              -16.185296
+            ],
+            [
+              34.405481,
+              -16.121855
+            ],
+            [
+              34.436427,
+              -16.069081
+            ],
+            [
+              34.430168,
+              -16.04325
+            ],
+            [
+              34.388325,
+              -16.026037
+            ],
+            [
+              34.355377,
+              -15.964151
+            ],
+            [
+              34.327974,
+              -15.964052
+            ],
+            [
+              34.308003,
+              -15.931032
+            ],
+            [
+              34.260136,
+              -15.920721
+            ],
+            [
+              34.251476,
+              -15.896627
+            ],
+            [
+              34.263737,
+              -15.886959
+            ],
+            [
+              34.249141,
+              -15.844066
+            ],
+            [
+              34.27199,
+              -15.796756
+            ],
+            [
+              34.300568,
+              -15.7594
+            ],
+            [
+              34.352519,
+              -15.744379
+            ],
+            [
+              34.352519,
+              -15.744379
+            ],
+            [
+              34.375161,
+              -15.729721
+            ],
+            [
+              34.391429,
+              -15.685952
+            ],
+            [
+              34.435165,
+              -15.664698
+            ],
+            [
+              34.430324,
+              -15.626526
+            ],
+            [
+              34.457951,
+              -15.608898
+            ],
+            [
+              34.438993,
+              -15.585763
+            ],
+            [
+              34.427052,
+              -15.500095
+            ],
+            [
+              34.440434,
+              -15.459678
+            ],
+            [
+              34.440434,
+              -15.459678
+            ],
+            [
+              34.441307,
+              -15.423021
+            ],
+            [
+              34.472331,
+              -15.430255
+            ],
+            [
+              34.492387,
+              -15.411321
+            ],
+            [
+              34.492387,
+              -15.411321
+            ],
+            [
+              34.516368,
+              -15.407745
+            ],
+            [
+              34.522196,
+              -15.348541
+            ],
+            [
+              34.540739,
+              -15.328585
+            ],
+            [
+              34.556439,
+              -15.34047
+            ],
+            [
+              34.574697,
+              -15.3262
+            ],
+            [
+              34.570857,
+              -15.309439
+            ],
+            [
+              34.598829,
+              -15.286363
+            ],
+            [
+              34.603745,
+              -15.237955
+            ],
+            [
+              34.583463,
+              -15.210452
+            ],
+            [
+              34.583463,
+              -15.210452
+            ],
+            [
+              34.568788,
+              -15.123768
+            ],
+            [
+              34.591939,
+              -15.096157
+            ],
+            [
+              34.573072,
+              -15.067253
+            ],
+            [
+              34.622374,
+              -15.002667
+            ],
+            [
+              34.565292,
+              -14.898901
+            ],
+            [
+              34.584002,
+              -14.811327
+            ],
+            [
+              34.520494,
+              -14.684713
+            ],
+            [
+              34.520494,
+              -14.684713
+            ],
+            [
+              34.551588,
+              -14.647246
+            ],
+            [
+              34.538152,
+              -14.591591
+            ],
+            [
+              34.515773,
+              -14.554706
+            ],
+            [
+              34.464636,
+              -14.519512
+            ],
+            [
+              34.399998,
+              -14.412924
+            ],
+            [
+              34.399998,
+              -14.412924
+            ],
+            [
+              34.392582,
+              -14.39512
+            ],
+            [
+              34.357551,
+              -14.386368
+            ],
+            [
+              34.30004,
+              -14.39922
+            ],
+            [
+              34.264367,
+              -14.431277
+            ],
+            [
+              34.234696,
+              -14.424925
+            ],
+            [
+              34.212586,
+              -14.44186
+            ],
+            [
+              34.084882,
+              -14.45861
+            ],
+            [
+              34.087049,
+              -14.489603
+            ],
+            [
+              33.936017,
+              -14.47059
+            ],
+            [
+              33.883764,
+              -14.499516
+            ],
+            [
+              33.885593,
+              -14.516523
+            ],
+            [
+              33.866231,
+              -14.512427
+            ],
+            [
+              33.866231,
+              -14.512427
+            ],
+            [
+              33.800194,
+              -14.55196
+            ],
+            [
+              33.734394,
+              -14.499623
+            ],
+            [
+              33.734394,
+              -14.499623
+            ],
+            [
+              33.710705,
+              -14.50759
+            ],
+            [
+              33.702674,
+              -14.537273
+            ],
+            [
+              33.717712,
+              -14.578438
+            ],
+            [
+              33.67835,
+              -14.616301
+            ],
+            [
+              33.650061,
+              -14.595769
+            ],
+            [
+              33.650061,
+              -14.595769
+            ],
+            [
+              33.62386,
+              -14.564414
+            ],
+            [
+              33.627007,
+              -14.531467
+            ],
+            [
+              33.6079,
+              -14.492111
+            ],
+            [
+              33.56228,
+              -14.478512
+            ],
+            [
+              33.53613,
+              -14.428115
+            ],
+            [
+              33.53613,
+              -14.428115
+            ],
+            [
+              33.470171,
+              -14.400989
+            ],
+            [
+              33.385076,
+              -14.219747
+            ],
+            [
+              33.364366,
+              -14.210062
+            ],
+            [
+              33.356922,
+              -14.220271
+            ],
+            [
+              33.356922,
+              -14.220271
+            ],
+            [
+              33.341629,
+              -14.216555
+            ],
+            [
+              33.322543,
+              -14.169792
+            ],
+            [
+              33.322543,
+              -14.169792
+            ],
+            [
+              33.298586,
+              -14.148215
+            ],
+            [
+              33.298586,
+              -14.148215
+            ],
+            [
+              33.322229,
+              -14.084066
+            ],
+            [
+              33.296008,
+              -14.032826
+            ],
+            [
+              33.296008,
+              -14.032826
+            ],
+            [
+              33.264371,
+              -14.026467
+            ],
+            [
+              33.241083,
+              -13.998769
+            ],
+            [
+              33.241083,
+              -13.998769
+            ],
+            [
+              33.204954,
+              -14.000831
+            ],
+            [
+              33.188446,
+              -13.961595
+            ],
+            [
+              33.149789,
+              -13.940063
+            ],
+            [
+              33.132782,
+              -13.9601
+            ],
+            [
+              33.079565,
+              -13.975939
+            ],
+            [
+              33.034891,
+              -14.05565
+            ],
+            [
+              32.993916,
+              -14.005517
+            ],
+            [
+              32.996227,
+              -13.949278
+            ],
+            [
+              32.940867,
+              -13.947819
+            ],
+            [
+              32.953187,
+              -13.905863
+            ],
+            [
+              32.90458,
+              -13.853397
+            ],
+            [
+              32.890532,
+              -13.815143
+            ],
+            [
+              32.827407,
+              -13.785177
+            ],
+            [
+              32.802596,
+              -13.801072
+            ],
+            [
+              32.802596,
+              -13.801072
+            ],
+            [
+              32.771026,
+              -13.781232
+            ],
+            [
+              32.780786,
+              -13.748798
+            ],
+            [
+              32.797229,
+              -13.751065
+            ],
+            [
+              32.817554,
+              -13.725853
+            ],
+            [
+              32.837436,
+              -13.730835
+            ],
+            [
+              32.837266,
+              -13.705162
+            ],
+            [
+              32.797545,
+              -13.679055
+            ],
+            [
+              32.795877,
+              -13.653492
+            ],
+            [
+              32.761921,
+              -13.636673
+            ],
+            [
+              32.752675,
+              -13.651737
+            ],
+            [
+              32.702515,
+              -13.639832
+            ],
+            [
+              32.672695,
+              -13.622962
+            ],
+            [
+              32.679925,
+              -13.610923
+            ],
+            [
+              32.679925,
+              -13.610923
+            ],
+            [
+              32.686312,
+              -13.572372
+            ],
+            [
+              32.742711,
+              -13.585134
+            ],
+            [
+              32.759313,
+              -13.562174
+            ],
+            [
+              32.849986,
+              -13.515153
+            ],
+            [
+              32.845787,
+              -13.463202
+            ],
+            [
+              32.884948,
+              -13.458974
+            ],
+            [
+              32.917963,
+              -13.416301
+            ],
+            [
+              32.925445,
+              -13.363679
+            ],
+            [
+              32.925445,
+              -13.363679
+            ],
+            [
+              32.94243,
+              -13.292028
+            ],
+            [
+              32.94243,
+              -13.292028
+            ],
+            [
+              32.981298,
+              -13.232918
+            ],
+            [
+              33.019988,
+              -13.21165
+            ],
+            [
+              32.978756,
+              -13.159767
+            ],
+            [
+              32.974574,
+              -13.114618
+            ],
+            [
+              32.995976,
+              -13.062432
+            ],
+            [
+              32.984921,
+              -13.034462
+            ],
+            [
+              33.015334,
+              -12.989383
+            ],
+            [
+              33.028428,
+              -12.912176
+            ],
+            [
+              33.023296,
+              -12.894331
+            ],
+            [
+              32.977944,
+              -12.883929
+            ],
+            [
+              32.946654,
+              -12.847154
+            ],
+            [
+              32.955297,
+              -12.821355
+            ],
+            [
+              32.938421,
+              -12.773329
+            ],
+            [
+              32.950351,
+              -12.764502
+            ],
+            [
+              32.950351,
+              -12.764502
+            ],
+            [
+              33.005382,
+              -12.710597
+            ],
+            [
+              33.020927,
+              -12.65274
+            ],
+            [
+              33.045516,
+              -12.623651
+            ],
+            [
+              33.077536,
+              -12.59899
+            ],
+            [
+              33.096279,
+              -12.602937
+            ],
+            [
+              33.096279,
+              -12.602937
+            ],
+            [
+              33.159698,
+              -12.600603
+            ],
+            [
+              33.181313,
+              -12.613542
+            ],
+            [
+              33.184798,
+              -12.639922
+            ],
+            [
+              33.272363,
+              -12.541156
+            ],
+            [
+              33.319088,
+              -12.526609
+            ],
+            [
+              33.365957,
+              -12.559177
+            ],
+            [
+              33.410437,
+              -12.523181
+            ],
+            [
+              33.431432,
+              -12.47995
+            ],
+            [
+              33.480945,
+              -12.455958
+            ],
+            [
+              33.475475,
+              -12.415388
+            ],
+            [
+              33.503281,
+              -12.41122
+            ],
+            [
+              33.548555,
+              -12.363927
+            ],
+            [
+              33.548555,
+              -12.363927
+            ],
+            [
+              33.539426,
+              -12.33719
+            ],
+            [
+              33.475501,
+              -12.325448
+            ],
+            [
+              33.375001,
+              -12.347367
+            ],
+            [
+              33.31107,
+              -12.244333
+            ],
+            [
+              33.31107,
+              -12.244333
+            ],
+            [
+              33.30992,
+              -12.17207
+            ],
+            [
+              33.283904,
+              -12.170453
+            ],
+            [
+              33.256301,
+              -12.133947
+            ],
+            [
+              33.274154,
+              -12.064668
+            ],
+            [
+              33.312691,
+              -11.998376
+            ],
+            [
+              33.323546,
+              -11.925754
+            ],
+            [
+              33.306342,
+              -11.864777
+            ],
+            [
+              33.333978,
+              -11.795725
+            ],
+            [
+              33.314082,
+              -11.719712
+            ],
+            [
+              33.319715,
+              -11.611819
+            ],
+            [
+              33.290234,
+              -11.578167
+            ],
+            [
+              33.226712,
+              -11.591388
+            ],
+            [
+              33.226712,
+              -11.591388
+            ],
+            [
+              33.25244,
+              -11.513494
+            ],
+            [
+              33.234446,
+              -11.478321
+            ],
+            [
+              33.248275,
+              -11.454156
+            ],
+            [
+              33.233172,
+              -11.422039
+            ],
+            [
+              33.291629,
+              -11.438252
+            ],
+            [
+              33.290787,
+              -11.37202
+            ],
+            [
+              33.311377,
+              -11.364717
+            ],
+            [
+              33.308889,
+              -11.339003
+            ],
+            [
+              33.340031,
+              -11.294836
+            ],
+            [
+              33.340031,
+              -11.294836
+            ],
+            [
+              33.35548,
+              -11.252412
+            ],
+            [
+              33.380715,
+              -11.233892
+            ],
+            [
+              33.404576,
+              -11.158114
+            ],
+            [
+              33.3596,
+              -11.096467
+            ],
+            [
+              33.3596,
+              -11.096467
+            ],
+            [
+              33.329063,
+              -11.06995
+            ],
+            [
+              33.304869,
+              -11.003227
+            ],
+            [
+              33.304869,
+              -11.003227
+            ],
+            [
+              33.291508,
+              -10.982571
+            ],
+            [
+              33.30753,
+              -10.983697
+            ],
+            [
+              33.311403,
+              -10.942559
+            ],
+            [
+              33.279938,
+              -10.900583
+            ],
+            [
+              33.250476,
+              -10.909064
+            ],
+            [
+              33.244839,
+              -10.891816
+            ],
+            [
+              33.265262,
+              -10.867102
+            ],
+            [
+              33.290664,
+              -10.878102
+            ],
+            [
+              33.312898,
+              -10.868156
+            ],
+            [
+              33.336425,
+              -10.821546
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "MW",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+        "name": "Malawi",
+        "id": "MW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.675812,
+              -12.092392
+            ],
+            [
+              34.714789,
+              -12.001738
+            ],
+            [
+              34.744192,
+              -12.00032
+            ],
+            [
+              34.790918,
+              -12.03223
+            ],
+            [
+              34.782333,
+              -12.08145
+            ],
+            [
+              34.73014,
+              -12.132377
+            ],
+            [
+              34.706378,
+              -12.136485
+            ],
+            [
+              34.675812,
+              -12.092392
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "MW",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+        "name": "Malawi",
+        "id": "MW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.58596,
+              -11.983567
+            ],
+            [
+              34.620266,
+              -11.97497
+            ],
+            [
+              34.658427,
+              -12.000839
+            ],
+            [
+              34.661955,
+              -12.043298
+            ],
+            [
+              34.632759,
+              -12.081197
+            ],
+            [
+              34.601872,
+              -12.082436
+            ],
+            [
+              34.582056,
+              -12.065327
+            ],
+            [
+              34.572351,
+              -12.011566
+            ],
+            [
+              34.58596,
+              -11.983567
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "MW",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+        "name": "Malawi",
+        "id": "MW"
       }
     }
   ]

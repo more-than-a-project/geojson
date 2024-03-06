@@ -3,1238 +3,690 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              180.0,
+              -15.508868
+            ],
+            [
+              179.932117,
+              -15.528844
+            ],
+            [
+              178.99413,
+              -15.985528
+            ],
+            [
+              178.67052,
+              -16.063783
+            ],
+            [
+              178.67052,
+              -16.063783
+            ],
+            [
+              178.403323,
+              -16.128373
+            ],
+            [
+              178.09794,
+              -16.227677
+            ],
+            [
+              178.09794,
+              -16.227677
+            ],
+            [
+              177.493259,
+              -16.466324
+            ],
+            [
+              177.142065,
+              -16.635852
+            ],
+            [
+              176.768826,
+              -16.96727
+            ],
+            [
+              176.717971,
+              -17.036674
+            ],
+            [
+              176.67894,
+              -17.139173
+            ],
+            [
+              176.670075,
+              -17.211272
+            ],
+            [
+              176.720117,
+              -17.416166
+            ],
+            [
+              176.720117,
+              -17.416166
+            ],
+            [
+              176.805794,
+              -17.730553
+            ],
+            [
+              177.478781,
+              -18.709295
+            ],
+            [
+              177.791711,
+              -19.271245
+            ],
+            [
+              177.791711,
+              -19.271245
+            ],
+            [
+              177.900989,
+              -19.355621
+            ],
+            [
+              178.070806,
+              -19.390471
+            ],
+            [
+              179.263912,
+              -19.402146
+            ],
+            [
+              179.263912,
+              -19.402146
+            ],
+            [
+              179.64824,
+              -19.405357
+            ],
+            [
+              180.0,
+              -19.800521
+            ],
+            [
+              180.0,
+              -19.800521
+            ],
+            [
+              180.0,
+              -19.205752
+            ],
+            [
+              180.0,
+              -19.205752
+            ],
+            [
+              180.0,
+              -18.366297
+            ],
+            [
+              180.0,
+              -18.366297
+            ],
+            [
+              180.0,
+              -18.302375
+            ],
+            [
+              180.0,
+              -18.302375
+            ],
+            [
+              180.0,
+              -17.276944
+            ],
+            [
+              180.0,
+              -17.276944
+            ],
+            [
+              180.0,
+              -16.966723
+            ],
+            [
+              180.0,
+              -16.966723
+            ],
+            [
+              180.0,
+              -16.796662
+            ],
+            [
+              180.0,
+              -16.796662
+            ],
+            [
+              180.0,
+              -16.793516
+            ],
+            [
+              180.0,
+              -16.793516
+            ],
+            [
+              180.0,
+              -16.793411
+            ],
+            [
+              180.0,
+              -16.793411
+            ],
+            [
+              180.0,
+              -16.769996
+            ],
+            [
+              180.0,
+              -16.769996
+            ],
+            [
+              180.0,
+              -16.768812
+            ],
+            [
+              180.0,
+              -16.768812
+            ],
+            [
+              180.0,
+              -16.527652
+            ],
+            [
+              180.0,
+              -16.527652
+            ],
+            [
+              180.0,
+              -16.482323
+            ],
+            [
+              180.0,
+              -16.482323
+            ],
+            [
+              180.0,
+              -16.168508
+            ],
+            [
+              180.0,
+              -16.168508
+            ],
+            [
+              180.0,
+              -16.159623
+            ],
+            [
+              180.0,
+              -16.159623
+            ],
+            [
+              180.0,
+              -16.141598
+            ],
+            [
+              180.0,
+              -16.141598
+            ],
+            [
+              180.0,
+              -16.140428
+            ],
+            [
+              180.0,
+              -16.140428
+            ],
+            [
+              180.0,
+              -16.139394
+            ],
+            [
+              180.0,
+              -16.139394
+            ],
+            [
+              180.0,
+              -15.508868
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "FJ",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.1393939
-          ],
-          [
-            180.0,
-            -15.5088681
-          ]
-        ]
+        "name": "Viti",
+        "id": "FJ"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180.0,
+              -16.139394
+            ],
+            [
+              -180.0,
+              -16.140428
+            ],
+            [
+              -180.0,
+              -16.140428
+            ],
+            [
+              -180.0,
+              -16.141598
+            ],
+            [
+              -180.0,
+              -16.141598
+            ],
+            [
+              -180.0,
+              -16.159623
+            ],
+            [
+              -180.0,
+              -16.159623
+            ],
+            [
+              -180.0,
+              -16.168508
+            ],
+            [
+              -180.0,
+              -16.168508
+            ],
+            [
+              -180.0,
+              -16.482323
+            ],
+            [
+              -180.0,
+              -16.482323
+            ],
+            [
+              -180.0,
+              -16.527652
+            ],
+            [
+              -180.0,
+              -16.527652
+            ],
+            [
+              -180.0,
+              -16.768812
+            ],
+            [
+              -180.0,
+              -16.768812
+            ],
+            [
+              -180.0,
+              -16.769996
+            ],
+            [
+              -180.0,
+              -16.769996
+            ],
+            [
+              -180.0,
+              -16.793411
+            ],
+            [
+              -180.0,
+              -16.793411
+            ],
+            [
+              -180.0,
+              -16.966723
+            ],
+            [
+              -180.0,
+              -16.966723
+            ],
+            [
+              -180.0,
+              -17.276944
+            ],
+            [
+              -180.0,
+              -17.276944
+            ],
+            [
+              -180.0,
+              -18.366297
+            ],
+            [
+              -180.0,
+              -18.366297
+            ],
+            [
+              -180.0,
+              -19.205752
+            ],
+            [
+              -180.0,
+              -19.205752
+            ],
+            [
+              -180.0,
+              -19.800521
+            ],
+            [
+              -180.0,
+              -19.800521
+            ],
+            [
+              -179.094029,
+              -20.818839
+            ],
+            [
+              -179.04976,
+              -21.090324
+            ],
+            [
+              -178.990545,
+              -21.176539
+            ],
+            [
+              -178.928671,
+              -21.2135
+            ],
+            [
+              -178.820305,
+              -21.227383
+            ],
+            [
+              -178.641952,
+              -21.175784
+            ],
+            [
+              -178.579324,
+              -21.128889
+            ],
+            [
+              -178.530096,
+              -21.026953
+            ],
+            [
+              -178.483946,
+              -20.724981
+            ],
+            [
+              -178.018393,
+              -19.851444
+            ],
+            [
+              -178.013571,
+              -19.770966
+            ],
+            [
+              -178.099747,
+              -19.212158
+            ],
+            [
+              -178.132938,
+              -18.879521
+            ],
+            [
+              -178.003493,
+              -18.298144
+            ],
+            [
+              -178.023941,
+              -17.914902
+            ],
+            [
+              -178.045034,
+              -17.83682
+            ],
+            [
+              -178.430512,
+              -17.078934
+            ],
+            [
+              -178.724395,
+              -16.679322
+            ],
+            [
+              -178.724395,
+              -16.679322
+            ],
+            [
+              -178.944992,
+              -16.031914
+            ],
+            [
+              -178.980217,
+              -15.967318
+            ],
+            [
+              -179.036976,
+              -15.919172
+            ],
+            [
+              -179.285142,
+              -15.775943
+            ],
+            [
+              -179.503847,
+              -15.683954
+            ],
+            [
+              -179.503847,
+              -15.683954
+            ],
+            [
+              -179.89355,
+              -15.523573
+            ],
+            [
+              -180.0,
+              -15.508868
+            ],
+            [
+              -180.0,
+              -15.508868
+            ],
+            [
+              -180.0,
+              -16.139394
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "FJ",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.1404285
-          ],
-          [
-            180.0,
-            -16.1393939
-          ]
-        ]
+        "name": "Viti",
+        "id": "FJ"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              177.009787,
+              -12.722125
+            ],
+            [
+              176.85068,
+              -12.68253
+            ],
+            [
+              176.78873,
+              -12.640106
+            ],
+            [
+              176.735602,
+              -12.549343
+            ],
+            [
+              176.729608,
+              -12.480626
+            ],
+            [
+              176.747624,
+              -12.413969
+            ],
+            [
+              176.834765,
+              -12.318312
+            ],
+            [
+              176.953869,
+              -12.264351
+            ],
+            [
+              177.148766,
+              -12.278546
+            ],
+            [
+              177.221972,
+              -12.301292
+            ],
+            [
+              177.295938,
+              -12.365932
+            ],
+            [
+              177.336085,
+              -12.435446
+            ],
+            [
+              177.351579,
+              -12.53724
+            ],
+            [
+              177.325076,
+              -12.627537
+            ],
+            [
+              177.273311,
+              -12.686949
+            ],
+            [
+              177.205438,
+              -12.722511
+            ],
+            [
+              177.143285,
+              -12.732468
+            ],
+            [
+              177.009787,
+              -12.722125
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "FJ",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.1415979
-          ],
-          [
-            180.0,
-            -16.1404285
-          ]
-        ]
+        "name": "Viti",
+        "id": "FJ"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              174.421496,
+              -21.732894
+            ],
+            [
+              174.439728,
+              -21.655218
+            ],
+            [
+              174.489334,
+              -21.589479
+            ],
+            [
+              174.559311,
+              -21.547692
+            ],
+            [
+              174.644672,
+              -21.532947
+            ],
+            [
+              174.724916,
+              -21.548736
+            ],
+            [
+              174.795726,
+              -21.593883
+            ],
+            [
+              174.841109,
+              -21.658494
+            ],
+            [
+              174.858504,
+              -21.740041
+            ],
+            [
+              174.841989,
+              -21.817761
+            ],
+            [
+              174.793321,
+              -21.885269
+            ],
+            [
+              174.723329,
+              -21.928307
+            ],
+            [
+              174.636945,
+              -21.943427
+            ],
+            [
+              174.553929,
+              -21.927035
+            ],
+            [
+              174.48131,
+              -21.879755
+            ],
+            [
+              174.436002,
+              -21.81214
+            ],
+            [
+              174.421496,
+              -21.732894
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "FJ",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.1596226
-          ],
-          [
-            180.0,
-            -16.1415979
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.1685081
-          ],
-          [
-            180.0,
-            -16.1596226
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.4823229
-          ],
-          [
-            180.0,
-            -16.1685081
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.5276519
-          ],
-          [
-            180.0,
-            -16.4823229
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.7688122
-          ],
-          [
-            180.0,
-            -16.5276519
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.769996
-          ],
-          [
-            180.0,
-            -16.7688122
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.7934111
-          ],
-          [
-            180.0,
-            -16.769996
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.793516
-          ],
-          [
-            180.0,
-            -16.7934111
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.7966621
-          ],
-          [
-            180.0,
-            -16.793516
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -16.9667229
-          ],
-          [
-            180.0,
-            -16.7966621
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -17.2769444
-          ],
-          [
-            180.0,
-            -16.9667229
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -18.3023754
-          ],
-          [
-            180.0,
-            -17.2769444
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -18.3662965
-          ],
-          [
-            180.0,
-            -18.3023754
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -19.2057517
-          ],
-          [
-            180.0,
-            -18.3662965
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -19.8005205
-          ],
-          [
-            180.0,
-            -19.2057517
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            180.0,
-            -19.8005205
-          ],
-          [
-            179.6482399,
-            -19.4053573
-          ],
-          [
-            179.2639116,
-            -19.4021457
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            179.2639116,
-            -19.4021457
-          ],
-          [
-            178.0708059,
-            -19.3904712
-          ],
-          [
-            177.9009885,
-            -19.3556207
-          ],
-          [
-            177.7917112,
-            -19.2712445
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            177.7917112,
-            -19.2712445
-          ],
-          [
-            177.4787815,
-            -18.7092947
-          ],
-          [
-            176.8057939,
-            -17.7305529
-          ],
-          [
-            176.7201168,
-            -17.4161661
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            176.7201168,
-            -17.4161661
-          ],
-          [
-            176.6700747,
-            -17.2112718
-          ],
-          [
-            176.6789402,
-            -17.1391734
-          ],
-          [
-            176.7179712,
-            -17.0366736
-          ],
-          [
-            176.7688257,
-            -16.9672695
-          ],
-          [
-            177.1420646,
-            -16.6358519
-          ],
-          [
-            177.4932586,
-            -16.4663236
-          ],
-          [
-            178.09794,
-            -16.2276765
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            178.09794,
-            -16.2276765
-          ],
-          [
-            178.403323,
-            -16.1283733
-          ],
-          [
-            178.6705196,
-            -16.063783
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            178.6705196,
-            -16.063783
-          ],
-          [
-            178.9941301,
-            -15.9855276
-          ],
-          [
-            179.9321165,
-            -15.5288441
-          ],
-          [
-            180.0,
-            -15.5088681
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -15.5088681
-          ],
-          [
-            -180.0,
-            -16.1393939
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -16.1393939
-          ],
-          [
-            -180.0,
-            -16.1404285
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -16.1404285
-          ],
-          [
-            -180.0,
-            -16.1415979
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -16.1415979
-          ],
-          [
-            -180.0,
-            -16.1596226
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -16.1596226
-          ],
-          [
-            -180.0,
-            -16.1685081
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -16.1685081
-          ],
-          [
-            -180.0,
-            -16.4823229
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -16.4823229
-          ],
-          [
-            -180.0,
-            -16.5276519
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -16.5276519
-          ],
-          [
-            -180.0,
-            -16.7688122
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -16.7688122
-          ],
-          [
-            -180.0,
-            -16.769996
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -16.769996
-          ],
-          [
-            -180.0,
-            -16.7934111
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -16.7934111
-          ],
-          [
-            -180.0,
-            -16.9667229
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -16.9667229
-          ],
-          [
-            -180.0,
-            -17.2769444
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -17.2769444
-          ],
-          [
-            -180.0,
-            -18.3662965
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -18.3662965
-          ],
-          [
-            -180.0,
-            -19.2057517
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -19.2057517
-          ],
-          [
-            -180.0,
-            -19.8005205
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -178.7243946,
-            -16.6793223
-          ],
-          [
-            -178.4305116,
-            -17.0789343
-          ],
-          [
-            -178.045034,
-            -17.8368198
-          ],
-          [
-            -178.0239411,
-            -17.9149019
-          ],
-          [
-            -178.0034928,
-            -18.2981441
-          ],
-          [
-            -178.1329382,
-            -18.8795205
-          ],
-          [
-            -178.099747,
-            -19.2121578
-          ],
-          [
-            -178.0135712,
-            -19.7709658
-          ],
-          [
-            -178.0183932,
-            -19.8514445
-          ],
-          [
-            -178.4839461,
-            -20.7249807
-          ],
-          [
-            -178.5300959,
-            -21.0269526
-          ],
-          [
-            -178.5793244,
-            -21.1288887
-          ],
-          [
-            -178.6419516,
-            -21.1757842
-          ],
-          [
-            -178.8203049,
-            -21.2273827
-          ],
-          [
-            -178.9286708,
-            -21.2134996
-          ],
-          [
-            -178.9905455,
-            -21.1765388
-          ],
-          [
-            -179.0497596,
-            -21.0903241
-          ],
-          [
-            -179.0940291,
-            -20.8188387
-          ],
-          [
-            -180.0,
-            -19.8005205
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -179.5038474,
-            -15.6839541
-          ],
-          [
-            -179.2851423,
-            -15.7759433
-          ],
-          [
-            -179.0369761,
-            -15.9191723
-          ],
-          [
-            -178.9802166,
-            -15.9673182
-          ],
-          [
-            -178.9449919,
-            -16.031914
-          ],
-          [
-            -178.7243946,
-            -16.6793223
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -180.0,
-            -15.5088681
-          ],
-          [
-            -179.8935496,
-            -15.523573
-          ],
-          [
-            -179.5038474,
-            -15.6839541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            177.0097866,
-            -12.7221251
-          ],
-          [
-            176.8506798,
-            -12.6825303
-          ],
-          [
-            176.7887302,
-            -12.640106
-          ],
-          [
-            176.735602,
-            -12.5493428
-          ],
-          [
-            176.7296081,
-            -12.4806265
-          ],
-          [
-            176.7476236,
-            -12.413969
-          ],
-          [
-            176.8347654,
-            -12.3183124
-          ],
-          [
-            176.9538686,
-            -12.2643508
-          ],
-          [
-            177.1487664,
-            -12.2785463
-          ],
-          [
-            177.2219724,
-            -12.3012921
-          ],
-          [
-            177.2959382,
-            -12.3659322
-          ],
-          [
-            177.3360848,
-            -12.435446
-          ],
-          [
-            177.3515792,
-            -12.5372399
-          ],
-          [
-            177.3250765,
-            -12.6275368
-          ],
-          [
-            177.2733112,
-            -12.6869491
-          ],
-          [
-            177.2054382,
-            -12.7225112
-          ],
-          [
-            177.1432848,
-            -12.7324676
-          ],
-          [
-            177.0097866,
-            -12.7221251
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "FJ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
-        "name": "Viti"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            174.4214965,
-            -21.7328941
-          ],
-          [
-            174.4397282,
-            -21.6552179
-          ],
-          [
-            174.489334,
-            -21.5894793
-          ],
-          [
-            174.5593109,
-            -21.5476916
-          ],
-          [
-            174.6446719,
-            -21.5329472
-          ],
-          [
-            174.7249163,
-            -21.5487361
-          ],
-          [
-            174.795726,
-            -21.5938829
-          ],
-          [
-            174.8411094,
-            -21.658494
-          ],
-          [
-            174.8585039,
-            -21.7400412
-          ],
-          [
-            174.8419886,
-            -21.8177615
-          ],
-          [
-            174.7933207,
-            -21.8852691
-          ],
-          [
-            174.7233287,
-            -21.9283067
-          ],
-          [
-            174.6369447,
-            -21.9434274
-          ],
-          [
-            174.5539294,
-            -21.9270347
-          ],
-          [
-            174.4813099,
-            -21.8797546
-          ],
-          [
-            174.4360023,
-            -21.8121398
-          ],
-          [
-            174.4214965,
-            -21.7328941
-          ]
-        ]
+        "name": "Viti",
+        "id": "FJ"
       }
     }
   ]

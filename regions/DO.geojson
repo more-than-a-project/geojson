@@ -3,1480 +3,699 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.001168,
+              18.628425
+            ],
+            [
+              -71.963774,
+              18.654628
+            ],
+            [
+              -71.963774,
+              18.654628
+            ],
+            [
+              -71.925697,
+              18.634797
+            ],
+            [
+              -71.911671,
+              18.64817
+            ],
+            [
+              -71.911671,
+              18.64817
+            ],
+            [
+              -71.880086,
+              18.627038
+            ],
+            [
+              -71.811371,
+              18.632644
+            ],
+            [
+              -71.811371,
+              18.632644
+            ],
+            [
+              -71.808931,
+              18.651473
+            ],
+            [
+              -71.808931,
+              18.651473
+            ],
+            [
+              -71.804196,
+              18.685288
+            ],
+            [
+              -71.804196,
+              18.685288
+            ],
+            [
+              -71.790188,
+              18.68872
+            ],
+            [
+              -71.790188,
+              18.68872
+            ],
+            [
+              -71.783799,
+              18.706107
+            ],
+            [
+              -71.737955,
+              18.722193
+            ],
+            [
+              -71.732325,
+              18.759935
+            ],
+            [
+              -71.732325,
+              18.759935
+            ],
+            [
+              -71.728758,
+              18.772237
+            ],
+            [
+              -71.728758,
+              18.772237
+            ],
+            [
+              -71.722254,
+              18.825729
+            ],
+            [
+              -71.722254,
+              18.825729
+            ],
+            [
+              -71.722298,
+              18.878448
+            ],
+            [
+              -71.737453,
+              18.878081
+            ],
+            [
+              -71.774339,
+              18.924741
+            ],
+            [
+              -71.774339,
+              18.924741
+            ],
+            [
+              -71.782772,
+              18.949921
+            ],
+            [
+              -71.782772,
+              18.949921
+            ],
+            [
+              -71.836512,
+              18.970334
+            ],
+            [
+              -71.867047,
+              18.94599
+            ],
+            [
+              -71.867047,
+              18.94599
+            ],
+            [
+              -71.882801,
+              18.941989
+            ],
+            [
+              -71.882801,
+              18.941989
+            ],
+            [
+              -71.883523,
+              18.951342
+            ],
+            [
+              -71.883523,
+              18.951342
+            ],
+            [
+              -71.868018,
+              18.981421
+            ],
+            [
+              -71.868018,
+              18.981421
+            ],
+            [
+              -71.862876,
+              18.981847
+            ],
+            [
+              -71.862876,
+              18.981847
+            ],
+            [
+              -71.833459,
+              19.005487
+            ],
+            [
+              -71.809182,
+              18.998137
+            ],
+            [
+              -71.809182,
+              18.998137
+            ],
+            [
+              -71.788411,
+              18.993074
+            ],
+            [
+              -71.771424,
+              19.03096
+            ],
+            [
+              -71.737263,
+              19.049697
+            ],
+            [
+              -71.737263,
+              19.049697
+            ],
+            [
+              -71.69758,
+              19.091446
+            ],
+            [
+              -71.69758,
+              19.091446
+            ],
+            [
+              -71.706619,
+              19.099547
+            ],
+            [
+              -71.692081,
+              19.105454
+            ],
+            [
+              -71.692081,
+              19.105454
+            ],
+            [
+              -71.654003,
+              19.116108
+            ],
+            [
+              -71.646343,
+              19.168608
+            ],
+            [
+              -71.646343,
+              19.168608
+            ],
+            [
+              -71.642994,
+              19.167171
+            ],
+            [
+              -71.642994,
+              19.167171
+            ],
+            [
+              -71.645043,
+              19.180668
+            ],
+            [
+              -71.626301,
+              19.186245
+            ],
+            [
+              -71.63764,
+              19.201851
+            ],
+            [
+              -71.621746,
+              19.206528
+            ],
+            [
+              -71.638901,
+              19.231734
+            ],
+            [
+              -71.638901,
+              19.231734
+            ],
+            [
+              -71.684781,
+              19.238352
+            ],
+            [
+              -71.684781,
+              19.238352
+            ],
+            [
+              -71.725392,
+              19.278273
+            ],
+            [
+              -71.731626,
+              19.262318
+            ],
+            [
+              -71.753041,
+              19.279583
+            ],
+            [
+              -71.753041,
+              19.279583
+            ],
+            [
+              -71.782734,
+              19.329518
+            ],
+            [
+              -71.782734,
+              19.329518
+            ],
+            [
+              -71.726011,
+              19.365966
+            ],
+            [
+              -71.69487,
+              19.35956
+            ],
+            [
+              -71.691655,
+              19.370366
+            ],
+            [
+              -71.691655,
+              19.370366
+            ],
+            [
+              -71.694536,
+              19.382347
+            ],
+            [
+              -71.694536,
+              19.382347
+            ],
+            [
+              -71.694727,
+              19.401457
+            ],
+            [
+              -71.694727,
+              19.401457
+            ],
+            [
+              -71.678286,
+              19.444757
+            ],
+            [
+              -71.694322,
+              19.477209
+            ],
+            [
+              -71.688106,
+              19.503053
+            ],
+            [
+              -71.688106,
+              19.503053
+            ],
+            [
+              -71.712487,
+              19.541892
+            ],
+            [
+              -71.712487,
+              19.541892
+            ],
+            [
+              -71.712378,
+              19.548769
+            ],
+            [
+              -71.712378,
+              19.548769
+            ],
+            [
+              -71.723862,
+              19.565936
+            ],
+            [
+              -71.723862,
+              19.565936
+            ],
+            [
+              -71.743137,
+              19.58468
+            ],
+            [
+              -71.743137,
+              19.58468
+            ],
+            [
+              -71.743441,
+              19.588494
+            ],
+            [
+              -71.743441,
+              19.588494
+            ],
+            [
+              -71.739418,
+              19.639687
+            ],
+            [
+              -71.739418,
+              19.639687
+            ],
+            [
+              -71.734993,
+              19.66153
+            ],
+            [
+              -71.734993,
+              19.66153
+            ],
+            [
+              -71.756085,
+              19.675924
+            ],
+            [
+              -71.756085,
+              19.675924
+            ],
+            [
+              -71.758677,
+              19.701945
+            ],
+            [
+              -71.758677,
+              19.701945
+            ],
+            [
+              -71.773662,
+              19.731261
+            ],
+            [
+              -71.803818,
+              19.733179
+            ],
+            [
+              -71.913843,
+              19.796456
+            ],
+            [
+              -72.057471,
+              19.953058
+            ],
+            [
+              -72.057471,
+              19.953058
+            ],
+            [
+              -71.180046,
+              20.979376
+            ],
+            [
+              -71.180046,
+              20.979376
+            ],
+            [
+              -71.110514,
+              21.013958
+            ],
+            [
+              -70.979051,
+              21.148919
+            ],
+            [
+              -70.979051,
+              21.148919
+            ],
+            [
+              -70.711568,
+              21.194814
+            ],
+            [
+              -70.600175,
+              21.277867
+            ],
+            [
+              -70.491659,
+              21.291816
+            ],
+            [
+              -69.813805,
+              21.06766
+            ],
+            [
+              -69.387437,
+              20.834906
+            ],
+            [
+              -68.597116,
+              20.051408
+            ],
+            [
+              -68.597116,
+              20.051408
+            ],
+            [
+              -68.589009,
+              20.00883
+            ],
+            [
+              -68.525556,
+              19.902666
+            ],
+            [
+              -68.118705,
+              18.695053
+            ],
+            [
+              -68.122604,
+              18.534386
+            ],
+            [
+              -68.386726,
+              18.014252
+            ],
+            [
+              -68.480768,
+              17.929944
+            ],
+            [
+              -68.544658,
+              17.913931
+            ],
+            [
+              -68.688338,
+              17.918848
+            ],
+            [
+              -68.77242,
+              17.937476
+            ],
+            [
+              -69.330953,
+              17.973136
+            ],
+            [
+              -69.330953,
+              17.973136
+            ],
+            [
+              -70.112254,
+              18.023073
+            ],
+            [
+              -71.540048,
+              17.29445
+            ],
+            [
+              -71.629276,
+              17.270462
+            ],
+            [
+              -71.748639,
+              17.296774
+            ],
+            [
+              -71.833883,
+              17.382633
+            ],
+            [
+              -71.895152,
+              17.585412
+            ],
+            [
+              -71.939688,
+              17.841035
+            ],
+            [
+              -71.939688,
+              17.841035
+            ],
+            [
+              -71.900531,
+              17.881115
+            ],
+            [
+              -71.900531,
+              17.881115
+            ],
+            [
+              -71.758764,
+              18.031504
+            ],
+            [
+              -71.758764,
+              18.031504
+            ],
+            [
+              -71.735385,
+              18.095501
+            ],
+            [
+              -71.749735,
+              18.112195
+            ],
+            [
+              -71.747114,
+              18.149189
+            ],
+            [
+              -71.777562,
+              18.16628
+            ],
+            [
+              -71.777562,
+              18.16628
+            ],
+            [
+              -71.787905,
+              18.176906
+            ],
+            [
+              -71.787905,
+              18.176906
+            ],
+            [
+              -71.725947,
+              18.290529
+            ],
+            [
+              -71.725947,
+              18.290529
+            ],
+            [
+              -71.724932,
+              18.292185
+            ],
+            [
+              -71.724932,
+              18.292185
+            ],
+            [
+              -71.69602,
+              18.340637
+            ],
+            [
+              -71.69602,
+              18.340637
+            ],
+            [
+              -71.708859,
+              18.345519
+            ],
+            [
+              -71.708859,
+              18.345519
+            ],
+            [
+              -71.829816,
+              18.39886
+            ],
+            [
+              -71.844023,
+              18.429239
+            ],
+            [
+              -71.880677,
+              18.447332
+            ],
+            [
+              -71.880677,
+              18.447332
+            ],
+            [
+              -71.904316,
+              18.456977
+            ],
+            [
+              -71.913574,
+              18.485119
+            ],
+            [
+              -71.88075,
+              18.490146
+            ],
+            [
+              -71.881122,
+              18.504148
+            ],
+            [
+              -71.951987,
+              18.581793
+            ],
+            [
+              -71.951987,
+              18.581793
+            ],
+            [
+              -71.984544,
+              18.614295
+            ],
+            [
+              -72.002677,
+              18.613368
+            ],
+            [
+              -72.002677,
+              18.613368
+            ],
+            [
+              -72.001168,
+              18.628425
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "DO",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -72.002677,
-            18.613368
-          ],
-          [
-            -72.0011676,
-            18.6284253
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.9519872,
-            18.5817931
-          ],
-          [
-            -71.9845438,
-            18.6142953
-          ],
-          [
-            -72.002677,
-            18.613368
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.8806772,
-            18.4473317
-          ],
-          [
-            -71.9043161,
-            18.4569771
-          ],
-          [
-            -71.9135745,
-            18.4851195
-          ],
-          [
-            -71.8807502,
-            18.4901456
-          ],
-          [
-            -71.8811223,
-            18.5041477
-          ],
-          [
-            -71.9519872,
-            18.5817931
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.8806772,
-            18.4473317
-          ],
-          [
-            -71.8440231,
-            18.4292391
-          ],
-          [
-            -71.8298162,
-            18.3988604
-          ],
-          [
-            -71.7088588,
-            18.3455194
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7088588,
-            18.3455194
-          ],
-          [
-            -71.6960202,
-            18.3406367
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.6960202,
-            18.3406367
-          ],
-          [
-            -71.724932,
-            18.2921845
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.724932,
-            18.2921845
-          ],
-          [
-            -71.7259467,
-            18.290529
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7259467,
-            18.290529
-          ],
-          [
-            -71.7879054,
-            18.1769063
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7879054,
-            18.1769063
-          ],
-          [
-            -71.7775624,
-            18.1662802
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7775624,
-            18.1662802
-          ],
-          [
-            -71.7471141,
-            18.1491886
-          ],
-          [
-            -71.7497347,
-            18.1121945
-          ],
-          [
-            -71.7353848,
-            18.0955008
-          ],
-          [
-            -71.7587643,
-            18.0315043
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7587643,
-            18.0315043
-          ],
-          [
-            -71.900531,
-            17.881115
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.900531,
-            17.881115
-          ],
-          [
-            -71.9396881,
-            17.8410354
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.9396881,
-            17.8410354
-          ],
-          [
-            -71.8951519,
-            17.5854123
-          ],
-          [
-            -71.8338825,
-            17.3826333
-          ],
-          [
-            -71.7486395,
-            17.2967742
-          ],
-          [
-            -71.6292755,
-            17.2704618
-          ],
-          [
-            -71.5400475,
-            17.2944502
-          ],
-          [
-            -70.1122542,
-            18.0230727
-          ],
-          [
-            -69.3309526,
-            17.9731362
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -69.3309526,
-            17.9731362
-          ],
-          [
-            -68.7724204,
-            17.9374762
-          ],
-          [
-            -68.688338,
-            17.9188477
-          ],
-          [
-            -68.544658,
-            17.9139309
-          ],
-          [
-            -68.4807683,
-            17.9299439
-          ],
-          [
-            -68.3867257,
-            18.0142518
-          ],
-          [
-            -68.1226038,
-            18.5343859
-          ],
-          [
-            -68.1187048,
-            18.6950528
-          ],
-          [
-            -68.5255564,
-            19.9026658
-          ],
-          [
-            -68.5890092,
-            20.0088303
-          ],
-          [
-            -68.5971162,
-            20.0514077
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -68.5971162,
-            20.0514077
-          ],
-          [
-            -69.3874371,
-            20.8349063
-          ],
-          [
-            -69.8138046,
-            21.0676601
-          ],
-          [
-            -70.4916586,
-            21.2918161
-          ],
-          [
-            -70.600175,
-            21.2778668
-          ],
-          [
-            -70.7115682,
-            21.1948138
-          ],
-          [
-            -70.9790513,
-            21.1489191
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -70.9790513,
-            21.1489191
-          ],
-          [
-            -71.1105141,
-            21.0139582
-          ],
-          [
-            -71.1800461,
-            20.9793764
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.1800461,
-            20.9793764
-          ],
-          [
-            -72.0574706,
-            19.9530577
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -72.0574706,
-            19.9530577
-          ],
-          [
-            -71.9138432,
-            19.7964561
-          ],
-          [
-            -71.8038176,
-            19.7331793
-          ],
-          [
-            -71.7736624,
-            19.7312615
-          ],
-          [
-            -71.7586772,
-            19.7019452
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7560848,
-            19.6759241
-          ],
-          [
-            -71.7586772,
-            19.7019452
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7349932,
-            19.6615297
-          ],
-          [
-            -71.7560848,
-            19.6759241
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7349932,
-            19.6615297
-          ],
-          [
-            -71.7394176,
-            19.6396874
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7394176,
-            19.6396874
-          ],
-          [
-            -71.743441,
-            19.588494
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.743441,
-            19.588494
-          ],
-          [
-            -71.743137,
-            19.5846797
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7238622,
-            19.5659364
-          ],
-          [
-            -71.743137,
-            19.5846797
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7123779,
-            19.5487692
-          ],
-          [
-            -71.7238622,
-            19.5659364
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7124871,
-            19.5418925
-          ],
-          [
-            -71.7123779,
-            19.5487692
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.688106,
-            19.5030529
-          ],
-          [
-            -71.7124871,
-            19.5418925
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.6947272,
-            19.4014566
-          ],
-          [
-            -71.6782864,
-            19.444757
-          ],
-          [
-            -71.6943223,
-            19.4772093
-          ],
-          [
-            -71.688106,
-            19.5030529
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.6945364,
-            19.3823471
-          ],
-          [
-            -71.6947272,
-            19.4014566
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.6916553,
-            19.3703665
-          ],
-          [
-            -71.6945364,
-            19.3823471
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7827337,
-            19.3295177
-          ],
-          [
-            -71.7260105,
-            19.3659658
-          ],
-          [
-            -71.6948702,
-            19.35956
-          ],
-          [
-            -71.6916553,
-            19.3703665
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7827337,
-            19.3295177
-          ],
-          [
-            -71.7530406,
-            19.2795825
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7530406,
-            19.2795825
-          ],
-          [
-            -71.7316258,
-            19.2623185
-          ],
-          [
-            -71.725392,
-            19.278273
-          ],
-          [
-            -71.6847811,
-            19.238352
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.6389006,
-            19.2317341
-          ],
-          [
-            -71.6847811,
-            19.238352
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.642994,
-            19.1671708
-          ],
-          [
-            -71.6450431,
-            19.1806681
-          ],
-          [
-            -71.6263013,
-            19.1862448
-          ],
-          [
-            -71.63764,
-            19.2018506
-          ],
-          [
-            -71.6217461,
-            19.2065282
-          ],
-          [
-            -71.6389006,
-            19.2317341
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.6463432,
-            19.1686078
-          ],
-          [
-            -71.642994,
-            19.1671708
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.6920808,
-            19.1054541
-          ],
-          [
-            -71.6540027,
-            19.1161082
-          ],
-          [
-            -71.6463432,
-            19.1686078
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.6920808,
-            19.1054541
-          ],
-          [
-            -71.7066189,
-            19.0995472
-          ],
-          [
-            -71.6975795,
-            19.0914458
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.6975795,
-            19.0914458
-          ],
-          [
-            -71.7372633,
-            19.0496966
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7372633,
-            19.0496966
-          ],
-          [
-            -71.7714239,
-            19.0309595
-          ],
-          [
-            -71.7884108,
-            18.9930737
-          ],
-          [
-            -71.8091823,
-            18.9981366
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.8091823,
-            18.9981366
-          ],
-          [
-            -71.833459,
-            19.0054866
-          ],
-          [
-            -71.8628762,
-            18.9818471
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.8628762,
-            18.9818471
-          ],
-          [
-            -71.8680176,
-            18.9814207
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.8680176,
-            18.9814207
-          ],
-          [
-            -71.8835234,
-            18.9513421
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.8835234,
-            18.9513421
-          ],
-          [
-            -71.8828007,
-            18.9419894
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.8670465,
-            18.9459903
-          ],
-          [
-            -71.8828007,
-            18.9419894
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.782772,
-            18.949921
-          ],
-          [
-            -71.8365122,
-            18.9703342
-          ],
-          [
-            -71.8670465,
-            18.9459903
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.782772,
-            18.949921
-          ],
-          [
-            -71.7743395,
-            18.9247413
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7743395,
-            18.9247413
-          ],
-          [
-            -71.7374525,
-            18.8780807
-          ],
-          [
-            -71.7222981,
-            18.8784483
-          ],
-          [
-            -71.7222537,
-            18.825729
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7222537,
-            18.825729
-          ],
-          [
-            -71.7287578,
-            18.7722367
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7287578,
-            18.7722367
-          ],
-          [
-            -71.7323252,
-            18.7599351
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7323252,
-            18.7599351
-          ],
-          [
-            -71.7379549,
-            18.7221933
-          ],
-          [
-            -71.7837985,
-            18.7061069
-          ],
-          [
-            -71.7901884,
-            18.6887197
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.7901884,
-            18.6887197
-          ],
-          [
-            -71.8041962,
-            18.6852883
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.8041962,
-            18.6852883
-          ],
-          [
-            -71.8089308,
-            18.651473
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.8089308,
-            18.651473
-          ],
-          [
-            -71.8113711,
-            18.6326439
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.9116713,
-            18.6481696
-          ],
-          [
-            -71.8800858,
-            18.6270375
-          ],
-          [
-            -71.8113711,
-            18.6326439
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.9116713,
-            18.6481696
-          ],
-          [
-            -71.9256975,
-            18.6347972
-          ],
-          [
-            -71.963774,
-            18.6546278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
-        "name": "Rep\u00fablica Dominicana"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -71.963774,
-            18.6546278
-          ],
-          [
-            -72.0011676,
-            18.6284253
-          ]
-        ]
+        "name": "Rep\u00fablica Dominicana",
+        "id": "DO"
       }
     }
   ]

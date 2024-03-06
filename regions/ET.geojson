@@ -3,5094 +3,2787 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.1356345,
-            12.9296303
-          ],
-          [
-            36.1644843,
-            12.9805497
-          ],
-          [
-            36.1613085,
-            13.0088933
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.1356345,
-            12.9296303
-          ],
-          [
-            36.165278,
-            12.875278
-          ],
-          [
-            36.140278,
-            12.704167
-          ],
-          [
-            36.107778,
-            12.694167
-          ],
-          [
-            36.081111,
-            12.723611
-          ],
-          [
-            36.006389,
-            12.724167
-          ],
-          [
-            35.699444,
-            12.665833
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.699444,
-            12.665833
-          ],
-          [
-            35.695278,
-            12.612222
-          ],
-          [
-            35.649167,
-            12.594167
-          ],
-          [
-            35.596414,
-            12.509247
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.596414,
-            12.509247
-          ],
-          [
-            35.438056,
-            12.250556
-          ],
-          [
-            35.4325,
-            12.200556
-          ],
-          [
-            35.381111,
-            12.161111
-          ],
-          [
-            35.346667,
-            12.083611
-          ],
-          [
-            35.345556,
-            12.032778
-          ],
-          [
-            35.271111,
-            11.975556
-          ],
-          [
-            35.2676884,
-            11.9357945
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2676884,
-            11.9357945
-          ],
-          [
-            35.2616525,
-            11.9288679
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2616525,
-            11.9288679
-          ],
-          [
-            35.227222,
-            11.895556
-          ],
-          [
-            35.110833,
-            11.845833
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.110833,
-            11.845833
-          ],
-          [
-            35.063889,
-            11.7625
-          ],
-          [
-            35.064722,
-            11.699167
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.064722,
-            11.699167
-          ],
-          [
-            35.093611,
-            11.557778
-          ],
-          [
-            34.9752995,
-            11.2944861
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9752995,
-            11.2944861
-          ],
-          [
-            34.9276507,
-            11.2373901
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9697302,
-            11.2324149
-          ],
-          [
-            34.9276507,
-            11.2373901
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9697302,
-            11.2324149
-          ],
-          [
-            35.0075,
-            11.198333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0075,
-            11.198333
-          ],
-          [
-            34.933333,
-            10.956667
-          ],
-          [
-            34.9776751,
-            10.9014727
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9776751,
-            10.9014727
-          ],
-          [
-            34.975278,
-            10.864444
-          ],
-          [
-            34.868611,
-            10.785833
-          ],
-          [
-            34.864444,
-            10.735
-          ],
-          [
-            34.808611,
-            10.729444
-          ],
-          [
-            34.784444,
-            10.683889
-          ],
-          [
-            34.771944,
-            10.6925
-          ],
-          [
-            34.773333,
-            10.745833
-          ],
-          [
-            34.594444,
-            10.887778
-          ],
-          [
-            34.439722,
-            10.784444
-          ],
-          [
-            34.356944,
-            10.638611
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.356944,
-            10.638611
-          ],
-          [
-            34.2800109,
-            10.5385792
-          ],
-          [
-            34.348889,
-            10.245
-          ],
-          [
-            34.321389,
-            10.163889
-          ],
-          [
-            34.323056,
-            10.117222
-          ],
-          [
-            34.231389,
-            10.030278
-          ],
-          [
-            34.207222,
-            9.905
-          ],
-          [
-            34.1239878,
-            9.6976406
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.1239878,
-            9.6976406
-          ],
-          [
-            34.085833,
-            9.553056
-          ],
-          [
-            34.106678,
-            9.500001
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.106678,
-            9.500001
-          ],
-          [
-            34.1302394,
-            9.2068809
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.1302394,
-            9.2068809
-          ],
-          [
-            34.145517,
-            8.9633105
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.145517,
-            8.9633105
-          ],
-          [
-            34.145517,
-            8.6528542
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.145517,
-            8.6528542
-          ],
-          [
-            34.141699,
-            8.601365
-          ],
-          [
-            34.100536,
-            8.555785
-          ],
-          [
-            34.040337,
-            8.522056
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.040337,
-            8.522056
-          ],
-          [
-            34.02359,
-            8.488511
-          ],
-          [
-            33.942383,
-            8.500706
-          ],
-          [
-            33.892246,
-            8.473294
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.892246,
-            8.473294
-          ],
-          [
-            33.876107,
-            8.455634
-          ],
-          [
-            33.876133,
-            8.411017
-          ],
-          [
-            33.817044,
-            8.405588
-          ],
-          [
-            33.767558,
-            8.367649
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.767558,
-            8.367649
-          ],
-          [
-            33.700473,
-            8.377586
-          ],
-          [
-            33.676366,
-            8.445385
-          ],
-          [
-            33.636721,
-            8.464365
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.636721,
-            8.464365
-          ],
-          [
-            33.616999,
-            8.47133
-          ],
-          [
-            33.596567,
-            8.442945
-          ],
-          [
-            33.567965,
-            8.451686
-          ],
-          [
-            33.5603028,
-            8.4741414
-          ],
-          [
-            33.521741,
-            8.468056
-          ],
-          [
-            33.497324,
-            8.480736
-          ],
-          [
-            33.47785,
-            8.456273
-          ],
-          [
-            33.445371,
-            8.443979
-          ],
-          [
-            33.423085,
-            8.452782
-          ],
-          [
-            33.397387,
-            8.426404
-          ],
-          [
-            33.312306,
-            8.467686
-          ],
-          [
-            33.292584,
-            8.439933
-          ],
-          [
-            33.2709318,
-            8.4626032
-          ],
-          [
-            33.2352,
-            8.425251
-          ],
-          [
-            33.2191295,
-            8.4355239
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.2163183,
-            8.340819
-          ],
-          [
-            33.2167,
-            8.360232
-          ],
-          [
-            33.193594,
-            8.352974
-          ],
-          [
-            33.186892,
-            8.383166
-          ],
-          [
-            33.191308,
-            8.406734
-          ],
-          [
-            33.216451,
-            8.406178
-          ],
-          [
-            33.2191295,
-            8.4355239
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.191683,
-            8.140825
-          ],
-          [
-            33.166396,
-            8.196093
-          ],
-          [
-            33.198952,
-            8.216129
-          ],
-          [
-            33.205233,
-            8.238451
-          ],
-          [
-            33.17486,
-            8.256345
-          ],
-          [
-            33.169982,
-            8.295846
-          ],
-          [
-            33.197349,
-            8.299538
-          ],
-          [
-            33.191943,
-            8.334549
-          ],
-          [
-            33.2163183,
-            8.340819
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.036476,
-            7.987866
-          ],
-          [
-            33.044801,
-            8.013752
-          ],
-          [
-            33.07746,
-            8.022113
-          ],
-          [
-            33.084544,
-            8.073386
-          ],
-          [
-            33.121815,
-            8.063893
-          ],
-          [
-            33.120518,
-            8.110513
-          ],
-          [
-            33.16129,
-            8.111687
-          ],
-          [
-            33.191683,
-            8.140825
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            32.9998765,
-            7.9157181
-          ],
-          [
-            32.9977914,
-            7.9448156
-          ],
-          [
-            33.0379602,
-            7.9676489
-          ],
-          [
-            33.036476,
-            7.987866
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.046089,
-            7.7956369
-          ],
-          [
-            33.0467514,
-            7.8130338
-          ],
-          [
-            33.004727,
-            7.858829
-          ],
-          [
-            33.016513,
-            7.893308
-          ],
-          [
-            32.9998765,
-            7.9157181
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.209071,
-            7.778778
-          ],
-          [
-            33.164929,
-            7.788932
-          ],
-          [
-            33.172601,
-            7.798622
-          ],
-          [
-            33.16016,
-            7.80389
-          ],
-          [
-            33.156046,
-            7.788923
-          ],
-          [
-            33.107604,
-            7.7798
-          ],
-          [
-            33.0919742,
-            7.8033619
-          ],
-          [
-            33.046089,
-            7.7956369
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.2109447,
-            7.777321
-          ],
-          [
-            33.209071,
-            7.778778
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.2157674,
-            7.7733095
-          ],
-          [
-            33.2109447,
-            7.777321
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.4477736,
-            7.744512
-          ],
-          [
-            33.4260797,
-            7.7578077
-          ],
-          [
-            33.4188777,
-            7.7377895
-          ],
-          [
-            33.3939123,
-            7.729605
-          ],
-          [
-            33.3814347,
-            7.7432554
-          ],
-          [
-            33.363654,
-            7.720031
-          ],
-          [
-            33.350501,
-            7.730349
-          ],
-          [
-            33.340581,
-            7.707281
-          ],
-          [
-            33.3232,
-            7.707503
-          ],
-          [
-            33.317276,
-            7.731113
-          ],
-          [
-            33.303956,
-            7.725426
-          ],
-          [
-            33.302412,
-            7.743099
-          ],
-          [
-            33.295613,
-            7.734145
-          ],
-          [
-            33.296058,
-            7.748828
-          ],
-          [
-            33.255023,
-            7.760315
-          ],
-          [
-            33.250277,
-            7.777854
-          ],
-          [
-            33.2157674,
-            7.7733095
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.446825,
-            7.743531
-          ],
-          [
-            33.4477736,
-            7.744512
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.465746,
-            7.749514
-          ],
-          [
-            33.446825,
-            7.743531
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.494162,
-            7.735849
-          ],
-          [
-            33.465746,
-            7.749514
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.5254933,
-            7.7226986
-          ],
-          [
-            33.494162,
-            7.735849
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.686719,
-            7.665951
-          ],
-          [
-            33.646854,
-            7.693495
-          ],
-          [
-            33.54199,
-            7.693805
-          ],
-          [
-            33.5254933,
-            7.7226986
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.737933,
-            7.629499
-          ],
-          [
-            33.715563,
-            7.66314
-          ],
-          [
-            33.686719,
-            7.665951
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.819198,
-            7.563354
-          ],
-          [
-            33.737933,
-            7.629499
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.864749,
-            7.558965
-          ],
-          [
-            33.819198,
-            7.563354
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.942791,
-            7.472006
-          ],
-          [
-            33.907549,
-            7.500501
-          ],
-          [
-            33.898742,
-            7.538901
-          ],
-          [
-            33.864749,
-            7.558965
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            33.979101,
-            7.443264
-          ],
-          [
-            33.942791,
-            7.472006
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.186047,
-            7.133241
-          ],
-          [
-            34.104444,
-            7.169556
-          ],
-          [
-            34.1012138,
-            7.1937837
-          ],
-          [
-            34.021703,
-            7.245961
-          ],
-          [
-            34.011778,
-            7.269696
-          ],
-          [
-            34.041349,
-            7.275899
-          ],
-          [
-            34.036631,
-            7.356722
-          ],
-          [
-            34.007685,
-            7.381867
-          ],
-          [
-            34.004325,
-            7.418104
-          ],
-          [
-            33.979101,
-            7.443264
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.19211,
-            7.108851
-          ],
-          [
-            34.186047,
-            7.133241
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.2672409,
-            6.9965951
-          ],
-          [
-            34.276641,
-            7.003721
-          ],
-          [
-            34.257716,
-            7.011814
-          ],
-          [
-            34.231693,
-            7.004307
-          ],
-          [
-            34.220892,
-            7.03864
-          ],
-          [
-            34.191523,
-            7.041492
-          ],
-          [
-            34.19211,
-            7.108851
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5383036,
-            6.7596259
-          ],
-          [
-            34.530475,
-            6.852424
-          ],
-          [
-            34.511305,
-            6.856467
-          ],
-          [
-            34.515007,
-            6.872871
-          ],
-          [
-            34.47288,
-            6.916721
-          ],
-          [
-            34.433,
-            6.907701
-          ],
-          [
-            34.417707,
-            6.923192
-          ],
-          [
-            34.394334,
-            6.926128
-          ],
-          [
-            34.383234,
-            6.91124
-          ],
-          [
-            34.342208,
-            6.929916
-          ],
-          [
-            34.333931,
-            6.92109
-          ],
-          [
-            34.310993,
-            6.950619
-          ],
-          [
-            34.292848,
-            6.948403
-          ],
-          [
-            34.305387,
-            6.977913
-          ],
-          [
-            34.2672409,
-            6.9965951
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.545404,
-            6.749324
-          ],
-          [
-            34.531028,
-            6.745278
-          ],
-          [
-            34.5383036,
-            6.7596259
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9812294,
-            6.496422
-          ],
-          [
-            34.957689,
-            6.504036
-          ],
-          [
-            34.939003,
-            6.558017
-          ],
-          [
-            34.883185,
-            6.58647
-          ],
-          [
-            34.889887,
-            6.600647
-          ],
-          [
-            34.864242,
-            6.61079
-          ],
-          [
-            34.768106,
-            6.594498
-          ],
-          [
-            34.714215,
-            6.654663
-          ],
-          [
-            34.711024,
-            6.685173
-          ],
-          [
-            34.651961,
-            6.732661
-          ],
-          [
-            34.625813,
-            6.74381
-          ],
-          [
-            34.6176137,
-            6.7234516
-          ],
-          [
-            34.550368,
-            6.734704
-          ],
-          [
-            34.545404,
-            6.749324
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9852021,
-            6.3127528
-          ],
-          [
-            35.000504,
-            6.349945
-          ],
-          [
-            34.991404,
-            6.394355
-          ],
-          [
-            35.0221814,
-            6.4350321
-          ],
-          [
-            35.011521,
-            6.471852
-          ],
-          [
-            34.9812294,
-            6.496422
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9852021,
-            6.3127528
-          ],
-          [
-            34.952646,
-            6.251687
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.952646,
-            6.251687
-          ],
-          [
-            34.978937,
-            6.185531
-          ],
-          [
-            34.963827,
-            6.137953
-          ],
-          [
-            34.971951,
-            6.089775
-          ],
-          [
-            35.004779,
-            6.075383
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.004779,
-            6.075383
-          ],
-          [
-            35.00072,
-            6.026699
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.00072,
-            6.026699
-          ],
-          [
-            35.008972,
-            6.0072792
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.008972,
-            6.0072792
-          ],
-          [
-            34.990642,
-            5.952839
-          ],
-          [
-            35.011369,
-            5.917399
-          ],
-          [
-            34.997657,
-            5.896967
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.997657,
-            5.896967
-          ],
-          [
-            35.041308,
-            5.838
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.041308,
-            5.838
-          ],
-          [
-            35.130149,
-            5.687448
-          ],
-          [
-            35.126028,
-            5.624417
-          ],
-          [
-            35.305837,
-            5.503541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.305837,
-            5.503541
-          ],
-          [
-            35.296726,
-            5.360447
-          ],
-          [
-            35.316185,
-            5.334791
-          ],
-          [
-            35.370688,
-            5.354432
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.370688,
-            5.354432
-          ],
-          [
-            35.499631,
-            5.419269
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.499631,
-            5.419269
-          ],
-          [
-            35.577708,
-            5.416775
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.577708,
-            5.416775
-          ],
-          [
-            35.599038,
-            5.398986
-          ],
-          [
-            35.617226,
-            5.403877
-          ],
-          [
-            35.620613,
-            5.381796
-          ],
-          [
-            35.700457,
-            5.393432
-          ],
-          [
-            35.7414309,
-            5.3762266
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7414309,
-            5.3762266
-          ],
-          [
-            35.7891185,
-            5.3484838
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7891185,
-            5.3484838
-          ],
-          [
-            35.8623387,
-            5.3201798
-          ],
-          [
-            35.8595432,
-            5.2906267
-          ],
-          [
-            35.828384,
-            5.259079
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.828384,
-            5.259079
-          ],
-          [
-            35.8594508,
-            5.1907276
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.8594508,
-            5.1907276
-          ],
-          [
-            35.864522,
-            5.177593
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.864522,
-            5.177593
-          ],
-          [
-            35.821087,
-            5.107933
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.821087,
-            5.107933
-          ],
-          [
-            35.8179366,
-            4.7742096
-          ],
-          [
-            35.948997,
-            4.631039
-          ],
-          [
-            35.944231,
-            4.6191361
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.944231,
-            4.6191361
-          ],
-          [
-            35.9559784,
-            4.5346069
-          ],
-          [
-            36.0508992,
-            4.4466557
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.0508992,
-            4.4466557
-          ],
-          [
-            36.1697836,
-            4.4480726
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.1697836,
-            4.4480726
-          ],
-          [
-            36.6261039,
-            4.4518303
-          ],
-          [
-            36.7154141,
-            4.4403274
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.7154141,
-            4.4403274
-          ],
-          [
-            36.7173517,
-            4.4404684
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.7173517,
-            4.4404684
-          ],
-          [
-            36.8447318,
-            4.4472527
-          ],
-          [
-            37.0214896,
-            4.3694328
-          ],
-          [
-            37.0321098,
-            4.3832268
-          ],
-          [
-            37.1289115,
-            4.2924675
-          ],
-          [
-            37.844753,
-            3.8207842
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.844753,
-            3.8207842
-          ],
-          [
-            38.0087333,
-            3.7264275
-          ],
-          [
-            38.0327201,
-            3.6880364
-          ],
-          [
-            38.1298881,
-            3.605822
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.1298881,
-            3.605822
-          ],
-          [
-            38.1912894,
-            3.6198601
-          ],
-          [
-            38.4484916,
-            3.6018547
-          ],
-          [
-            38.5231376,
-            3.6258415
-          ],
-          [
-            38.5165458,
-            3.6490349
-          ],
-          [
-            38.5393119,
-            3.6542229
-          ],
-          [
-            38.5599418,
-            3.6142449
-          ],
-          [
-            38.6196037,
-            3.6033196
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.6196037,
-            3.6033196
-          ],
-          [
-            38.6655326,
-            3.5932488
-          ],
-          [
-            38.6876884,
-            3.6236443
-          ],
-          [
-            38.7147269,
-            3.5722527
-          ],
-          [
-            38.7579603,
-            3.5582131
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.7579603,
-            3.5582131
-          ],
-          [
-            38.9224906,
-            3.5114617
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.9224906,
-            3.5114617
-          ],
-          [
-            38.9603324,
-            3.5154289
-          ],
-          [
-            38.9685111,
-            3.5310539
-          ],
-          [
-            39.0178886,
-            3.5094475
-          ],
-          [
-            39.0411323,
-            3.525211
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.0411323,
-            3.525211
-          ],
-          [
-            39.0624487,
-            3.5251292
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.0624487,
-            3.5251292
-          ],
-          [
-            39.0915523,
-            3.5344943
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.1633353,
-            3.4932732
-          ],
-          [
-            39.0915523,
-            3.5344943
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.3203178,
-            3.4960198
-          ],
-          [
-            39.3038993,
-            3.4762444
-          ],
-          [
-            39.2659354,
-            3.4700188
-          ],
-          [
-            39.1633353,
-            3.4932732
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.7852362,
-            3.6986348
-          ],
-          [
-            39.7675223,
-            3.6574577
-          ],
-          [
-            39.5880194,
-            3.491893
-          ],
-          [
-            39.5538993,
-            3.397448
-          ],
-          [
-            39.5148978,
-            3.4070305
-          ],
-          [
-            39.4954887,
-            3.4640373
-          ],
-          [
-            39.4293265,
-            3.4508537
-          ],
-          [
-            39.4260917,
-            3.4624504
-          ],
-          [
-            39.3309379,
-            3.4636711
-          ],
-          [
-            39.3327079,
-            3.4988274
-          ],
-          [
-            39.3203178,
-            3.4960198
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.9424713,
-            3.91159
-          ],
-          [
-            39.8695679,
-            3.8747265
-          ],
-          [
-            39.7852362,
-            3.6986348
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.2571503,
-            4.0589732
-          ],
-          [
-            40.1919823,
-            4.0439338
-          ],
-          [
-            39.9424713,
-            3.91159
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.4294121,
-            4.1322793
-          ],
-          [
-            40.2571503,
-            4.0589732
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.98219,
-            4.11061
-          ],
-          [
-            40.96508,
-            4.13207
-          ],
-          [
-            40.90416,
-            4.15462
-          ],
-          [
-            40.88238,
-            4.21284
-          ],
-          [
-            40.8441,
-            4.24626
-          ],
-          [
-            40.7665754,
-            4.2848615
-          ],
-          [
-            40.7174483,
-            4.2450005
-          ],
-          [
-            40.4294121,
-            4.1322793
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.1703152,
-            3.9423189
-          ],
-          [
-            41.1053887,
-            3.9852817
-          ],
-          [
-            41.09187,
-            4.01332
-          ],
-          [
-            40.98219,
-            4.11061
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.2817421,
-            3.9485452
-          ],
-          [
-            41.235302,
-            3.9588847
-          ],
-          [
-            41.2009812,
-            3.9381059
-          ],
-          [
-            41.1703152,
-            3.9423189
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.5741429,
-            3.9698355
-          ],
-          [
-            41.54516,
-            3.98214
-          ],
-          [
-            41.50977,
-            3.95463
-          ],
-          [
-            41.50568,
-            3.96476
-          ],
-          [
-            41.43019,
-            3.94494
-          ],
-          [
-            41.39125,
-            3.96276
-          ],
-          [
-            41.37862,
-            3.95175
-          ],
-          [
-            41.35456,
-            3.96032
-          ],
-          [
-            41.32631,
-            3.93876
-          ],
-          [
-            41.2817421,
-            3.9485452
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.7048985,
-            3.9811179
-          ],
-          [
-            41.6744118,
-            3.9599254
-          ],
-          [
-            41.6277046,
-            3.9832935
-          ],
-          [
-            41.5741429,
-            3.9698355
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.8479211,
-            3.949055
-          ],
-          [
-            41.7991692,
-            3.9569326
-          ],
-          [
-            41.7917878,
-            3.9821063
-          ],
-          [
-            41.77258,
-            3.97229
-          ],
-          [
-            41.7205925,
-            3.9924597
-          ],
-          [
-            41.7048985,
-            3.9811179
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.9067502,
-            3.9826836
-          ],
-          [
-            41.8479211,
-            3.949055
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.0630513,
-            4.1632355
-          ],
-          [
-            42.0003112,
-            4.0935225
-          ],
-          [
-            41.978884,
-            4.0953857
-          ],
-          [
-            41.9462773,
-            4.0554814
-          ],
-          [
-            41.9430166,
-            4.0166639
-          ],
-          [
-            41.9067502,
-            3.9826836
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.4011624,
-            4.1927315
-          ],
-          [
-            42.0873715,
-            4.1791126
-          ],
-          [
-            42.0630513,
-            4.1632355
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.8841549,
-            4.3069829
-          ],
-          [
-            42.8249036,
-            4.2667552
-          ],
-          [
-            42.7029924,
-            4.2603867
-          ],
-          [
-            42.554091,
-            4.2067094
-          ],
-          [
-            42.4011624,
-            4.1927315
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.1266094,
-            4.633388
-          ],
-          [
-            43.0347606,
-            4.5590424
-          ],
-          [
-            42.9895746,
-            4.4359751
-          ],
-          [
-            42.8841549,
-            4.3069829
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.5895692,
-            4.9319746
-          ],
-          [
-            44.1539852,
-            4.9504394
-          ],
-          [
-            43.8090252,
-            4.9021071
-          ],
-          [
-            43.4346867,
-            4.794544
-          ],
-          [
-            43.1266094,
-            4.633388
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9983473,
-            4.9458237
-          ],
-          [
-            44.9780113,
-            4.9233834
-          ],
-          [
-            44.5895692,
-            4.9319746
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.4109297,
-            5.5363816
-          ],
-          [
-            44.9983473,
-            4.9458237
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.5739276,
-            5.6939847
-          ],
-          [
-            45.4109297,
-            5.5363816
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.8484755,
-            5.9593474
-          ],
-          [
-            45.5739276,
-            5.6939847
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5110781,
-            6.5203314
-          ],
-          [
-            45.8484755,
-            5.9593474
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5214741,
-            6.5305194
-          ],
-          [
-            46.5110781,
-            6.5203314
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.8728619,
-            6.9077268
-          ],
-          [
-            46.5214741,
-            6.5305194
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.337517,
-            7.3826211
-          ],
-          [
-            46.8728619,
-            6.9077268
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.557065,
-            7.5609488
-          ],
-          [
-            47.337517,
-            7.3826211
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.9199982,
-            8.0
-          ],
-          [
-            47.9823797,
-            7.9997734
-          ],
-          [
-            47.557065,
-            7.5609488
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.0118848,
-            8.0007395
-          ],
-          [
-            47.9199982,
-            8.0
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.250015,
-            8.2543942
-          ],
-          [
-            47.0118848,
-            8.0007395
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.6262438,
-            8.4617456
-          ],
-          [
-            46.250015,
-            8.2543942
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.2900009,
-            8.57202
-          ],
-          [
-            45.6262438,
-            8.4617456
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.6899986,
-            8.7725346
-          ],
-          [
-            45.2900009,
-            8.57202
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.3802386,
-            8.874995
-          ],
-          [
-            44.6899986,
-            8.7725346
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.971644,
-            9.026278
-          ],
-          [
-            44.0064382,
-            8.9955251
-          ],
-          [
-            44.3802386,
-            8.874995
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.5634661,
-            9.3705978
-          ],
-          [
-            43.6429276,
-            9.3567568
-          ],
-          [
-            43.971644,
-            9.026278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2862243,
-            9.6736703
-          ],
-          [
-            43.2982271,
-            9.6060745
-          ],
-          [
-            43.3301664,
-            9.6017074
-          ],
-          [
-            43.3997997,
-            9.5520162
-          ],
-          [
-            43.4635587,
-            9.4157664
-          ],
-          [
-            43.5634661,
-            9.3705978
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.8873443,
-            10.1896995
-          ],
-          [
-            43.0247911,
-            10.0510533
-          ],
-          [
-            43.0902762,
-            9.9042515
-          ],
-          [
-            43.1291604,
-            9.8862864
-          ],
-          [
-            43.1500369,
-            9.8992399
-          ],
-          [
-            43.2569505,
-            9.8428969
-          ],
-          [
-            43.2862243,
-            9.6736703
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.8177444,
-            10.318312
-          ],
-          [
-            42.8873443,
-            10.1896995
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.96164,
-            10.98441
-          ],
-          [
-            42.7657753,
-            10.7216226
-          ],
-          [
-            42.7098797,
-            10.6221873
-          ],
-          [
-            42.7198821,
-            10.5336369
-          ],
-          [
-            42.7471356,
-            10.5119494
-          ],
-          [
-            42.8177444,
-            10.318312
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.6042767,
-            11.0701545
-          ],
-          [
-            42.6288858,
-            11.0955791
-          ],
-          [
-            42.6887529,
-            11.0562841
-          ],
-          [
-            42.7526705,
-            11.0794651
-          ],
-          [
-            42.7924108,
-            10.9873015
-          ],
-          [
-            42.8675764,
-            10.9693949
-          ],
-          [
-            42.96164,
-            10.98441
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.3327787,
-            10.9877851
-          ],
-          [
-            42.3490461,
-            11.0019709
-          ],
-          [
-            42.4212534,
-            10.9818705
-          ],
-          [
-            42.5066815,
-            11.0399176
-          ],
-          [
-            42.6042767,
-            11.0701545
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.7938823,
-            10.9900855
-          ],
-          [
-            41.8177449,
-            10.962868
-          ],
-          [
-            41.9415978,
-            10.9389405
-          ],
-          [
-            41.9468746,
-            10.9149547
-          ],
-          [
-            41.9718675,
-            10.9282789
-          ],
-          [
-            42.0684941,
-            10.9251487
-          ],
-          [
-            42.0782449,
-            10.9545996
-          ],
-          [
-            42.144999,
-            10.9811521
-          ],
-          [
-            42.198385,
-            10.9645327
-          ],
-          [
-            42.3327787,
-            10.9877851
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.8055167,
-            11.2385737
-          ],
-          [
-            41.7938823,
-            10.9900855
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.039867,
-            11.932071
-          ],
-          [
-            41.9550009,
-            11.8118705
-          ],
-          [
-            41.8999362,
-            11.7931603
-          ],
-          [
-            41.8949167,
-            11.7561439
-          ],
-          [
-            41.8360588,
-            11.7328259
-          ],
-          [
-            41.807406,
-            11.6554235
-          ],
-          [
-            41.8040751,
-            11.5717692
-          ],
-          [
-            41.7713139,
-            11.4937864
-          ],
-          [
-            41.80774,
-            11.31826
-          ],
-          [
-            41.8055167,
-            11.2385737
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.219761,
-            12.202486
-          ],
-          [
-            42.039867,
-            11.932071
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.4041794,
-            12.4686245
-          ],
-          [
-            42.33714,
-            12.37184
-          ],
-          [
-            42.31723,
-            12.30464
-          ],
-          [
-            42.219761,
-            12.202486
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.8852954,
-            13.0807401
-          ],
-          [
-            41.9663637,
-            12.9233163
-          ],
-          [
-            42.0301815,
-            12.8680964
-          ],
-          [
-            42.0573019,
-            12.8010406
-          ],
-          [
-            42.2192604,
-            12.762334
-          ],
-          [
-            42.2786166,
-            12.6354841
-          ],
-          [
-            42.4041794,
-            12.4686245
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.3649902,
-            14.3662517
-          ],
-          [
-            40.4517454,
-            14.3068436
-          ],
-          [
-            40.8102619,
-            14.1720437
-          ],
-          [
-            40.9433496,
-            14.0802764
-          ],
-          [
-            41.2507443,
-            13.6103935
-          ],
-          [
-            41.4028238,
-            13.5008825
-          ],
-          [
-            41.6422818,
-            13.3849809
-          ],
-          [
-            41.668527,
-            13.3235818
-          ],
-          [
-            41.8852954,
-            13.0807401
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            40.147533,
-            14.53925
-          ],
-          [
-            40.2131918,
-            14.3871122
-          ],
-          [
-            40.259453,
-            14.4110632
-          ],
-          [
-            40.3649902,
-            14.3662517
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.9823845,
-            14.4441847
-          ],
-          [
-            40.008617,
-            14.448291
-          ],
-          [
-            40.069291,
-            14.540404
-          ],
-          [
-            40.147533,
-            14.53925
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.821033,
-            14.483742
-          ],
-          [
-            39.838351,
-            14.490417
-          ],
-          [
-            39.930448,
-            14.415153
-          ],
-          [
-            39.957229,
-            14.41814
-          ],
-          [
-            39.9823845,
-            14.4441847
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.765314,
-            14.548161
-          ],
-          [
-            39.821033,
-            14.483742
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.686219,
-            14.592321
-          ],
-          [
-            39.7126712,
-            14.5556275
-          ],
-          [
-            39.765314,
-            14.548161
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.639219,
-            14.604311
-          ],
-          [
-            39.686219,
-            14.592321
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.586794,
-            14.609022
-          ],
-          [
-            39.639219,
-            14.604311
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.561002,
-            14.597807
-          ],
-          [
-            39.586794,
-            14.609022
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.529314,
-            14.56653
-          ],
-          [
-            39.532281,
-            14.58417
-          ],
-          [
-            39.561002,
-            14.597807
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.5240477,
-            14.5651941
-          ],
-          [
-            39.529314,
-            14.56653
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.5240477,
-            14.5651941
-          ],
-          [
-            39.5085135,
-            14.5492638
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.5085135,
-            14.5492638
-          ],
-          [
-            39.5069077,
-            14.5212471
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.5399329,
-            14.5006629
-          ],
-          [
-            39.5069077,
-            14.5212471
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.4960429,
-            14.4838498
-          ],
-          [
-            39.5399329,
-            14.5006629
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.2851665,
-            14.4509755
-          ],
-          [
-            39.301334,
-            14.46992
-          ],
-          [
-            39.346443,
-            14.46625
-          ],
-          [
-            39.328644,
-            14.49394
-          ],
-          [
-            39.360033,
-            14.48331
-          ],
-          [
-            39.360943,
-            14.53319
-          ],
-          [
-            39.395771,
-            14.5435423
-          ],
-          [
-            39.447584,
-            14.50531
-          ],
-          [
-            39.4919121,
-            14.5041691
-          ],
-          [
-            39.4960429,
-            14.4838498
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.250771,
-            14.410326
-          ],
-          [
-            39.2851665,
-            14.4509755
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.227767,
-            14.450227
-          ],
-          [
-            39.250771,
-            14.410326
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.264591,
-            14.503045
-          ],
-          [
-            39.266784,
-            14.484996
-          ],
-          [
-            39.227767,
-            14.450227
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.241032,
-            14.563238
-          ],
-          [
-            39.264591,
-            14.503045
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.168513,
-            14.6491904
-          ],
-          [
-            39.157394,
-            14.60833
-          ],
-          [
-            39.205283,
-            14.56533
-          ],
-          [
-            39.241032,
-            14.563238
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.1039903,
-            14.6389992
-          ],
-          [
-            39.168513,
-            14.6491904
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.0217927,
-            14.6330963
-          ],
-          [
-            39.1039903,
-            14.6389992
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.9754779,
-            14.544037
-          ],
-          [
-            39.0171504,
-            14.5961855
-          ],
-          [
-            39.0217927,
-            14.6330963
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.9754779,
-            14.544037
-          ],
-          [
-            38.9290667,
-            14.5383497
-          ],
-          [
-            38.9180506,
-            14.5231442
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.7049076,
-            14.4708888
-          ],
-          [
-            38.7975258,
-            14.4669034
-          ],
-          [
-            38.9180506,
-            14.5231442
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.5208602,
-            14.4073045
-          ],
-          [
-            38.5727096,
-            14.4363226
-          ],
-          [
-            38.6470637,
-            14.4426892
-          ],
-          [
-            38.7049076,
-            14.4708888
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.43303,
-            14.4347427
-          ],
-          [
-            38.4509991,
-            14.4145188
-          ],
-          [
-            38.485159,
-            14.4245536
-          ],
-          [
-            38.5208602,
-            14.4073045
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.3980873,
-            14.4879781
-          ],
-          [
-            38.4017029,
-            14.4698703
-          ],
-          [
-            38.42447,
-            14.4694935
-          ],
-          [
-            38.43303,
-            14.4347427
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.269395,
-            14.6183061
-          ],
-          [
-            38.312826,
-            14.5897435
-          ],
-          [
-            38.3203446,
-            14.5536744
-          ],
-          [
-            38.3671565,
-            14.4903853
-          ],
-          [
-            38.3980873,
-            14.4879781
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.2617481,
-            14.6744604
-          ],
-          [
-            38.269395,
-            14.6183061
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.2617481,
-            14.6744604
-          ],
-          [
-            38.1916094,
-            14.69506
-          ],
-          [
-            38.1868672,
-            14.6786312
-          ],
-          [
-            38.1434047,
-            14.6768979
-          ],
-          [
-            38.092432,
-            14.7162714
-          ],
-          [
-            38.0453217,
-            14.7190628
-          ],
-          [
-            38.0163002,
-            14.743011
-          ],
-          [
-            38.0217397,
-            14.7616448
-          ],
-          [
-            37.9899502,
-            14.7774242
-          ],
-          [
-            37.9852563,
-            14.8098819
-          ],
-          [
-            37.968986,
-            14.8010444
-          ],
-          [
-            37.9666793,
-            14.8321918
-          ],
-          [
-            37.9112436,
-            14.8938714
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.5276004,
-            14.1845101
-          ],
-          [
-            37.9112436,
-            14.8938714
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.5122602,
-            14.1839438
-          ],
-          [
-            37.5276004,
-            14.1845101
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.694034,
-            14.301259
-          ],
-          [
-            36.7437842,
-            14.3224916
-          ],
-          [
-            36.8338884,
-            14.309045
-          ],
-          [
-            36.8685599,
-            14.3213215
-          ],
-          [
-            36.9715144,
-            14.292728
-          ],
-          [
-            37.0197248,
-            14.2521329
-          ],
-          [
-            37.0972703,
-            14.2754749
-          ],
-          [
-            37.101624,
-            14.3359
-          ],
-          [
-            37.135452,
-            14.4095658
-          ],
-          [
-            37.2224322,
-            14.4440469
-          ],
-          [
-            37.2464077,
-            14.4350607
-          ],
-          [
-            37.3091138,
-            14.447924
-          ],
-          [
-            37.3926848,
-            14.3655345
-          ],
-          [
-            37.3802948,
-            14.3453902
-          ],
-          [
-            37.4043783,
-            14.3357364
-          ],
-          [
-            37.3933682,
-            14.3014374
-          ],
-          [
-            37.4513733,
-            14.2509588
-          ],
-          [
-            37.4690295,
-            14.2542877
-          ],
-          [
-            37.4673808,
-            14.2153509
-          ],
-          [
-            37.5122602,
-            14.1839438
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.5602137,
-            14.257558
-          ],
-          [
-            36.5555585,
-            14.2838845
-          ],
-          [
-            36.5898804,
-            14.2858665
-          ],
-          [
-            36.6334414,
-            14.3135034
-          ],
-          [
-            36.694034,
-            14.301259
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.5602137,
-            14.257558
-          ],
-          [
-            36.5598894,
-            14.2568723
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.5598894,
-            14.2568723
-          ],
-          [
-            36.528611,
-            14.211944
-          ],
-          [
-            36.446389,
-            13.956944
-          ],
-          [
-            36.486944,
-            13.839444
-          ],
-          [
-            36.4609194,
-            13.7809039
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.4609194,
-            13.7809039
-          ],
-          [
-            36.427222,
-            13.702222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "ET",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
-        "name": "\u12a2\u1275\u12ee\u1335\u12eb"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.427222,
-            13.702222
-          ],
-          [
-            36.3975,
-            13.567778
-          ],
-          [
-            36.248611,
-            13.368056
-          ],
-          [
-            36.1613085,
-            13.0088933
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.161308,
+              13.008893
+            ],
+            [
+              36.248611,
+              13.368056
+            ],
+            [
+              36.3975,
+              13.567778
+            ],
+            [
+              36.427222,
+              13.702222
+            ],
+            [
+              36.427222,
+              13.702222
+            ],
+            [
+              36.460919,
+              13.780904
+            ],
+            [
+              36.460919,
+              13.780904
+            ],
+            [
+              36.486944,
+              13.839444
+            ],
+            [
+              36.446389,
+              13.956944
+            ],
+            [
+              36.528611,
+              14.211944
+            ],
+            [
+              36.559889,
+              14.256872
+            ],
+            [
+              36.559889,
+              14.256872
+            ],
+            [
+              36.560214,
+              14.257558
+            ],
+            [
+              36.560214,
+              14.257558
+            ],
+            [
+              36.555558,
+              14.283884
+            ],
+            [
+              36.58988,
+              14.285866
+            ],
+            [
+              36.633441,
+              14.313503
+            ],
+            [
+              36.694034,
+              14.301259
+            ],
+            [
+              36.694034,
+              14.301259
+            ],
+            [
+              36.743784,
+              14.322492
+            ],
+            [
+              36.833888,
+              14.309045
+            ],
+            [
+              36.86856,
+              14.321321
+            ],
+            [
+              36.971514,
+              14.292728
+            ],
+            [
+              37.019725,
+              14.252133
+            ],
+            [
+              37.09727,
+              14.275475
+            ],
+            [
+              37.101624,
+              14.3359
+            ],
+            [
+              37.135452,
+              14.409566
+            ],
+            [
+              37.222432,
+              14.444047
+            ],
+            [
+              37.246408,
+              14.435061
+            ],
+            [
+              37.309114,
+              14.447924
+            ],
+            [
+              37.392685,
+              14.365535
+            ],
+            [
+              37.380295,
+              14.34539
+            ],
+            [
+              37.404378,
+              14.335736
+            ],
+            [
+              37.393368,
+              14.301437
+            ],
+            [
+              37.451373,
+              14.250959
+            ],
+            [
+              37.469029,
+              14.254288
+            ],
+            [
+              37.467381,
+              14.215351
+            ],
+            [
+              37.51226,
+              14.183944
+            ],
+            [
+              37.51226,
+              14.183944
+            ],
+            [
+              37.5276,
+              14.18451
+            ],
+            [
+              37.5276,
+              14.18451
+            ],
+            [
+              37.911244,
+              14.893871
+            ],
+            [
+              37.911244,
+              14.893871
+            ],
+            [
+              37.966679,
+              14.832192
+            ],
+            [
+              37.968986,
+              14.801044
+            ],
+            [
+              37.985256,
+              14.809882
+            ],
+            [
+              37.98995,
+              14.777424
+            ],
+            [
+              38.02174,
+              14.761645
+            ],
+            [
+              38.0163,
+              14.743011
+            ],
+            [
+              38.045322,
+              14.719063
+            ],
+            [
+              38.092432,
+              14.716271
+            ],
+            [
+              38.143405,
+              14.676898
+            ],
+            [
+              38.186867,
+              14.678631
+            ],
+            [
+              38.191609,
+              14.69506
+            ],
+            [
+              38.261748,
+              14.67446
+            ],
+            [
+              38.261748,
+              14.67446
+            ],
+            [
+              38.269395,
+              14.618306
+            ],
+            [
+              38.269395,
+              14.618306
+            ],
+            [
+              38.312826,
+              14.589744
+            ],
+            [
+              38.320345,
+              14.553674
+            ],
+            [
+              38.367157,
+              14.490385
+            ],
+            [
+              38.398087,
+              14.487978
+            ],
+            [
+              38.398087,
+              14.487978
+            ],
+            [
+              38.401703,
+              14.46987
+            ],
+            [
+              38.42447,
+              14.469494
+            ],
+            [
+              38.43303,
+              14.434743
+            ],
+            [
+              38.43303,
+              14.434743
+            ],
+            [
+              38.450999,
+              14.414519
+            ],
+            [
+              38.485159,
+              14.424554
+            ],
+            [
+              38.52086,
+              14.407305
+            ],
+            [
+              38.52086,
+              14.407305
+            ],
+            [
+              38.57271,
+              14.436323
+            ],
+            [
+              38.647064,
+              14.442689
+            ],
+            [
+              38.704908,
+              14.470889
+            ],
+            [
+              38.704908,
+              14.470889
+            ],
+            [
+              38.797526,
+              14.466903
+            ],
+            [
+              38.918051,
+              14.523144
+            ],
+            [
+              38.918051,
+              14.523144
+            ],
+            [
+              38.929067,
+              14.53835
+            ],
+            [
+              38.975478,
+              14.544037
+            ],
+            [
+              38.975478,
+              14.544037
+            ],
+            [
+              39.01715,
+              14.596186
+            ],
+            [
+              39.021793,
+              14.633096
+            ],
+            [
+              39.021793,
+              14.633096
+            ],
+            [
+              39.10399,
+              14.638999
+            ],
+            [
+              39.10399,
+              14.638999
+            ],
+            [
+              39.168513,
+              14.64919
+            ],
+            [
+              39.168513,
+              14.64919
+            ],
+            [
+              39.157394,
+              14.60833
+            ],
+            [
+              39.205283,
+              14.56533
+            ],
+            [
+              39.241032,
+              14.563238
+            ],
+            [
+              39.241032,
+              14.563238
+            ],
+            [
+              39.264591,
+              14.503045
+            ],
+            [
+              39.264591,
+              14.503045
+            ],
+            [
+              39.266784,
+              14.484996
+            ],
+            [
+              39.227767,
+              14.450227
+            ],
+            [
+              39.227767,
+              14.450227
+            ],
+            [
+              39.250771,
+              14.410326
+            ],
+            [
+              39.250771,
+              14.410326
+            ],
+            [
+              39.285167,
+              14.450976
+            ],
+            [
+              39.285167,
+              14.450976
+            ],
+            [
+              39.301334,
+              14.46992
+            ],
+            [
+              39.346443,
+              14.46625
+            ],
+            [
+              39.328644,
+              14.49394
+            ],
+            [
+              39.360033,
+              14.48331
+            ],
+            [
+              39.360943,
+              14.53319
+            ],
+            [
+              39.395771,
+              14.543542
+            ],
+            [
+              39.447584,
+              14.50531
+            ],
+            [
+              39.491912,
+              14.504169
+            ],
+            [
+              39.496043,
+              14.48385
+            ],
+            [
+              39.496043,
+              14.48385
+            ],
+            [
+              39.539933,
+              14.500663
+            ],
+            [
+              39.539933,
+              14.500663
+            ],
+            [
+              39.506908,
+              14.521247
+            ],
+            [
+              39.506908,
+              14.521247
+            ],
+            [
+              39.508513,
+              14.549264
+            ],
+            [
+              39.508513,
+              14.549264
+            ],
+            [
+              39.524048,
+              14.565194
+            ],
+            [
+              39.524048,
+              14.565194
+            ],
+            [
+              39.529314,
+              14.56653
+            ],
+            [
+              39.529314,
+              14.56653
+            ],
+            [
+              39.532281,
+              14.58417
+            ],
+            [
+              39.561002,
+              14.597807
+            ],
+            [
+              39.561002,
+              14.597807
+            ],
+            [
+              39.586794,
+              14.609022
+            ],
+            [
+              39.586794,
+              14.609022
+            ],
+            [
+              39.639219,
+              14.604311
+            ],
+            [
+              39.639219,
+              14.604311
+            ],
+            [
+              39.686219,
+              14.592321
+            ],
+            [
+              39.686219,
+              14.592321
+            ],
+            [
+              39.712671,
+              14.555627
+            ],
+            [
+              39.765314,
+              14.548161
+            ],
+            [
+              39.765314,
+              14.548161
+            ],
+            [
+              39.821033,
+              14.483742
+            ],
+            [
+              39.821033,
+              14.483742
+            ],
+            [
+              39.838351,
+              14.490417
+            ],
+            [
+              39.930448,
+              14.415153
+            ],
+            [
+              39.957229,
+              14.41814
+            ],
+            [
+              39.982385,
+              14.444185
+            ],
+            [
+              39.982385,
+              14.444185
+            ],
+            [
+              40.008617,
+              14.448291
+            ],
+            [
+              40.069291,
+              14.540404
+            ],
+            [
+              40.147533,
+              14.53925
+            ],
+            [
+              40.147533,
+              14.53925
+            ],
+            [
+              40.213192,
+              14.387112
+            ],
+            [
+              40.259453,
+              14.411063
+            ],
+            [
+              40.36499,
+              14.366252
+            ],
+            [
+              40.36499,
+              14.366252
+            ],
+            [
+              40.451745,
+              14.306844
+            ],
+            [
+              40.810262,
+              14.172044
+            ],
+            [
+              40.94335,
+              14.080276
+            ],
+            [
+              41.250744,
+              13.610394
+            ],
+            [
+              41.402824,
+              13.500882
+            ],
+            [
+              41.642282,
+              13.384981
+            ],
+            [
+              41.668527,
+              13.323582
+            ],
+            [
+              41.885295,
+              13.08074
+            ],
+            [
+              41.885295,
+              13.08074
+            ],
+            [
+              41.966364,
+              12.923316
+            ],
+            [
+              42.030181,
+              12.868096
+            ],
+            [
+              42.057302,
+              12.801041
+            ],
+            [
+              42.21926,
+              12.762334
+            ],
+            [
+              42.278617,
+              12.635484
+            ],
+            [
+              42.404179,
+              12.468625
+            ],
+            [
+              42.404179,
+              12.468625
+            ],
+            [
+              42.33714,
+              12.37184
+            ],
+            [
+              42.31723,
+              12.30464
+            ],
+            [
+              42.219761,
+              12.202486
+            ],
+            [
+              42.219761,
+              12.202486
+            ],
+            [
+              42.039867,
+              11.932071
+            ],
+            [
+              42.039867,
+              11.932071
+            ],
+            [
+              41.955001,
+              11.81187
+            ],
+            [
+              41.899936,
+              11.79316
+            ],
+            [
+              41.894917,
+              11.756144
+            ],
+            [
+              41.836059,
+              11.732826
+            ],
+            [
+              41.807406,
+              11.655423
+            ],
+            [
+              41.804075,
+              11.571769
+            ],
+            [
+              41.771314,
+              11.493786
+            ],
+            [
+              41.80774,
+              11.31826
+            ],
+            [
+              41.805517,
+              11.238574
+            ],
+            [
+              41.805517,
+              11.238574
+            ],
+            [
+              41.793882,
+              10.990085
+            ],
+            [
+              41.793882,
+              10.990085
+            ],
+            [
+              41.817745,
+              10.962868
+            ],
+            [
+              41.941598,
+              10.93894
+            ],
+            [
+              41.946875,
+              10.914955
+            ],
+            [
+              41.971868,
+              10.928279
+            ],
+            [
+              42.068494,
+              10.925149
+            ],
+            [
+              42.078245,
+              10.9546
+            ],
+            [
+              42.144999,
+              10.981152
+            ],
+            [
+              42.198385,
+              10.964533
+            ],
+            [
+              42.332779,
+              10.987785
+            ],
+            [
+              42.332779,
+              10.987785
+            ],
+            [
+              42.349046,
+              11.001971
+            ],
+            [
+              42.421253,
+              10.98187
+            ],
+            [
+              42.506681,
+              11.039918
+            ],
+            [
+              42.604277,
+              11.070154
+            ],
+            [
+              42.604277,
+              11.070154
+            ],
+            [
+              42.628886,
+              11.095579
+            ],
+            [
+              42.688753,
+              11.056284
+            ],
+            [
+              42.752671,
+              11.079465
+            ],
+            [
+              42.792411,
+              10.987301
+            ],
+            [
+              42.867576,
+              10.969395
+            ],
+            [
+              42.96164,
+              10.98441
+            ],
+            [
+              42.96164,
+              10.98441
+            ],
+            [
+              42.765775,
+              10.721623
+            ],
+            [
+              42.70988,
+              10.622187
+            ],
+            [
+              42.719882,
+              10.533637
+            ],
+            [
+              42.747136,
+              10.511949
+            ],
+            [
+              42.817744,
+              10.318312
+            ],
+            [
+              42.817744,
+              10.318312
+            ],
+            [
+              42.887344,
+              10.189699
+            ],
+            [
+              42.887344,
+              10.189699
+            ],
+            [
+              43.024791,
+              10.051053
+            ],
+            [
+              43.090276,
+              9.904252
+            ],
+            [
+              43.12916,
+              9.886286
+            ],
+            [
+              43.150037,
+              9.89924
+            ],
+            [
+              43.256951,
+              9.842897
+            ],
+            [
+              43.286224,
+              9.67367
+            ],
+            [
+              43.286224,
+              9.67367
+            ],
+            [
+              43.298227,
+              9.606075
+            ],
+            [
+              43.330166,
+              9.601707
+            ],
+            [
+              43.3998,
+              9.552016
+            ],
+            [
+              43.463559,
+              9.415766
+            ],
+            [
+              43.563466,
+              9.370598
+            ],
+            [
+              43.563466,
+              9.370598
+            ],
+            [
+              43.642928,
+              9.356757
+            ],
+            [
+              43.971644,
+              9.026278
+            ],
+            [
+              43.971644,
+              9.026278
+            ],
+            [
+              44.006438,
+              8.995525
+            ],
+            [
+              44.380239,
+              8.874995
+            ],
+            [
+              44.380239,
+              8.874995
+            ],
+            [
+              44.689999,
+              8.772535
+            ],
+            [
+              44.689999,
+              8.772535
+            ],
+            [
+              45.290001,
+              8.57202
+            ],
+            [
+              45.290001,
+              8.57202
+            ],
+            [
+              45.626244,
+              8.461746
+            ],
+            [
+              45.626244,
+              8.461746
+            ],
+            [
+              46.250015,
+              8.254394
+            ],
+            [
+              46.250015,
+              8.254394
+            ],
+            [
+              47.011885,
+              8.000739
+            ],
+            [
+              47.011885,
+              8.000739
+            ],
+            [
+              47.919998,
+              8.0
+            ],
+            [
+              47.919998,
+              8.0
+            ],
+            [
+              47.98238,
+              7.999773
+            ],
+            [
+              47.557065,
+              7.560949
+            ],
+            [
+              47.557065,
+              7.560949
+            ],
+            [
+              47.337517,
+              7.382621
+            ],
+            [
+              47.337517,
+              7.382621
+            ],
+            [
+              46.872862,
+              6.907727
+            ],
+            [
+              46.872862,
+              6.907727
+            ],
+            [
+              46.521474,
+              6.530519
+            ],
+            [
+              46.521474,
+              6.530519
+            ],
+            [
+              46.511078,
+              6.520331
+            ],
+            [
+              46.511078,
+              6.520331
+            ],
+            [
+              45.848475,
+              5.959347
+            ],
+            [
+              45.848475,
+              5.959347
+            ],
+            [
+              45.573928,
+              5.693985
+            ],
+            [
+              45.573928,
+              5.693985
+            ],
+            [
+              45.41093,
+              5.536382
+            ],
+            [
+              45.41093,
+              5.536382
+            ],
+            [
+              44.998347,
+              4.945824
+            ],
+            [
+              44.998347,
+              4.945824
+            ],
+            [
+              44.978011,
+              4.923383
+            ],
+            [
+              44.589569,
+              4.931975
+            ],
+            [
+              44.589569,
+              4.931975
+            ],
+            [
+              44.153985,
+              4.950439
+            ],
+            [
+              43.809025,
+              4.902107
+            ],
+            [
+              43.434687,
+              4.794544
+            ],
+            [
+              43.126609,
+              4.633388
+            ],
+            [
+              43.126609,
+              4.633388
+            ],
+            [
+              43.034761,
+              4.559042
+            ],
+            [
+              42.989575,
+              4.435975
+            ],
+            [
+              42.884155,
+              4.306983
+            ],
+            [
+              42.884155,
+              4.306983
+            ],
+            [
+              42.824904,
+              4.266755
+            ],
+            [
+              42.702992,
+              4.260387
+            ],
+            [
+              42.554091,
+              4.206709
+            ],
+            [
+              42.401162,
+              4.192731
+            ],
+            [
+              42.401162,
+              4.192731
+            ],
+            [
+              42.087372,
+              4.179113
+            ],
+            [
+              42.063051,
+              4.163235
+            ],
+            [
+              42.063051,
+              4.163235
+            ],
+            [
+              42.000311,
+              4.093522
+            ],
+            [
+              41.978884,
+              4.095386
+            ],
+            [
+              41.946277,
+              4.055481
+            ],
+            [
+              41.943017,
+              4.016664
+            ],
+            [
+              41.90675,
+              3.982684
+            ],
+            [
+              41.90675,
+              3.982684
+            ],
+            [
+              41.847921,
+              3.949055
+            ],
+            [
+              41.847921,
+              3.949055
+            ],
+            [
+              41.799169,
+              3.956933
+            ],
+            [
+              41.791788,
+              3.982106
+            ],
+            [
+              41.77258,
+              3.97229
+            ],
+            [
+              41.720593,
+              3.99246
+            ],
+            [
+              41.704898,
+              3.981118
+            ],
+            [
+              41.704898,
+              3.981118
+            ],
+            [
+              41.674412,
+              3.959925
+            ],
+            [
+              41.627705,
+              3.983293
+            ],
+            [
+              41.574143,
+              3.969835
+            ],
+            [
+              41.574143,
+              3.969835
+            ],
+            [
+              41.54516,
+              3.98214
+            ],
+            [
+              41.50977,
+              3.95463
+            ],
+            [
+              41.50568,
+              3.96476
+            ],
+            [
+              41.43019,
+              3.94494
+            ],
+            [
+              41.39125,
+              3.96276
+            ],
+            [
+              41.37862,
+              3.95175
+            ],
+            [
+              41.35456,
+              3.96032
+            ],
+            [
+              41.32631,
+              3.93876
+            ],
+            [
+              41.281742,
+              3.948545
+            ],
+            [
+              41.281742,
+              3.948545
+            ],
+            [
+              41.235302,
+              3.958885
+            ],
+            [
+              41.200981,
+              3.938106
+            ],
+            [
+              41.170315,
+              3.942319
+            ],
+            [
+              41.170315,
+              3.942319
+            ],
+            [
+              41.105389,
+              3.985282
+            ],
+            [
+              41.09187,
+              4.01332
+            ],
+            [
+              40.98219,
+              4.11061
+            ],
+            [
+              40.98219,
+              4.11061
+            ],
+            [
+              40.96508,
+              4.13207
+            ],
+            [
+              40.90416,
+              4.15462
+            ],
+            [
+              40.88238,
+              4.21284
+            ],
+            [
+              40.8441,
+              4.24626
+            ],
+            [
+              40.766575,
+              4.284861
+            ],
+            [
+              40.717448,
+              4.245
+            ],
+            [
+              40.429412,
+              4.132279
+            ],
+            [
+              40.429412,
+              4.132279
+            ],
+            [
+              40.25715,
+              4.058973
+            ],
+            [
+              40.25715,
+              4.058973
+            ],
+            [
+              40.191982,
+              4.043934
+            ],
+            [
+              39.942471,
+              3.91159
+            ],
+            [
+              39.942471,
+              3.91159
+            ],
+            [
+              39.869568,
+              3.874726
+            ],
+            [
+              39.785236,
+              3.698635
+            ],
+            [
+              39.785236,
+              3.698635
+            ],
+            [
+              39.767522,
+              3.657458
+            ],
+            [
+              39.588019,
+              3.491893
+            ],
+            [
+              39.553899,
+              3.397448
+            ],
+            [
+              39.514898,
+              3.40703
+            ],
+            [
+              39.495489,
+              3.464037
+            ],
+            [
+              39.429327,
+              3.450854
+            ],
+            [
+              39.426092,
+              3.46245
+            ],
+            [
+              39.330938,
+              3.463671
+            ],
+            [
+              39.332708,
+              3.498827
+            ],
+            [
+              39.320318,
+              3.49602
+            ],
+            [
+              39.320318,
+              3.49602
+            ],
+            [
+              39.303899,
+              3.476244
+            ],
+            [
+              39.265935,
+              3.470019
+            ],
+            [
+              39.163335,
+              3.493273
+            ],
+            [
+              39.163335,
+              3.493273
+            ],
+            [
+              39.091552,
+              3.534494
+            ],
+            [
+              39.091552,
+              3.534494
+            ],
+            [
+              39.062449,
+              3.525129
+            ],
+            [
+              39.062449,
+              3.525129
+            ],
+            [
+              39.041132,
+              3.525211
+            ],
+            [
+              39.041132,
+              3.525211
+            ],
+            [
+              39.017889,
+              3.509447
+            ],
+            [
+              38.968511,
+              3.531054
+            ],
+            [
+              38.960332,
+              3.515429
+            ],
+            [
+              38.922491,
+              3.511462
+            ],
+            [
+              38.922491,
+              3.511462
+            ],
+            [
+              38.75796,
+              3.558213
+            ],
+            [
+              38.75796,
+              3.558213
+            ],
+            [
+              38.714727,
+              3.572253
+            ],
+            [
+              38.687688,
+              3.623644
+            ],
+            [
+              38.665533,
+              3.593249
+            ],
+            [
+              38.619604,
+              3.60332
+            ],
+            [
+              38.619604,
+              3.60332
+            ],
+            [
+              38.559942,
+              3.614245
+            ],
+            [
+              38.539312,
+              3.654223
+            ],
+            [
+              38.516546,
+              3.649035
+            ],
+            [
+              38.523138,
+              3.625841
+            ],
+            [
+              38.448492,
+              3.601855
+            ],
+            [
+              38.191289,
+              3.61986
+            ],
+            [
+              38.129888,
+              3.605822
+            ],
+            [
+              38.129888,
+              3.605822
+            ],
+            [
+              38.03272,
+              3.688036
+            ],
+            [
+              38.008733,
+              3.726427
+            ],
+            [
+              37.844753,
+              3.820784
+            ],
+            [
+              37.844753,
+              3.820784
+            ],
+            [
+              37.128912,
+              4.292467
+            ],
+            [
+              37.03211,
+              4.383227
+            ],
+            [
+              37.02149,
+              4.369433
+            ],
+            [
+              36.844732,
+              4.447253
+            ],
+            [
+              36.717352,
+              4.440468
+            ],
+            [
+              36.717352,
+              4.440468
+            ],
+            [
+              36.715414,
+              4.440327
+            ],
+            [
+              36.715414,
+              4.440327
+            ],
+            [
+              36.626104,
+              4.45183
+            ],
+            [
+              36.169784,
+              4.448073
+            ],
+            [
+              36.169784,
+              4.448073
+            ],
+            [
+              36.050899,
+              4.446656
+            ],
+            [
+              36.050899,
+              4.446656
+            ],
+            [
+              35.955978,
+              4.534607
+            ],
+            [
+              35.944231,
+              4.619136
+            ],
+            [
+              35.944231,
+              4.619136
+            ],
+            [
+              35.948997,
+              4.631039
+            ],
+            [
+              35.817937,
+              4.77421
+            ],
+            [
+              35.821087,
+              5.107933
+            ],
+            [
+              35.821087,
+              5.107933
+            ],
+            [
+              35.864522,
+              5.177593
+            ],
+            [
+              35.864522,
+              5.177593
+            ],
+            [
+              35.859451,
+              5.190728
+            ],
+            [
+              35.859451,
+              5.190728
+            ],
+            [
+              35.828384,
+              5.259079
+            ],
+            [
+              35.828384,
+              5.259079
+            ],
+            [
+              35.859543,
+              5.290627
+            ],
+            [
+              35.862339,
+              5.32018
+            ],
+            [
+              35.789119,
+              5.348484
+            ],
+            [
+              35.789119,
+              5.348484
+            ],
+            [
+              35.741431,
+              5.376227
+            ],
+            [
+              35.741431,
+              5.376227
+            ],
+            [
+              35.700457,
+              5.393432
+            ],
+            [
+              35.620613,
+              5.381796
+            ],
+            [
+              35.617226,
+              5.403877
+            ],
+            [
+              35.599038,
+              5.398986
+            ],
+            [
+              35.577708,
+              5.416775
+            ],
+            [
+              35.577708,
+              5.416775
+            ],
+            [
+              35.499631,
+              5.419269
+            ],
+            [
+              35.499631,
+              5.419269
+            ],
+            [
+              35.370688,
+              5.354432
+            ],
+            [
+              35.370688,
+              5.354432
+            ],
+            [
+              35.316185,
+              5.334791
+            ],
+            [
+              35.296726,
+              5.360447
+            ],
+            [
+              35.305837,
+              5.503541
+            ],
+            [
+              35.305837,
+              5.503541
+            ],
+            [
+              35.126028,
+              5.624417
+            ],
+            [
+              35.130149,
+              5.687448
+            ],
+            [
+              35.041308,
+              5.838
+            ],
+            [
+              35.041308,
+              5.838
+            ],
+            [
+              34.997657,
+              5.896967
+            ],
+            [
+              34.997657,
+              5.896967
+            ],
+            [
+              35.011369,
+              5.917399
+            ],
+            [
+              34.990642,
+              5.952839
+            ],
+            [
+              35.008972,
+              6.007279
+            ],
+            [
+              35.008972,
+              6.007279
+            ],
+            [
+              35.00072,
+              6.026699
+            ],
+            [
+              35.00072,
+              6.026699
+            ],
+            [
+              35.004779,
+              6.075383
+            ],
+            [
+              35.004779,
+              6.075383
+            ],
+            [
+              34.971951,
+              6.089775
+            ],
+            [
+              34.963827,
+              6.137953
+            ],
+            [
+              34.978937,
+              6.185531
+            ],
+            [
+              34.952646,
+              6.251687
+            ],
+            [
+              34.952646,
+              6.251687
+            ],
+            [
+              34.985202,
+              6.312753
+            ],
+            [
+              34.985202,
+              6.312753
+            ],
+            [
+              35.000504,
+              6.349945
+            ],
+            [
+              34.991404,
+              6.394355
+            ],
+            [
+              35.022181,
+              6.435032
+            ],
+            [
+              35.011521,
+              6.471852
+            ],
+            [
+              34.981229,
+              6.496422
+            ],
+            [
+              34.981229,
+              6.496422
+            ],
+            [
+              34.957689,
+              6.504036
+            ],
+            [
+              34.939003,
+              6.558017
+            ],
+            [
+              34.883185,
+              6.58647
+            ],
+            [
+              34.889887,
+              6.600647
+            ],
+            [
+              34.864242,
+              6.61079
+            ],
+            [
+              34.768106,
+              6.594498
+            ],
+            [
+              34.714215,
+              6.654663
+            ],
+            [
+              34.711024,
+              6.685173
+            ],
+            [
+              34.651961,
+              6.732661
+            ],
+            [
+              34.625813,
+              6.74381
+            ],
+            [
+              34.617614,
+              6.723452
+            ],
+            [
+              34.550368,
+              6.734704
+            ],
+            [
+              34.545404,
+              6.749324
+            ],
+            [
+              34.545404,
+              6.749324
+            ],
+            [
+              34.531028,
+              6.745278
+            ],
+            [
+              34.538304,
+              6.759626
+            ],
+            [
+              34.538304,
+              6.759626
+            ],
+            [
+              34.530475,
+              6.852424
+            ],
+            [
+              34.511305,
+              6.856467
+            ],
+            [
+              34.515007,
+              6.872871
+            ],
+            [
+              34.47288,
+              6.916721
+            ],
+            [
+              34.433,
+              6.907701
+            ],
+            [
+              34.417707,
+              6.923192
+            ],
+            [
+              34.394334,
+              6.926128
+            ],
+            [
+              34.383234,
+              6.91124
+            ],
+            [
+              34.342208,
+              6.929916
+            ],
+            [
+              34.333931,
+              6.92109
+            ],
+            [
+              34.310993,
+              6.950619
+            ],
+            [
+              34.292848,
+              6.948403
+            ],
+            [
+              34.305387,
+              6.977913
+            ],
+            [
+              34.267241,
+              6.996595
+            ],
+            [
+              34.267241,
+              6.996595
+            ],
+            [
+              34.276641,
+              7.003721
+            ],
+            [
+              34.257716,
+              7.011814
+            ],
+            [
+              34.231693,
+              7.004307
+            ],
+            [
+              34.220892,
+              7.03864
+            ],
+            [
+              34.191523,
+              7.041492
+            ],
+            [
+              34.19211,
+              7.108851
+            ],
+            [
+              34.19211,
+              7.108851
+            ],
+            [
+              34.186047,
+              7.133241
+            ],
+            [
+              34.186047,
+              7.133241
+            ],
+            [
+              34.104444,
+              7.169556
+            ],
+            [
+              34.101214,
+              7.193784
+            ],
+            [
+              34.021703,
+              7.245961
+            ],
+            [
+              34.011778,
+              7.269696
+            ],
+            [
+              34.041349,
+              7.275899
+            ],
+            [
+              34.036631,
+              7.356722
+            ],
+            [
+              34.007685,
+              7.381867
+            ],
+            [
+              34.004325,
+              7.418104
+            ],
+            [
+              33.979101,
+              7.443264
+            ],
+            [
+              33.979101,
+              7.443264
+            ],
+            [
+              33.942791,
+              7.472006
+            ],
+            [
+              33.942791,
+              7.472006
+            ],
+            [
+              33.907549,
+              7.500501
+            ],
+            [
+              33.898742,
+              7.538901
+            ],
+            [
+              33.864749,
+              7.558965
+            ],
+            [
+              33.864749,
+              7.558965
+            ],
+            [
+              33.819198,
+              7.563354
+            ],
+            [
+              33.819198,
+              7.563354
+            ],
+            [
+              33.737933,
+              7.629499
+            ],
+            [
+              33.737933,
+              7.629499
+            ],
+            [
+              33.715563,
+              7.66314
+            ],
+            [
+              33.686719,
+              7.665951
+            ],
+            [
+              33.686719,
+              7.665951
+            ],
+            [
+              33.646854,
+              7.693495
+            ],
+            [
+              33.54199,
+              7.693805
+            ],
+            [
+              33.525493,
+              7.722699
+            ],
+            [
+              33.525493,
+              7.722699
+            ],
+            [
+              33.494162,
+              7.735849
+            ],
+            [
+              33.494162,
+              7.735849
+            ],
+            [
+              33.465746,
+              7.749514
+            ],
+            [
+              33.465746,
+              7.749514
+            ],
+            [
+              33.446825,
+              7.743531
+            ],
+            [
+              33.446825,
+              7.743531
+            ],
+            [
+              33.447774,
+              7.744512
+            ],
+            [
+              33.447774,
+              7.744512
+            ],
+            [
+              33.42608,
+              7.757808
+            ],
+            [
+              33.418878,
+              7.737789
+            ],
+            [
+              33.393912,
+              7.729605
+            ],
+            [
+              33.381435,
+              7.743255
+            ],
+            [
+              33.363654,
+              7.720031
+            ],
+            [
+              33.350501,
+              7.730349
+            ],
+            [
+              33.340581,
+              7.707281
+            ],
+            [
+              33.3232,
+              7.707503
+            ],
+            [
+              33.317276,
+              7.731113
+            ],
+            [
+              33.303956,
+              7.725426
+            ],
+            [
+              33.302412,
+              7.743099
+            ],
+            [
+              33.295613,
+              7.734145
+            ],
+            [
+              33.296058,
+              7.748828
+            ],
+            [
+              33.255023,
+              7.760315
+            ],
+            [
+              33.250277,
+              7.777854
+            ],
+            [
+              33.215767,
+              7.773309
+            ],
+            [
+              33.215767,
+              7.773309
+            ],
+            [
+              33.210945,
+              7.777321
+            ],
+            [
+              33.210945,
+              7.777321
+            ],
+            [
+              33.209071,
+              7.778778
+            ],
+            [
+              33.209071,
+              7.778778
+            ],
+            [
+              33.164929,
+              7.788932
+            ],
+            [
+              33.172601,
+              7.798622
+            ],
+            [
+              33.16016,
+              7.80389
+            ],
+            [
+              33.156046,
+              7.788923
+            ],
+            [
+              33.107604,
+              7.7798
+            ],
+            [
+              33.091974,
+              7.803362
+            ],
+            [
+              33.046089,
+              7.795637
+            ],
+            [
+              33.046089,
+              7.795637
+            ],
+            [
+              33.046751,
+              7.813034
+            ],
+            [
+              33.004727,
+              7.858829
+            ],
+            [
+              33.016513,
+              7.893308
+            ],
+            [
+              32.999876,
+              7.915718
+            ],
+            [
+              32.999876,
+              7.915718
+            ],
+            [
+              32.997791,
+              7.944816
+            ],
+            [
+              33.03796,
+              7.967649
+            ],
+            [
+              33.036476,
+              7.987866
+            ],
+            [
+              33.036476,
+              7.987866
+            ],
+            [
+              33.044801,
+              8.013752
+            ],
+            [
+              33.07746,
+              8.022113
+            ],
+            [
+              33.084544,
+              8.073386
+            ],
+            [
+              33.121815,
+              8.063893
+            ],
+            [
+              33.120518,
+              8.110513
+            ],
+            [
+              33.16129,
+              8.111687
+            ],
+            [
+              33.191683,
+              8.140825
+            ],
+            [
+              33.191683,
+              8.140825
+            ],
+            [
+              33.166396,
+              8.196093
+            ],
+            [
+              33.198952,
+              8.216129
+            ],
+            [
+              33.205233,
+              8.238451
+            ],
+            [
+              33.17486,
+              8.256345
+            ],
+            [
+              33.169982,
+              8.295846
+            ],
+            [
+              33.197349,
+              8.299538
+            ],
+            [
+              33.191943,
+              8.334549
+            ],
+            [
+              33.216318,
+              8.340819
+            ],
+            [
+              33.216318,
+              8.340819
+            ],
+            [
+              33.2167,
+              8.360232
+            ],
+            [
+              33.193594,
+              8.352974
+            ],
+            [
+              33.186892,
+              8.383166
+            ],
+            [
+              33.191308,
+              8.406734
+            ],
+            [
+              33.216451,
+              8.406178
+            ],
+            [
+              33.21913,
+              8.435524
+            ],
+            [
+              33.21913,
+              8.435524
+            ],
+            [
+              33.2352,
+              8.425251
+            ],
+            [
+              33.270932,
+              8.462603
+            ],
+            [
+              33.292584,
+              8.439933
+            ],
+            [
+              33.312306,
+              8.467686
+            ],
+            [
+              33.397387,
+              8.426404
+            ],
+            [
+              33.423085,
+              8.452782
+            ],
+            [
+              33.445371,
+              8.443979
+            ],
+            [
+              33.47785,
+              8.456273
+            ],
+            [
+              33.497324,
+              8.480736
+            ],
+            [
+              33.521741,
+              8.468056
+            ],
+            [
+              33.560303,
+              8.474141
+            ],
+            [
+              33.567965,
+              8.451686
+            ],
+            [
+              33.596567,
+              8.442945
+            ],
+            [
+              33.616999,
+              8.47133
+            ],
+            [
+              33.636721,
+              8.464365
+            ],
+            [
+              33.636721,
+              8.464365
+            ],
+            [
+              33.676366,
+              8.445385
+            ],
+            [
+              33.700473,
+              8.377586
+            ],
+            [
+              33.767558,
+              8.367649
+            ],
+            [
+              33.767558,
+              8.367649
+            ],
+            [
+              33.817044,
+              8.405588
+            ],
+            [
+              33.876133,
+              8.411017
+            ],
+            [
+              33.876107,
+              8.455634
+            ],
+            [
+              33.892246,
+              8.473294
+            ],
+            [
+              33.892246,
+              8.473294
+            ],
+            [
+              33.942383,
+              8.500706
+            ],
+            [
+              34.02359,
+              8.488511
+            ],
+            [
+              34.040337,
+              8.522056
+            ],
+            [
+              34.040337,
+              8.522056
+            ],
+            [
+              34.100536,
+              8.555785
+            ],
+            [
+              34.141699,
+              8.601365
+            ],
+            [
+              34.145517,
+              8.652854
+            ],
+            [
+              34.145517,
+              8.652854
+            ],
+            [
+              34.145517,
+              8.963311
+            ],
+            [
+              34.145517,
+              8.963311
+            ],
+            [
+              34.130239,
+              9.206881
+            ],
+            [
+              34.130239,
+              9.206881
+            ],
+            [
+              34.106678,
+              9.500001
+            ],
+            [
+              34.106678,
+              9.500001
+            ],
+            [
+              34.085833,
+              9.553056
+            ],
+            [
+              34.123988,
+              9.697641
+            ],
+            [
+              34.123988,
+              9.697641
+            ],
+            [
+              34.207222,
+              9.905
+            ],
+            [
+              34.231389,
+              10.030278
+            ],
+            [
+              34.323056,
+              10.117222
+            ],
+            [
+              34.321389,
+              10.163889
+            ],
+            [
+              34.348889,
+              10.245
+            ],
+            [
+              34.280011,
+              10.538579
+            ],
+            [
+              34.356944,
+              10.638611
+            ],
+            [
+              34.356944,
+              10.638611
+            ],
+            [
+              34.439722,
+              10.784444
+            ],
+            [
+              34.594444,
+              10.887778
+            ],
+            [
+              34.773333,
+              10.745833
+            ],
+            [
+              34.771944,
+              10.6925
+            ],
+            [
+              34.784444,
+              10.683889
+            ],
+            [
+              34.808611,
+              10.729444
+            ],
+            [
+              34.864444,
+              10.735
+            ],
+            [
+              34.868611,
+              10.785833
+            ],
+            [
+              34.975278,
+              10.864444
+            ],
+            [
+              34.977675,
+              10.901473
+            ],
+            [
+              34.977675,
+              10.901473
+            ],
+            [
+              34.933333,
+              10.956667
+            ],
+            [
+              35.0075,
+              11.198333
+            ],
+            [
+              35.0075,
+              11.198333
+            ],
+            [
+              34.96973,
+              11.232415
+            ],
+            [
+              34.96973,
+              11.232415
+            ],
+            [
+              34.927651,
+              11.23739
+            ],
+            [
+              34.927651,
+              11.23739
+            ],
+            [
+              34.975299,
+              11.294486
+            ],
+            [
+              34.975299,
+              11.294486
+            ],
+            [
+              35.093611,
+              11.557778
+            ],
+            [
+              35.064722,
+              11.699167
+            ],
+            [
+              35.064722,
+              11.699167
+            ],
+            [
+              35.063889,
+              11.7625
+            ],
+            [
+              35.110833,
+              11.845833
+            ],
+            [
+              35.110833,
+              11.845833
+            ],
+            [
+              35.227222,
+              11.895556
+            ],
+            [
+              35.261652,
+              11.928868
+            ],
+            [
+              35.261652,
+              11.928868
+            ],
+            [
+              35.267688,
+              11.935795
+            ],
+            [
+              35.267688,
+              11.935795
+            ],
+            [
+              35.271111,
+              11.975556
+            ],
+            [
+              35.345556,
+              12.032778
+            ],
+            [
+              35.346667,
+              12.083611
+            ],
+            [
+              35.381111,
+              12.161111
+            ],
+            [
+              35.4325,
+              12.200556
+            ],
+            [
+              35.438056,
+              12.250556
+            ],
+            [
+              35.596414,
+              12.509247
+            ],
+            [
+              35.596414,
+              12.509247
+            ],
+            [
+              35.649167,
+              12.594167
+            ],
+            [
+              35.695278,
+              12.612222
+            ],
+            [
+              35.699444,
+              12.665833
+            ],
+            [
+              35.699444,
+              12.665833
+            ],
+            [
+              36.006389,
+              12.724167
+            ],
+            [
+              36.081111,
+              12.723611
+            ],
+            [
+              36.107778,
+              12.694167
+            ],
+            [
+              36.140278,
+              12.704167
+            ],
+            [
+              36.165278,
+              12.875278
+            ],
+            [
+              36.135635,
+              12.92963
+            ],
+            [
+              36.135635,
+              12.92963
+            ],
+            [
+              36.164484,
+              12.98055
+            ],
+            [
+              36.161308,
+              13.008893
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "ET",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+        "name": "\u12a2\u1275\u12ee\u1335\u12eb",
+        "id": "ET"
       }
     }
   ]

@@ -3,134 +3,95 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.784706,
+              17.617055
+            ],
+            [
+              -62.68644,
+              17.583379
+            ],
+            [
+              -62.608413,
+              17.533507
+            ],
+            [
+              -62.513681,
+              17.420692
+            ],
+            [
+              -62.376215,
+              17.299569
+            ],
+            [
+              -62.376215,
+              17.299569
+            ],
+            [
+              -62.40189,
+              17.112489
+            ],
+            [
+              -62.437985,
+              17.039604
+            ],
+            [
+              -62.554831,
+              16.897435
+            ],
+            [
+              -62.554831,
+              16.897435
+            ],
+            [
+              -62.657381,
+              16.89989
+            ],
+            [
+              -62.755219,
+              16.950394
+            ],
+            [
+              -62.811314,
+              17.016133
+            ],
+            [
+              -62.840307,
+              17.104211
+            ],
+            [
+              -62.965956,
+              17.180602
+            ],
+            [
+              -63.04911,
+              17.276735
+            ],
+            [
+              -63.04911,
+              17.276735
+            ],
+            [
+              -62.866502,
+              17.479599
+            ],
+            [
+              -62.784706,
+              17.617055
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "KN",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
-        "name": "Saint Kitts and Nevis"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -63.0491098,
-            17.2767349
-          ],
-          [
-            -62.8665023,
-            17.4795988
-          ],
-          [
-            -62.7847057,
-            17.6170552
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KN",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
-        "name": "Saint Kitts and Nevis"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -62.5548313,
-            16.8974346
-          ],
-          [
-            -62.6573811,
-            16.8998895
-          ],
-          [
-            -62.7552194,
-            16.9503943
-          ],
-          [
-            -62.8113142,
-            17.0161326
-          ],
-          [
-            -62.8403068,
-            17.1042114
-          ],
-          [
-            -62.9659562,
-            17.1806024
-          ],
-          [
-            -63.0491098,
-            17.2767349
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KN",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
-        "name": "Saint Kitts and Nevis"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -62.5548313,
-            16.8974346
-          ],
-          [
-            -62.4379847,
-            17.0396036
-          ],
-          [
-            -62.4018896,
-            17.1124891
-          ],
-          [
-            -62.3762149,
-            17.2995691
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KN",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
-        "name": "Saint Kitts and Nevis"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -62.7847057,
-            17.6170552
-          ],
-          [
-            -62.6864399,
-            17.5833789
-          ],
-          [
-            -62.6084127,
-            17.5335071
-          ],
-          [
-            -62.5136815,
-            17.4206917
-          ],
-          [
-            -62.3762149,
-            17.2995691
-          ]
-        ]
+        "name": "Saint Kitts and Nevis",
+        "id": "KN"
       }
     }
   ]

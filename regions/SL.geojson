@@ -3,2096 +3,1147 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.8534382,
-            7.5427304
-          ],
-          [
-            -10.9222877,
-            7.4974561
-          ],
-          [
-            -10.9329522,
-            7.5136668
-          ],
-          [
-            -11.0504283,
-            7.4127635
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.0496543,
-            7.4123523
-          ],
-          [
-            -11.0504283,
-            7.4127635
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.0920991,
-            7.3923838
-          ],
-          [
-            -11.0496543,
-            7.4123523
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.0920991,
-            7.3923838
-          ],
-          [
-            -11.1269102,
-            7.3589003
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.1269102,
-            7.3589003
-          ],
-          [
-            -11.1276014,
-            7.3535092
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.1329999,
-            7.3483032
-          ],
-          [
-            -11.1276014,
-            7.3535092
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.1329999,
-            7.3483032
-          ],
-          [
-            -11.1385852,
-            7.345552
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.1385852,
-            7.345552
-          ],
-          [
-            -11.1419569,
-            7.3425229
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.1419569,
-            7.3425229
-          ],
-          [
-            -11.1448398,
-            7.338713
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.1448398,
-            7.338713
-          ],
-          [
-            -11.1447402,
-            7.3375762
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.1447402,
-            7.3375762
-          ],
-          [
-            -11.1424059,
-            7.3336644
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.1424059,
-            7.3336644
-          ],
-          [
-            -11.1486492,
-            7.31898
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.1486492,
-            7.31898
-          ],
-          [
-            -11.1613436,
-            7.3059403
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.1613436,
-            7.3059403
-          ],
-          [
-            -11.1836165,
-            7.2746077
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.1836165,
-            7.2746077
-          ],
-          [
-            -11.1794836,
-            7.2681313
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.1794836,
-            7.2681313
-          ],
-          [
-            -11.2035309,
-            7.2530989
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.2035309,
-            7.2530989
-          ],
-          [
-            -11.2600292,
-            7.2310603
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.2600292,
-            7.2310603
-          ],
-          [
-            -11.2676441,
-            7.2365766
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.2792918,
-            7.2221962
-          ],
-          [
-            -11.2676441,
-            7.2365766
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.33345,
-            7.1113667
-          ],
-          [
-            -11.3521613,
-            7.1418996
-          ],
-          [
-            -11.3280032,
-            7.1485629
-          ],
-          [
-            -11.3104034,
-            7.210294
-          ],
-          [
-            -11.2941309,
-            7.1963935
-          ],
-          [
-            -11.2792918,
-            7.2221962
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.3347689,
-            7.110392
-          ],
-          [
-            -11.33345,
-            7.1113667
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.376284,
-            7.0127936
-          ],
-          [
-            -11.3632616,
-            7.0491344
-          ],
-          [
-            -11.3745885,
-            7.0714211
-          ],
-          [
-            -11.3341973,
-            7.0768658
-          ],
-          [
-            -11.3347689,
-            7.110392
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.408167,
-            6.9896311
-          ],
-          [
-            -11.376284,
-            7.0127936
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.5057164,
-            6.9290629
-          ],
-          [
-            -11.4596453,
-            6.9235524
-          ],
-          [
-            -11.418093,
-            6.9381626
-          ],
-          [
-            -11.432173,
-            6.9693731
-          ],
-          [
-            -11.408167,
-            6.9896311
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.50621,
-            6.9292226
-          ],
-          [
-            -11.5057164,
-            6.9290629
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.50621,
-            6.9292226
-          ],
-          [
-            -11.5067464,
-            6.9283732
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.5067464,
-            6.9283732
-          ],
-          [
-            -11.6080764,
-            6.755
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.4957761,
-            8.966
-          ],
-          [
-            -13.4842144,
-            8.898
-          ],
-          [
-            -13.4496515,
-            8.836
-          ],
-          [
-            -13.444025,
-            8.638
-          ],
-          [
-            -13.4955604,
-            8.538
-          ],
-          [
-            -13.4937152,
-            8.396
-          ],
-          [
-            -13.4696178,
-            8.325
-          ],
-          [
-            -13.3992226,
-            8.23
-          ],
-          [
-            -13.4443812,
-            8.15
-          ],
-          [
-            -13.4492356,
-            8.06
-          ],
-          [
-            -13.4214583,
-            7.988
-          ],
-          [
-            -13.3672183,
-            7.931
-          ],
-          [
-            -13.2951057,
-            7.899
-          ],
-          [
-            -13.2112179,
-            7.896
-          ],
-          [
-            -13.1952803,
-            7.831
-          ],
-          [
-            -13.2537979,
-            7.761
-          ],
-          [
-            -13.2753423,
-            7.674
-          ],
-          [
-            -13.2637409,
-            7.566
-          ],
-          [
-            -13.2158634,
-            7.478
-          ],
-          [
-            -13.0534151,
-            7.378
-          ],
-          [
-            -12.9506717,
-            7.367
-          ],
-          [
-            -12.7589986,
-            7.313
-          ],
-          [
-            -12.7131906,
-            7.24
-          ],
-          [
-            -12.6438749,
-            7.193
-          ],
-          [
-            -12.4366519,
-            7.16
-          ],
-          [
-            -11.9993239,
-            6.991
-          ],
-          [
-            -11.8084364,
-            6.894
-          ],
-          [
-            -11.7306934,
-            6.819
-          ],
-          [
-            -11.6080764,
-            6.755
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.4957761,
-            8.966
-          ],
-          [
-            -13.3066583,
-            9.034115
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.3066583,
-            9.034115
-          ],
-          [
-            -13.3012301,
-            9.0360758
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.3012301,
-            9.0360758
-          ],
-          [
-            -13.299759,
-            9.049249
-          ],
-          [
-            -13.209462,
-            9.078903
-          ],
-          [
-            -13.199646,
-            9.095863
-          ],
-          [
-            -13.1721233,
-            9.0906209
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.1721233,
-            9.0906209
-          ],
-          [
-            -13.1237385,
-            9.0497762
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.1237385,
-            9.0497762
-          ],
-          [
-            -13.0807943,
-            9.0494483
-          ],
-          [
-            -13.0726863,
-            9.0811683
-          ],
-          [
-            -13.0218073,
-            9.0968943
-          ],
-          [
-            -12.9792273,
-            9.1691523
-          ],
-          [
-            -12.9509873,
-            9.1805883
-          ],
-          [
-            -12.9712883,
-            9.2270213
-          ],
-          [
-            -12.9511833,
-            9.2568323
-          ],
-          [
-            -12.9536983,
-            9.2820474
-          ],
-          [
-            -12.9310293,
-            9.2883964
-          ],
-          [
-            -12.90686,
-            9.2617792
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.883631,
-            9.2763611
-          ],
-          [
-            -12.90686,
-            9.2617792
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.8732105,
-            9.290498
-          ],
-          [
-            -12.883631,
-            9.2763611
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.8681102,
-            9.2887141
-          ],
-          [
-            -12.8732105,
-            9.290498
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.8620345,
-            9.2917717
-          ],
-          [
-            -12.8681102,
-            9.2887141
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.8620345,
-            9.2917717
-          ],
-          [
-            -12.8478396,
-            9.2810715
-          ],
-          [
-            -12.807216,
-            9.2898904
-          ],
-          [
-            -12.7749739,
-            9.3308415
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.7720427,
-            9.3361471
-          ],
-          [
-            -12.7749739,
-            9.3308415
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.7720427,
-            9.3361471
-          ],
-          [
-            -12.7734562,
-            9.3417364
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.5881986,
-            9.6008817
-          ],
-          [
-            -12.615513,
-            9.6057978
-          ],
-          [
-            -12.6290473,
-            9.5483031
-          ],
-          [
-            -12.6539516,
-            9.5399072
-          ],
-          [
-            -12.6446247,
-            9.513992
-          ],
-          [
-            -12.6775271,
-            9.459607
-          ],
-          [
-            -12.6831172,
-            9.4084285
-          ],
-          [
-            -12.7039126,
-            9.4117325
-          ],
-          [
-            -12.7072228,
-            9.3890263
-          ],
-          [
-            -12.751271,
-            9.3982828
-          ],
-          [
-            -12.7462868,
-            9.3486469
-          ],
-          [
-            -12.7734562,
-            9.3417364
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.4956555,
-            9.8453469
-          ],
-          [
-            -12.4880697,
-            9.8144087
-          ],
-          [
-            -12.5156426,
-            9.7566175
-          ],
-          [
-            -12.5046301,
-            9.7456271
-          ],
-          [
-            -12.5260934,
-            9.7370966
-          ],
-          [
-            -12.5178639,
-            9.7080015
-          ],
-          [
-            -12.5316909,
-            9.7217182
-          ],
-          [
-            -12.5641426,
-            9.7033844
-          ],
-          [
-            -12.5711848,
-            9.6584884
-          ],
-          [
-            -12.5866745,
-            9.6599696
-          ],
-          [
-            -12.5881986,
-            9.6008817
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.4956555,
-            9.8453469
-          ],
-          [
-            -12.4377036,
-            9.8801616
-          ],
-          [
-            -12.222482,
-            9.932905
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.222482,
-            9.932905
-          ],
-          [
-            -12.218454,
-            9.906727
-          ],
-          [
-            -12.1199443,
-            9.8722677
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.1199443,
-            9.8722677
-          ],
-          [
-            -11.9068845,
-            9.9401818
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.894622,
-            9.999944
-          ],
-          [
-            -11.9068845,
-            9.9401818
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.4903875,
-            9.9999457
-          ],
-          [
-            -11.894622,
-            9.999944
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.5735145,
-            9.0494016
-          ],
-          [
-            -10.666421,
-            9.085594
-          ],
-          [
-            -10.730468,
-            9.08114
-          ],
-          [
-            -10.707724,
-            9.15804
-          ],
-          [
-            -10.723134,
-            9.178776
-          ],
-          [
-            -10.714934,
-            9.200171
-          ],
-          [
-            -10.702634,
-            9.185703
-          ],
-          [
-            -10.656026,
-            9.213131
-          ],
-          [
-            -10.670447,
-            9.238108
-          ],
-          [
-            -10.653858,
-            9.289617
-          ],
-          [
-            -10.663425,
-            9.310683
-          ],
-          [
-            -10.705132,
-            9.328307
-          ],
-          [
-            -10.731523,
-            9.379581
-          ],
-          [
-            -10.797762,
-            9.389321
-          ],
-          [
-            -10.810901,
-            9.37781
-          ],
-          [
-            -10.802475,
-            9.412596
-          ],
-          [
-            -10.851985,
-            9.455264
-          ],
-          [
-            -10.837678,
-            9.46661
-          ],
-          [
-            -10.848523,
-            9.499018
-          ],
-          [
-            -10.824031,
-            9.51609
-          ],
-          [
-            -10.860019,
-            9.528648
-          ],
-          [
-            -10.881026,
-            9.591513
-          ],
-          [
-            -10.910969,
-            9.601756
-          ],
-          [
-            -10.917867,
-            9.654848
-          ],
-          [
-            -10.963905,
-            9.663941
-          ],
-          [
-            -10.991321,
-            9.751102
-          ],
-          [
-            -11.039009,
-            9.787408
-          ],
-          [
-            -11.043227,
-            9.818049
-          ],
-          [
-            -11.061469,
-            9.813882
-          ],
-          [
-            -11.102933,
-            9.861494
-          ],
-          [
-            -11.155931,
-            9.865509
-          ],
-          [
-            -11.171886,
-            9.960631
-          ],
-          [
-            -11.213198,
-            9.975012
-          ],
-          [
-            -11.208071,
-            9.999973
-          ],
-          [
-            -11.4903875,
-            9.9999457
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.5735145,
-            9.0494016
-          ],
-          [
-            -10.5797602,
-            9.0307122
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.5797602,
-            9.0307122
-          ],
-          [
-            -10.5810795,
-            9.0314671
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.5810795,
-            9.0314671
-          ],
-          [
-            -10.5895081,
-            8.9571701
-          ],
-          [
-            -10.5608455,
-            8.8047005
-          ],
-          [
-            -10.5198161,
-            8.7826356
-          ],
-          [
-            -10.5112015,
-            8.7406784
-          ],
-          [
-            -10.5010714,
-            8.7438377
-          ],
-          [
-            -10.4948017,
-            8.7411951
-          ],
-          [
-            -10.4999856,
-            8.7134347
-          ],
-          [
-            -10.4643915,
-            8.6729305
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.4643915,
-            8.6729305
-          ],
-          [
-            -10.492699,
-            8.6256861
-          ],
-          [
-            -10.5747711,
-            8.5987313
-          ],
-          [
-            -10.5744221,
-            8.5733896
-          ],
-          [
-            -10.6158131,
-            8.5422015
-          ],
-          [
-            -10.6201037,
-            8.4911282
-          ],
-          [
-            -10.6411427,
-            8.4745688
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.6411427,
-            8.4745688
-          ],
-          [
-            -10.6417638,
-            8.4529628
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.6417638,
-            8.4529628
-          ],
-          [
-            -10.6509469,
-            8.4232917
-          ],
-          [
-            -10.6393782,
-            8.3923048
-          ],
-          [
-            -10.6760681,
-            8.3755774
-          ],
-          [
-            -10.6982096,
-            8.3137165
-          ],
-          [
-            -10.7017313,
-            8.2811139
-          ],
-          [
-            -10.6854088,
-            8.2865024
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.6854088,
-            8.2865024
-          ],
-          [
-            -10.6725102,
-            8.3339292
-          ],
-          [
-            -10.6426503,
-            8.3544491
-          ],
-          [
-            -10.5772851,
-            8.3340513
-          ],
-          [
-            -10.5724261,
-            8.3089217
-          ],
-          [
-            -10.5424925,
-            8.3092042
-          ],
-          [
-            -10.4311495,
-            8.4116386
-          ],
-          [
-            -10.3832361,
-            8.4907204
-          ],
-          [
-            -10.3572943,
-            8.482837
-          ],
-          [
-            -10.3230861,
-            8.5063953
-          ],
-          [
-            -10.2799137,
-            8.4849994
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.274611,
-            8.4725211
-          ],
-          [
-            -10.2799137,
-            8.4849994
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.274611,
-            8.4725211
-          ],
-          [
-            -10.286204,
-            8.3726601
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.286204,
-            8.3726601
-          ],
-          [
-            -10.301131,
-            8.2974691
-          ],
-          [
-            -10.320212,
-            8.2847571
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.320212,
-            8.2847571
-          ],
-          [
-            -10.294938,
-            8.2238061
-          ],
-          [
-            -10.301531,
-            8.1970151
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.301531,
-            8.1970151
-          ],
-          [
-            -10.318904,
-            8.1948931
-          ],
-          [
-            -10.351673,
-            8.1501633
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.351673,
-            8.1501633
-          ],
-          [
-            -10.37717,
-            8.1656731
-          ],
-          [
-            -10.388852,
-            8.1498451
-          ],
-          [
-            -10.427361,
-            8.1494275
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.427361,
-            8.1494275
-          ],
-          [
-            -10.4424546,
-            8.1544683
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.4424546,
-            8.1544683
-          ],
-          [
-            -10.5011122,
-            8.1454221
-          ],
-          [
-            -10.5281575,
-            8.1251431
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.5281575,
-            8.1251431
-          ],
-          [
-            -10.5898439,
-            8.0451153
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.5898439,
-            8.0451153
-          ],
-          [
-            -10.6051653,
-            8.0405416
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.6051653,
-            8.0405416
-          ],
-          [
-            -10.6050222,
-            7.9209161
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.6050222,
-            7.9209161
-          ],
-          [
-            -10.6047955,
-            7.7778349
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.6047955,
-            7.7778349
-          ],
-          [
-            -10.7016441,
-            7.7360224
-          ],
-          [
-            -10.7478177,
-            7.6616062
-          ],
-          [
-            -10.7753957,
-            7.6535124
-          ],
-          [
-            -10.7940172,
-            7.5993222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
-        "name": "Sierra Leone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.7940172,
-            7.5993222
-          ],
-          [
-            -10.8178393,
-            7.5957741
-          ],
-          [
-            -10.8267598,
-            7.562922
-          ],
-          [
-            -10.8534382,
-            7.5427304
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -11.050428,
+              7.412763
+            ],
+            [
+              -11.049654,
+              7.412352
+            ],
+            [
+              -11.049654,
+              7.412352
+            ],
+            [
+              -11.092099,
+              7.392384
+            ],
+            [
+              -11.092099,
+              7.392384
+            ],
+            [
+              -11.12691,
+              7.3589
+            ],
+            [
+              -11.12691,
+              7.3589
+            ],
+            [
+              -11.127601,
+              7.353509
+            ],
+            [
+              -11.127601,
+              7.353509
+            ],
+            [
+              -11.133,
+              7.348303
+            ],
+            [
+              -11.133,
+              7.348303
+            ],
+            [
+              -11.138585,
+              7.345552
+            ],
+            [
+              -11.138585,
+              7.345552
+            ],
+            [
+              -11.141957,
+              7.342523
+            ],
+            [
+              -11.141957,
+              7.342523
+            ],
+            [
+              -11.14484,
+              7.338713
+            ],
+            [
+              -11.14484,
+              7.338713
+            ],
+            [
+              -11.14474,
+              7.337576
+            ],
+            [
+              -11.14474,
+              7.337576
+            ],
+            [
+              -11.142406,
+              7.333664
+            ],
+            [
+              -11.142406,
+              7.333664
+            ],
+            [
+              -11.148649,
+              7.31898
+            ],
+            [
+              -11.148649,
+              7.31898
+            ],
+            [
+              -11.161344,
+              7.30594
+            ],
+            [
+              -11.161344,
+              7.30594
+            ],
+            [
+              -11.183616,
+              7.274608
+            ],
+            [
+              -11.183616,
+              7.274608
+            ],
+            [
+              -11.179484,
+              7.268131
+            ],
+            [
+              -11.179484,
+              7.268131
+            ],
+            [
+              -11.203531,
+              7.253099
+            ],
+            [
+              -11.203531,
+              7.253099
+            ],
+            [
+              -11.260029,
+              7.23106
+            ],
+            [
+              -11.260029,
+              7.23106
+            ],
+            [
+              -11.267644,
+              7.236577
+            ],
+            [
+              -11.267644,
+              7.236577
+            ],
+            [
+              -11.279292,
+              7.222196
+            ],
+            [
+              -11.279292,
+              7.222196
+            ],
+            [
+              -11.294131,
+              7.196394
+            ],
+            [
+              -11.310403,
+              7.210294
+            ],
+            [
+              -11.328003,
+              7.148563
+            ],
+            [
+              -11.352161,
+              7.1419
+            ],
+            [
+              -11.33345,
+              7.111367
+            ],
+            [
+              -11.33345,
+              7.111367
+            ],
+            [
+              -11.334769,
+              7.110392
+            ],
+            [
+              -11.334769,
+              7.110392
+            ],
+            [
+              -11.334197,
+              7.076866
+            ],
+            [
+              -11.374588,
+              7.071421
+            ],
+            [
+              -11.363262,
+              7.049134
+            ],
+            [
+              -11.376284,
+              7.012794
+            ],
+            [
+              -11.376284,
+              7.012794
+            ],
+            [
+              -11.408167,
+              6.989631
+            ],
+            [
+              -11.408167,
+              6.989631
+            ],
+            [
+              -11.432173,
+              6.969373
+            ],
+            [
+              -11.418093,
+              6.938163
+            ],
+            [
+              -11.459645,
+              6.923552
+            ],
+            [
+              -11.505716,
+              6.929063
+            ],
+            [
+              -11.505716,
+              6.929063
+            ],
+            [
+              -11.50621,
+              6.929223
+            ],
+            [
+              -11.50621,
+              6.929223
+            ],
+            [
+              -11.506746,
+              6.928373
+            ],
+            [
+              -11.506746,
+              6.928373
+            ],
+            [
+              -11.608076,
+              6.755
+            ],
+            [
+              -11.608076,
+              6.755
+            ],
+            [
+              -11.730693,
+              6.819
+            ],
+            [
+              -11.808436,
+              6.894
+            ],
+            [
+              -11.999324,
+              6.991
+            ],
+            [
+              -12.436652,
+              7.16
+            ],
+            [
+              -12.643875,
+              7.193
+            ],
+            [
+              -12.713191,
+              7.24
+            ],
+            [
+              -12.758999,
+              7.313
+            ],
+            [
+              -12.950672,
+              7.367
+            ],
+            [
+              -13.053415,
+              7.378
+            ],
+            [
+              -13.215863,
+              7.478
+            ],
+            [
+              -13.263741,
+              7.566
+            ],
+            [
+              -13.275342,
+              7.674
+            ],
+            [
+              -13.253798,
+              7.761
+            ],
+            [
+              -13.19528,
+              7.831
+            ],
+            [
+              -13.211218,
+              7.896
+            ],
+            [
+              -13.295106,
+              7.899
+            ],
+            [
+              -13.367218,
+              7.931
+            ],
+            [
+              -13.421458,
+              7.988
+            ],
+            [
+              -13.449236,
+              8.06
+            ],
+            [
+              -13.444381,
+              8.15
+            ],
+            [
+              -13.399223,
+              8.23
+            ],
+            [
+              -13.469618,
+              8.325
+            ],
+            [
+              -13.493715,
+              8.396
+            ],
+            [
+              -13.49556,
+              8.538
+            ],
+            [
+              -13.444025,
+              8.638
+            ],
+            [
+              -13.449651,
+              8.836
+            ],
+            [
+              -13.484214,
+              8.898
+            ],
+            [
+              -13.495776,
+              8.966
+            ],
+            [
+              -13.495776,
+              8.966
+            ],
+            [
+              -13.306658,
+              9.034115
+            ],
+            [
+              -13.306658,
+              9.034115
+            ],
+            [
+              -13.30123,
+              9.036076
+            ],
+            [
+              -13.30123,
+              9.036076
+            ],
+            [
+              -13.299759,
+              9.049249
+            ],
+            [
+              -13.209462,
+              9.078903
+            ],
+            [
+              -13.199646,
+              9.095863
+            ],
+            [
+              -13.172123,
+              9.090621
+            ],
+            [
+              -13.172123,
+              9.090621
+            ],
+            [
+              -13.123738,
+              9.049776
+            ],
+            [
+              -13.123738,
+              9.049776
+            ],
+            [
+              -13.080794,
+              9.049448
+            ],
+            [
+              -13.072686,
+              9.081168
+            ],
+            [
+              -13.021807,
+              9.096894
+            ],
+            [
+              -12.979227,
+              9.169152
+            ],
+            [
+              -12.950987,
+              9.180588
+            ],
+            [
+              -12.971288,
+              9.227021
+            ],
+            [
+              -12.951183,
+              9.256832
+            ],
+            [
+              -12.953698,
+              9.282047
+            ],
+            [
+              -12.931029,
+              9.288396
+            ],
+            [
+              -12.90686,
+              9.261779
+            ],
+            [
+              -12.90686,
+              9.261779
+            ],
+            [
+              -12.883631,
+              9.276361
+            ],
+            [
+              -12.883631,
+              9.276361
+            ],
+            [
+              -12.873211,
+              9.290498
+            ],
+            [
+              -12.873211,
+              9.290498
+            ],
+            [
+              -12.86811,
+              9.288714
+            ],
+            [
+              -12.86811,
+              9.288714
+            ],
+            [
+              -12.862035,
+              9.291772
+            ],
+            [
+              -12.862035,
+              9.291772
+            ],
+            [
+              -12.84784,
+              9.281071
+            ],
+            [
+              -12.807216,
+              9.28989
+            ],
+            [
+              -12.774974,
+              9.330842
+            ],
+            [
+              -12.774974,
+              9.330842
+            ],
+            [
+              -12.772043,
+              9.336147
+            ],
+            [
+              -12.772043,
+              9.336147
+            ],
+            [
+              -12.773456,
+              9.341736
+            ],
+            [
+              -12.773456,
+              9.341736
+            ],
+            [
+              -12.746287,
+              9.348647
+            ],
+            [
+              -12.751271,
+              9.398283
+            ],
+            [
+              -12.707223,
+              9.389026
+            ],
+            [
+              -12.703913,
+              9.411732
+            ],
+            [
+              -12.683117,
+              9.408428
+            ],
+            [
+              -12.677527,
+              9.459607
+            ],
+            [
+              -12.644625,
+              9.513992
+            ],
+            [
+              -12.653952,
+              9.539907
+            ],
+            [
+              -12.629047,
+              9.548303
+            ],
+            [
+              -12.615513,
+              9.605798
+            ],
+            [
+              -12.588199,
+              9.600882
+            ],
+            [
+              -12.588199,
+              9.600882
+            ],
+            [
+              -12.586675,
+              9.65997
+            ],
+            [
+              -12.571185,
+              9.658488
+            ],
+            [
+              -12.564143,
+              9.703384
+            ],
+            [
+              -12.531691,
+              9.721718
+            ],
+            [
+              -12.517864,
+              9.708001
+            ],
+            [
+              -12.526093,
+              9.737097
+            ],
+            [
+              -12.50463,
+              9.745627
+            ],
+            [
+              -12.515643,
+              9.756618
+            ],
+            [
+              -12.48807,
+              9.814409
+            ],
+            [
+              -12.495655,
+              9.845347
+            ],
+            [
+              -12.495655,
+              9.845347
+            ],
+            [
+              -12.437704,
+              9.880162
+            ],
+            [
+              -12.222482,
+              9.932905
+            ],
+            [
+              -12.222482,
+              9.932905
+            ],
+            [
+              -12.218454,
+              9.906727
+            ],
+            [
+              -12.119944,
+              9.872268
+            ],
+            [
+              -12.119944,
+              9.872268
+            ],
+            [
+              -11.906885,
+              9.940182
+            ],
+            [
+              -11.906885,
+              9.940182
+            ],
+            [
+              -11.894622,
+              9.999944
+            ],
+            [
+              -11.894622,
+              9.999944
+            ],
+            [
+              -11.490388,
+              9.999946
+            ],
+            [
+              -11.490388,
+              9.999946
+            ],
+            [
+              -11.208071,
+              9.999973
+            ],
+            [
+              -11.213198,
+              9.975012
+            ],
+            [
+              -11.171886,
+              9.960631
+            ],
+            [
+              -11.155931,
+              9.865509
+            ],
+            [
+              -11.102933,
+              9.861494
+            ],
+            [
+              -11.061469,
+              9.813882
+            ],
+            [
+              -11.043227,
+              9.818049
+            ],
+            [
+              -11.039009,
+              9.787408
+            ],
+            [
+              -10.991321,
+              9.751102
+            ],
+            [
+              -10.963905,
+              9.663941
+            ],
+            [
+              -10.917867,
+              9.654848
+            ],
+            [
+              -10.910969,
+              9.601756
+            ],
+            [
+              -10.881026,
+              9.591513
+            ],
+            [
+              -10.860019,
+              9.528648
+            ],
+            [
+              -10.824031,
+              9.51609
+            ],
+            [
+              -10.848523,
+              9.499018
+            ],
+            [
+              -10.837678,
+              9.46661
+            ],
+            [
+              -10.851985,
+              9.455264
+            ],
+            [
+              -10.802475,
+              9.412596
+            ],
+            [
+              -10.810901,
+              9.37781
+            ],
+            [
+              -10.797762,
+              9.389321
+            ],
+            [
+              -10.731523,
+              9.379581
+            ],
+            [
+              -10.705132,
+              9.328307
+            ],
+            [
+              -10.663425,
+              9.310683
+            ],
+            [
+              -10.653858,
+              9.289617
+            ],
+            [
+              -10.670447,
+              9.238108
+            ],
+            [
+              -10.656026,
+              9.213131
+            ],
+            [
+              -10.702634,
+              9.185703
+            ],
+            [
+              -10.714934,
+              9.200171
+            ],
+            [
+              -10.723134,
+              9.178776
+            ],
+            [
+              -10.707724,
+              9.15804
+            ],
+            [
+              -10.730468,
+              9.08114
+            ],
+            [
+              -10.666421,
+              9.085594
+            ],
+            [
+              -10.573514,
+              9.049402
+            ],
+            [
+              -10.573514,
+              9.049402
+            ],
+            [
+              -10.57976,
+              9.030712
+            ],
+            [
+              -10.57976,
+              9.030712
+            ],
+            [
+              -10.581079,
+              9.031467
+            ],
+            [
+              -10.581079,
+              9.031467
+            ],
+            [
+              -10.589508,
+              8.95717
+            ],
+            [
+              -10.560845,
+              8.8047
+            ],
+            [
+              -10.519816,
+              8.782636
+            ],
+            [
+              -10.511202,
+              8.740678
+            ],
+            [
+              -10.501071,
+              8.743838
+            ],
+            [
+              -10.494802,
+              8.741195
+            ],
+            [
+              -10.499986,
+              8.713435
+            ],
+            [
+              -10.464391,
+              8.67293
+            ],
+            [
+              -10.464391,
+              8.67293
+            ],
+            [
+              -10.492699,
+              8.625686
+            ],
+            [
+              -10.574771,
+              8.598731
+            ],
+            [
+              -10.574422,
+              8.57339
+            ],
+            [
+              -10.615813,
+              8.542201
+            ],
+            [
+              -10.620104,
+              8.491128
+            ],
+            [
+              -10.641143,
+              8.474569
+            ],
+            [
+              -10.641143,
+              8.474569
+            ],
+            [
+              -10.641764,
+              8.452963
+            ],
+            [
+              -10.641764,
+              8.452963
+            ],
+            [
+              -10.650947,
+              8.423292
+            ],
+            [
+              -10.639378,
+              8.392305
+            ],
+            [
+              -10.676068,
+              8.375577
+            ],
+            [
+              -10.69821,
+              8.313716
+            ],
+            [
+              -10.701731,
+              8.281114
+            ],
+            [
+              -10.685409,
+              8.286502
+            ],
+            [
+              -10.685409,
+              8.286502
+            ],
+            [
+              -10.67251,
+              8.333929
+            ],
+            [
+              -10.64265,
+              8.354449
+            ],
+            [
+              -10.577285,
+              8.334051
+            ],
+            [
+              -10.572426,
+              8.308922
+            ],
+            [
+              -10.542492,
+              8.309204
+            ],
+            [
+              -10.43115,
+              8.411639
+            ],
+            [
+              -10.383236,
+              8.49072
+            ],
+            [
+              -10.357294,
+              8.482837
+            ],
+            [
+              -10.323086,
+              8.506395
+            ],
+            [
+              -10.279914,
+              8.484999
+            ],
+            [
+              -10.279914,
+              8.484999
+            ],
+            [
+              -10.274611,
+              8.472521
+            ],
+            [
+              -10.274611,
+              8.472521
+            ],
+            [
+              -10.286204,
+              8.37266
+            ],
+            [
+              -10.286204,
+              8.37266
+            ],
+            [
+              -10.301131,
+              8.297469
+            ],
+            [
+              -10.320212,
+              8.284757
+            ],
+            [
+              -10.320212,
+              8.284757
+            ],
+            [
+              -10.294938,
+              8.223806
+            ],
+            [
+              -10.301531,
+              8.197015
+            ],
+            [
+              -10.301531,
+              8.197015
+            ],
+            [
+              -10.318904,
+              8.194893
+            ],
+            [
+              -10.351673,
+              8.150163
+            ],
+            [
+              -10.351673,
+              8.150163
+            ],
+            [
+              -10.37717,
+              8.165673
+            ],
+            [
+              -10.388852,
+              8.149845
+            ],
+            [
+              -10.427361,
+              8.149427
+            ],
+            [
+              -10.427361,
+              8.149427
+            ],
+            [
+              -10.442455,
+              8.154468
+            ],
+            [
+              -10.442455,
+              8.154468
+            ],
+            [
+              -10.501112,
+              8.145422
+            ],
+            [
+              -10.528158,
+              8.125143
+            ],
+            [
+              -10.528158,
+              8.125143
+            ],
+            [
+              -10.589844,
+              8.045115
+            ],
+            [
+              -10.589844,
+              8.045115
+            ],
+            [
+              -10.605165,
+              8.040542
+            ],
+            [
+              -10.605165,
+              8.040542
+            ],
+            [
+              -10.605022,
+              7.920916
+            ],
+            [
+              -10.605022,
+              7.920916
+            ],
+            [
+              -10.604795,
+              7.777835
+            ],
+            [
+              -10.604795,
+              7.777835
+            ],
+            [
+              -10.701644,
+              7.736022
+            ],
+            [
+              -10.747818,
+              7.661606
+            ],
+            [
+              -10.775396,
+              7.653512
+            ],
+            [
+              -10.794017,
+              7.599322
+            ],
+            [
+              -10.794017,
+              7.599322
+            ],
+            [
+              -10.817839,
+              7.595774
+            ],
+            [
+              -10.82676,
+              7.562922
+            ],
+            [
+              -10.853438,
+              7.54273
+            ],
+            [
+              -10.853438,
+              7.54273
+            ],
+            [
+              -10.922288,
+              7.497456
+            ],
+            [
+              -10.932952,
+              7.513667
+            ],
+            [
+              -11.050428,
+              7.412763
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "SL",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+        "name": "Sierra Leone",
+        "id": "SL"
       }
     }
   ]

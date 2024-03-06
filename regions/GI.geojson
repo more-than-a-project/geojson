@@ -3,136 +3,83 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.345347,
+              36.155038
+            ],
+            [
+              -5.345187,
+              36.15498
+            ],
+            [
+              -5.345187,
+              36.15498
+            ],
+            [
+              -5.339474,
+              36.15306
+            ],
+            [
+              -5.339474,
+              36.15306
+            ],
+            [
+              -5.338853,
+              36.152848
+            ],
+            [
+              -5.338853,
+              36.152848
+            ],
+            [
+              -5.276761,
+              36.14949
+            ],
+            [
+              -5.278802,
+              36.116866
+            ],
+            [
+              -5.302732,
+              36.072592
+            ],
+            [
+              -5.357075,
+              36.059551
+            ],
+            [
+              -5.385338,
+              36.093731
+            ],
+            [
+              -5.400655,
+              36.148367
+            ],
+            [
+              -5.351803,
+              36.15481
+            ],
+            [
+              -5.351803,
+              36.15481
+            ],
+            [
+              -5.345347,
+              36.155038
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "GI",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
-        "name": "Gibraltar"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.3518028,
-            36.1548102
-          ],
-          [
-            -5.3453466,
-            36.1550376
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GI",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
-        "name": "Gibraltar"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.3453466,
-            36.1550376
-          ],
-          [
-            -5.3451873,
-            36.15498
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GI",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
-        "name": "Gibraltar"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.3451873,
-            36.15498
-          ],
-          [
-            -5.3394741,
-            36.1530599
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GI",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
-        "name": "Gibraltar"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.3394741,
-            36.1530599
-          ],
-          [
-            -5.3388535,
-            36.1528477
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GI",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
-        "name": "Gibraltar"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.3518028,
-            36.1548102
-          ],
-          [
-            -5.4006553,
-            36.1483668
-          ],
-          [
-            -5.3853382,
-            36.0937314
-          ],
-          [
-            -5.3570753,
-            36.0595515
-          ],
-          [
-            -5.3027324,
-            36.0725925
-          ],
-          [
-            -5.2788016,
-            36.1168656
-          ],
-          [
-            -5.2767611,
-            36.1494904
-          ],
-          [
-            -5.3388535,
-            36.1528477
-          ]
-        ]
+        "name": "Gibraltar",
+        "id": "GI"
       }
     }
   ]

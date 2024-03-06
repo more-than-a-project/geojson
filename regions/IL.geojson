@@ -3,4792 +3,1967 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0558941,
-            31.6752494
-          ],
-          [
-            35.0982296,
-            31.7069537
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0982296,
-            31.7069537
-          ],
-          [
-            35.1164655,
-            31.7137191
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1164655,
-            31.7137191
-          ],
-          [
-            35.1364134,
-            31.7337553
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0488599,
-            31.6709509
-          ],
-          [
-            35.0558941,
-            31.6752494
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9844018,
-            31.6304474
-          ],
-          [
-            35.0488599,
-            31.6709509
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9609212,
-            31.6030291
-          ],
-          [
-            34.9844018,
-            31.6304474
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9609212,
-            31.6030291
-          ],
-          [
-            34.9432692,
-            31.5620096
-          ],
-          [
-            34.9422694,
-            31.499577
-          ],
-          [
-            34.9005102,
-            31.4378254
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.8868308,
-            31.4115837
-          ],
-          [
-            34.9005102,
-            31.4378254
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9176229,
-            31.344923
-          ],
-          [
-            34.8800552,
-            31.3923293
-          ],
-          [
-            34.8868308,
-            31.4115837
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9329895,
-            31.3433952
-          ],
-          [
-            34.9176229,
-            31.344923
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9503931,
-            31.3480643
-          ],
-          [
-            34.9329895,
-            31.3433952
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0239793,
-            31.3591776
-          ],
-          [
-            34.9503931,
-            31.3480643
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1105746,
-            31.3567764
-          ],
-          [
-            35.0239793,
-            31.3591776
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2304749,
-            31.3747671
-          ],
-          [
-            35.1105746,
-            31.3567764
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3558046,
-            31.4630977
-          ],
-          [
-            35.2304749,
-            31.3747671
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3952076,
-            31.4903886
-          ],
-          [
-            35.3558046,
-            31.4630977
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.476012,
-            31.49312
-          ],
-          [
-            35.3952076,
-            31.4903886
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4748414,
-            31.445728
-          ],
-          [
-            35.476012,
-            31.49312
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4335287,
-            31.3246746
-          ],
-          [
-            35.4606945,
-            31.3716582
-          ],
-          [
-            35.4748414,
-            31.445728
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4516308,
-            31.1478797
-          ],
-          [
-            35.3992311,
-            31.2452261
-          ],
-          [
-            35.4335287,
-            31.3246746
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3711667,
-            30.926784
-          ],
-          [
-            35.3940835,
-            30.9265815
-          ],
-          [
-            35.4164664,
-            30.9509396
-          ],
-          [
-            35.4259502,
-            31.0448151
-          ],
-          [
-            35.4547379,
-            31.1044493
-          ],
-          [
-            35.4516308,
-            31.1478797
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3331632,
-            30.8297206
-          ],
-          [
-            35.333056,
-            30.867222
-          ],
-          [
-            35.3711667,
-            30.926784
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3403693,
-            30.8125578
-          ],
-          [
-            35.3331632,
-            30.8297206
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3082099,
-            30.762269
-          ],
-          [
-            35.3403693,
-            30.8125578
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1512953,
-            30.2973857
-          ],
-          [
-            35.1920381,
-            30.346085
-          ],
-          [
-            35.1619544,
-            30.4413124
-          ],
-          [
-            35.1931539,
-            30.4989034
-          ],
-          [
-            35.2040329,
-            30.5819564
-          ],
-          [
-            35.2638594,
-            30.6601851
-          ],
-          [
-            35.2936616,
-            30.7122508
-          ],
-          [
-            35.2958074,
-            30.7620109
-          ],
-          [
-            35.3082099,
-            30.762269
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0439372,
-            29.7880878
-          ],
-          [
-            35.0845351,
-            29.8855474
-          ],
-          [
-            35.0752869,
-            29.9503437
-          ],
-          [
-            35.0988903,
-            29.9914797
-          ],
-          [
-            35.1162281,
-            29.9952337
-          ],
-          [
-            35.1008644,
-            30.0122549
-          ],
-          [
-            35.1307121,
-            30.0615556
-          ],
-          [
-            35.1458397,
-            30.0627627
-          ],
-          [
-            35.1621905,
-            30.122488
-          ],
-          [
-            35.1445952,
-            30.1625878
-          ],
-          [
-            35.1512953,
-            30.2973857
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9952131,
-            29.6105243
-          ],
-          [
-            35.0196686,
-            29.6560237
-          ],
-          [
-            35.0132742,
-            29.7108681
-          ],
-          [
-            35.0439372,
-            29.7880878
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9915291,
-            29.603697
-          ],
-          [
-            34.9952131,
-            29.6105243
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9915291,
-            29.603697
-          ],
-          [
-            34.9786454,
-            29.5768077
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9773801,
-            29.5429571
-          ],
-          [
-            34.9786454,
-            29.5768077
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9759867,
-            29.5398892
-          ],
-          [
-            34.9773801,
-            29.5429571
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.921211,
-            29.4533796
-          ],
-          [
-            34.9759867,
-            29.5398892
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.921211,
-            29.4533796
-          ],
-          [
-            34.9041103,
-            29.4877892
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9041103,
-            29.4877892
-          ],
-          [
-            34.9025753,
-            29.4906263
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9025753,
-            29.4906263
-          ],
-          [
-            34.8759804,
-            29.5588899
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.8759804,
-            29.5588899
-          ],
-          [
-            34.8679667,
-            29.5998312
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.8679667,
-            29.5998312
-          ],
-          [
-            34.8785854,
-            29.6436292
-          ],
-          [
-            34.8566397,
-            29.6879139
-          ],
-          [
-            34.8486244,
-            29.7588365
-          ],
-          [
-            34.6114884,
-            30.3710267
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.6114884,
-            30.3710267
-          ],
-          [
-            34.5435437,
-            30.4129491
-          ],
-          [
-            34.5577462,
-            30.4946473
-          ],
-          [
-            34.5186383,
-            30.5325223
-          ],
-          [
-            34.496972,
-            30.6792119
-          ],
-          [
-            34.4033625,
-            30.8591134
-          ],
-          [
-            34.3251712,
-            31.0593937
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3251712,
-            31.0593937
-          ],
-          [
-            34.27438,
-            31.2006894
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.27438,
-            31.2006894
-          ],
-          [
-            34.2674994,
-            31.2201289
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.2674994,
-            31.2201289
-          ],
-          [
-            34.3258087,
-            31.2579736
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3258087,
-            31.2579736
-          ],
-          [
-            34.3497076,
-            31.2822075
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3497076,
-            31.2822075
-          ],
-          [
-            34.3692693,
-            31.295541
-          ],
-          [
-            34.3705105,
-            31.3234692
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3705105,
-            31.3234692
-          ],
-          [
-            34.3686872,
-            31.3342442
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3686872,
-            31.3342442
-          ],
-          [
-            34.3667339,
-            31.3475513
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3667339,
-            31.3475513
-          ],
-          [
-            34.3730199,
-            31.3738022
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3730199,
-            31.3738022
-          ],
-          [
-            34.3802718,
-            31.389066
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3802718,
-            31.389066
-          ],
-          [
-            34.3950243,
-            31.4018527
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.3950243,
-            31.4018527
-          ],
-          [
-            34.4026499,
-            31.4103299
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4026499,
-            31.4103299
-          ],
-          [
-            34.4111202,
-            31.4148448
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4111202,
-            31.4148448
-          ],
-          [
-            34.4267264,
-            31.4271597
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4508791,
-            31.4490174
-          ],
-          [
-            34.4267264,
-            31.4271597
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4508791,
-            31.4490174
-          ],
-          [
-            34.4625343,
-            31.4593577
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4625343,
-            31.4593577
-          ],
-          [
-            34.467309,
-            31.4647494
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.467309,
-            31.4647494
-          ],
-          [
-            34.4886854,
-            31.4824557
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4886854,
-            31.4824557
-          ],
-          [
-            34.5181367,
-            31.5017164
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5181367,
-            31.5017164
-          ],
-          [
-            34.5380928,
-            31.5099178
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5380928,
-            31.5099178
-          ],
-          [
-            34.5673243,
-            31.5401214
-          ],
-          [
-            34.549277,
-            31.5538349
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.549277,
-            31.5538349
-          ],
-          [
-            34.5363816,
-            31.5633381
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5363816,
-            31.5633381
-          ],
-          [
-            34.5239738,
-            31.5723085
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.5239738,
-            31.5723085
-          ],
-          [
-            34.489801,
-            31.5957511
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.4879386,
-            31.5968541
-          ],
-          [
-            34.489801,
-            31.5957511
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.2956337,
-            31.7054352
-          ],
-          [
-            34.4879386,
-            31.5968541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.2956337,
-            31.7054352
-          ],
-          [
-            34.4011032,
-            31.8526156
-          ],
-          [
-            34.4261367,
-            31.932201
-          ],
-          [
-            34.4946626,
-            32.0294459
-          ],
-          [
-            34.5431872,
-            32.1500765
-          ],
-          [
-            34.6418094,
-            32.4650475
-          ],
-          [
-            34.7287541,
-            32.8864697
-          ],
-          [
-            34.7667267,
-            32.9478279
-          ],
-          [
-            34.8421963,
-            33.0024587
-          ],
-          [
-            34.8825667,
-            33.1720361
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.8825667,
-            33.1720361
-          ],
-          [
-            35.0995317,
-            33.0952633
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0995317,
-            33.0952633
-          ],
-          [
-            35.1037652,
-            33.0942523
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1037652,
-            33.0942523
-          ],
-          [
-            35.1067087,
-            33.0941315
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1067087,
-            33.0941315
-          ],
-          [
-            35.1343362,
-            33.0912847
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1343362,
-            33.0912847
-          ],
-          [
-            35.1555134,
-            33.0863873
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1555134,
-            33.0863873
-          ],
-          [
-            35.1575915,
-            33.0865167
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1575915,
-            33.0865167
-          ],
-          [
-            35.2110373,
-            33.0985685
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2110373,
-            33.0985685
-          ],
-          [
-            35.2166496,
-            33.0999692
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2166496,
-            33.0999692
-          ],
-          [
-            35.2408238,
-            33.092757
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2408238,
-            33.092757
-          ],
-          [
-            35.2465624,
-            33.0947409
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2465624,
-            33.0947409
-          ],
-          [
-            35.2736926,
-            33.1005808
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2736926,
-            33.1005808
-          ],
-          [
-            35.2760313,
-            33.100611
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2760313,
-            33.100611
-          ],
-          [
-            35.2798202,
-            33.1007809
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2798202,
-            33.1007809
-          ],
-          [
-            35.2968869,
-            33.1067299
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2968869,
-            33.1067299
-          ],
-          [
-            35.3199077,
-            33.1016262
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3199077,
-            33.1016262
-          ],
-          [
-            35.3361854,
-            33.0720201
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3361854,
-            33.0720201
-          ],
-          [
-            35.359329,
-            33.0567349
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.359329,
-            33.0567349
-          ],
-          [
-            35.3744287,
-            33.0553645
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3744287,
-            33.0553645
-          ],
-          [
-            35.378215,
-            33.0550325
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.378215,
-            33.0550325
-          ],
-          [
-            35.3836803,
-            33.061473
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3836803,
-            33.061473
-          ],
-          [
-            35.39853,
-            33.0614451
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.39853,
-            33.0614451
-          ],
-          [
-            35.418694,
-            33.0643167
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.418694,
-            33.0643167
-          ],
-          [
-            35.442838,
-            33.0857351
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.442838,
-            33.0857351
-          ],
-          [
-            35.4455229,
-            33.0903527
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4455229,
-            33.0903527
-          ],
-          [
-            35.4782764,
-            33.0928138
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4782764,
-            33.0928138
-          ],
-          [
-            35.4949494,
-            33.0914562
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4949494,
-            33.0914562
-          ],
-          [
-            35.5046439,
-            33.1156146
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5046439,
-            33.1156146
-          ],
-          [
-            35.525229,
-            33.1241111
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.525229,
-            33.1241111
-          ],
-          [
-            35.5321871,
-            33.1337788
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5321871,
-            33.1337788
-          ],
-          [
-            35.5307722,
-            33.1568824
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5307722,
-            33.1568824
-          ],
-          [
-            35.5407287,
-            33.2015053
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5407287,
-            33.2015053
-          ],
-          [
-            35.5395993,
-            33.2042264
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5395993,
-            33.2042264
-          ],
-          [
-            35.5390899,
-            33.2245103
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5390899,
-            33.2245103
-          ],
-          [
-            35.5385184,
-            33.2325135
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5385184,
-            33.2325135
-          ],
-          [
-            35.542771,
-            33.2347288
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.542771,
-            33.2347288
-          ],
-          [
-            35.5474322,
-            33.2412851
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5474322,
-            33.2412851
-          ],
-          [
-            35.5523406,
-            33.2560134
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5523406,
-            33.2560134
-          ],
-          [
-            35.5566675,
-            33.2617295
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5566675,
-            33.2617295
-          ],
-          [
-            35.5573358,
-            33.2646361
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5573358,
-            33.2646361
-          ],
-          [
-            35.5649073,
-            33.2877202
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5649073,
-            33.2877202
-          ],
-          [
-            35.5680776,
-            33.2904182
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5680776,
-            33.2904182
-          ],
-          [
-            35.5825459,
-            33.2832082
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5825459,
-            33.2832082
-          ],
-          [
-            35.5965683,
-            33.2572354
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5965683,
-            33.2572354
-          ],
-          [
-            35.6012306,
-            33.2528951
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6012306,
-            33.2528951
-          ],
-          [
-            35.624343,
-            33.2424583
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.624343,
-            33.2424583
-          ],
-          [
-            35.6215375,
-            33.2668542
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6215375,
-            33.2668542
-          ],
-          [
-            35.6218878,
-            33.2725547
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6218878,
-            33.2725547
-          ],
-          [
-            35.6227375,
-            33.2728531
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6227375,
-            33.2728531
-          ],
-          [
-            35.6258251,
-            33.2739957
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6258251,
-            33.2739957
-          ],
-          [
-            35.6376534,
-            33.2780658
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6376534,
-            33.2780658
-          ],
-          [
-            35.6388074,
-            33.2787182
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6388074,
-            33.2787182
-          ],
-          [
-            35.6412092,
-            33.2798325
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6412092,
-            33.2798325
-          ],
-          [
-            35.6587935,
-            33.2739759
-          ],
-          [
-            35.6897521,
-            33.2956151
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6897521,
-            33.2956151
-          ],
-          [
-            35.7322945,
-            33.3288519
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7322945,
-            33.3288519
-          ],
-          [
-            35.7733352,
-            33.3356317
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7733352,
-            33.3356317
-          ],
-          [
-            35.813197,
-            33.3169602
-          ],
-          [
-            35.7774064,
-            33.2767315
-          ],
-          [
-            35.8150621,
-            33.2449606
-          ],
-          [
-            35.8171568,
-            33.2031106
-          ],
-          [
-            35.8376806,
-            33.1930585
-          ],
-          [
-            35.8444429,
-            33.167612
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.8444429,
-            33.167612
-          ],
-          [
-            35.816977,
-            33.1129915
-          ],
-          [
-            35.850451,
-            33.102351
-          ],
-          [
-            35.8577105,
-            33.0634153
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.8577105,
-            33.0634153
-          ],
-          [
-            35.8713235,
-            32.9814186
-          ],
-          [
-            35.8950234,
-            32.9448773
-          ],
-          [
-            35.8651036,
-            32.91147
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.8651036,
-            32.91147
-          ],
-          [
-            35.8443799,
-            32.870215
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.8443799,
-            32.870215
-          ],
-          [
-            35.8376774,
-            32.8281659
-          ],
-          [
-            35.7564962,
-            32.7452784
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7564962,
-            32.7452784
-          ],
-          [
-            35.6756008,
-            32.7056188
-          ],
-          [
-            35.6719912,
-            32.6911829
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6719912,
-            32.6911829
-          ],
-          [
-            35.6452569,
-            32.6775614
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6452569,
-            32.6775614
-          ],
-          [
-            35.6314286,
-            32.6836553
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6314286,
-            32.6836553
-          ],
-          [
-            35.5985755,
-            32.6682741
-          ],
-          [
-            35.6056959,
-            32.6513624
-          ],
-          [
-            35.5713604,
-            32.6471412
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5640611,
-            32.6477111
-          ],
-          [
-            35.5713604,
-            32.6471412
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5640611,
-            32.6477111
-          ],
-          [
-            35.5664009,
-            32.6011967
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5664009,
-            32.6011967
-          ],
-          [
-            35.5781081,
-            32.5970235
-          ],
-          [
-            35.5769708,
-            32.5526238
-          ],
-          [
-            35.5525128,
-            32.5147493
-          ],
-          [
-            35.580175,
-            32.4874065
-          ],
-          [
-            35.5653743,
-            32.4809637
-          ],
-          [
-            35.573848,
-            32.458746
-          ],
-          [
-            35.551768,
-            32.4223737
-          ],
-          [
-            35.5549603,
-            32.3890173
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4294166,
-            32.4101813
-          ],
-          [
-            35.5549603,
-            32.3890173
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4269024,
-            32.4120421
-          ],
-          [
-            35.4294166,
-            32.4101813
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4189469,
-            32.4623438
-          ],
-          [
-            35.4102977,
-            32.4364883
-          ],
-          [
-            35.4269024,
-            32.4120421
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4055638,
-            32.4903707
-          ],
-          [
-            35.4189469,
-            32.4623438
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3085243,
-            32.5105109
-          ],
-          [
-            35.3580452,
-            32.5184904
-          ],
-          [
-            35.4055638,
-            32.4903707
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2409656,
-            32.5325519
-          ],
-          [
-            35.3085243,
-            32.5105109
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2245704,
-            32.5521479
-          ],
-          [
-            35.2409656,
-            32.5325519
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2092055,
-            32.5424283
-          ],
-          [
-            35.2245704,
-            32.5521479
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2046865,
-            32.5410395
-          ],
-          [
-            35.2092055,
-            32.5424283
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1892871,
-            32.5262341
-          ],
-          [
-            35.2046865,
-            32.5410395
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1892871,
-            32.5262341
-          ],
-          [
-            35.1640368,
-            32.5087667
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.098968,
-            32.4780982
-          ],
-          [
-            35.1640368,
-            32.5087667
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.098968,
-            32.4780982
-          ],
-          [
-            35.083155,
-            32.4681846
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0792625,
-            32.4650534
-          ],
-          [
-            35.083155,
-            32.4681846
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0734558,
-            32.4558715
-          ],
-          [
-            35.0792625,
-            32.4650534
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0656845,
-            32.4493218
-          ],
-          [
-            35.0734558,
-            32.4558715
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0600202,
-            32.4313115
-          ],
-          [
-            35.0656845,
-            32.4493218
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0545629,
-            32.4073448
-          ],
-          [
-            35.0600202,
-            32.4313115
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.04785,
-            32.3916368
-          ],
-          [
-            35.0545629,
-            32.4073448
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0417232,
-            32.3776961
-          ],
-          [
-            35.04785,
-            32.3916368
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0420482,
-            32.3505499
-          ],
-          [
-            35.0417232,
-            32.3776961
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0420482,
-            32.3505499
-          ],
-          [
-            35.0165557,
-            32.3386768
-          ],
-          [
-            35.0156806,
-            32.3118048
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0097009,
-            32.2829402
-          ],
-          [
-            35.0156806,
-            32.3118048
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0239033,
-            32.2486684
-          ],
-          [
-            35.0305974,
-            32.2657862
-          ],
-          [
-            35.0097009,
-            32.2829402
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0218909,
-            32.2458978
-          ],
-          [
-            35.0239033,
-            32.2486684
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0198088,
-            32.2359855
-          ],
-          [
-            35.0218909,
-            32.2458978
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0104909,
-            32.2317285
-          ],
-          [
-            35.0198088,
-            32.2359855
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0072087,
-            32.2266072
-          ],
-          [
-            35.0104909,
-            32.2317285
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9877537,
-            32.206919
-          ],
-          [
-            35.0072087,
-            32.2266072
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9797431,
-            32.2034148
-          ],
-          [
-            34.9877537,
-            32.206919
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9765932,
-            32.1565047
-          ],
-          [
-            34.9570901,
-            32.1900344
-          ],
-          [
-            34.9797431,
-            32.2034148
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9875258,
-            32.1386116
-          ],
-          [
-            34.9765932,
-            32.1565047
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9876269,
-            32.1377298
-          ],
-          [
-            34.9875258,
-            32.1386116
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9882466,
-            32.1342014
-          ],
-          [
-            34.9876269,
-            32.1377298
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9860771,
-            32.1229461
-          ],
-          [
-            34.9882466,
-            32.1342014
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9864202,
-            32.1225246
-          ],
-          [
-            34.9860771,
-            32.1229461
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9886263,
-            32.1197282
-          ],
-          [
-            34.9864202,
-            32.1225246
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9889212,
-            32.1170138
-          ],
-          [
-            34.9886263,
-            32.1197282
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9911969,
-            32.1135109
-          ],
-          [
-            34.9889212,
-            32.1170138
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9935901,
-            32.1072909
-          ],
-          [
-            34.9911969,
-            32.1135109
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.99322,
-            32.1064223
-          ],
-          [
-            34.9935901,
-            32.1072909
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9907768,
-            32.1033222
-          ],
-          [
-            34.99322,
-            32.1064223
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9912371,
-            32.0746535
-          ],
-          [
-            34.9907768,
-            32.1033222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9952635,
-            32.0636575
-          ],
-          [
-            34.9912371,
-            32.0746535
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.999616,
-            32.0518565
-          ],
-          [
-            34.9952635,
-            32.0636575
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0025469,
-            32.0416903
-          ],
-          [
-            34.999616,
-            32.0518565
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0038508,
-            32.0199891
-          ],
-          [
-            35.0025469,
-            32.0416903
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9875464,
-            31.9678226
-          ],
-          [
-            35.0038508,
-            32.0199891
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0388726,
-            31.9028038
-          ],
-          [
-            34.9875464,
-            31.9678226
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0361929,
-            31.8672333
-          ],
-          [
-            35.0388726,
-            31.9028038
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9993393,
-            31.8541412
-          ],
-          [
-            35.0361929,
-            31.8672333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0829192,
-            31.8525251
-          ],
-          [
-            35.0585291,
-            31.85615
-          ],
-          [
-            35.0161731,
-            31.8284716
-          ],
-          [
-            34.977965,
-            31.8323876
-          ],
-          [
-            34.9993393,
-            31.8541412
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1052882,
-            31.8251279
-          ],
-          [
-            35.0829192,
-            31.8525251
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1230755,
-            31.8242594
-          ],
-          [
-            35.1052882,
-            31.8251279
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.128811,
-            31.8203221
-          ],
-          [
-            35.1230755,
-            31.8242594
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1483688,
-            31.8119911
-          ],
-          [
-            35.128811,
-            31.8203221
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1702036,
-            31.8083976
-          ],
-          [
-            35.1483688,
-            31.8119911
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1876283,
-            31.8093707
-          ],
-          [
-            35.1702036,
-            31.8083976
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2066513,
-            31.8812824
-          ],
-          [
-            35.2159462,
-            31.8209618
-          ],
-          [
-            35.1841421,
-            31.8259395
-          ],
-          [
-            35.1876283,
-            31.8093707
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.220211,
-            31.8826655
-          ],
-          [
-            35.2066513,
-            31.8812824
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2595288,
-            31.7989856
-          ],
-          [
-            35.2650458,
-            31.8255465
-          ],
-          [
-            35.2510405,
-            31.843904
-          ],
-          [
-            35.2300735,
-            31.8426476
-          ],
-          [
-            35.220211,
-            31.8826655
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2596492,
-            31.7963713
-          ],
-          [
-            35.2595288,
-            31.7989856
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.259734,
-            31.794501
-          ],
-          [
-            35.2596492,
-            31.7963713
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2598617,
-            31.7924811
-          ],
-          [
-            35.259734,
-            31.794501
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2443116,
-            31.7204312
-          ],
-          [
-            35.263365,
-            31.7485727
-          ],
-          [
-            35.2598617,
-            31.7924811
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2427256,
-            31.7122055
-          ],
-          [
-            35.2443116,
-            31.7204312
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2206855,
-            31.7166097
-          ],
-          [
-            35.2427256,
-            31.7122055
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.2206855,
-            31.7166097
-          ],
-          [
-            35.1964962,
-            31.7224175
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1917703,
-            31.7218094
-          ],
-          [
-            35.1964962,
-            31.7224175
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1868032,
-            31.7212329
-          ],
-          [
-            35.1917703,
-            31.7218094
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1508681,
-            31.7366682
-          ],
-          [
-            35.1868032,
-            31.7212329
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "IL",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
-        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1364134,
-            31.7337553
-          ],
-          [
-            35.1508681,
-            31.7366682
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.09823,
+              31.706954
+            ],
+            [
+              35.116465,
+              31.713719
+            ],
+            [
+              35.116465,
+              31.713719
+            ],
+            [
+              35.136413,
+              31.733755
+            ],
+            [
+              35.136413,
+              31.733755
+            ],
+            [
+              35.150868,
+              31.736668
+            ],
+            [
+              35.150868,
+              31.736668
+            ],
+            [
+              35.186803,
+              31.721233
+            ],
+            [
+              35.186803,
+              31.721233
+            ],
+            [
+              35.19177,
+              31.721809
+            ],
+            [
+              35.19177,
+              31.721809
+            ],
+            [
+              35.196496,
+              31.722417
+            ],
+            [
+              35.196496,
+              31.722417
+            ],
+            [
+              35.220686,
+              31.71661
+            ],
+            [
+              35.220686,
+              31.71661
+            ],
+            [
+              35.242726,
+              31.712205
+            ],
+            [
+              35.242726,
+              31.712205
+            ],
+            [
+              35.244312,
+              31.720431
+            ],
+            [
+              35.244312,
+              31.720431
+            ],
+            [
+              35.263365,
+              31.748573
+            ],
+            [
+              35.259862,
+              31.792481
+            ],
+            [
+              35.259862,
+              31.792481
+            ],
+            [
+              35.259734,
+              31.794501
+            ],
+            [
+              35.259734,
+              31.794501
+            ],
+            [
+              35.259649,
+              31.796371
+            ],
+            [
+              35.259649,
+              31.796371
+            ],
+            [
+              35.259529,
+              31.798986
+            ],
+            [
+              35.259529,
+              31.798986
+            ],
+            [
+              35.265046,
+              31.825547
+            ],
+            [
+              35.251041,
+              31.843904
+            ],
+            [
+              35.230074,
+              31.842648
+            ],
+            [
+              35.220211,
+              31.882666
+            ],
+            [
+              35.220211,
+              31.882666
+            ],
+            [
+              35.206651,
+              31.881282
+            ],
+            [
+              35.206651,
+              31.881282
+            ],
+            [
+              35.215946,
+              31.820962
+            ],
+            [
+              35.184142,
+              31.82594
+            ],
+            [
+              35.187628,
+              31.809371
+            ],
+            [
+              35.187628,
+              31.809371
+            ],
+            [
+              35.170204,
+              31.808398
+            ],
+            [
+              35.170204,
+              31.808398
+            ],
+            [
+              35.148369,
+              31.811991
+            ],
+            [
+              35.148369,
+              31.811991
+            ],
+            [
+              35.128811,
+              31.820322
+            ],
+            [
+              35.128811,
+              31.820322
+            ],
+            [
+              35.123075,
+              31.824259
+            ],
+            [
+              35.123075,
+              31.824259
+            ],
+            [
+              35.105288,
+              31.825128
+            ],
+            [
+              35.105288,
+              31.825128
+            ],
+            [
+              35.082919,
+              31.852525
+            ],
+            [
+              35.082919,
+              31.852525
+            ],
+            [
+              35.058529,
+              31.85615
+            ],
+            [
+              35.016173,
+              31.828472
+            ],
+            [
+              34.977965,
+              31.832388
+            ],
+            [
+              34.999339,
+              31.854141
+            ],
+            [
+              34.999339,
+              31.854141
+            ],
+            [
+              35.036193,
+              31.867233
+            ],
+            [
+              35.036193,
+              31.867233
+            ],
+            [
+              35.038873,
+              31.902804
+            ],
+            [
+              35.038873,
+              31.902804
+            ],
+            [
+              34.987546,
+              31.967823
+            ],
+            [
+              34.987546,
+              31.967823
+            ],
+            [
+              35.003851,
+              32.019989
+            ],
+            [
+              35.003851,
+              32.019989
+            ],
+            [
+              35.002547,
+              32.04169
+            ],
+            [
+              35.002547,
+              32.04169
+            ],
+            [
+              34.999616,
+              32.051856
+            ],
+            [
+              34.999616,
+              32.051856
+            ],
+            [
+              34.995264,
+              32.063657
+            ],
+            [
+              34.995264,
+              32.063657
+            ],
+            [
+              34.991237,
+              32.074653
+            ],
+            [
+              34.991237,
+              32.074653
+            ],
+            [
+              34.990777,
+              32.103322
+            ],
+            [
+              34.990777,
+              32.103322
+            ],
+            [
+              34.99322,
+              32.106422
+            ],
+            [
+              34.99322,
+              32.106422
+            ],
+            [
+              34.99359,
+              32.107291
+            ],
+            [
+              34.99359,
+              32.107291
+            ],
+            [
+              34.991197,
+              32.113511
+            ],
+            [
+              34.991197,
+              32.113511
+            ],
+            [
+              34.988921,
+              32.117014
+            ],
+            [
+              34.988921,
+              32.117014
+            ],
+            [
+              34.988626,
+              32.119728
+            ],
+            [
+              34.988626,
+              32.119728
+            ],
+            [
+              34.98642,
+              32.122525
+            ],
+            [
+              34.98642,
+              32.122525
+            ],
+            [
+              34.986077,
+              32.122946
+            ],
+            [
+              34.986077,
+              32.122946
+            ],
+            [
+              34.988247,
+              32.134201
+            ],
+            [
+              34.988247,
+              32.134201
+            ],
+            [
+              34.987627,
+              32.13773
+            ],
+            [
+              34.987627,
+              32.13773
+            ],
+            [
+              34.987526,
+              32.138612
+            ],
+            [
+              34.987526,
+              32.138612
+            ],
+            [
+              34.976593,
+              32.156505
+            ],
+            [
+              34.976593,
+              32.156505
+            ],
+            [
+              34.95709,
+              32.190034
+            ],
+            [
+              34.979743,
+              32.203415
+            ],
+            [
+              34.979743,
+              32.203415
+            ],
+            [
+              34.987754,
+              32.206919
+            ],
+            [
+              34.987754,
+              32.206919
+            ],
+            [
+              35.007209,
+              32.226607
+            ],
+            [
+              35.007209,
+              32.226607
+            ],
+            [
+              35.010491,
+              32.231729
+            ],
+            [
+              35.010491,
+              32.231729
+            ],
+            [
+              35.019809,
+              32.235985
+            ],
+            [
+              35.019809,
+              32.235985
+            ],
+            [
+              35.021891,
+              32.245898
+            ],
+            [
+              35.021891,
+              32.245898
+            ],
+            [
+              35.023903,
+              32.248668
+            ],
+            [
+              35.023903,
+              32.248668
+            ],
+            [
+              35.030597,
+              32.265786
+            ],
+            [
+              35.009701,
+              32.28294
+            ],
+            [
+              35.009701,
+              32.28294
+            ],
+            [
+              35.015681,
+              32.311805
+            ],
+            [
+              35.015681,
+              32.311805
+            ],
+            [
+              35.016556,
+              32.338677
+            ],
+            [
+              35.042048,
+              32.35055
+            ],
+            [
+              35.042048,
+              32.35055
+            ],
+            [
+              35.041723,
+              32.377696
+            ],
+            [
+              35.041723,
+              32.377696
+            ],
+            [
+              35.04785,
+              32.391637
+            ],
+            [
+              35.04785,
+              32.391637
+            ],
+            [
+              35.054563,
+              32.407345
+            ],
+            [
+              35.054563,
+              32.407345
+            ],
+            [
+              35.06002,
+              32.431311
+            ],
+            [
+              35.06002,
+              32.431311
+            ],
+            [
+              35.065685,
+              32.449322
+            ],
+            [
+              35.065685,
+              32.449322
+            ],
+            [
+              35.073456,
+              32.455872
+            ],
+            [
+              35.073456,
+              32.455872
+            ],
+            [
+              35.079262,
+              32.465053
+            ],
+            [
+              35.079262,
+              32.465053
+            ],
+            [
+              35.083155,
+              32.468185
+            ],
+            [
+              35.083155,
+              32.468185
+            ],
+            [
+              35.098968,
+              32.478098
+            ],
+            [
+              35.098968,
+              32.478098
+            ],
+            [
+              35.164037,
+              32.508767
+            ],
+            [
+              35.164037,
+              32.508767
+            ],
+            [
+              35.189287,
+              32.526234
+            ],
+            [
+              35.189287,
+              32.526234
+            ],
+            [
+              35.204687,
+              32.541039
+            ],
+            [
+              35.204687,
+              32.541039
+            ],
+            [
+              35.209206,
+              32.542428
+            ],
+            [
+              35.209206,
+              32.542428
+            ],
+            [
+              35.22457,
+              32.552148
+            ],
+            [
+              35.22457,
+              32.552148
+            ],
+            [
+              35.240966,
+              32.532552
+            ],
+            [
+              35.240966,
+              32.532552
+            ],
+            [
+              35.308524,
+              32.510511
+            ],
+            [
+              35.308524,
+              32.510511
+            ],
+            [
+              35.358045,
+              32.51849
+            ],
+            [
+              35.405564,
+              32.490371
+            ],
+            [
+              35.405564,
+              32.490371
+            ],
+            [
+              35.418947,
+              32.462344
+            ],
+            [
+              35.418947,
+              32.462344
+            ],
+            [
+              35.410298,
+              32.436488
+            ],
+            [
+              35.426902,
+              32.412042
+            ],
+            [
+              35.426902,
+              32.412042
+            ],
+            [
+              35.429417,
+              32.410181
+            ],
+            [
+              35.429417,
+              32.410181
+            ],
+            [
+              35.55496,
+              32.389017
+            ],
+            [
+              35.55496,
+              32.389017
+            ],
+            [
+              35.551768,
+              32.422374
+            ],
+            [
+              35.573848,
+              32.458746
+            ],
+            [
+              35.565374,
+              32.480964
+            ],
+            [
+              35.580175,
+              32.487406
+            ],
+            [
+              35.552513,
+              32.514749
+            ],
+            [
+              35.576971,
+              32.552624
+            ],
+            [
+              35.578108,
+              32.597023
+            ],
+            [
+              35.566401,
+              32.601197
+            ],
+            [
+              35.566401,
+              32.601197
+            ],
+            [
+              35.564061,
+              32.647711
+            ],
+            [
+              35.564061,
+              32.647711
+            ],
+            [
+              35.57136,
+              32.647141
+            ],
+            [
+              35.57136,
+              32.647141
+            ],
+            [
+              35.605696,
+              32.651362
+            ],
+            [
+              35.598576,
+              32.668274
+            ],
+            [
+              35.631429,
+              32.683655
+            ],
+            [
+              35.631429,
+              32.683655
+            ],
+            [
+              35.645257,
+              32.677561
+            ],
+            [
+              35.645257,
+              32.677561
+            ],
+            [
+              35.671991,
+              32.691183
+            ],
+            [
+              35.671991,
+              32.691183
+            ],
+            [
+              35.675601,
+              32.705619
+            ],
+            [
+              35.756496,
+              32.745278
+            ],
+            [
+              35.756496,
+              32.745278
+            ],
+            [
+              35.837677,
+              32.828166
+            ],
+            [
+              35.84438,
+              32.870215
+            ],
+            [
+              35.84438,
+              32.870215
+            ],
+            [
+              35.865104,
+              32.91147
+            ],
+            [
+              35.865104,
+              32.91147
+            ],
+            [
+              35.895023,
+              32.944877
+            ],
+            [
+              35.871324,
+              32.981419
+            ],
+            [
+              35.857711,
+              33.063415
+            ],
+            [
+              35.857711,
+              33.063415
+            ],
+            [
+              35.850451,
+              33.102351
+            ],
+            [
+              35.816977,
+              33.112991
+            ],
+            [
+              35.844443,
+              33.167612
+            ],
+            [
+              35.844443,
+              33.167612
+            ],
+            [
+              35.837681,
+              33.193058
+            ],
+            [
+              35.817157,
+              33.203111
+            ],
+            [
+              35.815062,
+              33.244961
+            ],
+            [
+              35.777406,
+              33.276731
+            ],
+            [
+              35.813197,
+              33.31696
+            ],
+            [
+              35.773335,
+              33.335632
+            ],
+            [
+              35.773335,
+              33.335632
+            ],
+            [
+              35.732295,
+              33.328852
+            ],
+            [
+              35.732295,
+              33.328852
+            ],
+            [
+              35.689752,
+              33.295615
+            ],
+            [
+              35.689752,
+              33.295615
+            ],
+            [
+              35.658794,
+              33.273976
+            ],
+            [
+              35.641209,
+              33.279832
+            ],
+            [
+              35.641209,
+              33.279832
+            ],
+            [
+              35.638807,
+              33.278718
+            ],
+            [
+              35.638807,
+              33.278718
+            ],
+            [
+              35.637653,
+              33.278066
+            ],
+            [
+              35.637653,
+              33.278066
+            ],
+            [
+              35.625825,
+              33.273996
+            ],
+            [
+              35.625825,
+              33.273996
+            ],
+            [
+              35.622737,
+              33.272853
+            ],
+            [
+              35.622737,
+              33.272853
+            ],
+            [
+              35.621888,
+              33.272555
+            ],
+            [
+              35.621888,
+              33.272555
+            ],
+            [
+              35.621538,
+              33.266854
+            ],
+            [
+              35.621538,
+              33.266854
+            ],
+            [
+              35.624343,
+              33.242458
+            ],
+            [
+              35.624343,
+              33.242458
+            ],
+            [
+              35.601231,
+              33.252895
+            ],
+            [
+              35.601231,
+              33.252895
+            ],
+            [
+              35.596568,
+              33.257235
+            ],
+            [
+              35.596568,
+              33.257235
+            ],
+            [
+              35.582546,
+              33.283208
+            ],
+            [
+              35.582546,
+              33.283208
+            ],
+            [
+              35.568078,
+              33.290418
+            ],
+            [
+              35.568078,
+              33.290418
+            ],
+            [
+              35.564907,
+              33.28772
+            ],
+            [
+              35.564907,
+              33.28772
+            ],
+            [
+              35.557336,
+              33.264636
+            ],
+            [
+              35.557336,
+              33.264636
+            ],
+            [
+              35.556668,
+              33.26173
+            ],
+            [
+              35.556668,
+              33.26173
+            ],
+            [
+              35.552341,
+              33.256013
+            ],
+            [
+              35.552341,
+              33.256013
+            ],
+            [
+              35.547432,
+              33.241285
+            ],
+            [
+              35.547432,
+              33.241285
+            ],
+            [
+              35.542771,
+              33.234729
+            ],
+            [
+              35.542771,
+              33.234729
+            ],
+            [
+              35.538518,
+              33.232514
+            ],
+            [
+              35.538518,
+              33.232514
+            ],
+            [
+              35.53909,
+              33.22451
+            ],
+            [
+              35.53909,
+              33.22451
+            ],
+            [
+              35.539599,
+              33.204226
+            ],
+            [
+              35.539599,
+              33.204226
+            ],
+            [
+              35.540729,
+              33.201505
+            ],
+            [
+              35.540729,
+              33.201505
+            ],
+            [
+              35.530772,
+              33.156882
+            ],
+            [
+              35.530772,
+              33.156882
+            ],
+            [
+              35.532187,
+              33.133779
+            ],
+            [
+              35.532187,
+              33.133779
+            ],
+            [
+              35.525229,
+              33.124111
+            ],
+            [
+              35.525229,
+              33.124111
+            ],
+            [
+              35.504644,
+              33.115615
+            ],
+            [
+              35.504644,
+              33.115615
+            ],
+            [
+              35.494949,
+              33.091456
+            ],
+            [
+              35.494949,
+              33.091456
+            ],
+            [
+              35.478276,
+              33.092814
+            ],
+            [
+              35.478276,
+              33.092814
+            ],
+            [
+              35.445523,
+              33.090353
+            ],
+            [
+              35.445523,
+              33.090353
+            ],
+            [
+              35.442838,
+              33.085735
+            ],
+            [
+              35.442838,
+              33.085735
+            ],
+            [
+              35.418694,
+              33.064317
+            ],
+            [
+              35.418694,
+              33.064317
+            ],
+            [
+              35.39853,
+              33.061445
+            ],
+            [
+              35.39853,
+              33.061445
+            ],
+            [
+              35.38368,
+              33.061473
+            ],
+            [
+              35.38368,
+              33.061473
+            ],
+            [
+              35.378215,
+              33.055033
+            ],
+            [
+              35.378215,
+              33.055033
+            ],
+            [
+              35.374429,
+              33.055365
+            ],
+            [
+              35.374429,
+              33.055365
+            ],
+            [
+              35.359329,
+              33.056735
+            ],
+            [
+              35.359329,
+              33.056735
+            ],
+            [
+              35.336185,
+              33.07202
+            ],
+            [
+              35.336185,
+              33.07202
+            ],
+            [
+              35.319908,
+              33.101626
+            ],
+            [
+              35.319908,
+              33.101626
+            ],
+            [
+              35.296887,
+              33.10673
+            ],
+            [
+              35.296887,
+              33.10673
+            ],
+            [
+              35.27982,
+              33.100781
+            ],
+            [
+              35.27982,
+              33.100781
+            ],
+            [
+              35.276031,
+              33.100611
+            ],
+            [
+              35.276031,
+              33.100611
+            ],
+            [
+              35.273693,
+              33.100581
+            ],
+            [
+              35.273693,
+              33.100581
+            ],
+            [
+              35.246562,
+              33.094741
+            ],
+            [
+              35.246562,
+              33.094741
+            ],
+            [
+              35.240824,
+              33.092757
+            ],
+            [
+              35.240824,
+              33.092757
+            ],
+            [
+              35.21665,
+              33.099969
+            ],
+            [
+              35.21665,
+              33.099969
+            ],
+            [
+              35.211037,
+              33.098568
+            ],
+            [
+              35.211037,
+              33.098568
+            ],
+            [
+              35.157592,
+              33.086517
+            ],
+            [
+              35.157592,
+              33.086517
+            ],
+            [
+              35.155513,
+              33.086387
+            ],
+            [
+              35.155513,
+              33.086387
+            ],
+            [
+              35.134336,
+              33.091285
+            ],
+            [
+              35.134336,
+              33.091285
+            ],
+            [
+              35.106709,
+              33.094132
+            ],
+            [
+              35.106709,
+              33.094132
+            ],
+            [
+              35.103765,
+              33.094252
+            ],
+            [
+              35.103765,
+              33.094252
+            ],
+            [
+              35.099532,
+              33.095263
+            ],
+            [
+              35.099532,
+              33.095263
+            ],
+            [
+              34.882567,
+              33.172036
+            ],
+            [
+              34.882567,
+              33.172036
+            ],
+            [
+              34.842196,
+              33.002459
+            ],
+            [
+              34.766727,
+              32.947828
+            ],
+            [
+              34.728754,
+              32.88647
+            ],
+            [
+              34.641809,
+              32.465047
+            ],
+            [
+              34.543187,
+              32.150076
+            ],
+            [
+              34.494663,
+              32.029446
+            ],
+            [
+              34.426137,
+              31.932201
+            ],
+            [
+              34.401103,
+              31.852616
+            ],
+            [
+              34.295634,
+              31.705435
+            ],
+            [
+              34.295634,
+              31.705435
+            ],
+            [
+              34.487939,
+              31.596854
+            ],
+            [
+              34.487939,
+              31.596854
+            ],
+            [
+              34.489801,
+              31.595751
+            ],
+            [
+              34.489801,
+              31.595751
+            ],
+            [
+              34.523974,
+              31.572308
+            ],
+            [
+              34.523974,
+              31.572308
+            ],
+            [
+              34.536382,
+              31.563338
+            ],
+            [
+              34.536382,
+              31.563338
+            ],
+            [
+              34.549277,
+              31.553835
+            ],
+            [
+              34.549277,
+              31.553835
+            ],
+            [
+              34.567324,
+              31.540121
+            ],
+            [
+              34.538093,
+              31.509918
+            ],
+            [
+              34.538093,
+              31.509918
+            ],
+            [
+              34.518137,
+              31.501716
+            ],
+            [
+              34.518137,
+              31.501716
+            ],
+            [
+              34.488685,
+              31.482456
+            ],
+            [
+              34.488685,
+              31.482456
+            ],
+            [
+              34.467309,
+              31.464749
+            ],
+            [
+              34.467309,
+              31.464749
+            ],
+            [
+              34.462534,
+              31.459358
+            ],
+            [
+              34.462534,
+              31.459358
+            ],
+            [
+              34.450879,
+              31.449017
+            ],
+            [
+              34.450879,
+              31.449017
+            ],
+            [
+              34.426726,
+              31.42716
+            ],
+            [
+              34.426726,
+              31.42716
+            ],
+            [
+              34.41112,
+              31.414845
+            ],
+            [
+              34.41112,
+              31.414845
+            ],
+            [
+              34.40265,
+              31.41033
+            ],
+            [
+              34.40265,
+              31.41033
+            ],
+            [
+              34.395024,
+              31.401853
+            ],
+            [
+              34.395024,
+              31.401853
+            ],
+            [
+              34.380272,
+              31.389066
+            ],
+            [
+              34.380272,
+              31.389066
+            ],
+            [
+              34.37302,
+              31.373802
+            ],
+            [
+              34.37302,
+              31.373802
+            ],
+            [
+              34.366734,
+              31.347551
+            ],
+            [
+              34.366734,
+              31.347551
+            ],
+            [
+              34.368687,
+              31.334244
+            ],
+            [
+              34.368687,
+              31.334244
+            ],
+            [
+              34.370511,
+              31.323469
+            ],
+            [
+              34.370511,
+              31.323469
+            ],
+            [
+              34.369269,
+              31.295541
+            ],
+            [
+              34.349708,
+              31.282207
+            ],
+            [
+              34.349708,
+              31.282207
+            ],
+            [
+              34.325809,
+              31.257974
+            ],
+            [
+              34.325809,
+              31.257974
+            ],
+            [
+              34.267499,
+              31.220129
+            ],
+            [
+              34.267499,
+              31.220129
+            ],
+            [
+              34.27438,
+              31.200689
+            ],
+            [
+              34.27438,
+              31.200689
+            ],
+            [
+              34.325171,
+              31.059394
+            ],
+            [
+              34.325171,
+              31.059394
+            ],
+            [
+              34.403363,
+              30.859113
+            ],
+            [
+              34.496972,
+              30.679212
+            ],
+            [
+              34.518638,
+              30.532522
+            ],
+            [
+              34.557746,
+              30.494647
+            ],
+            [
+              34.543544,
+              30.412949
+            ],
+            [
+              34.611488,
+              30.371027
+            ],
+            [
+              34.611488,
+              30.371027
+            ],
+            [
+              34.848624,
+              29.758837
+            ],
+            [
+              34.85664,
+              29.687914
+            ],
+            [
+              34.878585,
+              29.643629
+            ],
+            [
+              34.867967,
+              29.599831
+            ],
+            [
+              34.867967,
+              29.599831
+            ],
+            [
+              34.87598,
+              29.55889
+            ],
+            [
+              34.87598,
+              29.55889
+            ],
+            [
+              34.902575,
+              29.490626
+            ],
+            [
+              34.902575,
+              29.490626
+            ],
+            [
+              34.90411,
+              29.487789
+            ],
+            [
+              34.90411,
+              29.487789
+            ],
+            [
+              34.921211,
+              29.45338
+            ],
+            [
+              34.921211,
+              29.45338
+            ],
+            [
+              34.975987,
+              29.539889
+            ],
+            [
+              34.975987,
+              29.539889
+            ],
+            [
+              34.97738,
+              29.542957
+            ],
+            [
+              34.97738,
+              29.542957
+            ],
+            [
+              34.978645,
+              29.576808
+            ],
+            [
+              34.978645,
+              29.576808
+            ],
+            [
+              34.991529,
+              29.603697
+            ],
+            [
+              34.991529,
+              29.603697
+            ],
+            [
+              34.995213,
+              29.610524
+            ],
+            [
+              34.995213,
+              29.610524
+            ],
+            [
+              35.019669,
+              29.656024
+            ],
+            [
+              35.013274,
+              29.710868
+            ],
+            [
+              35.043937,
+              29.788088
+            ],
+            [
+              35.043937,
+              29.788088
+            ],
+            [
+              35.084535,
+              29.885547
+            ],
+            [
+              35.075287,
+              29.950344
+            ],
+            [
+              35.09889,
+              29.99148
+            ],
+            [
+              35.116228,
+              29.995234
+            ],
+            [
+              35.100864,
+              30.012255
+            ],
+            [
+              35.130712,
+              30.061556
+            ],
+            [
+              35.14584,
+              30.062763
+            ],
+            [
+              35.162191,
+              30.122488
+            ],
+            [
+              35.144595,
+              30.162588
+            ],
+            [
+              35.151295,
+              30.297386
+            ],
+            [
+              35.151295,
+              30.297386
+            ],
+            [
+              35.192038,
+              30.346085
+            ],
+            [
+              35.161954,
+              30.441312
+            ],
+            [
+              35.193154,
+              30.498903
+            ],
+            [
+              35.204033,
+              30.581956
+            ],
+            [
+              35.263859,
+              30.660185
+            ],
+            [
+              35.293662,
+              30.712251
+            ],
+            [
+              35.295807,
+              30.762011
+            ],
+            [
+              35.30821,
+              30.762269
+            ],
+            [
+              35.30821,
+              30.762269
+            ],
+            [
+              35.340369,
+              30.812558
+            ],
+            [
+              35.340369,
+              30.812558
+            ],
+            [
+              35.333163,
+              30.829721
+            ],
+            [
+              35.333163,
+              30.829721
+            ],
+            [
+              35.333056,
+              30.867222
+            ],
+            [
+              35.371167,
+              30.926784
+            ],
+            [
+              35.371167,
+              30.926784
+            ],
+            [
+              35.394084,
+              30.926582
+            ],
+            [
+              35.416466,
+              30.95094
+            ],
+            [
+              35.42595,
+              31.044815
+            ],
+            [
+              35.454738,
+              31.104449
+            ],
+            [
+              35.451631,
+              31.14788
+            ],
+            [
+              35.451631,
+              31.14788
+            ],
+            [
+              35.399231,
+              31.245226
+            ],
+            [
+              35.433529,
+              31.324675
+            ],
+            [
+              35.433529,
+              31.324675
+            ],
+            [
+              35.460695,
+              31.371658
+            ],
+            [
+              35.474841,
+              31.445728
+            ],
+            [
+              35.474841,
+              31.445728
+            ],
+            [
+              35.476012,
+              31.49312
+            ],
+            [
+              35.476012,
+              31.49312
+            ],
+            [
+              35.395208,
+              31.490389
+            ],
+            [
+              35.395208,
+              31.490389
+            ],
+            [
+              35.355805,
+              31.463098
+            ],
+            [
+              35.355805,
+              31.463098
+            ],
+            [
+              35.230475,
+              31.374767
+            ],
+            [
+              35.230475,
+              31.374767
+            ],
+            [
+              35.110575,
+              31.356776
+            ],
+            [
+              35.110575,
+              31.356776
+            ],
+            [
+              35.023979,
+              31.359178
+            ],
+            [
+              35.023979,
+              31.359178
+            ],
+            [
+              34.950393,
+              31.348064
+            ],
+            [
+              34.950393,
+              31.348064
+            ],
+            [
+              34.932989,
+              31.343395
+            ],
+            [
+              34.932989,
+              31.343395
+            ],
+            [
+              34.917623,
+              31.344923
+            ],
+            [
+              34.917623,
+              31.344923
+            ],
+            [
+              34.880055,
+              31.392329
+            ],
+            [
+              34.886831,
+              31.411584
+            ],
+            [
+              34.886831,
+              31.411584
+            ],
+            [
+              34.90051,
+              31.437825
+            ],
+            [
+              34.90051,
+              31.437825
+            ],
+            [
+              34.942269,
+              31.499577
+            ],
+            [
+              34.943269,
+              31.56201
+            ],
+            [
+              34.960921,
+              31.603029
+            ],
+            [
+              34.960921,
+              31.603029
+            ],
+            [
+              34.984402,
+              31.630447
+            ],
+            [
+              34.984402,
+              31.630447
+            ],
+            [
+              35.04886,
+              31.670951
+            ],
+            [
+              35.04886,
+              31.670951
+            ],
+            [
+              35.055894,
+              31.675249
+            ],
+            [
+              35.055894,
+              31.675249
+            ],
+            [
+              35.09823,
+              31.706954
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "IL",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+        "name": "\u05d9\u05e9\u05e8\u05d0\u05dc",
+        "id": "IL"
       }
     }
   ]

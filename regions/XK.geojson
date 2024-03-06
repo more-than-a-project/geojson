@@ -3,4320 +3,1691 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.3529276,
-            42.8333801
-          ],
-          [
-            20.3200874,
-            42.8262051
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.3636462,
-            42.8322797
-          ],
-          [
-            20.3529276,
-            42.8333801
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.4201184,
-            42.8419122
-          ],
-          [
-            20.3636462,
-            42.8322797
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.4412953,
-            42.8338704
-          ],
-          [
-            20.4201184,
-            42.8419122
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.4635751,
-            42.8530939
-          ],
-          [
-            20.4412953,
-            42.8338704
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5382796,
-            42.8831746
-          ],
-          [
-            20.4635751,
-            42.8530939
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.4878718,
-            42.9278801
-          ],
-          [
-            20.5382796,
-            42.8831746
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.4845665,
-            42.9337888
-          ],
-          [
-            20.4878718,
-            42.9278801
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.4857903,
-            42.9340865
-          ],
-          [
-            20.4845665,
-            42.9337888
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5145915,
-            42.9706326
-          ],
-          [
-            20.4857903,
-            42.9340865
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5718377,
-            42.9995853
-          ],
-          [
-            20.5464756,
-            42.9611572
-          ],
-          [
-            20.5145915,
-            42.9706326
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.586703,
-            43.0138216
-          ],
-          [
-            20.5718377,
-            42.9995853
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5997626,
-            43.0156351
-          ],
-          [
-            20.586703,
-            43.0138216
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6176541,
-            43.0175521
-          ],
-          [
-            20.5997626,
-            43.0156351
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6151386,
-            43.0047159
-          ],
-          [
-            20.6176541,
-            43.0175521
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6386531,
-            43.0170854
-          ],
-          [
-            20.6151386,
-            43.0047159
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6521327,
-            43.0334464
-          ],
-          [
-            20.6386531,
-            43.0170854
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6693267,
-            43.0352058
-          ],
-          [
-            20.6521327,
-            43.0334464
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6657042,
-            43.050034
-          ],
-          [
-            20.6693267,
-            43.0352058
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6701321,
-            43.0583573
-          ],
-          [
-            20.6657042,
-            43.050034
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.656825,
-            43.0722735
-          ],
-          [
-            20.6701321,
-            43.0583573
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6896922,
-            43.0867125
-          ],
-          [
-            20.656825,
-            43.0722735
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6734313,
-            43.1267083
-          ],
-          [
-            20.6927119,
-            43.1092846
-          ],
-          [
-            20.6896922,
-            43.0867125
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.629352,
-            43.1636095
-          ],
-          [
-            20.658338,
-            43.1539911
-          ],
-          [
-            20.6734313,
-            43.1267083
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6079205,
-            43.1748092
-          ],
-          [
-            20.629352,
-            43.1636095
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5938437,
-            43.2050861
-          ],
-          [
-            20.6079205,
-            43.1748092
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.601777,
-            43.2103795
-          ],
-          [
-            20.5938437,
-            43.2050861
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6223286,
-            43.2071583
-          ],
-          [
-            20.601777,
-            43.2103795
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6326173,
-            43.2095066
-          ],
-          [
-            20.6223286,
-            43.2071583
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6524888,
-            43.211085
-          ],
-          [
-            20.6326173,
-            43.2095066
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6648154,
-            43.2096983
-          ],
-          [
-            20.6524888,
-            43.211085
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6958809,
-            43.2222653
-          ],
-          [
-            20.6648154,
-            43.2096983
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.710871,
-            43.2317093
-          ],
-          [
-            20.6958809,
-            43.2222653
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7283337,
-            43.2486768
-          ],
-          [
-            20.710871,
-            43.2317093
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7692886,
-            43.2475776
-          ],
-          [
-            20.7283337,
-            43.2486768
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7747798,
-            43.2543522
-          ],
-          [
-            20.7692886,
-            43.2475776
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7747798,
-            43.2543522
-          ],
-          [
-            20.8197487,
-            43.2724664
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.8197487,
-            43.2724664
-          ],
-          [
-            20.828408,
-            43.2657868
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.8306219,
-            43.2617155
-          ],
-          [
-            20.828408,
-            43.2657868
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.836114,
-            43.2615264
-          ],
-          [
-            20.8306219,
-            43.2617155
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.8519814,
-            43.2512199
-          ],
-          [
-            20.836114,
-            43.2615264
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.864922,
-            43.2367609
-          ],
-          [
-            20.8519814,
-            43.2512199
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.8794061,
-            43.2229128
-          ],
-          [
-            20.864922,
-            43.2367609
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.8859812,
-            43.2076847
-          ],
-          [
-            20.8794061,
-            43.2229128
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.8893661,
-            43.2037179
-          ],
-          [
-            20.8859812,
-            43.2076847
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.8997188,
-            43.1557121
-          ],
-          [
-            20.8310766,
-            43.179121
-          ],
-          [
-            20.8550636,
-            43.1891472
-          ],
-          [
-            20.8435522,
-            43.2070747
-          ],
-          [
-            20.8893661,
-            43.2037179
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.9235685,
-            43.1460772
-          ],
-          [
-            20.8997188,
-            43.1557121
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.9669636,
-            43.1244263
-          ],
-          [
-            20.9235685,
-            43.1460772
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.9822726,
-            43.1353549
-          ],
-          [
-            20.9669636,
-            43.1244263
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.0140246,
-            43.1343881
-          ],
-          [
-            20.9822726,
-            43.1353549
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.0792291,
-            43.1293284
-          ],
-          [
-            21.0502832,
-            43.1075241
-          ],
-          [
-            21.0140246,
-            43.1343881
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.0885626,
-            43.1357493
-          ],
-          [
-            21.0792291,
-            43.1293284
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.1299373,
-            43.1115907
-          ],
-          [
-            21.0885626,
-            43.1357493
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.1410459,
-            43.0828952
-          ],
-          [
-            21.1498473,
-            43.0911417
-          ],
-          [
-            21.1299373,
-            43.1115907
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.1671259,
-            43.0200123
-          ],
-          [
-            21.1410459,
-            43.0828952
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2033652,
-            43.0239063
-          ],
-          [
-            21.1753456,
-            42.9994872
-          ],
-          [
-            21.1671259,
-            43.0200123
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2332471,
-            43.0093229
-          ],
-          [
-            21.2033652,
-            43.0239063
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2394067,
-            42.9886099
-          ],
-          [
-            21.2332471,
-            43.0093229
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2400916,
-            42.9752068
-          ],
-          [
-            21.2394067,
-            42.9886099
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2351668,
-            42.9519508
-          ],
-          [
-            21.2400916,
-            42.9752068
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.263613,
-            42.9154129
-          ],
-          [
-            21.2351668,
-            42.9519508
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2642247,
-            42.9152268
-          ],
-          [
-            21.263613,
-            42.9154129
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.3070582,
-            42.9043791
-          ],
-          [
-            21.2748527,
-            42.894843
-          ],
-          [
-            21.2642247,
-            42.9152268
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.3309344,
-            42.9025856
-          ],
-          [
-            21.3070582,
-            42.9043791
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.3508438,
-            42.8859451
-          ],
-          [
-            21.3309344,
-            42.9025856
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.4107368,
-            42.8737018
-          ],
-          [
-            21.3854438,
-            42.8665335
-          ],
-          [
-            21.3508438,
-            42.8859451
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.4350599,
-            42.8723076
-          ],
-          [
-            21.4107368,
-            42.8737018
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.4265113,
-            42.847415
-          ],
-          [
-            21.4350599,
-            42.8723076
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.4121894,
-            42.7919948
-          ],
-          [
-            21.4265113,
-            42.847415
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.4087266,
-            42.7713695
-          ],
-          [
-            21.4121894,
-            42.7919948
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.3891832,
-            42.7582525
-          ],
-          [
-            21.4087266,
-            42.7713695
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.4224301,
-            42.7463259
-          ],
-          [
-            21.3929772,
-            42.7451477
-          ],
-          [
-            21.3891832,
-            42.7582525
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.4479845,
-            42.7499664
-          ],
-          [
-            21.4224301,
-            42.7463259
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.4732747,
-            42.7449905
-          ],
-          [
-            21.4479845,
-            42.7499664
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.4802491,
-            42.7466741
-          ],
-          [
-            21.4732747,
-            42.7449905
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5009462,
-            42.7351336
-          ],
-          [
-            21.4802491,
-            42.7466741
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5124555,
-            42.7310685
-          ],
-          [
-            21.5009462,
-            42.7351336
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5594837,
-            42.7377157
-          ],
-          [
-            21.5405581,
-            42.7230705
-          ],
-          [
-            21.5124555,
-            42.7310685
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5924593,
-            42.7255491
-          ],
-          [
-            21.5594837,
-            42.7377157
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.6314197,
-            42.7004636
-          ],
-          [
-            21.587249,
-            42.7035843
-          ],
-          [
-            21.5924593,
-            42.7255491
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.6894452,
-            42.691355
-          ],
-          [
-            21.6603747,
-            42.6654699
-          ],
-          [
-            21.6314197,
-            42.7004636
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.703307,
-            42.6927368
-          ],
-          [
-            21.6894452,
-            42.691355
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.7534051,
-            42.700923
-          ],
-          [
-            21.703307,
-            42.6927368
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.7899366,
-            42.6512633
-          ],
-          [
-            21.7534051,
-            42.700923
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.7753974,
-            42.6377804
-          ],
-          [
-            21.7899366,
-            42.6512633
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.7552549,
-            42.6173637
-          ],
-          [
-            21.7594598,
-            42.6378318
-          ],
-          [
-            21.7753974,
-            42.6377804
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.7337924,
-            42.6004794
-          ],
-          [
-            21.7552549,
-            42.6173637
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.7417109,
-            42.5540606
-          ],
-          [
-            21.747656,
-            42.5807279
-          ],
-          [
-            21.7337924,
-            42.6004794
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.7075445,
-            42.5131498
-          ],
-          [
-            21.6933506,
-            42.5393942
-          ],
-          [
-            21.7417109,
-            42.5540606
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.6853742,
-            42.5003941
-          ],
-          [
-            21.7075445,
-            42.5131498
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.6806178,
-            42.4996673
-          ],
-          [
-            21.6853742,
-            42.5003941
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.6551828,
-            42.4749012
-          ],
-          [
-            21.6806178,
-            42.4996673
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.6295269,
-            42.4595343
-          ],
-          [
-            21.6551828,
-            42.4749012
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.6327678,
-            42.4389439
-          ],
-          [
-            21.6295269,
-            42.4595343
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.6463275,
-            42.4138593
-          ],
-          [
-            21.6327678,
-            42.4389439
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.6463824,
-            42.4129752
-          ],
-          [
-            21.6463275,
-            42.4138593
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.6451445,
-            42.4098705
-          ],
-          [
-            21.6463824,
-            42.4129752
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.6302498,
-            42.3935588
-          ],
-          [
-            21.6451445,
-            42.4098705
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.6206634,
-            42.3779967
-          ],
-          [
-            21.6302498,
-            42.3935588
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5940331,
-            42.383045
-          ],
-          [
-            21.6206634,
-            42.3779967
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5794784,
-            42.3678766
-          ],
-          [
-            21.5940331,
-            42.383045
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5319408,
-            42.3528645
-          ],
-          [
-            21.5404292,
-            42.3733488
-          ],
-          [
-            21.5794784,
-            42.3678766
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5266811,
-            42.3340081
-          ],
-          [
-            21.5319408,
-            42.3528645
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5591497,
-            42.3153754
-          ],
-          [
-            21.5394129,
-            42.3103027
-          ],
-          [
-            21.5266811,
-            42.3340081
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5706845,
-            42.2921813
-          ],
-          [
-            21.5591497,
-            42.3153754
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5844553,
-            42.2830298
-          ],
-          [
-            21.5706845,
-            42.2921813
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5869537,
-            42.2628407
-          ],
-          [
-            21.5844553,
-            42.2830298
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5869537,
-            42.2628407
-          ],
-          [
-            21.5766498,
-            42.2560038
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5766498,
-            42.2560038
-          ],
-          [
-            21.5504492,
-            42.2521524
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5504492,
-            42.2521524
-          ],
-          [
-            21.5335552,
-            42.2416261
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5335552,
-            42.2416261
-          ],
-          [
-            21.5212775,
-            42.241469
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5212775,
-            42.241469
-          ],
-          [
-            21.5009683,
-            42.2713333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.5009683,
-            42.2713333
-          ],
-          [
-            21.4448576,
-            42.2778978
-          ],
-          [
-            21.4321605,
-            42.2598006
-          ],
-          [
-            21.4433057,
-            42.2383725
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.4433057,
-            42.2383725
-          ],
-          [
-            21.4346027,
-            42.2321126
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.4346027,
-            42.2321126
-          ],
-          [
-            21.4012923,
-            42.2491571
-          ],
-          [
-            21.3772537,
-            42.2380666
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.3772537,
-            42.2380666
-          ],
-          [
-            21.3591674,
-            42.221134
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.3591674,
-            42.221134
-          ],
-          [
-            21.345803,
-            42.2047955
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.345803,
-            42.2047955
-          ],
-          [
-            21.3350177,
-            42.2074834
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.3350177,
-            42.2074834
-          ],
-          [
-            21.3338314,
-            42.2045557
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.3338314,
-            42.2045557
-          ],
-          [
-            21.317285,
-            42.1701641
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.317285,
-            42.1701641
-          ],
-          [
-            21.3044127,
-            42.1421786
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.3044127,
-            42.1421786
-          ],
-          [
-            21.303245,
-            42.137883
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.303245,
-            42.137883
-          ],
-          [
-            21.3142917,
-            42.1207324
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.3142917,
-            42.1207324
-          ],
-          [
-            21.3212942,
-            42.108018
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.3212942,
-            42.108018
-          ],
-          [
-            21.3151206,
-            42.1069439
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.3151206,
-            42.1069439
-          ],
-          [
-            21.2946496,
-            42.1118379
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2946496,
-            42.1118379
-          ],
-          [
-            21.2568786,
-            42.0927859
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2568786,
-            42.0927859
-          ],
-          [
-            21.2457953,
-            42.0926744
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2457953,
-            42.0926744
-          ],
-          [
-            21.2336,
-            42.0982141
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2336,
-            42.0982141
-          ],
-          [
-            21.2126839,
-            42.1107599
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2126839,
-            42.1107599
-          ],
-          [
-            21.2125912,
-            42.1110601
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2125912,
-            42.1110601
-          ],
-          [
-            21.2069435,
-            42.1415908
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2069435,
-            42.1415908
-          ],
-          [
-            21.2001843,
-            42.1511452
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.2001843,
-            42.1511452
-          ],
-          [
-            21.1803934,
-            42.1674314
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.1803934,
-            42.1674314
-          ],
-          [
-            21.1666764,
-            42.1919259
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.1666764,
-            42.1919259
-          ],
-          [
-            21.1191045,
-            42.2068363
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.1191045,
-            42.2068363
-          ],
-          [
-            21.1087604,
-            42.2061143
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.1087604,
-            42.2061143
-          ],
-          [
-            21.0669743,
-            42.1850901
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.0669743,
-            42.1850901
-          ],
-          [
-            21.0493433,
-            42.1662524
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.0493433,
-            42.1662524
-          ],
-          [
-            21.0264377,
-            42.1522535
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.0264377,
-            42.1522535
-          ],
-          [
-            21.002785,
-            42.1461496
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            21.002785,
-            42.1461496
-          ],
-          [
-            20.9836281,
-            42.139982
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.9836281,
-            42.139982
-          ],
-          [
-            20.9663922,
-            42.1363848
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.9663922,
-            42.1363848
-          ],
-          [
-            20.927939,
-            42.1273263
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.927939,
-            42.1273263
-          ],
-          [
-            20.8836989,
-            42.0960859
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.8836989,
-            42.0960859
-          ],
-          [
-            20.860856,
-            42.0993121
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.860856,
-            42.0993121
-          ],
-          [
-            20.7942347,
-            42.0836407
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7942347,
-            42.0836407
-          ],
-          [
-            20.7859855,
-            42.0717542
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7859855,
-            42.0717542
-          ],
-          [
-            20.7582122,
-            42.0534054
-          ],
-          [
-            20.7572612,
-            42.035688
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7572612,
-            42.035688
-          ],
-          [
-            20.7481087,
-            41.9863999
-          ],
-          [
-            20.7671171,
-            41.9627591
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7671171,
-            41.9627591
-          ],
-          [
-            20.7547433,
-            41.9467817
-          ],
-          [
-            20.7701852,
-            41.9255165
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7701852,
-            41.9255165
-          ],
-          [
-            20.7765241,
-            41.9184854
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7765241,
-            41.9184854
-          ],
-          [
-            20.7358147,
-            41.877156
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7358147,
-            41.877156
-          ],
-          [
-            20.7279727,
-            41.8642769
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7279727,
-            41.8642769
-          ],
-          [
-            20.7136809,
-            41.864493
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.7136809,
-            41.864493
-          ],
-          [
-            20.6834825,
-            41.857728
-          ],
-          [
-            20.648426,
-            41.8745322
-          ],
-          [
-            20.6192172,
-            41.8578242
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.6192172,
-            41.8578242
-          ],
-          [
-            20.5943749,
-            41.8771924
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5766105,
-            41.9161837
-          ],
-          [
-            20.5943749,
-            41.8771924
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5757715,
-            41.9175143
-          ],
-          [
-            20.5766105,
-            41.9161837
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5991785,
-            41.9294148
-          ],
-          [
-            20.5757715,
-            41.9175143
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5960656,
-            42.0298701
-          ],
-          [
-            20.626587,
-            41.9609839
-          ],
-          [
-            20.5991785,
-            41.9294148
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5652502,
-            42.0669771
-          ],
-          [
-            20.5960656,
-            42.0298701
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5551063,
-            42.0835389
-          ],
-          [
-            20.5652502,
-            42.0669771
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5675194,
-            42.097851
-          ],
-          [
-            20.5551063,
-            42.0835389
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5614074,
-            42.1094302
-          ],
-          [
-            20.5675194,
-            42.097851
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5486073,
-            42.154174
-          ],
-          [
-            20.5614074,
-            42.1094302
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5430661,
-            42.1606649
-          ],
-          [
-            20.5486073,
-            42.154174
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5470475,
-            42.1643707
-          ],
-          [
-            20.5430661,
-            42.1606649
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5458942,
-            42.1648564
-          ],
-          [
-            20.5470475,
-            42.1643707
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.5241577,
-            42.2104536
-          ],
-          [
-            20.5458942,
-            42.1648564
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.4801683,
-            42.2513284
-          ],
-          [
-            20.5241577,
-            42.2104536
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.3533992,
-            42.3096401
-          ],
-          [
-            20.4801683,
-            42.2513284
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.339135,
-            42.3276986
-          ],
-          [
-            20.3533992,
-            42.3096401
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.2360649,
-            42.3473351
-          ],
-          [
-            20.257258,
-            42.31878
-          ],
-          [
-            20.339135,
-            42.3276986
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.2108656,
-            42.3981587
-          ],
-          [
-            20.2451976,
-            42.370002
-          ],
-          [
-            20.2360649,
-            42.3473351
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.2254321,
-            42.4240794
-          ],
-          [
-            20.2108656,
-            42.3981587
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.1659689,
-            42.4992186
-          ],
-          [
-            20.2254321,
-            42.4240794
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.0762998,
-            42.5558234
-          ],
-          [
-            20.1659689,
-            42.4992186
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.0823921,
-            42.5652853
-          ],
-          [
-            20.0762998,
-            42.5558234
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.0877899,
-            42.5783983
-          ],
-          [
-            20.0823921,
-            42.5652853
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.086885,
-            42.5814523
-          ],
-          [
-            20.0877899,
-            42.5783983
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.1119442,
-            42.6554024
-          ],
-          [
-            20.0757302,
-            42.6209103
-          ],
-          [
-            20.086885,
-            42.5814523
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.0945475,
-            42.6662929
-          ],
-          [
-            20.1119442,
-            42.6554024
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.0356921,
-            42.6968278
-          ],
-          [
-            20.0945475,
-            42.6662929
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.0158709,
-            42.7096815
-          ],
-          [
-            20.0337369,
-            42.7114392
-          ],
-          [
-            20.0356921,
-            42.6968278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.0192001,
-            42.7246442
-          ],
-          [
-            20.0321332,
-            42.7198717
-          ],
-          [
-            20.0158709,
-            42.7096815
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.0322872,
-            42.7649104
-          ],
-          [
-            20.0192001,
-            42.7246442
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.0561639,
-            42.7779985
-          ],
-          [
-            20.0322872,
-            42.7649104
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "XK",
-        "iso-3166-2": "RS-KO",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
-        "name": "Kosova / Kosovo"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            20.3200874,
-            42.8262051
-          ],
-          [
-            20.2980064,
-            42.836205
-          ],
-          [
-            20.2549508,
-            42.8143745
-          ],
-          [
-            20.266041,
-            42.7782933
-          ],
-          [
-            20.212855,
-            42.746227
-          ],
-          [
-            20.1549854,
-            42.7684137
-          ],
-          [
-            20.146756,
-            42.7546082
-          ],
-          [
-            20.0561639,
-            42.7779985
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.320087,
+              42.826205
+            ],
+            [
+              20.298006,
+              42.836205
+            ],
+            [
+              20.254951,
+              42.814374
+            ],
+            [
+              20.266041,
+              42.778293
+            ],
+            [
+              20.212855,
+              42.746227
+            ],
+            [
+              20.154985,
+              42.768414
+            ],
+            [
+              20.146756,
+              42.754608
+            ],
+            [
+              20.056164,
+              42.777999
+            ],
+            [
+              20.056164,
+              42.777999
+            ],
+            [
+              20.032287,
+              42.76491
+            ],
+            [
+              20.032287,
+              42.76491
+            ],
+            [
+              20.0192,
+              42.724644
+            ],
+            [
+              20.0192,
+              42.724644
+            ],
+            [
+              20.032133,
+              42.719872
+            ],
+            [
+              20.015871,
+              42.709682
+            ],
+            [
+              20.015871,
+              42.709682
+            ],
+            [
+              20.033737,
+              42.711439
+            ],
+            [
+              20.035692,
+              42.696828
+            ],
+            [
+              20.035692,
+              42.696828
+            ],
+            [
+              20.094548,
+              42.666293
+            ],
+            [
+              20.094548,
+              42.666293
+            ],
+            [
+              20.111944,
+              42.655402
+            ],
+            [
+              20.111944,
+              42.655402
+            ],
+            [
+              20.07573,
+              42.62091
+            ],
+            [
+              20.086885,
+              42.581452
+            ],
+            [
+              20.086885,
+              42.581452
+            ],
+            [
+              20.08779,
+              42.578398
+            ],
+            [
+              20.08779,
+              42.578398
+            ],
+            [
+              20.082392,
+              42.565285
+            ],
+            [
+              20.082392,
+              42.565285
+            ],
+            [
+              20.0763,
+              42.555823
+            ],
+            [
+              20.0763,
+              42.555823
+            ],
+            [
+              20.165969,
+              42.499219
+            ],
+            [
+              20.165969,
+              42.499219
+            ],
+            [
+              20.225432,
+              42.424079
+            ],
+            [
+              20.225432,
+              42.424079
+            ],
+            [
+              20.210866,
+              42.398159
+            ],
+            [
+              20.210866,
+              42.398159
+            ],
+            [
+              20.245198,
+              42.370002
+            ],
+            [
+              20.236065,
+              42.347335
+            ],
+            [
+              20.236065,
+              42.347335
+            ],
+            [
+              20.257258,
+              42.31878
+            ],
+            [
+              20.339135,
+              42.327699
+            ],
+            [
+              20.339135,
+              42.327699
+            ],
+            [
+              20.353399,
+              42.30964
+            ],
+            [
+              20.353399,
+              42.30964
+            ],
+            [
+              20.480168,
+              42.251328
+            ],
+            [
+              20.480168,
+              42.251328
+            ],
+            [
+              20.524158,
+              42.210454
+            ],
+            [
+              20.524158,
+              42.210454
+            ],
+            [
+              20.545894,
+              42.164856
+            ],
+            [
+              20.545894,
+              42.164856
+            ],
+            [
+              20.547048,
+              42.164371
+            ],
+            [
+              20.547048,
+              42.164371
+            ],
+            [
+              20.543066,
+              42.160665
+            ],
+            [
+              20.543066,
+              42.160665
+            ],
+            [
+              20.548607,
+              42.154174
+            ],
+            [
+              20.548607,
+              42.154174
+            ],
+            [
+              20.561407,
+              42.10943
+            ],
+            [
+              20.561407,
+              42.10943
+            ],
+            [
+              20.567519,
+              42.097851
+            ],
+            [
+              20.567519,
+              42.097851
+            ],
+            [
+              20.555106,
+              42.083539
+            ],
+            [
+              20.555106,
+              42.083539
+            ],
+            [
+              20.56525,
+              42.066977
+            ],
+            [
+              20.56525,
+              42.066977
+            ],
+            [
+              20.596066,
+              42.02987
+            ],
+            [
+              20.596066,
+              42.02987
+            ],
+            [
+              20.626587,
+              41.960984
+            ],
+            [
+              20.599179,
+              41.929415
+            ],
+            [
+              20.599179,
+              41.929415
+            ],
+            [
+              20.575771,
+              41.917514
+            ],
+            [
+              20.575771,
+              41.917514
+            ],
+            [
+              20.576611,
+              41.916184
+            ],
+            [
+              20.576611,
+              41.916184
+            ],
+            [
+              20.594375,
+              41.877192
+            ],
+            [
+              20.594375,
+              41.877192
+            ],
+            [
+              20.619217,
+              41.857824
+            ],
+            [
+              20.619217,
+              41.857824
+            ],
+            [
+              20.648426,
+              41.874532
+            ],
+            [
+              20.683483,
+              41.857728
+            ],
+            [
+              20.713681,
+              41.864493
+            ],
+            [
+              20.713681,
+              41.864493
+            ],
+            [
+              20.727973,
+              41.864277
+            ],
+            [
+              20.727973,
+              41.864277
+            ],
+            [
+              20.735815,
+              41.877156
+            ],
+            [
+              20.735815,
+              41.877156
+            ],
+            [
+              20.776524,
+              41.918485
+            ],
+            [
+              20.776524,
+              41.918485
+            ],
+            [
+              20.770185,
+              41.925517
+            ],
+            [
+              20.770185,
+              41.925517
+            ],
+            [
+              20.754743,
+              41.946782
+            ],
+            [
+              20.767117,
+              41.962759
+            ],
+            [
+              20.767117,
+              41.962759
+            ],
+            [
+              20.748109,
+              41.9864
+            ],
+            [
+              20.757261,
+              42.035688
+            ],
+            [
+              20.757261,
+              42.035688
+            ],
+            [
+              20.758212,
+              42.053405
+            ],
+            [
+              20.785985,
+              42.071754
+            ],
+            [
+              20.785985,
+              42.071754
+            ],
+            [
+              20.794235,
+              42.083641
+            ],
+            [
+              20.794235,
+              42.083641
+            ],
+            [
+              20.860856,
+              42.099312
+            ],
+            [
+              20.860856,
+              42.099312
+            ],
+            [
+              20.883699,
+              42.096086
+            ],
+            [
+              20.883699,
+              42.096086
+            ],
+            [
+              20.927939,
+              42.127326
+            ],
+            [
+              20.927939,
+              42.127326
+            ],
+            [
+              20.966392,
+              42.136385
+            ],
+            [
+              20.966392,
+              42.136385
+            ],
+            [
+              20.983628,
+              42.139982
+            ],
+            [
+              20.983628,
+              42.139982
+            ],
+            [
+              21.002785,
+              42.14615
+            ],
+            [
+              21.002785,
+              42.14615
+            ],
+            [
+              21.026438,
+              42.152254
+            ],
+            [
+              21.026438,
+              42.152254
+            ],
+            [
+              21.049343,
+              42.166252
+            ],
+            [
+              21.049343,
+              42.166252
+            ],
+            [
+              21.066974,
+              42.18509
+            ],
+            [
+              21.066974,
+              42.18509
+            ],
+            [
+              21.10876,
+              42.206114
+            ],
+            [
+              21.10876,
+              42.206114
+            ],
+            [
+              21.119104,
+              42.206836
+            ],
+            [
+              21.119104,
+              42.206836
+            ],
+            [
+              21.166676,
+              42.191926
+            ],
+            [
+              21.166676,
+              42.191926
+            ],
+            [
+              21.180393,
+              42.167431
+            ],
+            [
+              21.180393,
+              42.167431
+            ],
+            [
+              21.200184,
+              42.151145
+            ],
+            [
+              21.200184,
+              42.151145
+            ],
+            [
+              21.206944,
+              42.141591
+            ],
+            [
+              21.206944,
+              42.141591
+            ],
+            [
+              21.212591,
+              42.11106
+            ],
+            [
+              21.212591,
+              42.11106
+            ],
+            [
+              21.212684,
+              42.11076
+            ],
+            [
+              21.212684,
+              42.11076
+            ],
+            [
+              21.2336,
+              42.098214
+            ],
+            [
+              21.2336,
+              42.098214
+            ],
+            [
+              21.245795,
+              42.092674
+            ],
+            [
+              21.245795,
+              42.092674
+            ],
+            [
+              21.256879,
+              42.092786
+            ],
+            [
+              21.256879,
+              42.092786
+            ],
+            [
+              21.29465,
+              42.111838
+            ],
+            [
+              21.29465,
+              42.111838
+            ],
+            [
+              21.315121,
+              42.106944
+            ],
+            [
+              21.315121,
+              42.106944
+            ],
+            [
+              21.321294,
+              42.108018
+            ],
+            [
+              21.321294,
+              42.108018
+            ],
+            [
+              21.314292,
+              42.120732
+            ],
+            [
+              21.314292,
+              42.120732
+            ],
+            [
+              21.303245,
+              42.137883
+            ],
+            [
+              21.303245,
+              42.137883
+            ],
+            [
+              21.304413,
+              42.142179
+            ],
+            [
+              21.304413,
+              42.142179
+            ],
+            [
+              21.317285,
+              42.170164
+            ],
+            [
+              21.317285,
+              42.170164
+            ],
+            [
+              21.333831,
+              42.204556
+            ],
+            [
+              21.333831,
+              42.204556
+            ],
+            [
+              21.335018,
+              42.207483
+            ],
+            [
+              21.335018,
+              42.207483
+            ],
+            [
+              21.345803,
+              42.204796
+            ],
+            [
+              21.345803,
+              42.204796
+            ],
+            [
+              21.359167,
+              42.221134
+            ],
+            [
+              21.359167,
+              42.221134
+            ],
+            [
+              21.377254,
+              42.238067
+            ],
+            [
+              21.377254,
+              42.238067
+            ],
+            [
+              21.401292,
+              42.249157
+            ],
+            [
+              21.434603,
+              42.232113
+            ],
+            [
+              21.434603,
+              42.232113
+            ],
+            [
+              21.443306,
+              42.238372
+            ],
+            [
+              21.443306,
+              42.238372
+            ],
+            [
+              21.43216,
+              42.259801
+            ],
+            [
+              21.444858,
+              42.277898
+            ],
+            [
+              21.500968,
+              42.271333
+            ],
+            [
+              21.500968,
+              42.271333
+            ],
+            [
+              21.521278,
+              42.241469
+            ],
+            [
+              21.521278,
+              42.241469
+            ],
+            [
+              21.533555,
+              42.241626
+            ],
+            [
+              21.533555,
+              42.241626
+            ],
+            [
+              21.550449,
+              42.252152
+            ],
+            [
+              21.550449,
+              42.252152
+            ],
+            [
+              21.57665,
+              42.256004
+            ],
+            [
+              21.57665,
+              42.256004
+            ],
+            [
+              21.586954,
+              42.262841
+            ],
+            [
+              21.586954,
+              42.262841
+            ],
+            [
+              21.584455,
+              42.28303
+            ],
+            [
+              21.584455,
+              42.28303
+            ],
+            [
+              21.570684,
+              42.292181
+            ],
+            [
+              21.570684,
+              42.292181
+            ],
+            [
+              21.55915,
+              42.315375
+            ],
+            [
+              21.55915,
+              42.315375
+            ],
+            [
+              21.539413,
+              42.310303
+            ],
+            [
+              21.526681,
+              42.334008
+            ],
+            [
+              21.526681,
+              42.334008
+            ],
+            [
+              21.531941,
+              42.352865
+            ],
+            [
+              21.531941,
+              42.352865
+            ],
+            [
+              21.540429,
+              42.373349
+            ],
+            [
+              21.579478,
+              42.367877
+            ],
+            [
+              21.579478,
+              42.367877
+            ],
+            [
+              21.594033,
+              42.383045
+            ],
+            [
+              21.594033,
+              42.383045
+            ],
+            [
+              21.620663,
+              42.377997
+            ],
+            [
+              21.620663,
+              42.377997
+            ],
+            [
+              21.63025,
+              42.393559
+            ],
+            [
+              21.63025,
+              42.393559
+            ],
+            [
+              21.645145,
+              42.40987
+            ],
+            [
+              21.645145,
+              42.40987
+            ],
+            [
+              21.646382,
+              42.412975
+            ],
+            [
+              21.646382,
+              42.412975
+            ],
+            [
+              21.646328,
+              42.413859
+            ],
+            [
+              21.646328,
+              42.413859
+            ],
+            [
+              21.632768,
+              42.438944
+            ],
+            [
+              21.632768,
+              42.438944
+            ],
+            [
+              21.629527,
+              42.459534
+            ],
+            [
+              21.629527,
+              42.459534
+            ],
+            [
+              21.655183,
+              42.474901
+            ],
+            [
+              21.655183,
+              42.474901
+            ],
+            [
+              21.680618,
+              42.499667
+            ],
+            [
+              21.680618,
+              42.499667
+            ],
+            [
+              21.685374,
+              42.500394
+            ],
+            [
+              21.685374,
+              42.500394
+            ],
+            [
+              21.707545,
+              42.51315
+            ],
+            [
+              21.707545,
+              42.51315
+            ],
+            [
+              21.693351,
+              42.539394
+            ],
+            [
+              21.741711,
+              42.554061
+            ],
+            [
+              21.741711,
+              42.554061
+            ],
+            [
+              21.747656,
+              42.580728
+            ],
+            [
+              21.733792,
+              42.600479
+            ],
+            [
+              21.733792,
+              42.600479
+            ],
+            [
+              21.755255,
+              42.617364
+            ],
+            [
+              21.755255,
+              42.617364
+            ],
+            [
+              21.75946,
+              42.637832
+            ],
+            [
+              21.775397,
+              42.63778
+            ],
+            [
+              21.775397,
+              42.63778
+            ],
+            [
+              21.789937,
+              42.651263
+            ],
+            [
+              21.789937,
+              42.651263
+            ],
+            [
+              21.753405,
+              42.700923
+            ],
+            [
+              21.753405,
+              42.700923
+            ],
+            [
+              21.703307,
+              42.692737
+            ],
+            [
+              21.703307,
+              42.692737
+            ],
+            [
+              21.689445,
+              42.691355
+            ],
+            [
+              21.689445,
+              42.691355
+            ],
+            [
+              21.660375,
+              42.66547
+            ],
+            [
+              21.63142,
+              42.700464
+            ],
+            [
+              21.63142,
+              42.700464
+            ],
+            [
+              21.587249,
+              42.703584
+            ],
+            [
+              21.592459,
+              42.725549
+            ],
+            [
+              21.592459,
+              42.725549
+            ],
+            [
+              21.559484,
+              42.737716
+            ],
+            [
+              21.559484,
+              42.737716
+            ],
+            [
+              21.540558,
+              42.72307
+            ],
+            [
+              21.512456,
+              42.731068
+            ],
+            [
+              21.512456,
+              42.731068
+            ],
+            [
+              21.500946,
+              42.735134
+            ],
+            [
+              21.500946,
+              42.735134
+            ],
+            [
+              21.480249,
+              42.746674
+            ],
+            [
+              21.480249,
+              42.746674
+            ],
+            [
+              21.473275,
+              42.744991
+            ],
+            [
+              21.473275,
+              42.744991
+            ],
+            [
+              21.447985,
+              42.749966
+            ],
+            [
+              21.447985,
+              42.749966
+            ],
+            [
+              21.42243,
+              42.746326
+            ],
+            [
+              21.42243,
+              42.746326
+            ],
+            [
+              21.392977,
+              42.745148
+            ],
+            [
+              21.389183,
+              42.758252
+            ],
+            [
+              21.389183,
+              42.758252
+            ],
+            [
+              21.408727,
+              42.771369
+            ],
+            [
+              21.408727,
+              42.771369
+            ],
+            [
+              21.412189,
+              42.791995
+            ],
+            [
+              21.412189,
+              42.791995
+            ],
+            [
+              21.426511,
+              42.847415
+            ],
+            [
+              21.426511,
+              42.847415
+            ],
+            [
+              21.43506,
+              42.872308
+            ],
+            [
+              21.43506,
+              42.872308
+            ],
+            [
+              21.410737,
+              42.873702
+            ],
+            [
+              21.410737,
+              42.873702
+            ],
+            [
+              21.385444,
+              42.866534
+            ],
+            [
+              21.350844,
+              42.885945
+            ],
+            [
+              21.350844,
+              42.885945
+            ],
+            [
+              21.330934,
+              42.902586
+            ],
+            [
+              21.330934,
+              42.902586
+            ],
+            [
+              21.307058,
+              42.904379
+            ],
+            [
+              21.307058,
+              42.904379
+            ],
+            [
+              21.274853,
+              42.894843
+            ],
+            [
+              21.264225,
+              42.915227
+            ],
+            [
+              21.264225,
+              42.915227
+            ],
+            [
+              21.263613,
+              42.915413
+            ],
+            [
+              21.263613,
+              42.915413
+            ],
+            [
+              21.235167,
+              42.951951
+            ],
+            [
+              21.235167,
+              42.951951
+            ],
+            [
+              21.240092,
+              42.975207
+            ],
+            [
+              21.240092,
+              42.975207
+            ],
+            [
+              21.239407,
+              42.98861
+            ],
+            [
+              21.239407,
+              42.98861
+            ],
+            [
+              21.233247,
+              43.009323
+            ],
+            [
+              21.233247,
+              43.009323
+            ],
+            [
+              21.203365,
+              43.023906
+            ],
+            [
+              21.203365,
+              43.023906
+            ],
+            [
+              21.175346,
+              42.999487
+            ],
+            [
+              21.167126,
+              43.020012
+            ],
+            [
+              21.167126,
+              43.020012
+            ],
+            [
+              21.141046,
+              43.082895
+            ],
+            [
+              21.141046,
+              43.082895
+            ],
+            [
+              21.149847,
+              43.091142
+            ],
+            [
+              21.129937,
+              43.111591
+            ],
+            [
+              21.129937,
+              43.111591
+            ],
+            [
+              21.088563,
+              43.135749
+            ],
+            [
+              21.088563,
+              43.135749
+            ],
+            [
+              21.079229,
+              43.129328
+            ],
+            [
+              21.079229,
+              43.129328
+            ],
+            [
+              21.050283,
+              43.107524
+            ],
+            [
+              21.014025,
+              43.134388
+            ],
+            [
+              21.014025,
+              43.134388
+            ],
+            [
+              20.982273,
+              43.135355
+            ],
+            [
+              20.982273,
+              43.135355
+            ],
+            [
+              20.966964,
+              43.124426
+            ],
+            [
+              20.966964,
+              43.124426
+            ],
+            [
+              20.923568,
+              43.146077
+            ],
+            [
+              20.923568,
+              43.146077
+            ],
+            [
+              20.899719,
+              43.155712
+            ],
+            [
+              20.899719,
+              43.155712
+            ],
+            [
+              20.831077,
+              43.179121
+            ],
+            [
+              20.855064,
+              43.189147
+            ],
+            [
+              20.843552,
+              43.207075
+            ],
+            [
+              20.889366,
+              43.203718
+            ],
+            [
+              20.889366,
+              43.203718
+            ],
+            [
+              20.885981,
+              43.207685
+            ],
+            [
+              20.885981,
+              43.207685
+            ],
+            [
+              20.879406,
+              43.222913
+            ],
+            [
+              20.879406,
+              43.222913
+            ],
+            [
+              20.864922,
+              43.236761
+            ],
+            [
+              20.864922,
+              43.236761
+            ],
+            [
+              20.851981,
+              43.25122
+            ],
+            [
+              20.851981,
+              43.25122
+            ],
+            [
+              20.836114,
+              43.261526
+            ],
+            [
+              20.836114,
+              43.261526
+            ],
+            [
+              20.830622,
+              43.261716
+            ],
+            [
+              20.830622,
+              43.261716
+            ],
+            [
+              20.828408,
+              43.265787
+            ],
+            [
+              20.828408,
+              43.265787
+            ],
+            [
+              20.819749,
+              43.272466
+            ],
+            [
+              20.819749,
+              43.272466
+            ],
+            [
+              20.77478,
+              43.254352
+            ],
+            [
+              20.77478,
+              43.254352
+            ],
+            [
+              20.769289,
+              43.247578
+            ],
+            [
+              20.769289,
+              43.247578
+            ],
+            [
+              20.728334,
+              43.248677
+            ],
+            [
+              20.728334,
+              43.248677
+            ],
+            [
+              20.710871,
+              43.231709
+            ],
+            [
+              20.710871,
+              43.231709
+            ],
+            [
+              20.695881,
+              43.222265
+            ],
+            [
+              20.695881,
+              43.222265
+            ],
+            [
+              20.664815,
+              43.209698
+            ],
+            [
+              20.664815,
+              43.209698
+            ],
+            [
+              20.652489,
+              43.211085
+            ],
+            [
+              20.652489,
+              43.211085
+            ],
+            [
+              20.632617,
+              43.209507
+            ],
+            [
+              20.632617,
+              43.209507
+            ],
+            [
+              20.622329,
+              43.207158
+            ],
+            [
+              20.622329,
+              43.207158
+            ],
+            [
+              20.601777,
+              43.21038
+            ],
+            [
+              20.601777,
+              43.21038
+            ],
+            [
+              20.593844,
+              43.205086
+            ],
+            [
+              20.593844,
+              43.205086
+            ],
+            [
+              20.60792,
+              43.174809
+            ],
+            [
+              20.60792,
+              43.174809
+            ],
+            [
+              20.629352,
+              43.163609
+            ],
+            [
+              20.629352,
+              43.163609
+            ],
+            [
+              20.658338,
+              43.153991
+            ],
+            [
+              20.673431,
+              43.126708
+            ],
+            [
+              20.673431,
+              43.126708
+            ],
+            [
+              20.692712,
+              43.109285
+            ],
+            [
+              20.689692,
+              43.086712
+            ],
+            [
+              20.689692,
+              43.086712
+            ],
+            [
+              20.656825,
+              43.072274
+            ],
+            [
+              20.656825,
+              43.072274
+            ],
+            [
+              20.670132,
+              43.058357
+            ],
+            [
+              20.670132,
+              43.058357
+            ],
+            [
+              20.665704,
+              43.050034
+            ],
+            [
+              20.665704,
+              43.050034
+            ],
+            [
+              20.669327,
+              43.035206
+            ],
+            [
+              20.669327,
+              43.035206
+            ],
+            [
+              20.652133,
+              43.033446
+            ],
+            [
+              20.652133,
+              43.033446
+            ],
+            [
+              20.638653,
+              43.017085
+            ],
+            [
+              20.638653,
+              43.017085
+            ],
+            [
+              20.615139,
+              43.004716
+            ],
+            [
+              20.615139,
+              43.004716
+            ],
+            [
+              20.617654,
+              43.017552
+            ],
+            [
+              20.617654,
+              43.017552
+            ],
+            [
+              20.599763,
+              43.015635
+            ],
+            [
+              20.599763,
+              43.015635
+            ],
+            [
+              20.586703,
+              43.013822
+            ],
+            [
+              20.586703,
+              43.013822
+            ],
+            [
+              20.571838,
+              42.999585
+            ],
+            [
+              20.571838,
+              42.999585
+            ],
+            [
+              20.546476,
+              42.961157
+            ],
+            [
+              20.514592,
+              42.970633
+            ],
+            [
+              20.514592,
+              42.970633
+            ],
+            [
+              20.48579,
+              42.934086
+            ],
+            [
+              20.48579,
+              42.934086
+            ],
+            [
+              20.484566,
+              42.933789
+            ],
+            [
+              20.484566,
+              42.933789
+            ],
+            [
+              20.487872,
+              42.92788
+            ],
+            [
+              20.487872,
+              42.92788
+            ],
+            [
+              20.53828,
+              42.883175
+            ],
+            [
+              20.53828,
+              42.883175
+            ],
+            [
+              20.463575,
+              42.853094
+            ],
+            [
+              20.463575,
+              42.853094
+            ],
+            [
+              20.441295,
+              42.83387
+            ],
+            [
+              20.441295,
+              42.83387
+            ],
+            [
+              20.420118,
+              42.841912
+            ],
+            [
+              20.420118,
+              42.841912
+            ],
+            [
+              20.363646,
+              42.83228
+            ],
+            [
+              20.363646,
+              42.83228
+            ],
+            [
+              20.352928,
+              42.83338
+            ],
+            [
+              20.352928,
+              42.83338
+            ],
+            [
+              20.320087,
+              42.826205
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "XK",
+        "iso-3166-2": "RS-KO",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
+        "name": "Kosova / Kosovo",
+        "id": "XK"
       }
     }
   ]

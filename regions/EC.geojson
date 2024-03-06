@@ -3,5350 +3,2556 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.370659,
-            1.469581
-          ],
-          [
-            -79.4130201,
-            1.469581
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.4130201,
-            1.469581
-          ],
-          [
-            -79.5597913,
-            1.469581
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.5597913,
-            1.469581
-          ],
-          [
-            -80.1764044,
-            0.983014
-          ],
-          [
-            -80.2184985,
-            0.9357971
-          ],
-          [
-            -81.2694015,
-            -1.1896566
-          ],
-          [
-            -81.2812411,
-            -1.2708428
-          ],
-          [
-            -81.2124696,
-            -2.1855387
-          ],
-          [
-            -81.3443465,
-            -3.392125
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -81.1442797,
-            -3.392125
-          ],
-          [
-            -81.3443465,
-            -3.392125
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.9857518,
-            -3.3921281
-          ],
-          [
-            -81.1442797,
-            -3.392125
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.6709997,
-            -3.3921343
-          ],
-          [
-            -80.9857518,
-            -3.3921281
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.3139102,
-            -3.392125
-          ],
-          [
-            -80.6709997,
-            -3.3921343
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.3136861,
-            -3.392125
-          ],
-          [
-            -80.3139102,
-            -3.392125
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.3065717,
-            -3.3922553
-          ],
-          [
-            -80.3136861,
-            -3.392125
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.3026513,
-            -3.3963045
-          ],
-          [
-            -80.3065717,
-            -3.3922553
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.2302603,
-            -3.4236344
-          ],
-          [
-            -80.3026513,
-            -3.3963045
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.2302603,
-            -3.4236344
-          ],
-          [
-            -80.2260963,
-            -3.4315155
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.2218596,
-            -3.4400194
-          ],
-          [
-            -80.2260963,
-            -3.4315155
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.2109762,
-            -3.5265172
-          ],
-          [
-            -80.2160449,
-            -3.5003736
-          ],
-          [
-            -80.2456235,
-            -3.4872634
-          ],
-          [
-            -80.2218596,
-            -3.4400194
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.2109652,
-            -3.5587057
-          ],
-          [
-            -80.2109762,
-            -3.5265172
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.202214,
-            -3.5927234
-          ],
-          [
-            -80.2185294,
-            -3.5748565
-          ],
-          [
-            -80.2109652,
-            -3.5587057
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1974743,
-            -3.617724
-          ],
-          [
-            -80.202214,
-            -3.5927234
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1874294,
-            -3.631184
-          ],
-          [
-            -80.1974743,
-            -3.617724
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1989501,
-            -3.6876234
-          ],
-          [
-            -80.1874294,
-            -3.631184
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1950892,
-            -3.7012095
-          ],
-          [
-            -80.1989501,
-            -3.6876234
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1926408,
-            -3.7718213
-          ],
-          [
-            -80.1801596,
-            -3.7281253
-          ],
-          [
-            -80.1950892,
-            -3.7012095
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1928452,
-            -3.775
-          ],
-          [
-            -80.1926408,
-            -3.7718213
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1592193,
-            -3.8089305
-          ],
-          [
-            -80.1928452,
-            -3.775
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1585906,
-            -3.8389622
-          ],
-          [
-            -80.1592193,
-            -3.8089305
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1585906,
-            -3.8389622
-          ],
-          [
-            -80.1532858,
-            -3.8530182
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1532858,
-            -3.8530182
-          ],
-          [
-            -80.1569957,
-            -3.8726467
-          ],
-          [
-            -80.1274161,
-            -3.8883729
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1274161,
-            -3.8883729
-          ],
-          [
-            -80.1615186,
-            -3.919888
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1615186,
-            -3.919888
-          ],
-          [
-            -80.1803796,
-            -3.9251459
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1803796,
-            -3.9251459
-          ],
-          [
-            -80.2173992,
-            -3.9570633
-          ],
-          [
-            -80.2349839,
-            -3.9483705
-          ],
-          [
-            -80.2628819,
-            -3.9998711
-          ],
-          [
-            -80.2956505,
-            -4.0160304
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.2956505,
-            -4.0160304
-          ],
-          [
-            -80.312475,
-            -4.0120615
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.312475,
-            -4.0120615
-          ],
-          [
-            -80.3647983,
-            -3.9823811
-          ],
-          [
-            -80.3935728,
-            -3.985543
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.3935728,
-            -3.985543
-          ],
-          [
-            -80.3980504,
-            -3.9807789
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.4819492,
-            -4.0551848
-          ],
-          [
-            -80.4507244,
-            -4.0301048
-          ],
-          [
-            -80.4459226,
-            -3.9972052
-          ],
-          [
-            -80.3980504,
-            -3.9807789
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.4804851,
-            -4.0796256
-          ],
-          [
-            -80.4819492,
-            -4.0551848
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.4635694,
-            -4.1195651
-          ],
-          [
-            -80.4804851,
-            -4.0796256
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.449128,
-            -4.1294523
-          ],
-          [
-            -80.4635694,
-            -4.1195651
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.449128,
-            -4.1294523
-          ],
-          [
-            -80.4501831,
-            -4.20963
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.4501831,
-            -4.20963
-          ],
-          [
-            -80.4336939,
-            -4.1962462
-          ],
-          [
-            -80.416996,
-            -4.2110095
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.416996,
-            -4.2110095
-          ],
-          [
-            -80.3689389,
-            -4.1971937
-          ],
-          [
-            -80.3539072,
-            -4.2206304
-          ],
-          [
-            -80.3401184,
-            -4.2092576
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.3401184,
-            -4.2092576
-          ],
-          [
-            -80.3093856,
-            -4.2047699
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.3093856,
-            -4.2047699
-          ],
-          [
-            -80.3674548,
-            -4.2801753
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.3674548,
-            -4.2801753
-          ],
-          [
-            -80.4239733,
-            -4.3304222
-          ],
-          [
-            -80.453423,
-            -4.3825324
-          ],
-          [
-            -80.4490787,
-            -4.448243
-          ],
-          [
-            -80.4073772,
-            -4.4666469
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.4073772,
-            -4.4666469
-          ],
-          [
-            -80.3902471,
-            -4.4854952
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.3902471,
-            -4.4854952
-          ],
-          [
-            -80.3866035,
-            -4.4874879
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.289877,
-            -4.4332382
-          ],
-          [
-            -80.3866035,
-            -4.4874879
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.1421409,
-            -4.2859074
-          ],
-          [
-            -80.1560573,
-            -4.3043809
-          ],
-          [
-            -80.1768701,
-            -4.2937346
-          ],
-          [
-            -80.185641,
-            -4.3347995
-          ],
-          [
-            -80.2065493,
-            -4.3400566
-          ],
-          [
-            -80.1951381,
-            -4.3504229
-          ],
-          [
-            -80.219057,
-            -4.3532664
-          ],
-          [
-            -80.2210657,
-            -4.377992
-          ],
-          [
-            -80.2329411,
-            -4.373218
-          ],
-          [
-            -80.2626928,
-            -4.4116364
-          ],
-          [
-            -80.2862248,
-            -4.4094194
-          ],
-          [
-            -80.289877,
-            -4.4332382
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.9002036,
-            -4.398982
-          ],
-          [
-            -79.9200368,
-            -4.3859841
-          ],
-          [
-            -79.9625808,
-            -4.3948144
-          ],
-          [
-            -80.0345049,
-            -4.349436
-          ],
-          [
-            -80.0612766,
-            -4.3107529
-          ],
-          [
-            -80.1421409,
-            -4.2859074
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.8533257,
-            -4.4501634
-          ],
-          [
-            -79.8643222,
-            -4.4192325
-          ],
-          [
-            -79.9002036,
-            -4.398982
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.8497483,
-            -4.4541575
-          ],
-          [
-            -79.8533257,
-            -4.4501634
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.8017167,
-            -4.4886718
-          ],
-          [
-            -79.8497483,
-            -4.4541575
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.7511058,
-            -4.4834845
-          ],
-          [
-            -79.8017167,
-            -4.4886718
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.6784342,
-            -4.4489031
-          ],
-          [
-            -79.7511058,
-            -4.4834845
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.6336611,
-            -4.4384009
-          ],
-          [
-            -79.6784342,
-            -4.4489031
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.6124964,
-            -4.4506565
-          ],
-          [
-            -79.6336611,
-            -4.4384009
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.5966717,
-            -4.461776
-          ],
-          [
-            -79.6124964,
-            -4.4506565
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.5138343,
-            -4.5159246
-          ],
-          [
-            -79.5276435,
-            -4.52941
-          ],
-          [
-            -79.5629757,
-            -4.5139208
-          ],
-          [
-            -79.5966717,
-            -4.461776
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.4796533,
-            -4.5723298
-          ],
-          [
-            -79.487787,
-            -4.5303125
-          ],
-          [
-            -79.5138343,
-            -4.5159246
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.4643412,
-            -4.6581244
-          ],
-          [
-            -79.48853,
-            -4.6250604
-          ],
-          [
-            -79.4932112,
-            -4.5776731
-          ],
-          [
-            -79.4796533,
-            -4.5723298
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.4583571,
-            -4.6805747
-          ],
-          [
-            -79.4643412,
-            -4.6581244
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.4581414,
-            -4.683642
-          ],
-          [
-            -79.4583571,
-            -4.6805747
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.4283521,
-            -4.7456085
-          ],
-          [
-            -79.4581414,
-            -4.683642
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.4281191,
-            -4.7488756
-          ],
-          [
-            -79.4283521,
-            -4.7456085
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.4281191,
-            -4.7488756
-          ],
-          [
-            -79.3990892,
-            -4.8290925
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.3990892,
-            -4.8290925
-          ],
-          [
-            -79.3924437,
-            -4.8334369
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.3924437,
-            -4.8334369
-          ],
-          [
-            -79.3683219,
-            -4.8345592
-          ],
-          [
-            -79.3518475,
-            -4.8804794
-          ],
-          [
-            -79.3071236,
-            -4.8976515
-          ],
-          [
-            -79.3005821,
-            -4.9172677
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.3005821,
-            -4.9172677
-          ],
-          [
-            -79.2662661,
-            -4.9657982
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.2662661,
-            -4.9657982
-          ],
-          [
-            -79.2103311,
-            -4.9650855
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.2103311,
-            -4.9650855
-          ],
-          [
-            -79.1386261,
-            -4.9665196
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.1386261,
-            -4.9665196
-          ],
-          [
-            -79.0933657,
-            -4.9725083
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.0933657,
-            -4.9725083
-          ],
-          [
-            -79.073745,
-            -4.971147
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.073745,
-            -4.971147
-          ],
-          [
-            -79.0713914,
-            -4.9901642
-          ],
-          [
-            -79.0445062,
-            -5.0030659
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.0445062,
-            -5.0030659
-          ],
-          [
-            -79.0154047,
-            -5.0159314
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.8928577,
-            -4.8978992
-          ],
-          [
-            -78.9726162,
-            -4.8942091
-          ],
-          [
-            -79.0154047,
-            -5.0159314
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.8928577,
-            -4.8978992
-          ],
-          [
-            -78.8912966,
-            -4.8716154
-          ],
-          [
-            -78.9151385,
-            -4.8518543
-          ],
-          [
-            -78.8947885,
-            -4.8110671
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.8947885,
-            -4.8110671
-          ],
-          [
-            -78.9148609,
-            -4.7800799
-          ],
-          [
-            -78.8904868,
-            -4.7650247
-          ],
-          [
-            -78.8912039,
-            -4.7216604
-          ],
-          [
-            -78.8635386,
-            -4.6864078
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.8635386,
-            -4.6864078
-          ],
-          [
-            -78.8223727,
-            -4.6467871
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.8223727,
-            -4.6467871
-          ],
-          [
-            -78.805147,
-            -4.6381814
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.805147,
-            -4.6381814
-          ],
-          [
-            -78.7692316,
-            -4.6394524
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.7692316,
-            -4.6394524
-          ],
-          [
-            -78.7060399,
-            -4.6239492
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.7060399,
-            -4.6239492
-          ],
-          [
-            -78.6558189,
-            -4.5848826
-          ],
-          [
-            -78.6609072,
-            -4.5424411
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.6609072,
-            -4.5424411
-          ],
-          [
-            -78.6357502,
-            -4.5008825
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.6357502,
-            -4.5008825
-          ],
-          [
-            -78.6344812,
-            -4.4640152
-          ],
-          [
-            -78.6002632,
-            -4.425148
-          ],
-          [
-            -78.6027455,
-            -4.4110413
-          ],
-          [
-            -78.6347071,
-            -4.4130687
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.6347071,
-            -4.4130687
-          ],
-          [
-            -78.647707,
-            -4.3442493
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.647707,
-            -4.3442493
-          ],
-          [
-            -78.651624,
-            -4.3392742
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.651624,
-            -4.3392742
-          ],
-          [
-            -78.5985039,
-            -4.2578203
-          ],
-          [
-            -78.6089547,
-            -4.2260942
-          ],
-          [
-            -78.5772812,
-            -4.195549
-          ],
-          [
-            -78.5705693,
-            -4.1103327
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.5705693,
-            -4.1103327
-          ],
-          [
-            -78.542052,
-            -4.0745947
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.542052,
-            -4.0745947
-          ],
-          [
-            -78.5375359,
-            -4.0606281
-          ],
-          [
-            -78.5697242,
-            -4.0366442
-          ],
-          [
-            -78.5657129,
-            -3.9919628
-          ],
-          [
-            -78.5400875,
-            -3.9615317
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.5400875,
-            -3.9615317
-          ],
-          [
-            -78.5245049,
-            -3.937264
-          ],
-          [
-            -78.4886691,
-            -3.9336081
-          ],
-          [
-            -78.4774203,
-            -3.8678906
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.4774203,
-            -3.8678906
-          ],
-          [
-            -78.4653324,
-            -3.8267863
-          ],
-          [
-            -78.4360002,
-            -3.8191183
-          ],
-          [
-            -78.4093669,
-            -3.7823911
-          ],
-          [
-            -78.4024765,
-            -3.7353876
-          ],
-          [
-            -78.4175604,
-            -3.7162321
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.4175604,
-            -3.7162321
-          ],
-          [
-            -78.4227379,
-            -3.6908896
-          ],
-          [
-            -78.3972967,
-            -3.6871553
-          ],
-          [
-            -78.4008176,
-            -3.6504098
-          ],
-          [
-            -78.3863097,
-            -3.6400987
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.3863097,
-            -3.6400987
-          ],
-          [
-            -78.3997766,
-            -3.6062037
-          ],
-          [
-            -78.3911882,
-            -3.5601016
-          ],
-          [
-            -78.3676535,
-            -3.5335878
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.3676535,
-            -3.5335878
-          ],
-          [
-            -78.3640743,
-            -3.5104953
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.3640743,
-            -3.5104953
-          ],
-          [
-            -78.3413847,
-            -3.4271035
-          ],
-          [
-            -78.3562311,
-            -3.4035581
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.3562311,
-            -3.4035581
-          ],
-          [
-            -78.3498312,
-            -3.3679335
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.2876994,
-            -3.3976584
-          ],
-          [
-            -78.3498312,
-            -3.3679335
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.2303844,
-            -3.5043086
-          ],
-          [
-            -78.2448568,
-            -3.4008357
-          ],
-          [
-            -78.2876994,
-            -3.3976584
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.21716,
-            -3.5073842
-          ],
-          [
-            -78.2303844,
-            -3.5043086
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.1202093,
-            -3.2930861
-          ],
-          [
-            -78.198046,
-            -3.3638734
-          ],
-          [
-            -78.1807055,
-            -3.4112788
-          ],
-          [
-            -78.1548562,
-            -3.4265567
-          ],
-          [
-            -78.1484141,
-            -3.4802108
-          ],
-          [
-            -78.21716,
-            -3.5073842
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.0336224,
-            -3.1896453
-          ],
-          [
-            -78.0649089,
-            -3.2273918
-          ],
-          [
-            -78.0918123,
-            -3.2163598
-          ],
-          [
-            -78.0902065,
-            -3.2412216
-          ],
-          [
-            -78.1202093,
-            -3.2930861
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.9442446,
-            -3.0656689
-          ],
-          [
-            -78.0112968,
-            -3.1585049
-          ],
-          [
-            -78.010772,
-            -3.190622
-          ],
-          [
-            -78.0336224,
-            -3.1896453
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.8391145,
-            -3.006764
-          ],
-          [
-            -77.9442446,
-            -3.0656689
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.843934,
-            -3.0003731
-          ],
-          [
-            -77.8391145,
-            -3.006764
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.812086,
-            -2.9860745
-          ],
-          [
-            -77.843934,
-            -3.0003731
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.7123612,
-            -2.9519347
-          ],
-          [
-            -77.812086,
-            -2.9860745
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.573562,
-            -2.9077076
-          ],
-          [
-            -77.7123612,
-            -2.9519347
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.573562,
-            -2.9077076
-          ],
-          [
-            -77.414337,
-            -2.852212
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.414337,
-            -2.852212
-          ],
-          [
-            -77.1747122,
-            -2.7715672
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.1747122,
-            -2.7715672
-          ],
-          [
-            -77.0246783,
-            -2.720597
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.0246783,
-            -2.720597
-          ],
-          [
-            -76.692768,
-            -2.6089506
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.692768,
-            -2.6089506
-          ],
-          [
-            -76.6875288,
-            -2.6073816
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.6210892,
-            -2.5818711
-          ],
-          [
-            -76.6875288,
-            -2.6073816
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.5332611,
-            -2.5124514
-          ],
-          [
-            -76.6210892,
-            -2.5818711
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.3124035,
-            -2.3375723
-          ],
-          [
-            -76.5332611,
-            -2.5124514
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.9335116,
-            -1.9859168
-          ],
-          [
-            -76.0443564,
-            -2.1249381
-          ],
-          [
-            -76.3124035,
-            -2.3375723
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.8533277,
-            -1.8865226
-          ],
-          [
-            -75.9335116,
-            -1.9859168
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.7784592,
-            -1.7937684
-          ],
-          [
-            -75.8533277,
-            -1.8865226
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.61444,
-            -1.5883648
-          ],
-          [
-            -75.7784592,
-            -1.7937684
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.5849937,
-            -1.5496183
-          ],
-          [
-            -75.61444,
-            -1.5883648
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.5849937,
-            -1.5496183
-          ],
-          [
-            -75.5815062,
-            -1.5478397
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.5815062,
-            -1.5478397
-          ],
-          [
-            -75.5627586,
-            -1.5642471
-          ],
-          [
-            -75.5564107,
-            -1.5488216
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.5564107,
-            -1.5488216
-          ],
-          [
-            -75.4486723,
-            -1.1622553
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.4486723,
-            -1.1622553
-          ],
-          [
-            -75.417155,
-            -1.0487053
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.417155,
-            -1.0487053
-          ],
-          [
-            -75.3860061,
-            -0.9375199
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.3860061,
-            -0.9375199
-          ],
-          [
-            -75.3798638,
-            -0.930931
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.3798638,
-            -0.930931
-          ],
-          [
-            -75.3137487,
-            -0.9844516
-          ],
-          [
-            -75.25989,
-            -0.9891072
-          ],
-          [
-            -75.192504,
-            -0.9712927
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.2336045,
-            -0.9318403
-          ],
-          [
-            -75.192504,
-            -0.9712927
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.2236235,
-            -0.885499
-          ],
-          [
-            -75.2336045,
-            -0.9318403
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.2626991,
-            -0.6546701
-          ],
-          [
-            -75.2736835,
-            -0.673791
-          ],
-          [
-            -75.2476339,
-            -0.6997315
-          ],
-          [
-            -75.2771187,
-            -0.7235549
-          ],
-          [
-            -75.2533416,
-            -0.7652793
-          ],
-          [
-            -75.2689219,
-            -0.7859913
-          ],
-          [
-            -75.2427845,
-            -0.797377
-          ],
-          [
-            -75.2469707,
-            -0.8470536
-          ],
-          [
-            -75.2222407,
-            -0.8659128
-          ],
-          [
-            -75.2236235,
-            -0.885499
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.2319429,
-            -0.6459364
-          ],
-          [
-            -75.246343,
-            -0.6389748
-          ],
-          [
-            -75.2626991,
-            -0.6546701
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.2415336,
-            -0.5244736
-          ],
-          [
-            -75.2449892,
-            -0.5463622
-          ],
-          [
-            -75.2279396,
-            -0.5503045
-          ],
-          [
-            -75.2249727,
-            -0.5695488
-          ],
-          [
-            -75.2404778,
-            -0.5805019
-          ],
-          [
-            -75.2234893,
-            -0.6236033
-          ],
-          [
-            -75.2319429,
-            -0.6459364
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.4627255,
-            -0.3184101
-          ],
-          [
-            -75.385401,
-            -0.4368137
-          ],
-          [
-            -75.3492193,
-            -0.4636053
-          ],
-          [
-            -75.3251069,
-            -0.4527065
-          ],
-          [
-            -75.3129727,
-            -0.4946757
-          ],
-          [
-            -75.2665296,
-            -0.5059905
-          ],
-          [
-            -75.2656649,
-            -0.533604
-          ],
-          [
-            -75.2505978,
-            -0.5169776
-          ],
-          [
-            -75.2415336,
-            -0.5244736
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.4810462,
-            -0.2532115
-          ],
-          [
-            -75.4627255,
-            -0.3184101
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.4810462,
-            -0.2532115
-          ],
-          [
-            -75.5308252,
-            -0.180892
-          ],
-          [
-            -75.6104945,
-            -0.1926019
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.6104945,
-            -0.1926019
-          ],
-          [
-            -75.6104196,
-            -0.1133911
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.6104196,
-            -0.1133911
-          ],
-          [
-            -75.6008184,
-            -0.1098632
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.6008184,
-            -0.1098632
-          ],
-          [
-            -75.5930694,
-            -0.1179246
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.5930694,
-            -0.1179246
-          ],
-          [
-            -75.5689565,
-            -0.1318358
-          ],
-          [
-            -75.516197,
-            -0.1143575
-          ],
-          [
-            -75.4063891,
-            -0.1699518
-          ],
-          [
-            -75.3683963,
-            -0.1632801
-          ],
-          [
-            -75.3647409,
-            -0.1460614
-          ],
-          [
-            -75.3492002,
-            -0.1627607
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.3492002,
-            -0.1627607
-          ],
-          [
-            -75.2891672,
-            -0.1537977
-          ],
-          [
-            -75.2581546,
-            -0.115998
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.5814363,
-            -0.018805
-          ],
-          [
-            -75.5699301,
-            -0.0290322
-          ],
-          [
-            -75.5300617,
-            -0.0197196
-          ],
-          [
-            -75.3954363,
-            -0.0970101
-          ],
-          [
-            -75.3518772,
-            -0.0915169
-          ],
-          [
-            -75.2734178,
-            -0.1251374
-          ],
-          [
-            -75.2581546,
-            -0.115998
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.6147346,
-            0.0239882
-          ],
-          [
-            -75.5819089,
-            0.0142766
-          ],
-          [
-            -75.5814363,
-            -0.018805
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.6172711,
-            0.0288678
-          ],
-          [
-            -75.6147346,
-            0.0239882
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -75.629797,
-            0.0476361
-          ],
-          [
-            -75.6172711,
-            0.0288678
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.0567243,
-            0.3332215
-          ],
-          [
-            -75.9980938,
-            0.2891987
-          ],
-          [
-            -75.9823949,
-            0.2563182
-          ],
-          [
-            -76.0054298,
-            0.2479254
-          ],
-          [
-            -75.9592206,
-            0.238294
-          ],
-          [
-            -75.9582389,
-            0.2067979
-          ],
-          [
-            -75.8977658,
-            0.1622484
-          ],
-          [
-            -75.9027286,
-            0.1367956
-          ],
-          [
-            -75.8819885,
-            0.1388091
-          ],
-          [
-            -75.8782746,
-            0.1183968
-          ],
-          [
-            -75.8617169,
-            0.1346111
-          ],
-          [
-            -75.8498723,
-            0.1277446
-          ],
-          [
-            -75.8066136,
-            0.0508404
-          ],
-          [
-            -75.7525403,
-            0.0369359
-          ],
-          [
-            -75.6671763,
-            0.0454903
-          ],
-          [
-            -75.6462765,
-            0.0311137
-          ],
-          [
-            -75.629797,
-            0.0476361
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.1423398,
-            0.3763029
-          ],
-          [
-            -76.1133725,
-            0.315884
-          ],
-          [
-            -76.0826451,
-            0.3361397
-          ],
-          [
-            -76.0567243,
-            0.3332215
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.4083028,
-            0.3812571
-          ],
-          [
-            -76.3696465,
-            0.3946574
-          ],
-          [
-            -76.3398407,
-            0.3829866
-          ],
-          [
-            -76.3142101,
-            0.4338858
-          ],
-          [
-            -76.2968785,
-            0.4212225
-          ],
-          [
-            -76.2783355,
-            0.43708
-          ],
-          [
-            -76.2574302,
-            0.4009487
-          ],
-          [
-            -76.2313203,
-            0.4016981
-          ],
-          [
-            -76.2264369,
-            0.3768298
-          ],
-          [
-            -76.2087781,
-            0.3864428
-          ],
-          [
-            -76.1813504,
-            0.3716729
-          ],
-          [
-            -76.1584918,
-            0.3882521
-          ],
-          [
-            -76.1423398,
-            0.3763029
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.4083028,
-            0.3812571
-          ],
-          [
-            -76.4110792,
-            0.2423113
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.5890851,
-            0.2193518
-          ],
-          [
-            -76.532835,
-            0.2586516
-          ],
-          [
-            -76.5040404,
-            0.2364061
-          ],
-          [
-            -76.4467707,
-            0.2394457
-          ],
-          [
-            -76.4369832,
-            0.2576117
-          ],
-          [
-            -76.4270068,
-            0.2344015
-          ],
-          [
-            -76.4110792,
-            0.2423113
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.6411,
-            0.2577523
-          ],
-          [
-            -76.6255905,
-            0.2619122
-          ],
-          [
-            -76.5890851,
-            0.2193518
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.88926,
-            0.2460771
-          ],
-          [
-            -76.8436036,
-            0.2390993
-          ],
-          [
-            -76.7964754,
-            0.2644633
-          ],
-          [
-            -76.7681519,
-            0.2432706
-          ],
-          [
-            -76.7517004,
-            0.2545356
-          ],
-          [
-            -76.7669988,
-            0.2640393
-          ],
-          [
-            -76.7329499,
-            0.2886185
-          ],
-          [
-            -76.7133549,
-            0.2692053
-          ],
-          [
-            -76.7011396,
-            0.2788675
-          ],
-          [
-            -76.6558514,
-            0.2708536
-          ],
-          [
-            -76.6531506,
-            0.2510754
-          ],
-          [
-            -76.6411,
-            0.2577523
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -76.9851801,
-            0.2658384
-          ],
-          [
-            -76.9332673,
-            0.2767642
-          ],
-          [
-            -76.934867,
-            0.2612131
-          ],
-          [
-            -76.88926,
-            0.2460771
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.0495189,
-            0.2911154
-          ],
-          [
-            -77.0274408,
-            0.2773737
-          ],
-          [
-            -77.0066915,
-            0.2943488
-          ],
-          [
-            -76.9851801,
-            0.2658384
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.1129513,
-            0.3715048
-          ],
-          [
-            -77.0791838,
-            0.2867942
-          ],
-          [
-            -77.0495189,
-            0.2911154
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.2155994,
-            0.3643274
-          ],
-          [
-            -77.1801996,
-            0.3905481
-          ],
-          [
-            -77.1129513,
-            0.3715048
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.3893047,
-            0.3880939
-          ],
-          [
-            -77.3717324,
-            0.4010346
-          ],
-          [
-            -77.2966182,
-            0.3647887
-          ],
-          [
-            -77.2155994,
-            0.3643274
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.404655,
-            0.4039092
-          ],
-          [
-            -77.3893047,
-            0.3880939
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.445277,
-            0.3977362
-          ],
-          [
-            -77.404655,
-            0.4039092
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.5276147,
-            0.4001452
-          ],
-          [
-            -77.445277,
-            0.3977362
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.5224172,
-            0.4343356
-          ],
-          [
-            -77.5276147,
-            0.4001452
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.5155335,
-            0.5452071
-          ],
-          [
-            -77.5224172,
-            0.4343356
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.5303504,
-            0.6532974
-          ],
-          [
-            -77.4803926,
-            0.6561787
-          ],
-          [
-            -77.4799976,
-            0.6097323
-          ],
-          [
-            -77.5155335,
-            0.5452071
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.5318316,
-            0.65307
-          ],
-          [
-            -77.5303504,
-            0.6532974
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.6544994,
-            0.7059247
-          ],
-          [
-            -77.5634229,
-            0.6506256
-          ],
-          [
-            -77.5318316,
-            0.65307
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.6544994,
-            0.7059247
-          ],
-          [
-            -77.6604117,
-            0.7043802
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.6604117,
-            0.7043802
-          ],
-          [
-            -77.6730663,
-            0.7350231
-          ],
-          [
-            -77.6968843,
-            0.7404032
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.6968843,
-            0.7404032
-          ],
-          [
-            -77.694591,
-            0.7562752
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.694591,
-            0.7562752
-          ],
-          [
-            -77.6612381,
-            0.7899409
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.6612381,
-            0.7899409
-          ],
-          [
-            -77.6764965,
-            0.791024
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.6764965,
-            0.791024
-          ],
-          [
-            -77.6639546,
-            0.8132759
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.6639546,
-            0.8132759
-          ],
-          [
-            -77.6638301,
-            0.8135924
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.6638301,
-            0.8135924
-          ],
-          [
-            -77.6845842,
-            0.8284356
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.7641326,
-            0.8419741
-          ],
-          [
-            -77.7461833,
-            0.8332901
-          ],
-          [
-            -77.7135301,
-            0.8509049
-          ],
-          [
-            -77.6845842,
-            0.8284356
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.7733055,
-            0.8396959
-          ],
-          [
-            -77.7641326,
-            0.8419741
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.8768642,
-            0.8046648
-          ],
-          [
-            -77.8268534,
-            0.8050868
-          ],
-          [
-            -77.7733055,
-            0.8396959
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.9252505,
-            0.8158335
-          ],
-          [
-            -77.8768642,
-            0.8046648
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.9361936,
-            0.8163974
-          ],
-          [
-            -77.9252505,
-            0.8158335
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.9361936,
-            0.8163974
-          ],
-          [
-            -78.0016154,
-            0.8586717
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.0016154,
-            0.8586717
-          ],
-          [
-            -78.0880974,
-            0.8966685
-          ],
-          [
-            -78.1121814,
-            0.932284
-          ],
-          [
-            -78.1398473,
-            0.9332127
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.1398473,
-            0.9332127
-          ],
-          [
-            -78.1523466,
-            0.9248086
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.1523466,
-            0.9248086
-          ],
-          [
-            -78.1991494,
-            0.9471629
-          ],
-          [
-            -78.1920798,
-            0.9700155
-          ],
-          [
-            -78.2091755,
-            1.0046504
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.2091755,
-            1.0046504
-          ],
-          [
-            -78.2345653,
-            1.0156404
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.2345653,
-            1.0156404
-          ],
-          [
-            -78.2818356,
-            1.0560166
-          ],
-          [
-            -78.2738466,
-            1.0751635
-          ],
-          [
-            -78.2527186,
-            1.0784748
-          ],
-          [
-            -78.2507834,
-            1.0992966
-          ],
-          [
-            -78.2822164,
-            1.1114248
-          ],
-          [
-            -78.2911635,
-            1.1382662
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.2911635,
-            1.1382662
-          ],
-          [
-            -78.2955486,
-            1.1712373
-          ],
-          [
-            -78.3243243,
-            1.1956333
-          ],
-          [
-            -78.3952088,
-            1.1525641
-          ],
-          [
-            -78.4181208,
-            1.1599698
-          ],
-          [
-            -78.4160809,
-            1.1389701
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.4160809,
-            1.1389701
-          ],
-          [
-            -78.4334278,
-            1.1443713
-          ],
-          [
-            -78.4254033,
-            1.1780297
-          ],
-          [
-            -78.4381688,
-            1.1939185
-          ],
-          [
-            -78.4554638,
-            1.1757889
-          ],
-          [
-            -78.4786892,
-            1.1937049
-          ],
-          [
-            -78.5088455,
-            1.1887789
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.5088455,
-            1.1887789
-          ],
-          [
-            -78.5144267,
-            1.2130241
-          ],
-          [
-            -78.5475742,
-            1.2262018
-          ],
-          [
-            -78.5507229,
-            1.2434248
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.5507229,
-            1.2434248
-          ],
-          [
-            -78.5808706,
-            1.2428757
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.5808706,
-            1.2428757
-          ],
-          [
-            -78.6219299,
-            1.2511028
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.6219299,
-            1.2511028
-          ],
-          [
-            -78.6489826,
-            1.2773284
-          ],
-          [
-            -78.660956,
-            1.3196589
-          ],
-          [
-            -78.6948538,
-            1.3301221
-          ],
-          [
-            -78.7549406,
-            1.3916377
-          ],
-          [
-            -78.7742472,
-            1.3902814
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.7742472,
-            1.3902814
-          ],
-          [
-            -78.7920543,
-            1.4066779
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.7920543,
-            1.4066779
-          ],
-          [
-            -78.8080919,
-            1.4285473
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.8080919,
-            1.4285473
-          ],
-          [
-            -78.8143288,
-            1.4300144
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.8143288,
-            1.4300144
-          ],
-          [
-            -78.868686,
-            1.469581
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.868686,
-            1.469581
-          ],
-          [
-            -79.1738514,
-            1.4695853
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.1738514,
-            1.4695853
-          ],
-          [
-            -79.2360993,
-            1.469581
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.2360993,
-            1.469581
-          ],
-          [
-            -79.370659,
-            1.469581
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.9750897,
-            -1.3851664
-          ],
-          [
-            -90.9344545,
-            -1.3998911
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.0611607,
-            1.1517059
-          ],
-          [
-            -91.9111712,
-            1.8587083
-          ],
-          [
-            -91.9833609,
-            1.882132
-          ],
-          [
-            -92.0620927,
-            1.8759394
-          ],
-          [
-            -92.1297904,
-            1.841511
-          ],
-          [
-            -92.1814376,
-            1.7813965
-          ],
-          [
-            -92.2040262,
-            1.718497
-          ],
-          [
-            -92.204859,
-            1.6516216
-          ],
-          [
-            -91.8481535,
-            -0.4310827
-          ],
-          [
-            -91.6775688,
-            -1.0561498
-          ],
-          [
-            -91.6375347,
-            -1.1211056
-          ],
-          [
-            -91.576301,
-            -1.1663169
-          ],
-          [
-            -90.9750897,
-            -1.3851664
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.3765611,
-            0.7143169
-          ],
-          [
-            -90.6622436,
-            0.8176033
-          ],
-          [
-            -91.0611607,
-            1.1517059
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.9226113,
-            0.5501902
-          ],
-          [
-            -90.3765611,
-            0.7143169
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2767271,
-            -0.3000999
-          ],
-          [
-            -89.7943562,
-            0.4702097
-          ],
-          [
-            -89.8479894,
-            0.5187241
-          ],
-          [
-            -89.9226113,
-            0.5501902
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2658069,
-            -1.1755025
-          ],
-          [
-            -89.0595334,
-            -0.8069783
-          ],
-          [
-            -89.0382519,
-            -0.7149832
-          ],
-          [
-            -89.0657499,
-            -0.6150496
-          ],
-          [
-            -89.2767271,
-            -0.3000999
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.785851,
-            -1.4537386
-          ],
-          [
-            -90.4792025,
-            -1.5596544
-          ],
-          [
-            -89.5916164,
-            -1.6090359
-          ],
-          [
-            -89.5207605,
-            -1.5813411
-          ],
-          [
-            -89.4672373,
-            -1.5315679
-          ],
-          [
-            -89.2658069,
-            -1.1755025
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "EC",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
-        "name": "Ecuador"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.9344545,
-            -1.3998911
-          ],
-          [
-            -90.785851,
-            -1.4537386
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.41302,
+              1.469581
+            ],
+            [
+              -79.559791,
+              1.469581
+            ],
+            [
+              -79.559791,
+              1.469581
+            ],
+            [
+              -80.176404,
+              0.983014
+            ],
+            [
+              -80.218498,
+              0.935797
+            ],
+            [
+              -81.269402,
+              -1.189657
+            ],
+            [
+              -81.281241,
+              -1.270843
+            ],
+            [
+              -81.21247,
+              -2.185539
+            ],
+            [
+              -81.344347,
+              -3.392125
+            ],
+            [
+              -81.344347,
+              -3.392125
+            ],
+            [
+              -81.14428,
+              -3.392125
+            ],
+            [
+              -81.14428,
+              -3.392125
+            ],
+            [
+              -80.985752,
+              -3.392128
+            ],
+            [
+              -80.985752,
+              -3.392128
+            ],
+            [
+              -80.671,
+              -3.392134
+            ],
+            [
+              -80.671,
+              -3.392134
+            ],
+            [
+              -80.31391,
+              -3.392125
+            ],
+            [
+              -80.31391,
+              -3.392125
+            ],
+            [
+              -80.313686,
+              -3.392125
+            ],
+            [
+              -80.313686,
+              -3.392125
+            ],
+            [
+              -80.306572,
+              -3.392255
+            ],
+            [
+              -80.306572,
+              -3.392255
+            ],
+            [
+              -80.302651,
+              -3.396304
+            ],
+            [
+              -80.302651,
+              -3.396304
+            ],
+            [
+              -80.23026,
+              -3.423634
+            ],
+            [
+              -80.23026,
+              -3.423634
+            ],
+            [
+              -80.226096,
+              -3.431516
+            ],
+            [
+              -80.226096,
+              -3.431516
+            ],
+            [
+              -80.22186,
+              -3.440019
+            ],
+            [
+              -80.22186,
+              -3.440019
+            ],
+            [
+              -80.245623,
+              -3.487263
+            ],
+            [
+              -80.216045,
+              -3.500374
+            ],
+            [
+              -80.210976,
+              -3.526517
+            ],
+            [
+              -80.210976,
+              -3.526517
+            ],
+            [
+              -80.210965,
+              -3.558706
+            ],
+            [
+              -80.210965,
+              -3.558706
+            ],
+            [
+              -80.218529,
+              -3.574857
+            ],
+            [
+              -80.202214,
+              -3.592723
+            ],
+            [
+              -80.202214,
+              -3.592723
+            ],
+            [
+              -80.197474,
+              -3.617724
+            ],
+            [
+              -80.197474,
+              -3.617724
+            ],
+            [
+              -80.187429,
+              -3.631184
+            ],
+            [
+              -80.187429,
+              -3.631184
+            ],
+            [
+              -80.19895,
+              -3.687623
+            ],
+            [
+              -80.19895,
+              -3.687623
+            ],
+            [
+              -80.195089,
+              -3.70121
+            ],
+            [
+              -80.195089,
+              -3.70121
+            ],
+            [
+              -80.18016,
+              -3.728125
+            ],
+            [
+              -80.192641,
+              -3.771821
+            ],
+            [
+              -80.192641,
+              -3.771821
+            ],
+            [
+              -80.192845,
+              -3.775
+            ],
+            [
+              -80.192845,
+              -3.775
+            ],
+            [
+              -80.159219,
+              -3.808931
+            ],
+            [
+              -80.159219,
+              -3.808931
+            ],
+            [
+              -80.158591,
+              -3.838962
+            ],
+            [
+              -80.158591,
+              -3.838962
+            ],
+            [
+              -80.153286,
+              -3.853018
+            ],
+            [
+              -80.153286,
+              -3.853018
+            ],
+            [
+              -80.156996,
+              -3.872647
+            ],
+            [
+              -80.127416,
+              -3.888373
+            ],
+            [
+              -80.127416,
+              -3.888373
+            ],
+            [
+              -80.161519,
+              -3.919888
+            ],
+            [
+              -80.161519,
+              -3.919888
+            ],
+            [
+              -80.18038,
+              -3.925146
+            ],
+            [
+              -80.18038,
+              -3.925146
+            ],
+            [
+              -80.217399,
+              -3.957063
+            ],
+            [
+              -80.234984,
+              -3.94837
+            ],
+            [
+              -80.262882,
+              -3.999871
+            ],
+            [
+              -80.29565,
+              -4.01603
+            ],
+            [
+              -80.29565,
+              -4.01603
+            ],
+            [
+              -80.312475,
+              -4.012061
+            ],
+            [
+              -80.312475,
+              -4.012061
+            ],
+            [
+              -80.364798,
+              -3.982381
+            ],
+            [
+              -80.393573,
+              -3.985543
+            ],
+            [
+              -80.393573,
+              -3.985543
+            ],
+            [
+              -80.39805,
+              -3.980779
+            ],
+            [
+              -80.39805,
+              -3.980779
+            ],
+            [
+              -80.445923,
+              -3.997205
+            ],
+            [
+              -80.450724,
+              -4.030105
+            ],
+            [
+              -80.481949,
+              -4.055185
+            ],
+            [
+              -80.481949,
+              -4.055185
+            ],
+            [
+              -80.480485,
+              -4.079626
+            ],
+            [
+              -80.480485,
+              -4.079626
+            ],
+            [
+              -80.463569,
+              -4.119565
+            ],
+            [
+              -80.463569,
+              -4.119565
+            ],
+            [
+              -80.449128,
+              -4.129452
+            ],
+            [
+              -80.449128,
+              -4.129452
+            ],
+            [
+              -80.450183,
+              -4.20963
+            ],
+            [
+              -80.450183,
+              -4.20963
+            ],
+            [
+              -80.433694,
+              -4.196246
+            ],
+            [
+              -80.416996,
+              -4.21101
+            ],
+            [
+              -80.416996,
+              -4.21101
+            ],
+            [
+              -80.368939,
+              -4.197194
+            ],
+            [
+              -80.353907,
+              -4.22063
+            ],
+            [
+              -80.340118,
+              -4.209258
+            ],
+            [
+              -80.340118,
+              -4.209258
+            ],
+            [
+              -80.309386,
+              -4.20477
+            ],
+            [
+              -80.309386,
+              -4.20477
+            ],
+            [
+              -80.367455,
+              -4.280175
+            ],
+            [
+              -80.367455,
+              -4.280175
+            ],
+            [
+              -80.423973,
+              -4.330422
+            ],
+            [
+              -80.453423,
+              -4.382532
+            ],
+            [
+              -80.449079,
+              -4.448243
+            ],
+            [
+              -80.407377,
+              -4.466647
+            ],
+            [
+              -80.407377,
+              -4.466647
+            ],
+            [
+              -80.390247,
+              -4.485495
+            ],
+            [
+              -80.390247,
+              -4.485495
+            ],
+            [
+              -80.386604,
+              -4.487488
+            ],
+            [
+              -80.386604,
+              -4.487488
+            ],
+            [
+              -80.289877,
+              -4.433238
+            ],
+            [
+              -80.289877,
+              -4.433238
+            ],
+            [
+              -80.286225,
+              -4.409419
+            ],
+            [
+              -80.262693,
+              -4.411636
+            ],
+            [
+              -80.232941,
+              -4.373218
+            ],
+            [
+              -80.221066,
+              -4.377992
+            ],
+            [
+              -80.219057,
+              -4.353266
+            ],
+            [
+              -80.195138,
+              -4.350423
+            ],
+            [
+              -80.206549,
+              -4.340057
+            ],
+            [
+              -80.185641,
+              -4.334799
+            ],
+            [
+              -80.17687,
+              -4.293735
+            ],
+            [
+              -80.156057,
+              -4.304381
+            ],
+            [
+              -80.142141,
+              -4.285907
+            ],
+            [
+              -80.142141,
+              -4.285907
+            ],
+            [
+              -80.061277,
+              -4.310753
+            ],
+            [
+              -80.034505,
+              -4.349436
+            ],
+            [
+              -79.962581,
+              -4.394814
+            ],
+            [
+              -79.920037,
+              -4.385984
+            ],
+            [
+              -79.900204,
+              -4.398982
+            ],
+            [
+              -79.900204,
+              -4.398982
+            ],
+            [
+              -79.864322,
+              -4.419232
+            ],
+            [
+              -79.853326,
+              -4.450163
+            ],
+            [
+              -79.853326,
+              -4.450163
+            ],
+            [
+              -79.849748,
+              -4.454157
+            ],
+            [
+              -79.849748,
+              -4.454157
+            ],
+            [
+              -79.801717,
+              -4.488672
+            ],
+            [
+              -79.801717,
+              -4.488672
+            ],
+            [
+              -79.751106,
+              -4.483485
+            ],
+            [
+              -79.751106,
+              -4.483485
+            ],
+            [
+              -79.678434,
+              -4.448903
+            ],
+            [
+              -79.678434,
+              -4.448903
+            ],
+            [
+              -79.633661,
+              -4.438401
+            ],
+            [
+              -79.633661,
+              -4.438401
+            ],
+            [
+              -79.612496,
+              -4.450657
+            ],
+            [
+              -79.612496,
+              -4.450657
+            ],
+            [
+              -79.596672,
+              -4.461776
+            ],
+            [
+              -79.596672,
+              -4.461776
+            ],
+            [
+              -79.562976,
+              -4.513921
+            ],
+            [
+              -79.527643,
+              -4.52941
+            ],
+            [
+              -79.513834,
+              -4.515925
+            ],
+            [
+              -79.513834,
+              -4.515925
+            ],
+            [
+              -79.487787,
+              -4.530312
+            ],
+            [
+              -79.479653,
+              -4.57233
+            ],
+            [
+              -79.479653,
+              -4.57233
+            ],
+            [
+              -79.493211,
+              -4.577673
+            ],
+            [
+              -79.48853,
+              -4.62506
+            ],
+            [
+              -79.464341,
+              -4.658124
+            ],
+            [
+              -79.464341,
+              -4.658124
+            ],
+            [
+              -79.458357,
+              -4.680575
+            ],
+            [
+              -79.458357,
+              -4.680575
+            ],
+            [
+              -79.458141,
+              -4.683642
+            ],
+            [
+              -79.458141,
+              -4.683642
+            ],
+            [
+              -79.428352,
+              -4.745609
+            ],
+            [
+              -79.428352,
+              -4.745609
+            ],
+            [
+              -79.428119,
+              -4.748876
+            ],
+            [
+              -79.428119,
+              -4.748876
+            ],
+            [
+              -79.399089,
+              -4.829092
+            ],
+            [
+              -79.399089,
+              -4.829092
+            ],
+            [
+              -79.392444,
+              -4.833437
+            ],
+            [
+              -79.392444,
+              -4.833437
+            ],
+            [
+              -79.368322,
+              -4.834559
+            ],
+            [
+              -79.351848,
+              -4.880479
+            ],
+            [
+              -79.307124,
+              -4.897652
+            ],
+            [
+              -79.300582,
+              -4.917268
+            ],
+            [
+              -79.300582,
+              -4.917268
+            ],
+            [
+              -79.266266,
+              -4.965798
+            ],
+            [
+              -79.266266,
+              -4.965798
+            ],
+            [
+              -79.210331,
+              -4.965085
+            ],
+            [
+              -79.210331,
+              -4.965085
+            ],
+            [
+              -79.138626,
+              -4.96652
+            ],
+            [
+              -79.138626,
+              -4.96652
+            ],
+            [
+              -79.093366,
+              -4.972508
+            ],
+            [
+              -79.093366,
+              -4.972508
+            ],
+            [
+              -79.073745,
+              -4.971147
+            ],
+            [
+              -79.073745,
+              -4.971147
+            ],
+            [
+              -79.071391,
+              -4.990164
+            ],
+            [
+              -79.044506,
+              -5.003066
+            ],
+            [
+              -79.044506,
+              -5.003066
+            ],
+            [
+              -79.015405,
+              -5.015931
+            ],
+            [
+              -79.015405,
+              -5.015931
+            ],
+            [
+              -78.972616,
+              -4.894209
+            ],
+            [
+              -78.892858,
+              -4.897899
+            ],
+            [
+              -78.892858,
+              -4.897899
+            ],
+            [
+              -78.891297,
+              -4.871615
+            ],
+            [
+              -78.915138,
+              -4.851854
+            ],
+            [
+              -78.894789,
+              -4.811067
+            ],
+            [
+              -78.894789,
+              -4.811067
+            ],
+            [
+              -78.914861,
+              -4.78008
+            ],
+            [
+              -78.890487,
+              -4.765025
+            ],
+            [
+              -78.891204,
+              -4.72166
+            ],
+            [
+              -78.863539,
+              -4.686408
+            ],
+            [
+              -78.863539,
+              -4.686408
+            ],
+            [
+              -78.822373,
+              -4.646787
+            ],
+            [
+              -78.822373,
+              -4.646787
+            ],
+            [
+              -78.805147,
+              -4.638181
+            ],
+            [
+              -78.805147,
+              -4.638181
+            ],
+            [
+              -78.769232,
+              -4.639452
+            ],
+            [
+              -78.769232,
+              -4.639452
+            ],
+            [
+              -78.70604,
+              -4.623949
+            ],
+            [
+              -78.70604,
+              -4.623949
+            ],
+            [
+              -78.655819,
+              -4.584883
+            ],
+            [
+              -78.660907,
+              -4.542441
+            ],
+            [
+              -78.660907,
+              -4.542441
+            ],
+            [
+              -78.63575,
+              -4.500883
+            ],
+            [
+              -78.63575,
+              -4.500883
+            ],
+            [
+              -78.634481,
+              -4.464015
+            ],
+            [
+              -78.600263,
+              -4.425148
+            ],
+            [
+              -78.602745,
+              -4.411041
+            ],
+            [
+              -78.634707,
+              -4.413069
+            ],
+            [
+              -78.634707,
+              -4.413069
+            ],
+            [
+              -78.647707,
+              -4.344249
+            ],
+            [
+              -78.647707,
+              -4.344249
+            ],
+            [
+              -78.651624,
+              -4.339274
+            ],
+            [
+              -78.651624,
+              -4.339274
+            ],
+            [
+              -78.598504,
+              -4.25782
+            ],
+            [
+              -78.608955,
+              -4.226094
+            ],
+            [
+              -78.577281,
+              -4.195549
+            ],
+            [
+              -78.570569,
+              -4.110333
+            ],
+            [
+              -78.570569,
+              -4.110333
+            ],
+            [
+              -78.542052,
+              -4.074595
+            ],
+            [
+              -78.542052,
+              -4.074595
+            ],
+            [
+              -78.537536,
+              -4.060628
+            ],
+            [
+              -78.569724,
+              -4.036644
+            ],
+            [
+              -78.565713,
+              -3.991963
+            ],
+            [
+              -78.540087,
+              -3.961532
+            ],
+            [
+              -78.540087,
+              -3.961532
+            ],
+            [
+              -78.524505,
+              -3.937264
+            ],
+            [
+              -78.488669,
+              -3.933608
+            ],
+            [
+              -78.47742,
+              -3.867891
+            ],
+            [
+              -78.47742,
+              -3.867891
+            ],
+            [
+              -78.465332,
+              -3.826786
+            ],
+            [
+              -78.436,
+              -3.819118
+            ],
+            [
+              -78.409367,
+              -3.782391
+            ],
+            [
+              -78.402477,
+              -3.735388
+            ],
+            [
+              -78.41756,
+              -3.716232
+            ],
+            [
+              -78.41756,
+              -3.716232
+            ],
+            [
+              -78.422738,
+              -3.69089
+            ],
+            [
+              -78.397297,
+              -3.687155
+            ],
+            [
+              -78.400818,
+              -3.65041
+            ],
+            [
+              -78.38631,
+              -3.640099
+            ],
+            [
+              -78.38631,
+              -3.640099
+            ],
+            [
+              -78.399777,
+              -3.606204
+            ],
+            [
+              -78.391188,
+              -3.560102
+            ],
+            [
+              -78.367654,
+              -3.533588
+            ],
+            [
+              -78.367654,
+              -3.533588
+            ],
+            [
+              -78.364074,
+              -3.510495
+            ],
+            [
+              -78.364074,
+              -3.510495
+            ],
+            [
+              -78.341385,
+              -3.427103
+            ],
+            [
+              -78.356231,
+              -3.403558
+            ],
+            [
+              -78.356231,
+              -3.403558
+            ],
+            [
+              -78.349831,
+              -3.367933
+            ],
+            [
+              -78.349831,
+              -3.367933
+            ],
+            [
+              -78.287699,
+              -3.397658
+            ],
+            [
+              -78.287699,
+              -3.397658
+            ],
+            [
+              -78.244857,
+              -3.400836
+            ],
+            [
+              -78.230384,
+              -3.504309
+            ],
+            [
+              -78.230384,
+              -3.504309
+            ],
+            [
+              -78.21716,
+              -3.507384
+            ],
+            [
+              -78.21716,
+              -3.507384
+            ],
+            [
+              -78.148414,
+              -3.480211
+            ],
+            [
+              -78.154856,
+              -3.426557
+            ],
+            [
+              -78.180706,
+              -3.411279
+            ],
+            [
+              -78.198046,
+              -3.363873
+            ],
+            [
+              -78.120209,
+              -3.293086
+            ],
+            [
+              -78.120209,
+              -3.293086
+            ],
+            [
+              -78.090206,
+              -3.241222
+            ],
+            [
+              -78.091812,
+              -3.21636
+            ],
+            [
+              -78.064909,
+              -3.227392
+            ],
+            [
+              -78.033622,
+              -3.189645
+            ],
+            [
+              -78.033622,
+              -3.189645
+            ],
+            [
+              -78.010772,
+              -3.190622
+            ],
+            [
+              -78.011297,
+              -3.158505
+            ],
+            [
+              -77.944245,
+              -3.065669
+            ],
+            [
+              -77.944245,
+              -3.065669
+            ],
+            [
+              -77.839114,
+              -3.006764
+            ],
+            [
+              -77.839114,
+              -3.006764
+            ],
+            [
+              -77.843934,
+              -3.000373
+            ],
+            [
+              -77.843934,
+              -3.000373
+            ],
+            [
+              -77.812086,
+              -2.986074
+            ],
+            [
+              -77.812086,
+              -2.986074
+            ],
+            [
+              -77.712361,
+              -2.951935
+            ],
+            [
+              -77.712361,
+              -2.951935
+            ],
+            [
+              -77.573562,
+              -2.907708
+            ],
+            [
+              -77.573562,
+              -2.907708
+            ],
+            [
+              -77.414337,
+              -2.852212
+            ],
+            [
+              -77.414337,
+              -2.852212
+            ],
+            [
+              -77.174712,
+              -2.771567
+            ],
+            [
+              -77.174712,
+              -2.771567
+            ],
+            [
+              -77.024678,
+              -2.720597
+            ],
+            [
+              -77.024678,
+              -2.720597
+            ],
+            [
+              -76.692768,
+              -2.608951
+            ],
+            [
+              -76.692768,
+              -2.608951
+            ],
+            [
+              -76.687529,
+              -2.607382
+            ],
+            [
+              -76.687529,
+              -2.607382
+            ],
+            [
+              -76.621089,
+              -2.581871
+            ],
+            [
+              -76.621089,
+              -2.581871
+            ],
+            [
+              -76.533261,
+              -2.512451
+            ],
+            [
+              -76.533261,
+              -2.512451
+            ],
+            [
+              -76.312404,
+              -2.337572
+            ],
+            [
+              -76.312404,
+              -2.337572
+            ],
+            [
+              -76.044356,
+              -2.124938
+            ],
+            [
+              -75.933512,
+              -1.985917
+            ],
+            [
+              -75.933512,
+              -1.985917
+            ],
+            [
+              -75.853328,
+              -1.886523
+            ],
+            [
+              -75.853328,
+              -1.886523
+            ],
+            [
+              -75.778459,
+              -1.793768
+            ],
+            [
+              -75.778459,
+              -1.793768
+            ],
+            [
+              -75.61444,
+              -1.588365
+            ],
+            [
+              -75.61444,
+              -1.588365
+            ],
+            [
+              -75.584994,
+              -1.549618
+            ],
+            [
+              -75.584994,
+              -1.549618
+            ],
+            [
+              -75.581506,
+              -1.54784
+            ],
+            [
+              -75.581506,
+              -1.54784
+            ],
+            [
+              -75.562759,
+              -1.564247
+            ],
+            [
+              -75.556411,
+              -1.548822
+            ],
+            [
+              -75.556411,
+              -1.548822
+            ],
+            [
+              -75.448672,
+              -1.162255
+            ],
+            [
+              -75.448672,
+              -1.162255
+            ],
+            [
+              -75.417155,
+              -1.048705
+            ],
+            [
+              -75.417155,
+              -1.048705
+            ],
+            [
+              -75.386006,
+              -0.93752
+            ],
+            [
+              -75.386006,
+              -0.93752
+            ],
+            [
+              -75.379864,
+              -0.930931
+            ],
+            [
+              -75.379864,
+              -0.930931
+            ],
+            [
+              -75.313749,
+              -0.984452
+            ],
+            [
+              -75.25989,
+              -0.989107
+            ],
+            [
+              -75.192504,
+              -0.971293
+            ],
+            [
+              -75.192504,
+              -0.971293
+            ],
+            [
+              -75.233604,
+              -0.93184
+            ],
+            [
+              -75.233604,
+              -0.93184
+            ],
+            [
+              -75.223624,
+              -0.885499
+            ],
+            [
+              -75.223624,
+              -0.885499
+            ],
+            [
+              -75.222241,
+              -0.865913
+            ],
+            [
+              -75.246971,
+              -0.847054
+            ],
+            [
+              -75.242784,
+              -0.797377
+            ],
+            [
+              -75.268922,
+              -0.785991
+            ],
+            [
+              -75.253342,
+              -0.765279
+            ],
+            [
+              -75.277119,
+              -0.723555
+            ],
+            [
+              -75.247634,
+              -0.699731
+            ],
+            [
+              -75.273684,
+              -0.673791
+            ],
+            [
+              -75.262699,
+              -0.65467
+            ],
+            [
+              -75.262699,
+              -0.65467
+            ],
+            [
+              -75.246343,
+              -0.638975
+            ],
+            [
+              -75.231943,
+              -0.645936
+            ],
+            [
+              -75.231943,
+              -0.645936
+            ],
+            [
+              -75.223489,
+              -0.623603
+            ],
+            [
+              -75.240478,
+              -0.580502
+            ],
+            [
+              -75.224973,
+              -0.569549
+            ],
+            [
+              -75.22794,
+              -0.550304
+            ],
+            [
+              -75.244989,
+              -0.546362
+            ],
+            [
+              -75.241534,
+              -0.524474
+            ],
+            [
+              -75.241534,
+              -0.524474
+            ],
+            [
+              -75.250598,
+              -0.516978
+            ],
+            [
+              -75.265665,
+              -0.533604
+            ],
+            [
+              -75.26653,
+              -0.505991
+            ],
+            [
+              -75.312973,
+              -0.494676
+            ],
+            [
+              -75.325107,
+              -0.452707
+            ],
+            [
+              -75.349219,
+              -0.463605
+            ],
+            [
+              -75.385401,
+              -0.436814
+            ],
+            [
+              -75.462726,
+              -0.31841
+            ],
+            [
+              -75.462726,
+              -0.31841
+            ],
+            [
+              -75.481046,
+              -0.253211
+            ],
+            [
+              -75.481046,
+              -0.253211
+            ],
+            [
+              -75.530825,
+              -0.180892
+            ],
+            [
+              -75.610495,
+              -0.192602
+            ],
+            [
+              -75.610495,
+              -0.192602
+            ],
+            [
+              -75.61042,
+              -0.113391
+            ],
+            [
+              -75.61042,
+              -0.113391
+            ],
+            [
+              -75.600818,
+              -0.109863
+            ],
+            [
+              -75.600818,
+              -0.109863
+            ],
+            [
+              -75.593069,
+              -0.117925
+            ],
+            [
+              -75.593069,
+              -0.117925
+            ],
+            [
+              -75.568956,
+              -0.131836
+            ],
+            [
+              -75.516197,
+              -0.114358
+            ],
+            [
+              -75.406389,
+              -0.169952
+            ],
+            [
+              -75.368396,
+              -0.16328
+            ],
+            [
+              -75.364741,
+              -0.146061
+            ],
+            [
+              -75.3492,
+              -0.162761
+            ],
+            [
+              -75.3492,
+              -0.162761
+            ],
+            [
+              -75.289167,
+              -0.153798
+            ],
+            [
+              -75.258155,
+              -0.115998
+            ],
+            [
+              -75.258155,
+              -0.115998
+            ],
+            [
+              -75.273418,
+              -0.125137
+            ],
+            [
+              -75.351877,
+              -0.091517
+            ],
+            [
+              -75.395436,
+              -0.09701
+            ],
+            [
+              -75.530062,
+              -0.01972
+            ],
+            [
+              -75.56993,
+              -0.029032
+            ],
+            [
+              -75.581436,
+              -0.018805
+            ],
+            [
+              -75.581436,
+              -0.018805
+            ],
+            [
+              -75.581909,
+              0.014277
+            ],
+            [
+              -75.614735,
+              0.023988
+            ],
+            [
+              -75.614735,
+              0.023988
+            ],
+            [
+              -75.617271,
+              0.028868
+            ],
+            [
+              -75.617271,
+              0.028868
+            ],
+            [
+              -75.629797,
+              0.047636
+            ],
+            [
+              -75.629797,
+              0.047636
+            ],
+            [
+              -75.646276,
+              0.031114
+            ],
+            [
+              -75.667176,
+              0.04549
+            ],
+            [
+              -75.75254,
+              0.036936
+            ],
+            [
+              -75.806614,
+              0.05084
+            ],
+            [
+              -75.849872,
+              0.127745
+            ],
+            [
+              -75.861717,
+              0.134611
+            ],
+            [
+              -75.878275,
+              0.118397
+            ],
+            [
+              -75.881989,
+              0.138809
+            ],
+            [
+              -75.902729,
+              0.136796
+            ],
+            [
+              -75.897766,
+              0.162248
+            ],
+            [
+              -75.958239,
+              0.206798
+            ],
+            [
+              -75.959221,
+              0.238294
+            ],
+            [
+              -76.00543,
+              0.247925
+            ],
+            [
+              -75.982395,
+              0.256318
+            ],
+            [
+              -75.998094,
+              0.289199
+            ],
+            [
+              -76.056724,
+              0.333222
+            ],
+            [
+              -76.056724,
+              0.333222
+            ],
+            [
+              -76.082645,
+              0.33614
+            ],
+            [
+              -76.113372,
+              0.315884
+            ],
+            [
+              -76.14234,
+              0.376303
+            ],
+            [
+              -76.14234,
+              0.376303
+            ],
+            [
+              -76.158492,
+              0.388252
+            ],
+            [
+              -76.18135,
+              0.371673
+            ],
+            [
+              -76.208778,
+              0.386443
+            ],
+            [
+              -76.226437,
+              0.37683
+            ],
+            [
+              -76.23132,
+              0.401698
+            ],
+            [
+              -76.25743,
+              0.400949
+            ],
+            [
+              -76.278335,
+              0.43708
+            ],
+            [
+              -76.296879,
+              0.421222
+            ],
+            [
+              -76.31421,
+              0.433886
+            ],
+            [
+              -76.339841,
+              0.382987
+            ],
+            [
+              -76.369647,
+              0.394657
+            ],
+            [
+              -76.408303,
+              0.381257
+            ],
+            [
+              -76.408303,
+              0.381257
+            ],
+            [
+              -76.411079,
+              0.242311
+            ],
+            [
+              -76.411079,
+              0.242311
+            ],
+            [
+              -76.427007,
+              0.234402
+            ],
+            [
+              -76.436983,
+              0.257612
+            ],
+            [
+              -76.446771,
+              0.239446
+            ],
+            [
+              -76.50404,
+              0.236406
+            ],
+            [
+              -76.532835,
+              0.258652
+            ],
+            [
+              -76.589085,
+              0.219352
+            ],
+            [
+              -76.589085,
+              0.219352
+            ],
+            [
+              -76.625591,
+              0.261912
+            ],
+            [
+              -76.6411,
+              0.257752
+            ],
+            [
+              -76.6411,
+              0.257752
+            ],
+            [
+              -76.653151,
+              0.251075
+            ],
+            [
+              -76.655851,
+              0.270854
+            ],
+            [
+              -76.70114,
+              0.278867
+            ],
+            [
+              -76.713355,
+              0.269205
+            ],
+            [
+              -76.73295,
+              0.288619
+            ],
+            [
+              -76.766999,
+              0.264039
+            ],
+            [
+              -76.7517,
+              0.254536
+            ],
+            [
+              -76.768152,
+              0.243271
+            ],
+            [
+              -76.796475,
+              0.264463
+            ],
+            [
+              -76.843604,
+              0.239099
+            ],
+            [
+              -76.88926,
+              0.246077
+            ],
+            [
+              -76.88926,
+              0.246077
+            ],
+            [
+              -76.934867,
+              0.261213
+            ],
+            [
+              -76.933267,
+              0.276764
+            ],
+            [
+              -76.98518,
+              0.265838
+            ],
+            [
+              -76.98518,
+              0.265838
+            ],
+            [
+              -77.006692,
+              0.294349
+            ],
+            [
+              -77.027441,
+              0.277374
+            ],
+            [
+              -77.049519,
+              0.291115
+            ],
+            [
+              -77.049519,
+              0.291115
+            ],
+            [
+              -77.079184,
+              0.286794
+            ],
+            [
+              -77.112951,
+              0.371505
+            ],
+            [
+              -77.112951,
+              0.371505
+            ],
+            [
+              -77.1802,
+              0.390548
+            ],
+            [
+              -77.215599,
+              0.364327
+            ],
+            [
+              -77.215599,
+              0.364327
+            ],
+            [
+              -77.296618,
+              0.364789
+            ],
+            [
+              -77.371732,
+              0.401035
+            ],
+            [
+              -77.389305,
+              0.388094
+            ],
+            [
+              -77.389305,
+              0.388094
+            ],
+            [
+              -77.404655,
+              0.403909
+            ],
+            [
+              -77.404655,
+              0.403909
+            ],
+            [
+              -77.445277,
+              0.397736
+            ],
+            [
+              -77.445277,
+              0.397736
+            ],
+            [
+              -77.527615,
+              0.400145
+            ],
+            [
+              -77.527615,
+              0.400145
+            ],
+            [
+              -77.522417,
+              0.434336
+            ],
+            [
+              -77.522417,
+              0.434336
+            ],
+            [
+              -77.515534,
+              0.545207
+            ],
+            [
+              -77.515534,
+              0.545207
+            ],
+            [
+              -77.479998,
+              0.609732
+            ],
+            [
+              -77.480393,
+              0.656179
+            ],
+            [
+              -77.53035,
+              0.653297
+            ],
+            [
+              -77.53035,
+              0.653297
+            ],
+            [
+              -77.531832,
+              0.65307
+            ],
+            [
+              -77.531832,
+              0.65307
+            ],
+            [
+              -77.563423,
+              0.650626
+            ],
+            [
+              -77.654499,
+              0.705925
+            ],
+            [
+              -77.654499,
+              0.705925
+            ],
+            [
+              -77.660412,
+              0.70438
+            ],
+            [
+              -77.660412,
+              0.70438
+            ],
+            [
+              -77.673066,
+              0.735023
+            ],
+            [
+              -77.696884,
+              0.740403
+            ],
+            [
+              -77.696884,
+              0.740403
+            ],
+            [
+              -77.694591,
+              0.756275
+            ],
+            [
+              -77.694591,
+              0.756275
+            ],
+            [
+              -77.661238,
+              0.789941
+            ],
+            [
+              -77.661238,
+              0.789941
+            ],
+            [
+              -77.676496,
+              0.791024
+            ],
+            [
+              -77.676496,
+              0.791024
+            ],
+            [
+              -77.663955,
+              0.813276
+            ],
+            [
+              -77.663955,
+              0.813276
+            ],
+            [
+              -77.66383,
+              0.813592
+            ],
+            [
+              -77.66383,
+              0.813592
+            ],
+            [
+              -77.684584,
+              0.828436
+            ],
+            [
+              -77.684584,
+              0.828436
+            ],
+            [
+              -77.71353,
+              0.850905
+            ],
+            [
+              -77.746183,
+              0.83329
+            ],
+            [
+              -77.764133,
+              0.841974
+            ],
+            [
+              -77.764133,
+              0.841974
+            ],
+            [
+              -77.773306,
+              0.839696
+            ],
+            [
+              -77.773306,
+              0.839696
+            ],
+            [
+              -77.826853,
+              0.805087
+            ],
+            [
+              -77.876864,
+              0.804665
+            ],
+            [
+              -77.876864,
+              0.804665
+            ],
+            [
+              -77.925251,
+              0.815833
+            ],
+            [
+              -77.925251,
+              0.815833
+            ],
+            [
+              -77.936194,
+              0.816397
+            ],
+            [
+              -77.936194,
+              0.816397
+            ],
+            [
+              -78.001615,
+              0.858672
+            ],
+            [
+              -78.001615,
+              0.858672
+            ],
+            [
+              -78.088097,
+              0.896668
+            ],
+            [
+              -78.112181,
+              0.932284
+            ],
+            [
+              -78.139847,
+              0.933213
+            ],
+            [
+              -78.139847,
+              0.933213
+            ],
+            [
+              -78.152347,
+              0.924809
+            ],
+            [
+              -78.152347,
+              0.924809
+            ],
+            [
+              -78.199149,
+              0.947163
+            ],
+            [
+              -78.19208,
+              0.970016
+            ],
+            [
+              -78.209176,
+              1.00465
+            ],
+            [
+              -78.209176,
+              1.00465
+            ],
+            [
+              -78.234565,
+              1.01564
+            ],
+            [
+              -78.234565,
+              1.01564
+            ],
+            [
+              -78.281836,
+              1.056017
+            ],
+            [
+              -78.273847,
+              1.075163
+            ],
+            [
+              -78.252719,
+              1.078475
+            ],
+            [
+              -78.250783,
+              1.099297
+            ],
+            [
+              -78.282216,
+              1.111425
+            ],
+            [
+              -78.291163,
+              1.138266
+            ],
+            [
+              -78.291163,
+              1.138266
+            ],
+            [
+              -78.295549,
+              1.171237
+            ],
+            [
+              -78.324324,
+              1.195633
+            ],
+            [
+              -78.395209,
+              1.152564
+            ],
+            [
+              -78.418121,
+              1.15997
+            ],
+            [
+              -78.416081,
+              1.13897
+            ],
+            [
+              -78.416081,
+              1.13897
+            ],
+            [
+              -78.433428,
+              1.144371
+            ],
+            [
+              -78.425403,
+              1.17803
+            ],
+            [
+              -78.438169,
+              1.193919
+            ],
+            [
+              -78.455464,
+              1.175789
+            ],
+            [
+              -78.478689,
+              1.193705
+            ],
+            [
+              -78.508846,
+              1.188779
+            ],
+            [
+              -78.508846,
+              1.188779
+            ],
+            [
+              -78.514427,
+              1.213024
+            ],
+            [
+              -78.547574,
+              1.226202
+            ],
+            [
+              -78.550723,
+              1.243425
+            ],
+            [
+              -78.550723,
+              1.243425
+            ],
+            [
+              -78.580871,
+              1.242876
+            ],
+            [
+              -78.580871,
+              1.242876
+            ],
+            [
+              -78.62193,
+              1.251103
+            ],
+            [
+              -78.62193,
+              1.251103
+            ],
+            [
+              -78.648983,
+              1.277328
+            ],
+            [
+              -78.660956,
+              1.319659
+            ],
+            [
+              -78.694854,
+              1.330122
+            ],
+            [
+              -78.754941,
+              1.391638
+            ],
+            [
+              -78.774247,
+              1.390281
+            ],
+            [
+              -78.774247,
+              1.390281
+            ],
+            [
+              -78.792054,
+              1.406678
+            ],
+            [
+              -78.792054,
+              1.406678
+            ],
+            [
+              -78.808092,
+              1.428547
+            ],
+            [
+              -78.808092,
+              1.428547
+            ],
+            [
+              -78.814329,
+              1.430014
+            ],
+            [
+              -78.814329,
+              1.430014
+            ],
+            [
+              -78.868686,
+              1.469581
+            ],
+            [
+              -78.868686,
+              1.469581
+            ],
+            [
+              -79.173851,
+              1.469585
+            ],
+            [
+              -79.173851,
+              1.469585
+            ],
+            [
+              -79.236099,
+              1.469581
+            ],
+            [
+              -79.236099,
+              1.469581
+            ],
+            [
+              -79.370659,
+              1.469581
+            ],
+            [
+              -79.370659,
+              1.469581
+            ],
+            [
+              -79.41302,
+              1.469581
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "EC",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+        "name": "Ecuador",
+        "id": "EC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.934455,
+              -1.399891
+            ],
+            [
+              -90.785851,
+              -1.453739
+            ],
+            [
+              -90.785851,
+              -1.453739
+            ],
+            [
+              -90.479202,
+              -1.559654
+            ],
+            [
+              -89.591616,
+              -1.609036
+            ],
+            [
+              -89.52076,
+              -1.581341
+            ],
+            [
+              -89.467237,
+              -1.531568
+            ],
+            [
+              -89.265807,
+              -1.175502
+            ],
+            [
+              -89.265807,
+              -1.175502
+            ],
+            [
+              -89.059533,
+              -0.806978
+            ],
+            [
+              -89.038252,
+              -0.714983
+            ],
+            [
+              -89.06575,
+              -0.61505
+            ],
+            [
+              -89.276727,
+              -0.3001
+            ],
+            [
+              -89.276727,
+              -0.3001
+            ],
+            [
+              -89.794356,
+              0.47021
+            ],
+            [
+              -89.847989,
+              0.518724
+            ],
+            [
+              -89.922611,
+              0.55019
+            ],
+            [
+              -89.922611,
+              0.55019
+            ],
+            [
+              -90.376561,
+              0.714317
+            ],
+            [
+              -90.376561,
+              0.714317
+            ],
+            [
+              -90.662244,
+              0.817603
+            ],
+            [
+              -91.061161,
+              1.151706
+            ],
+            [
+              -91.061161,
+              1.151706
+            ],
+            [
+              -91.911171,
+              1.858708
+            ],
+            [
+              -91.983361,
+              1.882132
+            ],
+            [
+              -92.062093,
+              1.875939
+            ],
+            [
+              -92.12979,
+              1.841511
+            ],
+            [
+              -92.181438,
+              1.781397
+            ],
+            [
+              -92.204026,
+              1.718497
+            ],
+            [
+              -92.204859,
+              1.651622
+            ],
+            [
+              -91.848153,
+              -0.431083
+            ],
+            [
+              -91.677569,
+              -1.05615
+            ],
+            [
+              -91.637535,
+              -1.121106
+            ],
+            [
+              -91.576301,
+              -1.166317
+            ],
+            [
+              -90.97509,
+              -1.385166
+            ],
+            [
+              -90.97509,
+              -1.385166
+            ],
+            [
+              -90.934455,
+              -1.399891
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "EC",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+        "name": "Ecuador",
+        "id": "EC"
       }
     }
   ]

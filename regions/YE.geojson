@@ -3,2520 +3,1622 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.0567302,
-            16.7623121
-          ],
-          [
-            52.8122833,
-            17.2855306
-          ],
-          [
-            52.7458333,
-            17.2944444
-          ],
-          [
-            52.782175,
-            17.3497333
-          ],
-          [
-            52.0000004,
-            19.0
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.1088811,
-            16.6504417
-          ],
-          [
-            53.0567302,
-            16.7623121
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.1888457,
-            16.4649608
-          ],
-          [
-            53.1088811,
-            16.6504417
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.1888457,
-            16.4649608
-          ],
-          [
-            53.0375169,
-            16.4284441
-          ],
-          [
-            52.6074343,
-            16.2691419
-          ],
-          [
-            52.5000004,
-            16.1970114
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.5000004,
-            16.1970114
-          ],
-          [
-            52.41915,
-            16.099991
-          ],
-          [
-            52.3710439,
-            15.9695721
-          ],
-          [
-            52.407763,
-            15.8503179
-          ],
-          [
-            52.4069324,
-            15.745367
-          ],
-          [
-            52.4321485,
-            15.6202787
-          ],
-          [
-            52.3962523,
-            15.5203069
-          ],
-          [
-            52.3288499,
-            15.4567231
-          ],
-          [
-            52.0431322,
-            15.3480603
-          ],
-          [
-            51.9703237,
-            15.2776904
-          ],
-          [
-            51.8455938,
-            15.244173
-          ],
-          [
-            51.8060749,
-            15.194804
-          ],
-          [
-            51.7312596,
-            15.1497011
-          ],
-          [
-            51.5967887,
-            15.1281206
-          ],
-          [
-            51.4178326,
-            15.0405425
-          ],
-          [
-            50.8122688,
-            14.8865746
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.8122688,
-            14.8865746
-          ],
-          [
-            50.5526436,
-            14.8357762
-          ],
-          [
-            50.4325655,
-            14.7461782
-          ],
-          [
-            50.3389245,
-            14.7194171
-          ],
-          [
-            50.2494642,
-            14.6575015
-          ],
-          [
-            50.0416798,
-            14.6206495
-          ],
-          [
-            49.9427006,
-            14.6353669
-          ],
-          [
-            49.7087549,
-            14.5725823
-          ],
-          [
-            49.432919,
-            14.4592912
-          ],
-          [
-            49.3509592,
-            14.4145952
-          ],
-          [
-            49.276926,
-            14.338777
-          ],
-          [
-            49.2016368,
-            14.3118651
-          ],
-          [
-            49.1907472,
-            14.260115
-          ],
-          [
-            49.1475418,
-            14.1893082
-          ],
-          [
-            49.0347237,
-            14.0996137
-          ],
-          [
-            48.971518,
-            14.0222581
-          ],
-          [
-            48.8369377,
-            13.9044632
-          ],
-          [
-            48.7342941,
-            13.8506096
-          ],
-          [
-            48.6194981,
-            13.8471063
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            48.6194981,
-            13.8471063
-          ],
-          [
-            48.4984229,
-            13.7598383
-          ],
-          [
-            48.393802,
-            13.7280203
-          ],
-          [
-            48.3124998,
-            13.7411382
-          ],
-          [
-            48.2499359,
-            13.7765894
-          ],
-          [
-            48.1636633,
-            13.7696331
-          ],
-          [
-            48.1067485,
-            13.782582
-          ],
-          [
-            48.0185925,
-            13.8416319
-          ],
-          [
-            47.9073842,
-            13.7595875
-          ],
-          [
-            47.7862907,
-            13.7223477
-          ],
-          [
-            47.5840107,
-            13.5431449
-          ],
-          [
-            47.4828189,
-            13.474704
-          ],
-          [
-            47.1767473,
-            13.3925767
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.1767473,
-            13.3925767
-          ],
-          [
-            46.9956065,
-            13.3508114
-          ],
-          [
-            46.9241973,
-            13.3046415
-          ],
-          [
-            46.722665,
-            13.2276443
-          ],
-          [
-            46.6180726,
-            13.2356587
-          ],
-          [
-            46.4427282,
-            13.2023079
-          ],
-          [
-            46.2449317,
-            13.2300562
-          ],
-          [
-            46.0325219,
-            13.2176013
-          ],
-          [
-            45.7430089,
-            13.1586486
-          ],
-          [
-            45.5100066,
-            12.8995817
-          ],
-          [
-            45.4263059,
-            12.8598037
-          ],
-          [
-            45.2667612,
-            12.8246034
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.2667612,
-            12.8246034
-          ],
-          [
-            45.2342841,
-            12.6657533
-          ],
-          [
-            45.1876518,
-            12.6095578
-          ],
-          [
-            45.110934,
-            12.5671255
-          ],
-          [
-            44.8543338,
-            12.523644
-          ],
-          [
-            44.6671347,
-            12.536062
-          ],
-          [
-            44.5929629,
-            12.5643641
-          ],
-          [
-            44.5150297,
-            12.4934511
-          ],
-          [
-            44.3179093,
-            12.4319019
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.3179093,
-            12.4319019
-          ],
-          [
-            43.9119918,
-            12.3966085
-          ],
-          [
-            43.8381643,
-            12.4184776
-          ],
-          [
-            43.7378625,
-            12.4921453
-          ],
-          [
-            43.6407865,
-            12.5165943
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6364876,
-            12.5179506
-          ],
-          [
-            43.6407865,
-            12.5165943
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2978042,
-            12.7923081
-          ],
-          [
-            43.2729931,
-            12.6871291
-          ],
-          [
-            43.3204951,
-            12.5953329
-          ],
-          [
-            43.4305323,
-            12.552689
-          ],
-          [
-            43.5353801,
-            12.552389
-          ],
-          [
-            43.6364876,
-            12.5179506
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2327778,
-            12.9063889
-          ],
-          [
-            43.2978042,
-            12.7923081
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.0787686,
-            13.1336926
-          ],
-          [
-            43.2125,
-            12.9694444
-          ],
-          [
-            43.2327778,
-            12.9063889
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.0473573,
-            13.1853737
-          ],
-          [
-            43.0787686,
-            13.1336926
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.0473573,
-            13.1853737
-          ],
-          [
-            43.0288184,
-            13.234318
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.0288184,
-            13.234318
-          ],
-          [
-            43.0210082,
-            13.3218296
-          ],
-          [
-            43.0780412,
-            13.654944
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.0780412,
-            13.654944
-          ],
-          [
-            43.0402222,
-            13.7507862
-          ],
-          [
-            42.9687699,
-            13.5454513
-          ],
-          [
-            42.8338607,
-            13.4275198
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.5966782,
-            13.7410953
-          ],
-          [
-            42.6372222,
-            13.5975
-          ],
-          [
-            42.7236111,
-            13.4577778
-          ],
-          [
-            42.8338607,
-            13.4275198
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.5606739,
-            13.8377362
-          ],
-          [
-            42.5966782,
-            13.7410953
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.1764722,
-            16.6596667
-          ],
-          [
-            43.1286111,
-            16.6715278
-          ],
-          [
-            43.1444167,
-            16.6286389
-          ],
-          [
-            43.1245318,
-            16.5594132
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.1994253,
-            16.6507814
-          ],
-          [
-            43.1764722,
-            16.6596667
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2109431,
-            16.6473829
-          ],
-          [
-            43.1994253,
-            16.6507814
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.5135649,
-            14.1230172
-          ],
-          [
-            42.4775,
-            14.0608333
-          ],
-          [
-            42.5606739,
-            13.8377362
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.5258333,
-            14.1441667
-          ],
-          [
-            42.5135649,
-            14.1230172
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.5258333,
-            14.1441667
-          ],
-          [
-            42.664061,
-            14.2648955
-          ],
-          [
-            42.723044,
-            14.2841266
-          ],
-          [
-            42.83021,
-            14.2802104
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.83021,
-            14.2802104
-          ],
-          [
-            42.6984827,
-            14.5775419
-          ],
-          [
-            42.6938713,
-            14.652231
-          ],
-          [
-            42.7216154,
-            14.7312945
-          ],
-          [
-            42.6653725,
-            14.857468
-          ],
-          [
-            42.6680666,
-            14.9826797
-          ],
-          [
-            42.5115351,
-            14.9805478
-          ],
-          [
-            42.451251,
-            15.0083759
-          ],
-          [
-            42.4010294,
-            15.0556975
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.4010294,
-            15.0556975
-          ],
-          [
-            42.3827063,
-            14.9620125
-          ],
-          [
-            42.3231484,
-            14.8828962
-          ],
-          [
-            42.2476206,
-            14.8298236
-          ],
-          [
-            42.1514796,
-            14.8134599
-          ],
-          [
-            42.07463,
-            14.8315064
-          ],
-          [
-            42.0073213,
-            14.8746619
-          ],
-          [
-            41.9623466,
-            14.9374414
-          ],
-          [
-            41.8998769,
-            15.0809772
-          ],
-          [
-            41.8930426,
-            15.1770842
-          ],
-          [
-            41.9135084,
-            15.2478681
-          ],
-          [
-            41.9728063,
-            15.3259462
-          ],
-          [
-            42.0596331,
-            15.3699031
-          ],
-          [
-            42.1586216,
-            15.3713618
-          ],
-          [
-            42.2335162,
-            15.3389363
-          ],
-          [
-            42.3608015,
-            15.183907
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.3608015,
-            15.183907
-          ],
-          [
-            42.328508,
-            15.2843315
-          ],
-          [
-            42.2550224,
-            15.3283797
-          ],
-          [
-            42.1963505,
-            15.3964633
-          ],
-          [
-            42.1516772,
-            15.5240386
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.1516772,
-            15.5240386
-          ],
-          [
-            42.0821401,
-            15.6355053
-          ],
-          [
-            42.0756437,
-            15.7022825
-          ],
-          [
-            42.0966072,
-            15.7885016
-          ],
-          [
-            42.0774082,
-            15.8722766
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.0774082,
-            15.8722766
-          ],
-          [
-            42.0899864,
-            15.9408808
-          ],
-          [
-            42.1260423,
-            16.0007854
-          ],
-          [
-            42.0824401,
-            16.062761
-          ],
-          [
-            42.0669232,
-            16.1182145
-          ],
-          [
-            41.9671776,
-            16.0970326
-          ],
-          [
-            41.8648496,
-            16.1218878
-          ],
-          [
-            41.7871147,
-            16.191877
-          ],
-          [
-            41.7557172,
-            16.29
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.7557172,
-            16.29
-          ],
-          [
-            42.15,
-            16.4041111
-          ],
-          [
-            42.7721389,
-            16.4041111
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            42.9564722,
-            16.4021389
-          ],
-          [
-            42.8306111,
-            16.3795278
-          ],
-          [
-            42.7721389,
-            16.4041111
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.1245318,
-            16.5594132
-          ],
-          [
-            43.1207222,
-            16.5285833
-          ],
-          [
-            42.9921667,
-            16.5216944
-          ],
-          [
-            42.9503056,
-            16.4969722
-          ],
-          [
-            42.9379722,
-            16.4507222
-          ],
-          [
-            42.9564722,
-            16.4021389
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2347222,
-            16.6428333
-          ],
-          [
-            43.2109431,
-            16.6473829
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2226999,
-            16.8317869
-          ],
-          [
-            43.2325556,
-            16.8069444
-          ],
-          [
-            43.2666111,
-            16.7949444
-          ],
-          [
-            43.2530556,
-            16.7697222
-          ],
-          [
-            43.2754722,
-            16.7468611
-          ],
-          [
-            43.2263056,
-            16.7458889
-          ],
-          [
-            43.2116667,
-            16.7096944
-          ],
-          [
-            43.2276389,
-            16.7019444
-          ],
-          [
-            43.2347222,
-            16.6428333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2212963,
-            16.8382216
-          ],
-          [
-            43.2226999,
-            16.8317869
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.139456,
-            16.9020712
-          ],
-          [
-            43.1799722,
-            16.8490556
-          ],
-          [
-            43.2212963,
-            16.8382216
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.1375,
-            16.9105833
-          ],
-          [
-            43.139456,
-            16.9020712
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.1946667,
-            16.9445278
-          ],
-          [
-            43.1375,
-            16.9105833
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2408307,
-            17.0272888
-          ],
-          [
-            43.2027222,
-            17.0100833
-          ],
-          [
-            43.1792222,
-            17.0258333
-          ],
-          [
-            43.1780556,
-            16.9633333
-          ],
-          [
-            43.1946667,
-            16.9445278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2307837,
-            17.0645089
-          ],
-          [
-            43.2408307,
-            17.0272888
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.1708333,
-            17.1726667
-          ],
-          [
-            43.1778889,
-            17.1307222
-          ],
-          [
-            43.1580278,
-            17.1140556
-          ],
-          [
-            43.1601667,
-            17.0869722
-          ],
-          [
-            43.1852778,
-            17.0986111
-          ],
-          [
-            43.2307837,
-            17.0645089
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2151859,
-            17.2126498
-          ],
-          [
-            43.1708333,
-            17.1726667
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.3364999,
-            17.3040003
-          ],
-          [
-            43.2672222,
-            17.2922222
-          ],
-          [
-            43.2017222,
-            17.2588056
-          ],
-          [
-            43.2151859,
-            17.2126498
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.2564683,
-            17.4578029
-          ],
-          [
-            43.2255,
-            17.4261667
-          ],
-          [
-            43.2470556,
-            17.4015
-          ],
-          [
-            43.2280278,
-            17.3855278
-          ],
-          [
-            43.326,
-            17.3283611
-          ],
-          [
-            43.3364999,
-            17.3040003
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.3031293,
-            17.5284313
-          ],
-          [
-            43.24075,
-            17.4805278
-          ],
-          [
-            43.2564683,
-            17.4578029
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.3209306,
-            17.5327428
-          ],
-          [
-            43.3031293,
-            17.5284313
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.3544292,
-            17.5560987
-          ],
-          [
-            43.3209306,
-            17.5327428
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6178056,
-            17.4261111
-          ],
-          [
-            43.4846389,
-            17.5451111
-          ],
-          [
-            43.4196111,
-            17.5658333
-          ],
-          [
-            43.3755556,
-            17.544
-          ],
-          [
-            43.3544292,
-            17.5560987
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.680026,
-            17.3696344
-          ],
-          [
-            43.6178056,
-            17.4261111
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.7204387,
-            17.3700006
-          ],
-          [
-            43.680026,
-            17.3696344
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.9054665,
-            17.3416635
-          ],
-          [
-            43.8319444,
-            17.3388889
-          ],
-          [
-            43.7888948,
-            17.3749999
-          ],
-          [
-            43.7204387,
-            17.3700006
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.3345516,
-            17.4296009
-          ],
-          [
-            44.1380556,
-            17.4088889
-          ],
-          [
-            44.1108333,
-            17.3663889
-          ],
-          [
-            44.0666667,
-            17.4058333
-          ],
-          [
-            44.0232778,
-            17.3913056
-          ],
-          [
-            44.0113611,
-            17.4024722
-          ],
-          [
-            43.9666667,
-            17.3305556
-          ],
-          [
-            43.9054665,
-            17.3416635
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.3661111,
-            17.4333333
-          ],
-          [
-            44.3345516,
-            17.4296009
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.8884903,
-            17.4350131
-          ],
-          [
-            44.6500068,
-            17.4343362
-          ],
-          [
-            44.5666667,
-            17.4055556
-          ],
-          [
-            44.4666667,
-            17.4333333
-          ],
-          [
-            44.3661111,
-            17.4333333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.3824615,
-            17.2353935
-          ],
-          [
-            46.1,
-            17.25
-          ],
-          [
-            45.4,
-            17.3333333
-          ],
-          [
-            45.2166667,
-            17.4333333
-          ],
-          [
-            44.8884903,
-            17.4350131
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.9949288,
-            16.9567675
-          ],
-          [
-            46.75,
-            17.2833333
-          ],
-          [
-            46.3824615,
-            17.2353935
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.0,
-            16.95
-          ],
-          [
-            46.9949288,
-            16.9567675
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            47.4666667,
-            17.1166667
-          ],
-          [
-            47.1833333,
-            16.95
-          ],
-          [
-            47.0,
-            16.95
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            48.588208,
-            18.3614142
-          ],
-          [
-            48.1833333,
-            18.1666667
-          ],
-          [
-            47.6000003,
-            17.4499994
-          ],
-          [
-            47.4666667,
-            17.1166667
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            49.8339443,
-            18.6908068
-          ],
-          [
-            49.1166667,
-            18.6166667
-          ],
-          [
-            48.588208,
-            18.3614142
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            50.3884468,
-            18.7480998
-          ],
-          [
-            49.8339443,
-            18.6908068
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.0000004,
-            19.0
-          ],
-          [
-            50.7833333,
-            18.7888889
-          ],
-          [
-            50.3884468,
-            18.7480998
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.5000001,
-            11.9956628
-          ],
-          [
-            52.4227749,
-            11.9602963
-          ],
-          [
-            52.2997207,
-            11.9485908
-          ],
-          [
-            52.0889005,
-            11.9966543
-          ],
-          [
-            52.0033197,
-            12.0296265
-          ],
-          [
-            51.917316,
-            12.0865103
-          ],
-          [
-            51.8734098,
-            12.1517213
-          ],
-          [
-            51.8584658,
-            12.2234591
-          ],
-          [
-            51.8856948,
-            12.3369091
-          ],
-          [
-            51.9329175,
-            12.3914264
-          ],
-          [
-            51.9287079,
-            12.4634606
-          ],
-          [
-            51.9542495,
-            12.5369898
-          ],
-          [
-            52.022426,
-            12.6091095
-          ],
-          [
-            52.0962947,
-            12.6386281
-          ],
-          [
-            52.1949863,
-            12.6347106
-          ],
-          [
-            52.2823218,
-            12.5863874
-          ],
-          [
-            52.3375001,
-            12.498462
-          ],
-          [
-            52.3405936,
-            12.395845
-          ],
-          [
-            52.4308087,
-            12.3942928
-          ],
-          [
-            52.5,
-            12.3677835
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.5,
-            12.3677835
-          ],
-          [
-            52.5655122,
-            12.3057772
-          ],
-          [
-            52.5987641,
-            12.197749
-          ],
-          [
-            52.560307,
-            12.0647391
-          ],
-          [
-            52.5000001,
-            11.9956628
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.5114246,
-            12.1431712
-          ],
-          [
-            53.5074806,
-            12.0603823
-          ],
-          [
-            53.4593692,
-            11.9749876
-          ],
-          [
-            53.3828181,
-            11.923505
-          ],
-          [
-            53.2888269,
-            11.9090133
-          ],
-          [
-            53.1575917,
-            11.9395637
-          ],
-          [
-            53.0413454,
-            11.9233207
-          ],
-          [
-            52.9405355,
-            11.9590258
-          ],
-          [
-            52.8216556,
-            12.037596
-          ],
-          [
-            52.782664,
-            12.1064578
-          ],
-          [
-            52.7734399,
-            12.1784502
-          ],
-          [
-            52.7917421,
-            12.2502344
-          ],
-          [
-            52.8309568,
-            12.3061051
-          ],
-          [
-            52.9482387,
-            12.3693557
-          ],
-          [
-            53.1016471,
-            12.37253
-          ],
-          [
-            53.2124678,
-            12.3201872
-          ],
-          [
-            53.2523889,
-            12.3271645
-          ],
-          [
-            53.1722052,
-            12.3795936
-          ],
-          [
-            53.1257978,
-            12.4377469
-          ],
-          [
-            53.0248915,
-            12.4819996
-          ],
-          [
-            52.9749072,
-            12.542702
-          ],
-          [
-            52.9552898,
-            12.5977746
-          ],
-          [
-            52.9553945,
-            12.6737083
-          ],
-          [
-            52.9856753,
-            12.7463609
-          ],
-          [
-            53.0208402,
-            12.7867807
-          ],
-          [
-            53.0777317,
-            12.8222626
-          ],
-          [
-            53.1566114,
-            12.8384963
-          ],
-          [
-            53.2660384,
-            12.8075575
-          ],
-          [
-            53.4117464,
-            12.8921938
-          ],
-          [
-            53.4696263,
-            12.9095312
-          ],
-          [
-            53.6173631,
-            12.9004017
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.6173631,
-            12.9004017
-          ],
-          [
-            53.723501,
-            12.8880971
-          ],
-          [
-            53.8120368,
-            12.8312733
-          ],
-          [
-            53.9507662,
-            12.8477684
-          ],
-          [
-            54.0004579,
-            12.8807645
-          ],
-          [
-            54.0792806,
-            12.9011755
-          ],
-          [
-            54.2821338,
-            12.8571683
-          ],
-          [
-            54.3781046,
-            12.8035553
-          ],
-          [
-            54.6500831,
-            12.716509
-          ],
-          [
-            54.7210072,
-            12.6297368
-          ],
-          [
-            54.7373652,
-            12.5172396
-          ],
-          [
-            54.702591,
-            12.4288041
-          ],
-          [
-            54.6467465,
-            12.3755262
-          ],
-          [
-            54.4969927,
-            12.2856448
-          ],
-          [
-            54.3595295,
-            12.2488297
-          ],
-          [
-            54.2073477,
-            12.1630952
-          ],
-          [
-            54.0392261,
-            12.1309487
-          ],
-          [
-            53.7287521,
-            12.1017739
-          ],
-          [
-            53.6342713,
-            12.1094461
-          ],
-          [
-            53.5114246,
-            12.1431712
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "YE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
-        "name": "\u0627\u0644\u064a\u0645\u0646"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            41.8982591,
-            15.3356966
-          ],
-          [
-            41.8079643,
-            15.3244958
-          ],
-          [
-            41.736675,
-            15.3426669
-          ],
-          [
-            41.6677644,
-            15.3904516
-          ],
-          [
-            41.6189302,
-            15.4706576
-          ],
-          [
-            41.60825,
-            15.542463
-          ],
-          [
-            41.6251886,
-            15.6194672
-          ],
-          [
-            41.6891875,
-            15.7030891
-          ],
-          [
-            41.7714406,
-            15.7471088
-          ],
-          [
-            41.8598618,
-            15.7563397
-          ],
-          [
-            41.9550877,
-            15.7259624
-          ],
-          [
-            42.0123319,
-            15.6770532
-          ],
-          [
-            42.0522156,
-            15.5987429
-          ],
-          [
-            42.0561676,
-            15.5103767
-          ],
-          [
-            42.0338123,
-            15.4424808
-          ],
-          [
-            41.975327,
-            15.3742495
-          ],
-          [
-            41.8982591,
-            15.3356966
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.0,
+              19.0
+            ],
+            [
+              50.783333,
+              18.788889
+            ],
+            [
+              50.388447,
+              18.7481
+            ],
+            [
+              50.388447,
+              18.7481
+            ],
+            [
+              49.833944,
+              18.690807
+            ],
+            [
+              49.833944,
+              18.690807
+            ],
+            [
+              49.116667,
+              18.616667
+            ],
+            [
+              48.588208,
+              18.361414
+            ],
+            [
+              48.588208,
+              18.361414
+            ],
+            [
+              48.183333,
+              18.166667
+            ],
+            [
+              47.6,
+              17.449999
+            ],
+            [
+              47.466667,
+              17.116667
+            ],
+            [
+              47.466667,
+              17.116667
+            ],
+            [
+              47.183333,
+              16.95
+            ],
+            [
+              47.0,
+              16.95
+            ],
+            [
+              47.0,
+              16.95
+            ],
+            [
+              46.994929,
+              16.956768
+            ],
+            [
+              46.994929,
+              16.956768
+            ],
+            [
+              46.75,
+              17.283333
+            ],
+            [
+              46.382461,
+              17.235394
+            ],
+            [
+              46.382461,
+              17.235394
+            ],
+            [
+              46.1,
+              17.25
+            ],
+            [
+              45.4,
+              17.333333
+            ],
+            [
+              45.216667,
+              17.433333
+            ],
+            [
+              44.88849,
+              17.435013
+            ],
+            [
+              44.88849,
+              17.435013
+            ],
+            [
+              44.650007,
+              17.434336
+            ],
+            [
+              44.566667,
+              17.405556
+            ],
+            [
+              44.466667,
+              17.433333
+            ],
+            [
+              44.366111,
+              17.433333
+            ],
+            [
+              44.366111,
+              17.433333
+            ],
+            [
+              44.334552,
+              17.429601
+            ],
+            [
+              44.334552,
+              17.429601
+            ],
+            [
+              44.138056,
+              17.408889
+            ],
+            [
+              44.110833,
+              17.366389
+            ],
+            [
+              44.066667,
+              17.405833
+            ],
+            [
+              44.023278,
+              17.391306
+            ],
+            [
+              44.011361,
+              17.402472
+            ],
+            [
+              43.966667,
+              17.330556
+            ],
+            [
+              43.905467,
+              17.341663
+            ],
+            [
+              43.905467,
+              17.341663
+            ],
+            [
+              43.831944,
+              17.338889
+            ],
+            [
+              43.788895,
+              17.375
+            ],
+            [
+              43.720439,
+              17.370001
+            ],
+            [
+              43.720439,
+              17.370001
+            ],
+            [
+              43.680026,
+              17.369634
+            ],
+            [
+              43.680026,
+              17.369634
+            ],
+            [
+              43.617806,
+              17.426111
+            ],
+            [
+              43.617806,
+              17.426111
+            ],
+            [
+              43.484639,
+              17.545111
+            ],
+            [
+              43.419611,
+              17.565833
+            ],
+            [
+              43.375556,
+              17.544
+            ],
+            [
+              43.354429,
+              17.556099
+            ],
+            [
+              43.354429,
+              17.556099
+            ],
+            [
+              43.320931,
+              17.532743
+            ],
+            [
+              43.320931,
+              17.532743
+            ],
+            [
+              43.303129,
+              17.528431
+            ],
+            [
+              43.303129,
+              17.528431
+            ],
+            [
+              43.24075,
+              17.480528
+            ],
+            [
+              43.256468,
+              17.457803
+            ],
+            [
+              43.256468,
+              17.457803
+            ],
+            [
+              43.2255,
+              17.426167
+            ],
+            [
+              43.247056,
+              17.4015
+            ],
+            [
+              43.228028,
+              17.385528
+            ],
+            [
+              43.326,
+              17.328361
+            ],
+            [
+              43.3365,
+              17.304
+            ],
+            [
+              43.3365,
+              17.304
+            ],
+            [
+              43.267222,
+              17.292222
+            ],
+            [
+              43.201722,
+              17.258806
+            ],
+            [
+              43.215186,
+              17.21265
+            ],
+            [
+              43.215186,
+              17.21265
+            ],
+            [
+              43.170833,
+              17.172667
+            ],
+            [
+              43.170833,
+              17.172667
+            ],
+            [
+              43.177889,
+              17.130722
+            ],
+            [
+              43.158028,
+              17.114056
+            ],
+            [
+              43.160167,
+              17.086972
+            ],
+            [
+              43.185278,
+              17.098611
+            ],
+            [
+              43.230784,
+              17.064509
+            ],
+            [
+              43.230784,
+              17.064509
+            ],
+            [
+              43.240831,
+              17.027289
+            ],
+            [
+              43.240831,
+              17.027289
+            ],
+            [
+              43.202722,
+              17.010083
+            ],
+            [
+              43.179222,
+              17.025833
+            ],
+            [
+              43.178056,
+              16.963333
+            ],
+            [
+              43.194667,
+              16.944528
+            ],
+            [
+              43.194667,
+              16.944528
+            ],
+            [
+              43.1375,
+              16.910583
+            ],
+            [
+              43.1375,
+              16.910583
+            ],
+            [
+              43.139456,
+              16.902071
+            ],
+            [
+              43.139456,
+              16.902071
+            ],
+            [
+              43.179972,
+              16.849056
+            ],
+            [
+              43.221296,
+              16.838222
+            ],
+            [
+              43.221296,
+              16.838222
+            ],
+            [
+              43.2227,
+              16.831787
+            ],
+            [
+              43.2227,
+              16.831787
+            ],
+            [
+              43.232556,
+              16.806944
+            ],
+            [
+              43.266611,
+              16.794944
+            ],
+            [
+              43.253056,
+              16.769722
+            ],
+            [
+              43.275472,
+              16.746861
+            ],
+            [
+              43.226306,
+              16.745889
+            ],
+            [
+              43.211667,
+              16.709694
+            ],
+            [
+              43.227639,
+              16.701944
+            ],
+            [
+              43.234722,
+              16.642833
+            ],
+            [
+              43.234722,
+              16.642833
+            ],
+            [
+              43.210943,
+              16.647383
+            ],
+            [
+              43.210943,
+              16.647383
+            ],
+            [
+              43.199425,
+              16.650781
+            ],
+            [
+              43.199425,
+              16.650781
+            ],
+            [
+              43.176472,
+              16.659667
+            ],
+            [
+              43.176472,
+              16.659667
+            ],
+            [
+              43.128611,
+              16.671528
+            ],
+            [
+              43.144417,
+              16.628639
+            ],
+            [
+              43.124532,
+              16.559413
+            ],
+            [
+              43.124532,
+              16.559413
+            ],
+            [
+              43.120722,
+              16.528583
+            ],
+            [
+              42.992167,
+              16.521694
+            ],
+            [
+              42.950306,
+              16.496972
+            ],
+            [
+              42.937972,
+              16.450722
+            ],
+            [
+              42.956472,
+              16.402139
+            ],
+            [
+              42.956472,
+              16.402139
+            ],
+            [
+              42.830611,
+              16.379528
+            ],
+            [
+              42.772139,
+              16.404111
+            ],
+            [
+              42.772139,
+              16.404111
+            ],
+            [
+              42.15,
+              16.404111
+            ],
+            [
+              41.755717,
+              16.29
+            ],
+            [
+              41.755717,
+              16.29
+            ],
+            [
+              41.787115,
+              16.191877
+            ],
+            [
+              41.86485,
+              16.121888
+            ],
+            [
+              41.967178,
+              16.097033
+            ],
+            [
+              42.066923,
+              16.118215
+            ],
+            [
+              42.08244,
+              16.062761
+            ],
+            [
+              42.126042,
+              16.000785
+            ],
+            [
+              42.089986,
+              15.940881
+            ],
+            [
+              42.077408,
+              15.872277
+            ],
+            [
+              42.077408,
+              15.872277
+            ],
+            [
+              42.096607,
+              15.788502
+            ],
+            [
+              42.075644,
+              15.702283
+            ],
+            [
+              42.08214,
+              15.635505
+            ],
+            [
+              42.151677,
+              15.524039
+            ],
+            [
+              42.151677,
+              15.524039
+            ],
+            [
+              42.196351,
+              15.396463
+            ],
+            [
+              42.255022,
+              15.32838
+            ],
+            [
+              42.328508,
+              15.284332
+            ],
+            [
+              42.360802,
+              15.183907
+            ],
+            [
+              42.360802,
+              15.183907
+            ],
+            [
+              42.233516,
+              15.338936
+            ],
+            [
+              42.158622,
+              15.371362
+            ],
+            [
+              42.059633,
+              15.369903
+            ],
+            [
+              41.972806,
+              15.325946
+            ],
+            [
+              41.913508,
+              15.247868
+            ],
+            [
+              41.893043,
+              15.177084
+            ],
+            [
+              41.899877,
+              15.080977
+            ],
+            [
+              41.962347,
+              14.937441
+            ],
+            [
+              42.007321,
+              14.874662
+            ],
+            [
+              42.07463,
+              14.831506
+            ],
+            [
+              42.15148,
+              14.81346
+            ],
+            [
+              42.247621,
+              14.829824
+            ],
+            [
+              42.323148,
+              14.882896
+            ],
+            [
+              42.382706,
+              14.962013
+            ],
+            [
+              42.401029,
+              15.055698
+            ],
+            [
+              42.401029,
+              15.055698
+            ],
+            [
+              42.451251,
+              15.008376
+            ],
+            [
+              42.511535,
+              14.980548
+            ],
+            [
+              42.668067,
+              14.98268
+            ],
+            [
+              42.665372,
+              14.857468
+            ],
+            [
+              42.721615,
+              14.731295
+            ],
+            [
+              42.693871,
+              14.652231
+            ],
+            [
+              42.698483,
+              14.577542
+            ],
+            [
+              42.83021,
+              14.28021
+            ],
+            [
+              42.83021,
+              14.28021
+            ],
+            [
+              42.723044,
+              14.284127
+            ],
+            [
+              42.664061,
+              14.264895
+            ],
+            [
+              42.525833,
+              14.144167
+            ],
+            [
+              42.525833,
+              14.144167
+            ],
+            [
+              42.513565,
+              14.123017
+            ],
+            [
+              42.513565,
+              14.123017
+            ],
+            [
+              42.4775,
+              14.060833
+            ],
+            [
+              42.560674,
+              13.837736
+            ],
+            [
+              42.560674,
+              13.837736
+            ],
+            [
+              42.596678,
+              13.741095
+            ],
+            [
+              42.596678,
+              13.741095
+            ],
+            [
+              42.637222,
+              13.5975
+            ],
+            [
+              42.723611,
+              13.457778
+            ],
+            [
+              42.833861,
+              13.42752
+            ],
+            [
+              42.833861,
+              13.42752
+            ],
+            [
+              42.96877,
+              13.545451
+            ],
+            [
+              43.040222,
+              13.750786
+            ],
+            [
+              43.078041,
+              13.654944
+            ],
+            [
+              43.078041,
+              13.654944
+            ],
+            [
+              43.021008,
+              13.32183
+            ],
+            [
+              43.028818,
+              13.234318
+            ],
+            [
+              43.028818,
+              13.234318
+            ],
+            [
+              43.047357,
+              13.185374
+            ],
+            [
+              43.047357,
+              13.185374
+            ],
+            [
+              43.078769,
+              13.133693
+            ],
+            [
+              43.078769,
+              13.133693
+            ],
+            [
+              43.2125,
+              12.969444
+            ],
+            [
+              43.232778,
+              12.906389
+            ],
+            [
+              43.232778,
+              12.906389
+            ],
+            [
+              43.297804,
+              12.792308
+            ],
+            [
+              43.297804,
+              12.792308
+            ],
+            [
+              43.272993,
+              12.687129
+            ],
+            [
+              43.320495,
+              12.595333
+            ],
+            [
+              43.430532,
+              12.552689
+            ],
+            [
+              43.53538,
+              12.552389
+            ],
+            [
+              43.636488,
+              12.517951
+            ],
+            [
+              43.636488,
+              12.517951
+            ],
+            [
+              43.640786,
+              12.516594
+            ],
+            [
+              43.640786,
+              12.516594
+            ],
+            [
+              43.737862,
+              12.492145
+            ],
+            [
+              43.838164,
+              12.418478
+            ],
+            [
+              43.911992,
+              12.396608
+            ],
+            [
+              44.317909,
+              12.431902
+            ],
+            [
+              44.317909,
+              12.431902
+            ],
+            [
+              44.51503,
+              12.493451
+            ],
+            [
+              44.592963,
+              12.564364
+            ],
+            [
+              44.667135,
+              12.536062
+            ],
+            [
+              44.854334,
+              12.523644
+            ],
+            [
+              45.110934,
+              12.567125
+            ],
+            [
+              45.187652,
+              12.609558
+            ],
+            [
+              45.234284,
+              12.665753
+            ],
+            [
+              45.266761,
+              12.824603
+            ],
+            [
+              45.266761,
+              12.824603
+            ],
+            [
+              45.426306,
+              12.859804
+            ],
+            [
+              45.510007,
+              12.899582
+            ],
+            [
+              45.743009,
+              13.158649
+            ],
+            [
+              46.032522,
+              13.217601
+            ],
+            [
+              46.244932,
+              13.230056
+            ],
+            [
+              46.442728,
+              13.202308
+            ],
+            [
+              46.618073,
+              13.235659
+            ],
+            [
+              46.722665,
+              13.227644
+            ],
+            [
+              46.924197,
+              13.304642
+            ],
+            [
+              46.995607,
+              13.350811
+            ],
+            [
+              47.176747,
+              13.392577
+            ],
+            [
+              47.176747,
+              13.392577
+            ],
+            [
+              47.482819,
+              13.474704
+            ],
+            [
+              47.584011,
+              13.543145
+            ],
+            [
+              47.786291,
+              13.722348
+            ],
+            [
+              47.907384,
+              13.759588
+            ],
+            [
+              48.018592,
+              13.841632
+            ],
+            [
+              48.106749,
+              13.782582
+            ],
+            [
+              48.163663,
+              13.769633
+            ],
+            [
+              48.249936,
+              13.776589
+            ],
+            [
+              48.3125,
+              13.741138
+            ],
+            [
+              48.393802,
+              13.72802
+            ],
+            [
+              48.498423,
+              13.759838
+            ],
+            [
+              48.619498,
+              13.847106
+            ],
+            [
+              48.619498,
+              13.847106
+            ],
+            [
+              48.734294,
+              13.85061
+            ],
+            [
+              48.836938,
+              13.904463
+            ],
+            [
+              48.971518,
+              14.022258
+            ],
+            [
+              49.034724,
+              14.099614
+            ],
+            [
+              49.147542,
+              14.189308
+            ],
+            [
+              49.190747,
+              14.260115
+            ],
+            [
+              49.201637,
+              14.311865
+            ],
+            [
+              49.276926,
+              14.338777
+            ],
+            [
+              49.350959,
+              14.414595
+            ],
+            [
+              49.432919,
+              14.459291
+            ],
+            [
+              49.708755,
+              14.572582
+            ],
+            [
+              49.942701,
+              14.635367
+            ],
+            [
+              50.04168,
+              14.62065
+            ],
+            [
+              50.249464,
+              14.657502
+            ],
+            [
+              50.338924,
+              14.719417
+            ],
+            [
+              50.432566,
+              14.746178
+            ],
+            [
+              50.552644,
+              14.835776
+            ],
+            [
+              50.812269,
+              14.886575
+            ],
+            [
+              50.812269,
+              14.886575
+            ],
+            [
+              51.417833,
+              15.040543
+            ],
+            [
+              51.596789,
+              15.128121
+            ],
+            [
+              51.73126,
+              15.149701
+            ],
+            [
+              51.806075,
+              15.194804
+            ],
+            [
+              51.845594,
+              15.244173
+            ],
+            [
+              51.970324,
+              15.27769
+            ],
+            [
+              52.043132,
+              15.34806
+            ],
+            [
+              52.32885,
+              15.456723
+            ],
+            [
+              52.396252,
+              15.520307
+            ],
+            [
+              52.432148,
+              15.620279
+            ],
+            [
+              52.406932,
+              15.745367
+            ],
+            [
+              52.407763,
+              15.850318
+            ],
+            [
+              52.371044,
+              15.969572
+            ],
+            [
+              52.41915,
+              16.099991
+            ],
+            [
+              52.5,
+              16.197011
+            ],
+            [
+              52.5,
+              16.197011
+            ],
+            [
+              52.607434,
+              16.269142
+            ],
+            [
+              53.037517,
+              16.428444
+            ],
+            [
+              53.188846,
+              16.464961
+            ],
+            [
+              53.188846,
+              16.464961
+            ],
+            [
+              53.108881,
+              16.650442
+            ],
+            [
+              53.108881,
+              16.650442
+            ],
+            [
+              53.05673,
+              16.762312
+            ],
+            [
+              53.05673,
+              16.762312
+            ],
+            [
+              52.812283,
+              17.285531
+            ],
+            [
+              52.745833,
+              17.294444
+            ],
+            [
+              52.782175,
+              17.349733
+            ],
+            [
+              52.0,
+              19.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "YE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+        "name": "\u0627\u0644\u064a\u0645\u0646",
+        "id": "YE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.5,
+              12.367783
+            ],
+            [
+              52.565512,
+              12.305777
+            ],
+            [
+              52.598764,
+              12.197749
+            ],
+            [
+              52.560307,
+              12.064739
+            ],
+            [
+              52.5,
+              11.995663
+            ],
+            [
+              52.5,
+              11.995663
+            ],
+            [
+              52.422775,
+              11.960296
+            ],
+            [
+              52.299721,
+              11.948591
+            ],
+            [
+              52.088901,
+              11.996654
+            ],
+            [
+              52.00332,
+              12.029626
+            ],
+            [
+              51.917316,
+              12.08651
+            ],
+            [
+              51.87341,
+              12.151721
+            ],
+            [
+              51.858466,
+              12.223459
+            ],
+            [
+              51.885695,
+              12.336909
+            ],
+            [
+              51.932918,
+              12.391426
+            ],
+            [
+              51.928708,
+              12.463461
+            ],
+            [
+              51.95425,
+              12.53699
+            ],
+            [
+              52.022426,
+              12.60911
+            ],
+            [
+              52.096295,
+              12.638628
+            ],
+            [
+              52.194986,
+              12.634711
+            ],
+            [
+              52.282322,
+              12.586387
+            ],
+            [
+              52.3375,
+              12.498462
+            ],
+            [
+              52.340594,
+              12.395845
+            ],
+            [
+              52.430809,
+              12.394293
+            ],
+            [
+              52.5,
+              12.367783
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "YE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+        "name": "\u0627\u0644\u064a\u0645\u0646",
+        "id": "YE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              53.617363,
+              12.900402
+            ],
+            [
+              53.723501,
+              12.888097
+            ],
+            [
+              53.812037,
+              12.831273
+            ],
+            [
+              53.950766,
+              12.847768
+            ],
+            [
+              54.000458,
+              12.880764
+            ],
+            [
+              54.079281,
+              12.901176
+            ],
+            [
+              54.282134,
+              12.857168
+            ],
+            [
+              54.378105,
+              12.803555
+            ],
+            [
+              54.650083,
+              12.716509
+            ],
+            [
+              54.721007,
+              12.629737
+            ],
+            [
+              54.737365,
+              12.51724
+            ],
+            [
+              54.702591,
+              12.428804
+            ],
+            [
+              54.646746,
+              12.375526
+            ],
+            [
+              54.496993,
+              12.285645
+            ],
+            [
+              54.35953,
+              12.24883
+            ],
+            [
+              54.207348,
+              12.163095
+            ],
+            [
+              54.039226,
+              12.130949
+            ],
+            [
+              53.728752,
+              12.101774
+            ],
+            [
+              53.634271,
+              12.109446
+            ],
+            [
+              53.511425,
+              12.143171
+            ],
+            [
+              53.511425,
+              12.143171
+            ],
+            [
+              53.507481,
+              12.060382
+            ],
+            [
+              53.459369,
+              11.974988
+            ],
+            [
+              53.382818,
+              11.923505
+            ],
+            [
+              53.288827,
+              11.909013
+            ],
+            [
+              53.157592,
+              11.939564
+            ],
+            [
+              53.041345,
+              11.923321
+            ],
+            [
+              52.940536,
+              11.959026
+            ],
+            [
+              52.821656,
+              12.037596
+            ],
+            [
+              52.782664,
+              12.106458
+            ],
+            [
+              52.77344,
+              12.17845
+            ],
+            [
+              52.791742,
+              12.250234
+            ],
+            [
+              52.830957,
+              12.306105
+            ],
+            [
+              52.948239,
+              12.369356
+            ],
+            [
+              53.101647,
+              12.37253
+            ],
+            [
+              53.212468,
+              12.320187
+            ],
+            [
+              53.252389,
+              12.327165
+            ],
+            [
+              53.172205,
+              12.379594
+            ],
+            [
+              53.125798,
+              12.437747
+            ],
+            [
+              53.024892,
+              12.482
+            ],
+            [
+              52.974907,
+              12.542702
+            ],
+            [
+              52.95529,
+              12.597775
+            ],
+            [
+              52.955394,
+              12.673708
+            ],
+            [
+              52.985675,
+              12.746361
+            ],
+            [
+              53.02084,
+              12.786781
+            ],
+            [
+              53.077732,
+              12.822263
+            ],
+            [
+              53.156611,
+              12.838496
+            ],
+            [
+              53.266038,
+              12.807557
+            ],
+            [
+              53.411746,
+              12.892194
+            ],
+            [
+              53.469626,
+              12.909531
+            ],
+            [
+              53.617363,
+              12.900402
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "YE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+        "name": "\u0627\u0644\u064a\u0645\u0646",
+        "id": "YE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.898259,
+              15.335697
+            ],
+            [
+              41.807964,
+              15.324496
+            ],
+            [
+              41.736675,
+              15.342667
+            ],
+            [
+              41.667764,
+              15.390452
+            ],
+            [
+              41.61893,
+              15.470658
+            ],
+            [
+              41.60825,
+              15.542463
+            ],
+            [
+              41.625189,
+              15.619467
+            ],
+            [
+              41.689188,
+              15.703089
+            ],
+            [
+              41.771441,
+              15.747109
+            ],
+            [
+              41.859862,
+              15.75634
+            ],
+            [
+              41.955088,
+              15.725962
+            ],
+            [
+              42.012332,
+              15.677053
+            ],
+            [
+              42.052216,
+              15.598743
+            ],
+            [
+              42.056168,
+              15.510377
+            ],
+            [
+              42.033812,
+              15.442481
+            ],
+            [
+              41.975327,
+              15.374249
+            ],
+            [
+              41.898259,
+              15.335697
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "YE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+        "name": "\u0627\u0644\u064a\u0645\u0646",
+        "id": "YE"
       }
     }
   ]

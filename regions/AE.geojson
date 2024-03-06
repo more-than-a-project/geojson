@@ -3,2568 +3,1375 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.8039261,
-            25.3547322
-          ],
-          [
-            52.9089125,
-            25.3614762
-          ],
-          [
-            53.030655,
-            25.3096009
-          ],
-          [
-            53.0947281,
-            25.2236429
-          ],
-          [
-            53.0988198,
-            25.0973149
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.8039261,
-            25.3547322
-          ],
-          [
-            52.6472023,
-            25.1431275
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.4879849,
-            24.9925177
-          ],
-          [
-            52.5553624,
-            25.0031479
-          ],
-          [
-            52.631607,
-            24.9918911
-          ],
-          [
-            52.670026,
-            25.0621538
-          ],
-          [
-            52.6472023,
-            25.1431275
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.4879849,
-            24.9925177
-          ],
-          [
-            52.4588811,
-            24.9680574
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.4500323,
-            24.9829578
-          ],
-          [
-            52.4588811,
-            24.9680574
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.3783339,
-            24.9003363
-          ],
-          [
-            52.3370884,
-            24.9492519
-          ],
-          [
-            52.3459612,
-            24.9977178
-          ],
-          [
-            52.4059214,
-            25.0187752
-          ],
-          [
-            52.4500323,
-            24.9829578
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.3783339,
-            24.9003363
-          ],
-          [
-            52.3473132,
-            24.8742452
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.0254196,
-            24.7582798
-          ],
-          [
-            52.0917671,
-            24.6104175
-          ],
-          [
-            52.1819591,
-            24.7087774
-          ],
-          [
-            52.2518989,
-            24.7374332
-          ],
-          [
-            52.3368582,
-            24.7416394
-          ],
-          [
-            52.3296798,
-            24.8020601
-          ],
-          [
-            52.3473132,
-            24.8742452
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.0254196,
-            24.7582798
-          ],
-          [
-            51.8296376,
-            24.7163549
-          ],
-          [
-            51.8328645,
-            24.7685128
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.8328645,
-            24.7685128
-          ],
-          [
-            51.5861217,
-            24.6641886
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.5861217,
-            24.6641886
-          ],
-          [
-            51.5846698,
-            24.5988054
-          ],
-          [
-            51.5476605,
-            24.5311155
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.5476605,
-            24.5311155
-          ],
-          [
-            51.4664537,
-            24.4624886
-          ],
-          [
-            51.4160714,
-            24.3931939
-          ],
-          [
-            51.5084348,
-            24.3450052
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.5084348,
-            24.3450052
-          ],
-          [
-            51.5899445,
-            24.2535697
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.5899445,
-            24.2535697
-          ],
-          [
-            51.5900332,
-            24.2019919
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.5900332,
-            24.2019919
-          ],
-          [
-            51.596585,
-            24.11989
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.596585,
-            24.11989
-          ],
-          [
-            51.5967079,
-            24.1196868
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.5967079,
-            24.1196868
-          ],
-          [
-            51.6354012,
-            24.0740331
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.6354012,
-            24.0740331
-          ],
-          [
-            51.9203648,
-            23.7374931
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            51.9203648,
-            23.7374931
-          ],
-          [
-            52.5068906,
-            23.0288128
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.5068906,
-            23.0288128
-          ],
-          [
-            52.5795457,
-            22.9410105
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.5795457,
-            22.9410105
-          ],
-          [
-            52.5810404,
-            22.9392035
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.5810404,
-            22.9392035
-          ],
-          [
-            52.5861253,
-            22.9386213
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.5861253,
-            22.9386213
-          ],
-          [
-            53.1385302,
-            22.8753546
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.1385302,
-            22.8753546
-          ],
-          [
-            53.372937,
-            22.8483519
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.372937,
-            22.8483519
-          ],
-          [
-            54.3877542,
-            22.7259249
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.3877542,
-            22.7259249
-          ],
-          [
-            54.6535943,
-            22.6927844
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.6535943,
-            22.6927844
-          ],
-          [
-            55.1373379,
-            22.6316214
-          ],
-          [
-            55.2113705,
-            22.7054225
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2160612,
-            22.7324367
-          ],
-          [
-            55.2113705,
-            22.7054225
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2186433,
-            22.753353
-          ],
-          [
-            55.2160612,
-            22.7324367
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2197118,
-            22.9781908
-          ],
-          [
-            55.2186433,
-            22.753353
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2297253,
-            23.0479186
-          ],
-          [
-            55.2162834,
-            23.0262103
-          ],
-          [
-            55.2197118,
-            22.9781908
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.3705163,
-            23.3360492
-          ],
-          [
-            55.236467,
-            23.1193312
-          ],
-          [
-            55.2297253,
-            23.0479186
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.4842238,
-            23.5139339
-          ],
-          [
-            55.4306911,
-            23.3995929
-          ],
-          [
-            55.4165065,
-            23.3821507
-          ],
-          [
-            55.4015366,
-            23.3925249
-          ],
-          [
-            55.3705163,
-            23.3360492
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.5315984,
-            23.7594868
-          ],
-          [
-            55.5692283,
-            23.7207336
-          ],
-          [
-            55.5723085,
-            23.6296459
-          ],
-          [
-            55.4842238,
-            23.5139339
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.5014578,
-            23.9044912
-          ],
-          [
-            55.5337255,
-            23.8493518
-          ],
-          [
-            55.5315984,
-            23.7594868
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.6748875,
-            24.0343606
-          ],
-          [
-            55.4952262,
-            23.9535993
-          ],
-          [
-            55.4845316,
-            23.9421096
-          ],
-          [
-            55.5014578,
-            23.9044912
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7269164,
-            24.0560866
-          ],
-          [
-            55.6748875,
-            24.0343606
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7519295,
-            24.0542954
-          ],
-          [
-            55.7269164,
-            24.0560866
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8340589,
-            24.0156016
-          ],
-          [
-            55.8011255,
-            24.0254824
-          ],
-          [
-            55.7805724,
-            24.0559045
-          ],
-          [
-            55.7519295,
-            24.0542954
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.9279082,
-            24.052257
-          ],
-          [
-            55.8340589,
-            24.0156016
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.9813377,
-            24.0624874
-          ],
-          [
-            55.9279082,
-            24.052257
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.960879,
-            24.1700753
-          ],
-          [
-            56.0142493,
-            24.0899579
-          ],
-          [
-            56.0173982,
-            24.0664668
-          ],
-          [
-            55.9813377,
-            24.0624874
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8333956,
-            24.2009216
-          ],
-          [
-            55.9544468,
-            24.2225682
-          ],
-          [
-            55.9696731,
-            24.1823349
-          ],
-          [
-            55.960879,
-            24.1700753
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7548999,
-            24.2343801
-          ],
-          [
-            55.8333956,
-            24.2009216
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.753315,
-            24.2398378
-          ],
-          [
-            55.7548999,
-            24.2343801
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7557378,
-            24.2517338
-          ],
-          [
-            55.753315,
-            24.2398378
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7667065,
-            24.262092
-          ],
-          [
-            55.7557378,
-            24.2517338
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8157208,
-            24.3159333
-          ],
-          [
-            55.7667065,
-            24.262092
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8277307,
-            24.4095602
-          ],
-          [
-            55.8339436,
-            24.3277333
-          ],
-          [
-            55.8157208,
-            24.3159333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7848542,
-            24.4869361
-          ],
-          [
-            55.8277307,
-            24.4095602
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8364805,
-            24.6720041
-          ],
-          [
-            55.7937021,
-            24.637131
-          ],
-          [
-            55.8161465,
-            24.6152938
-          ],
-          [
-            55.7675745,
-            24.5725798
-          ],
-          [
-            55.764822,
-            24.5296539
-          ],
-          [
-            55.7848542,
-            24.4869361
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8285155,
-            24.7045295
-          ],
-          [
-            55.8364805,
-            24.6720041
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.820688,
-            24.7936466
-          ],
-          [
-            55.8285155,
-            24.7045295
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.961137,
-            25.0056314
-          ],
-          [
-            55.911098,
-            24.9653024
-          ],
-          [
-            55.8516195,
-            24.9655342
-          ],
-          [
-            55.8128584,
-            24.9106963
-          ],
-          [
-            55.820688,
-            24.7936466
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.0570007,
-            24.8720551
-          ],
-          [
-            56.0413034,
-            24.9075583
-          ],
-          [
-            56.0589215,
-            24.9494314
-          ],
-          [
-            56.042075,
-            24.9476862
-          ],
-          [
-            56.0454828,
-            24.9678867
-          ],
-          [
-            56.0070999,
-            24.9945993
-          ],
-          [
-            55.961137,
-            25.0056314
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.0811398,
-            24.7432899
-          ],
-          [
-            56.0542793,
-            24.7521114
-          ],
-          [
-            56.0361567,
-            24.810922
-          ],
-          [
-            55.9783405,
-            24.8773628
-          ],
-          [
-            55.9801644,
-            24.8944923
-          ],
-          [
-            56.0570007,
-            24.8720551
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.1127329,
-            24.7382019
-          ],
-          [
-            56.0811398,
-            24.7432899
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.2036202,
-            24.8238098
-          ],
-          [
-            56.2010535,
-            24.7851227
-          ],
-          [
-            56.1443329,
-            24.7415562
-          ],
-          [
-            56.1127329,
-            24.7382019
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.2670629,
-            24.8661182
-          ],
-          [
-            56.205659,
-            24.8505069
-          ],
-          [
-            56.2036202,
-            24.8238098
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.346983,
-            24.9293299
-          ],
-          [
-            56.3254598,
-            24.8984545
-          ],
-          [
-            56.2670629,
-            24.8661182
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.3232806,
-            24.9723581
-          ],
-          [
-            56.346983,
-            24.9293299
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.3746401,
-            24.9804235
-          ],
-          [
-            56.3232806,
-            24.9723581
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.376422,
-            24.9808344
-          ],
-          [
-            56.3746401,
-            24.9804235
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.3826282,
-            24.9820369
-          ],
-          [
-            56.376422,
-            24.9808344
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.4025176,
-            24.9844304
-          ],
-          [
-            56.3826282,
-            24.9820369
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.4905226,
-            24.9950206
-          ],
-          [
-            56.4025176,
-            24.9844304
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5852044,
-            25.0064132
-          ],
-          [
-            56.4905226,
-            24.9950206
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5940524,
-            25.0087644
-          ],
-          [
-            56.5852044,
-            25.0064132
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5873764,
-            25.098709
-          ],
-          [
-            56.5940524,
-            25.0087644
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.6014025,
-            25.3105709
-          ],
-          [
-            56.5873764,
-            25.098709
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5900602,
-            25.4175197
-          ],
-          [
-            56.6014025,
-            25.3105709
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5492206,
-            25.6927157
-          ],
-          [
-            56.5913853,
-            25.5492343
-          ],
-          [
-            56.5900602,
-            25.4175197
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5492206,
-            25.6927157
-          ],
-          [
-            56.4183841,
-            25.6826565
-          ],
-          [
-            56.278657,
-            25.630159
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.278657,
-            25.630159
-          ],
-          [
-            56.2710192,
-            25.6258872
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.2661515,
-            25.6062827
-          ],
-          [
-            56.2710192,
-            25.6258872
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.1608698,
-            25.6602914
-          ],
-          [
-            56.191111,
-            25.648056
-          ],
-          [
-            56.2018744,
-            25.611984
-          ],
-          [
-            56.2661515,
-            25.6062827
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.0864462,
-            26.0504437
-          ],
-          [
-            56.1535744,
-            26.0694075
-          ],
-          [
-            56.1955132,
-            25.9793008
-          ],
-          [
-            56.1644395,
-            25.9471509
-          ],
-          [
-            56.1785168,
-            25.894512
-          ],
-          [
-            56.14,
-            25.826944
-          ],
-          [
-            56.1677018,
-            25.7252497
-          ],
-          [
-            56.1608698,
-            25.6602914
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.0864462,
-            26.0504437
-          ],
-          [
-            55.8883688,
-            26.1517219
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.5986524,
-            25.8530661
-          ],
-          [
-            55.6983993,
-            25.9123554
-          ],
-          [
-            55.7681697,
-            25.9259806
-          ],
-          [
-            55.8265967,
-            26.0070053
-          ],
-          [
-            55.8883688,
-            26.1517219
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.3757896,
-            25.6989797
-          ],
-          [
-            55.4317598,
-            25.7599469
-          ],
-          [
-            55.5543596,
-            25.8111482
-          ],
-          [
-            55.5986524,
-            25.8530661
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.324428,
-            25.6230138
-          ],
-          [
-            55.3757896,
-            25.6989797
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2350748,
-            25.5700834
-          ],
-          [
-            55.2795994,
-            25.5665793
-          ],
-          [
-            55.324428,
-            25.6230138
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.0979187,
-            25.5250676
-          ],
-          [
-            55.17036,
-            25.5602191
-          ],
-          [
-            55.2350748,
-            25.5700834
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.7153981,
-            25.0693387
-          ],
-          [
-            54.8209774,
-            25.181934
-          ],
-          [
-            54.9044214,
-            25.226069
-          ],
-          [
-            54.9475772,
-            25.3517865
-          ],
-          [
-            55.0979187,
-            25.5250676
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.6274709,
-            24.5784322
-          ],
-          [
-            53.8204043,
-            24.5236185
-          ],
-          [
-            54.0141533,
-            24.5548494
-          ],
-          [
-            54.426485,
-            24.8600424
-          ],
-          [
-            54.5249701,
-            24.9984386
-          ],
-          [
-            54.7153981,
-            25.0693387
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.3023542,
-            24.8136786
-          ],
-          [
-            53.4079967,
-            24.7980513
-          ],
-          [
-            53.5033029,
-            24.7502376
-          ],
-          [
-            53.5520392,
-            24.690982
-          ],
-          [
-            53.574816,
-            24.5933876
-          ],
-          [
-            53.6274709,
-            24.5784322
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.0988198,
-            25.0973149
-          ],
-          [
-            53.1912133,
-            25.0679595
-          ],
-          [
-            53.2631745,
-            25.0075743
-          ],
-          [
-            53.3080597,
-            24.9113815
-          ],
-          [
-            53.3023542,
-            24.8136786
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.2719766,
-            25.2847367
-          ],
-          [
-            56.2703706,
-            25.2631538
-          ],
-          [
-            56.2847708,
-            25.2627605
-          ],
-          [
-            56.2931578,
-            25.2769198
-          ],
-          [
-            56.2719766,
-            25.2847367
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.4569732,
-            25.3106927
-          ],
-          [
-            54.4722692,
-            25.3776393
-          ],
-          [
-            54.5167687,
-            25.4369349
-          ],
-          [
-            54.5810742,
-            25.4736512
-          ],
-          [
-            54.6702837,
-            25.486026
-          ],
-          [
-            54.7282838,
-            25.4726976
-          ],
-          [
-            54.8066776,
-            25.4186903
-          ],
-          [
-            54.8388831,
-            25.3656601
-          ],
-          [
-            54.8511565,
-            25.2711484
-          ],
-          [
-            54.8203706,
-            25.1965893
-          ],
-          [
-            54.7794184,
-            25.1579807
-          ],
-          [
-            54.6631544,
-            25.1257073
-          ],
-          [
-            54.5820313,
-            25.1404008
-          ],
-          [
-            54.5185063,
-            25.1767342
-          ],
-          [
-            54.4729631,
-            25.2361882
-          ],
-          [
-            54.4569732,
-            25.3106927
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.3489806,
-            25.3064976
-          ],
-          [
-            56.3197616,
-            25.3024548
-          ],
-          [
-            56.3069043,
-            25.3294573
-          ],
-          [
-            56.2676961,
-            25.3374352
-          ],
-          [
-            56.2440467,
-            25.3170649
-          ],
-          [
-            56.257835,
-            25.2865465
-          ],
-          [
-            56.2241067,
-            25.2632106
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.2241067,
-            25.2632106
-          ],
-          [
-            56.2092723,
-            25.2419001
-          ],
-          [
-            56.2708146,
-            25.227185
-          ],
-          [
-            56.3442309,
-            25.2638782
-          ],
-          [
-            56.3489806,
-            25.3064976
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.978338,
-            25.2380795
-          ],
-          [
-            53.9970264,
-            25.3199175
-          ],
-          [
-            54.0513951,
-            25.3923945
-          ],
-          [
-            54.1299623,
-            25.4372688
-          ],
-          [
-            54.2389568,
-            25.4523926
-          ],
-          [
-            54.3098203,
-            25.4361034
-          ],
-          [
-            54.4056003,
-            25.370095
-          ],
-          [
-            54.4449485,
-            25.3052745
-          ],
-          [
-            54.4599439,
-            25.1897343
-          ],
-          [
-            54.4223302,
-            25.0985723
-          ],
-          [
-            54.3722956,
-            25.0513615
-          ],
-          [
-            54.305027,
-            25.0203956
-          ],
-          [
-            54.2302464,
-            25.011895
-          ],
-          [
-            54.1311317,
-            25.0298636
-          ],
-          [
-            54.053518,
-            25.0742938
-          ],
-          [
-            53.9978742,
-            25.1469907
-          ],
-          [
-            53.978338,
-            25.2380795
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AE",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
-        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.7298452,
-            24.7910143
-          ],
-          [
-            53.7368147,
-            24.7935545
-          ],
-          [
-            53.7364714,
-            24.8029044
-          ],
-          [
-            53.7241461,
-            24.8014708
-          ],
-          [
-            53.7298452,
-            24.7910143
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              53.09882,
+              25.097315
+            ],
+            [
+              53.191213,
+              25.06796
+            ],
+            [
+              53.263174,
+              25.007574
+            ],
+            [
+              53.30806,
+              24.911382
+            ],
+            [
+              53.302354,
+              24.813679
+            ],
+            [
+              53.302354,
+              24.813679
+            ],
+            [
+              53.407997,
+              24.798051
+            ],
+            [
+              53.503303,
+              24.750238
+            ],
+            [
+              53.552039,
+              24.690982
+            ],
+            [
+              53.574816,
+              24.593388
+            ],
+            [
+              53.627471,
+              24.578432
+            ],
+            [
+              53.627471,
+              24.578432
+            ],
+            [
+              53.820404,
+              24.523619
+            ],
+            [
+              54.014153,
+              24.554849
+            ],
+            [
+              54.426485,
+              24.860042
+            ],
+            [
+              54.52497,
+              24.998439
+            ],
+            [
+              54.715398,
+              25.069339
+            ],
+            [
+              54.715398,
+              25.069339
+            ],
+            [
+              54.820977,
+              25.181934
+            ],
+            [
+              54.904421,
+              25.226069
+            ],
+            [
+              54.947577,
+              25.351786
+            ],
+            [
+              55.097919,
+              25.525068
+            ],
+            [
+              55.097919,
+              25.525068
+            ],
+            [
+              55.17036,
+              25.560219
+            ],
+            [
+              55.235075,
+              25.570083
+            ],
+            [
+              55.235075,
+              25.570083
+            ],
+            [
+              55.279599,
+              25.566579
+            ],
+            [
+              55.324428,
+              25.623014
+            ],
+            [
+              55.324428,
+              25.623014
+            ],
+            [
+              55.37579,
+              25.69898
+            ],
+            [
+              55.37579,
+              25.69898
+            ],
+            [
+              55.43176,
+              25.759947
+            ],
+            [
+              55.55436,
+              25.811148
+            ],
+            [
+              55.598652,
+              25.853066
+            ],
+            [
+              55.598652,
+              25.853066
+            ],
+            [
+              55.698399,
+              25.912355
+            ],
+            [
+              55.76817,
+              25.925981
+            ],
+            [
+              55.826597,
+              26.007005
+            ],
+            [
+              55.888369,
+              26.151722
+            ],
+            [
+              55.888369,
+              26.151722
+            ],
+            [
+              56.086446,
+              26.050444
+            ],
+            [
+              56.086446,
+              26.050444
+            ],
+            [
+              56.153574,
+              26.069408
+            ],
+            [
+              56.195513,
+              25.979301
+            ],
+            [
+              56.16444,
+              25.947151
+            ],
+            [
+              56.178517,
+              25.894512
+            ],
+            [
+              56.14,
+              25.826944
+            ],
+            [
+              56.167702,
+              25.72525
+            ],
+            [
+              56.16087,
+              25.660291
+            ],
+            [
+              56.16087,
+              25.660291
+            ],
+            [
+              56.191111,
+              25.648056
+            ],
+            [
+              56.201874,
+              25.611984
+            ],
+            [
+              56.266151,
+              25.606283
+            ],
+            [
+              56.266151,
+              25.606283
+            ],
+            [
+              56.271019,
+              25.625887
+            ],
+            [
+              56.271019,
+              25.625887
+            ],
+            [
+              56.278657,
+              25.630159
+            ],
+            [
+              56.278657,
+              25.630159
+            ],
+            [
+              56.418384,
+              25.682657
+            ],
+            [
+              56.549221,
+              25.692716
+            ],
+            [
+              56.549221,
+              25.692716
+            ],
+            [
+              56.591385,
+              25.549234
+            ],
+            [
+              56.59006,
+              25.41752
+            ],
+            [
+              56.59006,
+              25.41752
+            ],
+            [
+              56.601402,
+              25.310571
+            ],
+            [
+              56.601402,
+              25.310571
+            ],
+            [
+              56.587376,
+              25.098709
+            ],
+            [
+              56.587376,
+              25.098709
+            ],
+            [
+              56.594052,
+              25.008764
+            ],
+            [
+              56.594052,
+              25.008764
+            ],
+            [
+              56.585204,
+              25.006413
+            ],
+            [
+              56.585204,
+              25.006413
+            ],
+            [
+              56.490523,
+              24.995021
+            ],
+            [
+              56.490523,
+              24.995021
+            ],
+            [
+              56.402518,
+              24.98443
+            ],
+            [
+              56.402518,
+              24.98443
+            ],
+            [
+              56.382628,
+              24.982037
+            ],
+            [
+              56.382628,
+              24.982037
+            ],
+            [
+              56.376422,
+              24.980834
+            ],
+            [
+              56.376422,
+              24.980834
+            ],
+            [
+              56.37464,
+              24.980424
+            ],
+            [
+              56.37464,
+              24.980424
+            ],
+            [
+              56.323281,
+              24.972358
+            ],
+            [
+              56.323281,
+              24.972358
+            ],
+            [
+              56.346983,
+              24.92933
+            ],
+            [
+              56.346983,
+              24.92933
+            ],
+            [
+              56.32546,
+              24.898454
+            ],
+            [
+              56.267063,
+              24.866118
+            ],
+            [
+              56.267063,
+              24.866118
+            ],
+            [
+              56.205659,
+              24.850507
+            ],
+            [
+              56.20362,
+              24.82381
+            ],
+            [
+              56.20362,
+              24.82381
+            ],
+            [
+              56.201054,
+              24.785123
+            ],
+            [
+              56.144333,
+              24.741556
+            ],
+            [
+              56.112733,
+              24.738202
+            ],
+            [
+              56.112733,
+              24.738202
+            ],
+            [
+              56.08114,
+              24.74329
+            ],
+            [
+              56.08114,
+              24.74329
+            ],
+            [
+              56.054279,
+              24.752111
+            ],
+            [
+              56.036157,
+              24.810922
+            ],
+            [
+              55.978341,
+              24.877363
+            ],
+            [
+              55.980164,
+              24.894492
+            ],
+            [
+              56.057001,
+              24.872055
+            ],
+            [
+              56.057001,
+              24.872055
+            ],
+            [
+              56.041303,
+              24.907558
+            ],
+            [
+              56.058921,
+              24.949431
+            ],
+            [
+              56.042075,
+              24.947686
+            ],
+            [
+              56.045483,
+              24.967887
+            ],
+            [
+              56.0071,
+              24.994599
+            ],
+            [
+              55.961137,
+              25.005631
+            ],
+            [
+              55.961137,
+              25.005631
+            ],
+            [
+              55.911098,
+              24.965302
+            ],
+            [
+              55.851619,
+              24.965534
+            ],
+            [
+              55.812858,
+              24.910696
+            ],
+            [
+              55.820688,
+              24.793647
+            ],
+            [
+              55.820688,
+              24.793647
+            ],
+            [
+              55.828516,
+              24.704529
+            ],
+            [
+              55.828516,
+              24.704529
+            ],
+            [
+              55.836481,
+              24.672004
+            ],
+            [
+              55.836481,
+              24.672004
+            ],
+            [
+              55.793702,
+              24.637131
+            ],
+            [
+              55.816147,
+              24.615294
+            ],
+            [
+              55.767575,
+              24.57258
+            ],
+            [
+              55.764822,
+              24.529654
+            ],
+            [
+              55.784854,
+              24.486936
+            ],
+            [
+              55.784854,
+              24.486936
+            ],
+            [
+              55.827731,
+              24.40956
+            ],
+            [
+              55.827731,
+              24.40956
+            ],
+            [
+              55.833944,
+              24.327733
+            ],
+            [
+              55.815721,
+              24.315933
+            ],
+            [
+              55.815721,
+              24.315933
+            ],
+            [
+              55.766706,
+              24.262092
+            ],
+            [
+              55.766706,
+              24.262092
+            ],
+            [
+              55.755738,
+              24.251734
+            ],
+            [
+              55.755738,
+              24.251734
+            ],
+            [
+              55.753315,
+              24.239838
+            ],
+            [
+              55.753315,
+              24.239838
+            ],
+            [
+              55.7549,
+              24.23438
+            ],
+            [
+              55.7549,
+              24.23438
+            ],
+            [
+              55.833396,
+              24.200922
+            ],
+            [
+              55.833396,
+              24.200922
+            ],
+            [
+              55.954447,
+              24.222568
+            ],
+            [
+              55.969673,
+              24.182335
+            ],
+            [
+              55.960879,
+              24.170075
+            ],
+            [
+              55.960879,
+              24.170075
+            ],
+            [
+              56.014249,
+              24.089958
+            ],
+            [
+              56.017398,
+              24.066467
+            ],
+            [
+              55.981338,
+              24.062487
+            ],
+            [
+              55.981338,
+              24.062487
+            ],
+            [
+              55.927908,
+              24.052257
+            ],
+            [
+              55.927908,
+              24.052257
+            ],
+            [
+              55.834059,
+              24.015602
+            ],
+            [
+              55.834059,
+              24.015602
+            ],
+            [
+              55.801125,
+              24.025482
+            ],
+            [
+              55.780572,
+              24.055905
+            ],
+            [
+              55.75193,
+              24.054295
+            ],
+            [
+              55.75193,
+              24.054295
+            ],
+            [
+              55.726916,
+              24.056087
+            ],
+            [
+              55.726916,
+              24.056087
+            ],
+            [
+              55.674887,
+              24.034361
+            ],
+            [
+              55.674887,
+              24.034361
+            ],
+            [
+              55.495226,
+              23.953599
+            ],
+            [
+              55.484532,
+              23.94211
+            ],
+            [
+              55.501458,
+              23.904491
+            ],
+            [
+              55.501458,
+              23.904491
+            ],
+            [
+              55.533726,
+              23.849352
+            ],
+            [
+              55.531598,
+              23.759487
+            ],
+            [
+              55.531598,
+              23.759487
+            ],
+            [
+              55.569228,
+              23.720734
+            ],
+            [
+              55.572308,
+              23.629646
+            ],
+            [
+              55.484224,
+              23.513934
+            ],
+            [
+              55.484224,
+              23.513934
+            ],
+            [
+              55.430691,
+              23.399593
+            ],
+            [
+              55.416506,
+              23.382151
+            ],
+            [
+              55.401537,
+              23.392525
+            ],
+            [
+              55.370516,
+              23.336049
+            ],
+            [
+              55.370516,
+              23.336049
+            ],
+            [
+              55.236467,
+              23.119331
+            ],
+            [
+              55.229725,
+              23.047919
+            ],
+            [
+              55.229725,
+              23.047919
+            ],
+            [
+              55.216283,
+              23.02621
+            ],
+            [
+              55.219712,
+              22.978191
+            ],
+            [
+              55.219712,
+              22.978191
+            ],
+            [
+              55.218643,
+              22.753353
+            ],
+            [
+              55.218643,
+              22.753353
+            ],
+            [
+              55.216061,
+              22.732437
+            ],
+            [
+              55.216061,
+              22.732437
+            ],
+            [
+              55.211371,
+              22.705423
+            ],
+            [
+              55.211371,
+              22.705423
+            ],
+            [
+              55.137338,
+              22.631621
+            ],
+            [
+              54.653594,
+              22.692784
+            ],
+            [
+              54.653594,
+              22.692784
+            ],
+            [
+              54.387754,
+              22.725925
+            ],
+            [
+              54.387754,
+              22.725925
+            ],
+            [
+              53.372937,
+              22.848352
+            ],
+            [
+              53.372937,
+              22.848352
+            ],
+            [
+              53.13853,
+              22.875355
+            ],
+            [
+              53.13853,
+              22.875355
+            ],
+            [
+              52.586125,
+              22.938621
+            ],
+            [
+              52.586125,
+              22.938621
+            ],
+            [
+              52.58104,
+              22.939204
+            ],
+            [
+              52.58104,
+              22.939204
+            ],
+            [
+              52.579546,
+              22.941011
+            ],
+            [
+              52.579546,
+              22.941011
+            ],
+            [
+              52.506891,
+              23.028813
+            ],
+            [
+              52.506891,
+              23.028813
+            ],
+            [
+              51.920365,
+              23.737493
+            ],
+            [
+              51.920365,
+              23.737493
+            ],
+            [
+              51.635401,
+              24.074033
+            ],
+            [
+              51.635401,
+              24.074033
+            ],
+            [
+              51.596708,
+              24.119687
+            ],
+            [
+              51.596708,
+              24.119687
+            ],
+            [
+              51.596585,
+              24.11989
+            ],
+            [
+              51.596585,
+              24.11989
+            ],
+            [
+              51.590033,
+              24.201992
+            ],
+            [
+              51.590033,
+              24.201992
+            ],
+            [
+              51.589945,
+              24.25357
+            ],
+            [
+              51.589945,
+              24.25357
+            ],
+            [
+              51.508435,
+              24.345005
+            ],
+            [
+              51.508435,
+              24.345005
+            ],
+            [
+              51.416071,
+              24.393194
+            ],
+            [
+              51.466454,
+              24.462489
+            ],
+            [
+              51.54766,
+              24.531115
+            ],
+            [
+              51.54766,
+              24.531115
+            ],
+            [
+              51.58467,
+              24.598805
+            ],
+            [
+              51.586122,
+              24.664189
+            ],
+            [
+              51.586122,
+              24.664189
+            ],
+            [
+              51.832864,
+              24.768513
+            ],
+            [
+              51.832864,
+              24.768513
+            ],
+            [
+              51.829638,
+              24.716355
+            ],
+            [
+              52.02542,
+              24.75828
+            ],
+            [
+              52.02542,
+              24.75828
+            ],
+            [
+              52.091767,
+              24.610418
+            ],
+            [
+              52.181959,
+              24.708777
+            ],
+            [
+              52.251899,
+              24.737433
+            ],
+            [
+              52.336858,
+              24.741639
+            ],
+            [
+              52.32968,
+              24.80206
+            ],
+            [
+              52.347313,
+              24.874245
+            ],
+            [
+              52.347313,
+              24.874245
+            ],
+            [
+              52.378334,
+              24.900336
+            ],
+            [
+              52.378334,
+              24.900336
+            ],
+            [
+              52.337088,
+              24.949252
+            ],
+            [
+              52.345961,
+              24.997718
+            ],
+            [
+              52.405921,
+              25.018775
+            ],
+            [
+              52.450032,
+              24.982958
+            ],
+            [
+              52.450032,
+              24.982958
+            ],
+            [
+              52.458881,
+              24.968057
+            ],
+            [
+              52.458881,
+              24.968057
+            ],
+            [
+              52.487985,
+              24.992518
+            ],
+            [
+              52.487985,
+              24.992518
+            ],
+            [
+              52.555362,
+              25.003148
+            ],
+            [
+              52.631607,
+              24.991891
+            ],
+            [
+              52.670026,
+              25.062154
+            ],
+            [
+              52.647202,
+              25.143127
+            ],
+            [
+              52.647202,
+              25.143127
+            ],
+            [
+              52.803926,
+              25.354732
+            ],
+            [
+              52.803926,
+              25.354732
+            ],
+            [
+              52.908912,
+              25.361476
+            ],
+            [
+              53.030655,
+              25.309601
+            ],
+            [
+              53.094728,
+              25.223643
+            ],
+            [
+              53.09882,
+              25.097315
+            ]
+          ],
+          [
+            [
+              56.271977,
+              25.284737
+            ],
+            [
+              56.270371,
+              25.263154
+            ],
+            [
+              56.284771,
+              25.26276
+            ],
+            [
+              56.293158,
+              25.27692
+            ],
+            [
+              56.271977,
+              25.284737
+            ]
+          ],
+          [
+            [
+              56.224107,
+              25.263211
+            ],
+            [
+              56.209272,
+              25.2419
+            ],
+            [
+              56.270815,
+              25.227185
+            ],
+            [
+              56.344231,
+              25.263878
+            ],
+            [
+              56.348981,
+              25.306498
+            ],
+            [
+              56.348981,
+              25.306498
+            ],
+            [
+              56.319762,
+              25.302455
+            ],
+            [
+              56.306904,
+              25.329457
+            ],
+            [
+              56.267696,
+              25.337435
+            ],
+            [
+              56.244047,
+              25.317065
+            ],
+            [
+              56.257835,
+              25.286547
+            ],
+            [
+              56.224107,
+              25.263211
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "AE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+        "id": "AE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.456973,
+              25.310693
+            ],
+            [
+              54.472269,
+              25.377639
+            ],
+            [
+              54.516769,
+              25.436935
+            ],
+            [
+              54.581074,
+              25.473651
+            ],
+            [
+              54.670284,
+              25.486026
+            ],
+            [
+              54.728284,
+              25.472698
+            ],
+            [
+              54.806678,
+              25.41869
+            ],
+            [
+              54.838883,
+              25.36566
+            ],
+            [
+              54.851157,
+              25.271148
+            ],
+            [
+              54.820371,
+              25.196589
+            ],
+            [
+              54.779418,
+              25.157981
+            ],
+            [
+              54.663154,
+              25.125707
+            ],
+            [
+              54.582031,
+              25.140401
+            ],
+            [
+              54.518506,
+              25.176734
+            ],
+            [
+              54.472963,
+              25.236188
+            ],
+            [
+              54.456973,
+              25.310693
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "AE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+        "id": "AE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              53.978338,
+              25.23808
+            ],
+            [
+              53.997026,
+              25.319917
+            ],
+            [
+              54.051395,
+              25.392395
+            ],
+            [
+              54.129962,
+              25.437269
+            ],
+            [
+              54.238957,
+              25.452393
+            ],
+            [
+              54.30982,
+              25.436103
+            ],
+            [
+              54.4056,
+              25.370095
+            ],
+            [
+              54.444949,
+              25.305274
+            ],
+            [
+              54.459944,
+              25.189734
+            ],
+            [
+              54.42233,
+              25.098572
+            ],
+            [
+              54.372296,
+              25.051361
+            ],
+            [
+              54.305027,
+              25.020396
+            ],
+            [
+              54.230246,
+              25.011895
+            ],
+            [
+              54.131132,
+              25.029864
+            ],
+            [
+              54.053518,
+              25.074294
+            ],
+            [
+              53.997874,
+              25.146991
+            ],
+            [
+              53.978338,
+              25.23808
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "AE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+        "id": "AE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              53.729845,
+              24.791014
+            ],
+            [
+              53.736815,
+              24.793554
+            ],
+            [
+              53.736471,
+              24.802904
+            ],
+            [
+              53.724146,
+              24.801471
+            ],
+            [
+              53.729845,
+              24.791014
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "AE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+        "id": "AE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.271977,
+              25.284737
+            ],
+            [
+              56.270371,
+              25.263154
+            ],
+            [
+              56.284771,
+              25.26276
+            ],
+            [
+              56.293158,
+              25.27692
+            ],
+            [
+              56.271977,
+              25.284737
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "AE",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+        "name": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+        "id": "AE"
       }
     }
   ]

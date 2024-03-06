@@ -3,1034 +3,514 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -168.225273,
+              -14.535906
+            ],
+            [
+              -168.199527,
+              -14.490126
+            ],
+            [
+              -168.152228,
+              -14.477848
+            ],
+            [
+              -168.115941,
+              -14.500225
+            ],
+            [
+              -168.102229,
+              -14.554034
+            ],
+            [
+              -168.129102,
+              -14.597259
+            ],
+            [
+              -168.173538,
+              -14.601339
+            ],
+            [
+              -168.206757,
+              -14.590092
+            ],
+            [
+              -168.225273,
+              -14.535906
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "AS",
         "iso-3166-2": "US-AS",
         "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -168.225273,
-            -14.535906
-          ],
-          [
-            -168.199527,
-            -14.490126
-          ],
-          [
-            -168.152228,
-            -14.477848
-          ],
-          [
-            -168.115941,
-            -14.500225
-          ],
-          [
-            -168.102229,
-            -14.554034
-          ],
-          [
-            -168.129102,
-            -14.597259
-          ],
-          [
-            -168.173538,
-            -14.601339
-          ],
-          [
-            -168.206757,
-            -14.590092
-          ],
-          [
-            -168.225273,
-            -14.535906
-          ]
-        ]
+        "name": "American Samoa",
+        "id": "AS"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -169.630488,
+              -14.113715
+            ],
+            [
+              -169.599242,
+              -14.105392
+            ],
+            [
+              -169.567625,
+              -14.120596
+            ],
+            [
+              -169.567625,
+              -14.120596
+            ],
+            [
+              -169.543378,
+              -14.180575
+            ],
+            [
+              -169.543378,
+              -14.180575
+            ],
+            [
+              -169.494006,
+              -14.16609
+            ],
+            [
+              -169.494006,
+              -14.16609
+            ],
+            [
+              -169.395182,
+              -14.170007
+            ],
+            [
+              -169.375,
+              -14.184785
+            ],
+            [
+              -169.375,
+              -14.184785
+            ],
+            [
+              -169.375,
+              -14.288486
+            ],
+            [
+              -169.408976,
+              -14.310028
+            ],
+            [
+              -169.446034,
+              -14.30487
+            ],
+            [
+              -169.446034,
+              -14.30487
+            ],
+            [
+              -169.5,
+              -14.313015
+            ],
+            [
+              -169.546671,
+              -14.266351
+            ],
+            [
+              -169.546671,
+              -14.266351
+            ],
+            [
+              -169.5692,
+              -14.223056
+            ],
+            [
+              -169.5692,
+              -14.223056
+            ],
+            [
+              -169.608646,
+              -14.237915
+            ],
+            [
+              -169.631351,
+              -14.227966
+            ],
+            [
+              -169.631351,
+              -14.227966
+            ],
+            [
+              -169.680352,
+              -14.230597
+            ],
+            [
+              -169.722804,
+              -14.18937
+            ],
+            [
+              -169.725895,
+              -14.16615
+            ],
+            [
+              -169.702316,
+              -14.120345
+            ],
+            [
+              -169.630488,
+              -14.113715
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "AS",
         "iso-3166-2": "US-AS",
         "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -169.631351,
-            -14.227966
-          ],
-          [
-            -169.680352,
-            -14.230597
-          ],
-          [
-            -169.722804,
-            -14.18937
-          ],
-          [
-            -169.725895,
-            -14.16615
-          ],
-          [
-            -169.702316,
-            -14.120345
-          ],
-          [
-            -169.630488,
-            -14.113715
-          ]
-        ]
+        "name": "American Samoa",
+        "id": "AS"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -171.027898,
+              -11.006523
+            ],
+            [
+              -171.011378,
+              -11.078143
+            ],
+            [
+              -171.032173,
+              -11.105088
+            ],
+            [
+              -171.098344,
+              -11.107869
+            ],
+            [
+              -171.133871,
+              -11.090534
+            ],
+            [
+              -171.137454,
+              -11.030091
+            ],
+            [
+              -171.1114,
+              -11.003792
+            ],
+            [
+              -171.027898,
+              -11.006523
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "AS",
         "iso-3166-2": "US-AS",
         "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -169.631351,
-            -14.227966
-          ],
-          [
-            -169.608646,
-            -14.237915
-          ],
-          [
-            -169.5692,
-            -14.223056
-          ]
-        ]
+        "name": "American Samoa",
+        "id": "AS"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -170.693656,
+              -14.394545
+            ],
+            [
+              -170.710771,
+              -14.405849
+            ],
+            [
+              -170.710771,
+              -14.405849
+            ],
+            [
+              -170.743587,
+              -14.419554
+            ],
+            [
+              -170.743587,
+              -14.419554
+            ],
+            [
+              -170.777061,
+              -14.410872
+            ],
+            [
+              -170.777061,
+              -14.410872
+            ],
+            [
+              -170.785869,
+              -14.400524
+            ],
+            [
+              -170.785869,
+              -14.400524
+            ],
+            [
+              -170.794676,
+              -14.398945
+            ],
+            [
+              -170.794676,
+              -14.398945
+            ],
+            [
+              -170.797627,
+              -14.397928
+            ],
+            [
+              -170.797627,
+              -14.397928
+            ],
+            [
+              -170.801999,
+              -14.396422
+            ],
+            [
+              -170.801999,
+              -14.396422
+            ],
+            [
+              -170.805664,
+              -14.394316
+            ],
+            [
+              -170.805664,
+              -14.394316
+            ],
+            [
+              -170.810104,
+              -14.390592
+            ],
+            [
+              -170.810104,
+              -14.390592
+            ],
+            [
+              -170.825005,
+              -14.37125
+            ],
+            [
+              -170.825005,
+              -14.37125
+            ],
+            [
+              -170.82966,
+              -14.370823
+            ],
+            [
+              -170.82966,
+              -14.370823
+            ],
+            [
+              -170.842169,
+              -14.369118
+            ],
+            [
+              -170.842169,
+              -14.369118
+            ],
+            [
+              -170.887928,
+              -14.333713
+            ],
+            [
+              -170.887928,
+              -14.333713
+            ],
+            [
+              -170.862673,
+              -14.275194
+            ],
+            [
+              -170.862673,
+              -14.275194
+            ],
+            [
+              -170.797156,
+              -14.246637
+            ],
+            [
+              -170.797156,
+              -14.246637
+            ],
+            [
+              -170.747496,
+              -14.236581
+            ],
+            [
+              -170.747496,
+              -14.236581
+            ],
+            [
+              -170.706074,
+              -14.20498
+            ],
+            [
+              -170.706074,
+              -14.20498
+            ],
+            [
+              -170.6652,
+              -14.175947
+            ],
+            [
+              -170.600149,
+              -14.199966
+            ],
+            [
+              -170.600149,
+              -14.199966
+            ],
+            [
+              -170.590256,
+              -14.198059
+            ],
+            [
+              -170.590256,
+              -14.198059
+            ],
+            [
+              -170.587861,
+              -14.197597
+            ],
+            [
+              -170.587861,
+              -14.197597
+            ],
+            [
+              -170.536778,
+              -14.20434
+            ],
+            [
+              -170.504717,
+              -14.256814
+            ],
+            [
+              -170.504717,
+              -14.256814
+            ],
+            [
+              -170.491495,
+              -14.301691
+            ],
+            [
+              -170.509439,
+              -14.328763
+            ],
+            [
+              -170.53809,
+              -14.336129
+            ],
+            [
+              -170.53809,
+              -14.336129
+            ],
+            [
+              -170.595622,
+              -14.332648
+            ],
+            [
+              -170.595622,
+              -14.332648
+            ],
+            [
+              -170.603494,
+              -14.334305
+            ],
+            [
+              -170.603494,
+              -14.334305
+            ],
+            [
+              -170.61483,
+              -14.334227
+            ],
+            [
+              -170.61483,
+              -14.334227
+            ],
+            [
+              -170.623477,
+              -14.334975
+            ],
+            [
+              -170.623477,
+              -14.334975
+            ],
+            [
+              -170.64317,
+              -14.340829
+            ],
+            [
+              -170.64317,
+              -14.340829
+            ],
+            [
+              -170.65187,
+              -14.356187
+            ],
+            [
+              -170.65187,
+              -14.356187
+            ],
+            [
+              -170.658426,
+              -14.369009
+            ],
+            [
+              -170.658426,
+              -14.369009
+            ],
+            [
+              -170.666331,
+              -14.375776
+            ],
+            [
+              -170.666331,
+              -14.375776
+            ],
+            [
+              -170.693656,
+              -14.394545
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "AS",
         "iso-3166-2": "US-AS",
         "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -169.5692,
-            -14.223056
-          ],
-          [
-            -169.546671,
-            -14.266351
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -169.446034,
-            -14.30487
-          ],
-          [
-            -169.5,
-            -14.313015
-          ],
-          [
-            -169.546671,
-            -14.266351
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -169.446034,
-            -14.30487
-          ],
-          [
-            -169.408976,
-            -14.310028
-          ],
-          [
-            -169.375,
-            -14.288486
-          ],
-          [
-            -169.375,
-            -14.184785
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -169.494006,
-            -14.16609
-          ],
-          [
-            -169.395182,
-            -14.170007
-          ],
-          [
-            -169.375,
-            -14.184785
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -169.494006,
-            -14.16609
-          ],
-          [
-            -169.543378,
-            -14.180575
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -169.567625,
-            -14.120596
-          ],
-          [
-            -169.543378,
-            -14.180575
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -169.567625,
-            -14.120596
-          ],
-          [
-            -169.599242,
-            -14.105392
-          ],
-          [
-            -169.630488,
-            -14.113715
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -171.027898,
-            -11.006523
-          ],
-          [
-            -171.011378,
-            -11.078143
-          ],
-          [
-            -171.032173,
-            -11.105088
-          ],
-          [
-            -171.098344,
-            -11.107869
-          ],
-          [
-            -171.133871,
-            -11.090534
-          ],
-          [
-            -171.137454,
-            -11.030091
-          ],
-          [
-            -171.1114,
-            -11.003792
-          ],
-          [
-            -171.027898,
-            -11.006523
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.6663312,
-            -14.3757761
-          ],
-          [
-            -170.693656,
-            -14.394545
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.658426,
-            -14.369009
-          ],
-          [
-            -170.6663312,
-            -14.3757761
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.658426,
-            -14.369009
-          ],
-          [
-            -170.65187,
-            -14.356187
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.64317,
-            -14.340829
-          ],
-          [
-            -170.65187,
-            -14.356187
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.623477,
-            -14.334975
-          ],
-          [
-            -170.64317,
-            -14.340829
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.61483,
-            -14.334227
-          ],
-          [
-            -170.623477,
-            -14.334975
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.61483,
-            -14.334227
-          ],
-          [
-            -170.603494,
-            -14.334305
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.603494,
-            -14.334305
-          ],
-          [
-            -170.595622,
-            -14.332648
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.53809,
-            -14.336129
-          ],
-          [
-            -170.595622,
-            -14.332648
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.53809,
-            -14.336129
-          ],
-          [
-            -170.509439,
-            -14.328763
-          ],
-          [
-            -170.491495,
-            -14.301691
-          ],
-          [
-            -170.504717,
-            -14.256814
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.504717,
-            -14.256814
-          ],
-          [
-            -170.536778,
-            -14.20434
-          ],
-          [
-            -170.587861,
-            -14.197597
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.590256,
-            -14.198059
-          ],
-          [
-            -170.587861,
-            -14.197597
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.600149,
-            -14.199966
-          ],
-          [
-            -170.590256,
-            -14.198059
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.600149,
-            -14.199966
-          ],
-          [
-            -170.6652,
-            -14.175947
-          ],
-          [
-            -170.706074,
-            -14.20498
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.747496,
-            -14.236581
-          ],
-          [
-            -170.706074,
-            -14.20498
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.797156,
-            -14.246637
-          ],
-          [
-            -170.747496,
-            -14.236581
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.797156,
-            -14.246637
-          ],
-          [
-            -170.862673,
-            -14.275194
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.887928,
-            -14.333713
-          ],
-          [
-            -170.862673,
-            -14.275194
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.842169,
-            -14.369118
-          ],
-          [
-            -170.887928,
-            -14.333713
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.842169,
-            -14.369118
-          ],
-          [
-            -170.82966,
-            -14.3708228
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.825005,
-            -14.37125
-          ],
-          [
-            -170.82966,
-            -14.3708228
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.810104,
-            -14.390592
-          ],
-          [
-            -170.825005,
-            -14.37125
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.810104,
-            -14.390592
-          ],
-          [
-            -170.805664,
-            -14.394316
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.801999,
-            -14.396422
-          ],
-          [
-            -170.805664,
-            -14.394316
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.797627,
-            -14.397928
-          ],
-          [
-            -170.801999,
-            -14.396422
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.797627,
-            -14.397928
-          ],
-          [
-            -170.794676,
-            -14.398945
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.785869,
-            -14.400524
-          ],
-          [
-            -170.794676,
-            -14.398945
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.777061,
-            -14.410872
-          ],
-          [
-            -170.785869,
-            -14.400524
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.777061,
-            -14.410872
-          ],
-          [
-            -170.743587,
-            -14.419554
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.710771,
-            -14.405849
-          ],
-          [
-            -170.743587,
-            -14.419554
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AS",
-        "iso-3166-2": "US-AS",
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg",
-        "name": "American Samoa"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -170.710771,
-            -14.405849
-          ],
-          [
-            -170.693656,
-            -14.394545
-          ]
-        ]
+        "name": "American Samoa",
+        "id": "AS"
       }
     }
   ]

@@ -3,5486 +3,2347 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.1608698,
-            25.6602914
-          ],
-          [
-            56.191111,
-            25.648056
-          ],
-          [
-            56.2018744,
-            25.611984
-          ],
-          [
-            56.2661515,
-            25.6062827
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.0864462,
-            26.0504437
-          ],
-          [
-            56.1535744,
-            26.0694075
-          ],
-          [
-            56.1955132,
-            25.9793008
-          ],
-          [
-            56.1644395,
-            25.9471509
-          ],
-          [
-            56.1785168,
-            25.894512
-          ],
-          [
-            56.14,
-            25.826944
-          ],
-          [
-            56.1677018,
-            25.7252497
-          ],
-          [
-            56.1608698,
-            25.6602914
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.0864462,
-            26.0504437
-          ],
-          [
-            55.8883688,
-            26.1517219
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8883688,
-            26.1517219
-          ],
-          [
-            56.0364452,
-            26.3839256
-          ],
-          [
-            56.298146,
-            26.6033906
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.298146,
-            26.6033906
-          ],
-          [
-            56.5462498,
-            26.7026737
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5462498,
-            26.7026737
-          ],
-          [
-            56.6654293,
-            26.6546287
-          ],
-          [
-            56.7299195,
-            26.5876103
-          ],
-          [
-            56.7569358,
-            26.5211843
-          ],
-          [
-            56.7704647,
-            26.1529212
-          ],
-          [
-            56.7491734,
-            26.0873195
-          ],
-          [
-            56.6961272,
-            26.0161955
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.6961272,
-            26.0161955
-          ],
-          [
-            56.6939898,
-            25.9552537
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.6939898,
-            25.9552537
-          ],
-          [
-            56.6876886,
-            25.896575
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.6876886,
-            25.896575
-          ],
-          [
-            56.6549428,
-            25.8296343
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.6549428,
-            25.8296343
-          ],
-          [
-            56.6075342,
-            25.7685166
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.6075342,
-            25.7685166
-          ],
-          [
-            56.5662545,
-            25.7159965
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5662545,
-            25.7159965
-          ],
-          [
-            56.5492206,
-            25.6927157
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5492206,
-            25.6927157
-          ],
-          [
-            56.4183841,
-            25.6826565
-          ],
-          [
-            56.278657,
-            25.630159
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.278657,
-            25.630159
-          ],
-          [
-            56.2710192,
-            25.6258872
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.2661515,
-            25.6062827
-          ],
-          [
-            56.2710192,
-            25.6258872
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.0570007,
-            24.8720551
-          ],
-          [
-            56.0413034,
-            24.9075583
-          ],
-          [
-            56.0589215,
-            24.9494314
-          ],
-          [
-            56.042075,
-            24.9476862
-          ],
-          [
-            56.0454828,
-            24.9678867
-          ],
-          [
-            56.0070999,
-            24.9945993
-          ],
-          [
-            55.961137,
-            25.0056314
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.961137,
-            25.0056314
-          ],
-          [
-            55.911098,
-            24.9653024
-          ],
-          [
-            55.8516195,
-            24.9655342
-          ],
-          [
-            55.8128584,
-            24.9106963
-          ],
-          [
-            55.820688,
-            24.7936466
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.820688,
-            24.7936466
-          ],
-          [
-            55.8285155,
-            24.7045295
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8285155,
-            24.7045295
-          ],
-          [
-            55.8364805,
-            24.6720041
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8364805,
-            24.6720041
-          ],
-          [
-            55.7937021,
-            24.637131
-          ],
-          [
-            55.8161465,
-            24.6152938
-          ],
-          [
-            55.7675745,
-            24.5725798
-          ],
-          [
-            55.764822,
-            24.5296539
-          ],
-          [
-            55.7848542,
-            24.4869361
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7848542,
-            24.4869361
-          ],
-          [
-            55.8277307,
-            24.4095602
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8277307,
-            24.4095602
-          ],
-          [
-            55.8339436,
-            24.3277333
-          ],
-          [
-            55.8157208,
-            24.3159333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8157208,
-            24.3159333
-          ],
-          [
-            55.7667065,
-            24.262092
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7667065,
-            24.262092
-          ],
-          [
-            55.7557378,
-            24.2517338
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7557378,
-            24.2517338
-          ],
-          [
-            55.753315,
-            24.2398378
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.753315,
-            24.2398378
-          ],
-          [
-            55.7548999,
-            24.2343801
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7548999,
-            24.2343801
-          ],
-          [
-            55.8333956,
-            24.2009216
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8333956,
-            24.2009216
-          ],
-          [
-            55.9544468,
-            24.2225682
-          ],
-          [
-            55.9696731,
-            24.1823349
-          ],
-          [
-            55.960879,
-            24.1700753
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.960879,
-            24.1700753
-          ],
-          [
-            56.0142493,
-            24.0899579
-          ],
-          [
-            56.0173982,
-            24.0664668
-          ],
-          [
-            55.9813377,
-            24.0624874
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.9813377,
-            24.0624874
-          ],
-          [
-            55.9279082,
-            24.052257
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.9279082,
-            24.052257
-          ],
-          [
-            55.8340589,
-            24.0156016
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8340589,
-            24.0156016
-          ],
-          [
-            55.8011255,
-            24.0254824
-          ],
-          [
-            55.7805724,
-            24.0559045
-          ],
-          [
-            55.7519295,
-            24.0542954
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7519295,
-            24.0542954
-          ],
-          [
-            55.7269164,
-            24.0560866
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7269164,
-            24.0560866
-          ],
-          [
-            55.6748875,
-            24.0343606
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.6748875,
-            24.0343606
-          ],
-          [
-            55.4952262,
-            23.9535993
-          ],
-          [
-            55.4845316,
-            23.9421096
-          ],
-          [
-            55.5014578,
-            23.9044912
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.5014578,
-            23.9044912
-          ],
-          [
-            55.5337255,
-            23.8493518
-          ],
-          [
-            55.5315984,
-            23.7594868
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.5315984,
-            23.7594868
-          ],
-          [
-            55.5692283,
-            23.7207336
-          ],
-          [
-            55.5723085,
-            23.6296459
-          ],
-          [
-            55.4842238,
-            23.5139339
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.4842238,
-            23.5139339
-          ],
-          [
-            55.4306911,
-            23.3995929
-          ],
-          [
-            55.4165065,
-            23.3821507
-          ],
-          [
-            55.4015366,
-            23.3925249
-          ],
-          [
-            55.3705163,
-            23.3360492
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.3705163,
-            23.3360492
-          ],
-          [
-            55.236467,
-            23.1193312
-          ],
-          [
-            55.2297253,
-            23.0479186
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2297253,
-            23.0479186
-          ],
-          [
-            55.2162834,
-            23.0262103
-          ],
-          [
-            55.2197118,
-            22.9781908
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2197118,
-            22.9781908
-          ],
-          [
-            55.2186433,
-            22.753353
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2186433,
-            22.753353
-          ],
-          [
-            55.2160612,
-            22.7324367
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2160612,
-            22.7324367
-          ],
-          [
-            55.2113705,
-            22.7054225
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2113705,
-            22.7054225
-          ],
-          [
-            55.2140494,
-            22.7012826
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2140494,
-            22.7012826
-          ],
-          [
-            55.221465,
-            22.6898223
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.221465,
-            22.6898223
-          ],
-          [
-            55.2382856,
-            22.6638236
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2382856,
-            22.6638236
-          ],
-          [
-            55.2548549,
-            22.6382086
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2548549,
-            22.6382086
-          ],
-          [
-            55.2753063,
-            22.6065854
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2753063,
-            22.6065854
-          ],
-          [
-            55.2970153,
-            22.5730097
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.2970153,
-            22.5730097
-          ],
-          [
-            55.3206539,
-            22.5364403
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.3206539,
-            22.5364403
-          ],
-          [
-            55.3369853,
-            22.5111697
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.3369853,
-            22.5111697
-          ],
-          [
-            55.3571193,
-            22.4800087
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.3571193,
-            22.4800087
-          ],
-          [
-            55.3822217,
-            22.4411483
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.3822217,
-            22.4411483
-          ],
-          [
-            55.4053624,
-            22.4053152
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.4053624,
-            22.4053152
-          ],
-          [
-            55.4291218,
-            22.3685143
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.4291218,
-            22.3685143
-          ],
-          [
-            55.4549921,
-            22.3284328
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.4549921,
-            22.3284328
-          ],
-          [
-            55.4816034,
-            22.2871913
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.4816034,
-            22.2871913
-          ],
-          [
-            55.5272929,
-            22.2128039
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.5272929,
-            22.2128039
-          ],
-          [
-            55.5461464,
-            22.1843692
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.5461464,
-            22.1843692
-          ],
-          [
-            55.6327653,
-            22.0526941
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.6327653,
-            22.0526941
-          ],
-          [
-            55.6666851,
-            22.0000149
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.6666851,
-            22.0000149
-          ],
-          [
-            55.5147153,
-            21.544505
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.5147153,
-            21.544505
-          ],
-          [
-            55.4792994,
-            21.4381566
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.4792994,
-            21.4381566
-          ],
-          [
-            55.4317412,
-            21.3017192
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.4317412,
-            21.3017192
-          ],
-          [
-            55.4212922,
-            21.2704362
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.4212922,
-            21.2704362
-          ],
-          [
-            55.4210582,
-            21.269831
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.4210582,
-            21.269831
-          ],
-          [
-            55.4207022,
-            21.2688282
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.4207022,
-            21.2688282
-          ],
-          [
-            55.0,
-            20.0
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.0,
-            20.0
-          ],
-          [
-            54.9886203,
-            19.9962185
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.9886203,
-            19.9962185
-          ],
-          [
-            54.936842,
-            19.9790114
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.936842,
-            19.9790114
-          ],
-          [
-            54.8579395,
-            19.9527868
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.8579395,
-            19.9527868
-          ],
-          [
-            54.7852279,
-            19.928616
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.7852279,
-            19.928616
-          ],
-          [
-            54.71267,
-            19.9044925
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.71267,
-            19.9044925
-          ],
-          [
-            54.6441778,
-            19.8817174
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.6441778,
-            19.8817174
-          ],
-          [
-            54.5699805,
-            19.8570416
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.5699805,
-            19.8570416
-          ],
-          [
-            54.4943838,
-            19.8318964
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.4943838,
-            19.8318964
-          ],
-          [
-            54.4406323,
-            19.814015
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.4406323,
-            19.814015
-          ],
-          [
-            54.3615177,
-            19.7876925
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.3615177,
-            19.7876925
-          ],
-          [
-            54.3116993,
-            19.7711149
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.3116993,
-            19.7711149
-          ],
-          [
-            54.2608833,
-            19.7542037
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.2608833,
-            19.7542037
-          ],
-          [
-            54.2088397,
-            19.736882
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.2088397,
-            19.736882
-          ],
-          [
-            54.1571462,
-            19.719675
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.1571462,
-            19.719675
-          ],
-          [
-            54.1055492,
-            19.7024983
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.1055492,
-            19.7024983
-          ],
-          [
-            54.0520726,
-            19.6846939
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.0520726,
-            19.6846939
-          ],
-          [
-            53.9947492,
-            19.6656066
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.9947492,
-            19.6656066
-          ],
-          [
-            53.9376244,
-            19.6465832
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.9376244,
-            19.6465832
-          ],
-          [
-            53.8828686,
-            19.6283465
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.8828686,
-            19.6283465
-          ],
-          [
-            53.8270175,
-            19.6097429
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.8270175,
-            19.6097429
-          ],
-          [
-            53.7484146,
-            19.5835572
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.7484146,
-            19.5835572
-          ],
-          [
-            53.6670399,
-            19.5564436
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.6670399,
-            19.5564436
-          ],
-          [
-            53.6027625,
-            19.5350236
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.6027625,
-            19.5350236
-          ],
-          [
-            53.5503631,
-            19.5175597
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.5503631,
-            19.5175597
-          ],
-          [
-            53.4827529,
-            19.4950234
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.4827529,
-            19.4950234
-          ],
-          [
-            53.4260838,
-            19.4761317
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.4260838,
-            19.4761317
-          ],
-          [
-            53.4257345,
-            19.4760152
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.4257345,
-            19.4760152
-          ],
-          [
-            53.3754597,
-            19.4592534
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.3754597,
-            19.4592534
-          ],
-          [
-            53.3235866,
-            19.4419568
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.3235866,
-            19.4419568
-          ],
-          [
-            53.2739612,
-            19.425408
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.2739612,
-            19.425408
-          ],
-          [
-            53.2222565,
-            19.408164
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.2222565,
-            19.408164
-          ],
-          [
-            53.1699627,
-            19.3907216
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.1699627,
-            19.3907216
-          ],
-          [
-            53.0899189,
-            19.3640198
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.0899189,
-            19.3640198
-          ],
-          [
-            52.0168371,
-            19.0056295
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.0168371,
-            19.0056295
-          ],
-          [
-            52.0015052,
-            19.0005032
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            52.0015052,
-            19.0005032
-          ],
-          [
-            52.0000004,
-            19.0
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.0567302,
-            16.7623121
-          ],
-          [
-            52.8122833,
-            17.2855306
-          ],
-          [
-            52.7458333,
-            17.2944444
-          ],
-          [
-            52.782175,
-            17.3497333
-          ],
-          [
-            52.0000004,
-            19.0
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.1088811,
-            16.6504417
-          ],
-          [
-            53.0567302,
-            16.7623121
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.1888457,
-            16.4649608
-          ],
-          [
-            53.1088811,
-            16.6504417
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            53.2129098,
-            16.4758617
-          ],
-          [
-            53.1888457,
-            16.4649608
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.5389697,
-            16.8300093
-          ],
-          [
-            54.3407158,
-            16.8307024
-          ],
-          [
-            54.1778282,
-            16.8077838
-          ],
-          [
-            54.0354665,
-            16.7171556
-          ],
-          [
-            53.85856,
-            16.6857699
-          ],
-          [
-            53.7706187,
-            16.6038578
-          ],
-          [
-            53.6652179,
-            16.563791
-          ],
-          [
-            53.3984119,
-            16.5358429
-          ],
-          [
-            53.2129098,
-            16.4758617
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.5429194,
-            16.8297319
-          ],
-          [
-            54.5389697,
-            16.8300093
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            54.5528967,
-            16.8214341
-          ],
-          [
-            54.5429194,
-            16.8297319
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.4713913,
-            17.2283786
-          ],
-          [
-            55.4454879,
-            17.1414155
-          ],
-          [
-            55.3575339,
-            17.0167456
-          ],
-          [
-            55.1194275,
-            16.8238173
-          ],
-          [
-            54.7931057,
-            16.7351313
-          ],
-          [
-            54.6741403,
-            16.7551153
-          ],
-          [
-            54.5528967,
-            16.8214341
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.481287,
-            17.2373554
-          ],
-          [
-            55.4713913,
-            17.2283786
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.5561023,
-            17.2537298
-          ],
-          [
-            55.481287,
-            17.2373554
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.5943507,
-            17.2621005
-          ],
-          [
-            55.5561023,
-            17.2537298
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.6288194,
-            17.2645902
-          ],
-          [
-            55.5943507,
-            17.2621005
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.6516968,
-            17.2694892
-          ],
-          [
-            55.6288194,
-            17.2645902
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.7057056,
-            17.2735192
-          ],
-          [
-            55.6516968,
-            17.2694892
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.804519,
-            17.2808923
-          ],
-          [
-            55.7057056,
-            17.2735192
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8293935,
-            17.2750208
-          ],
-          [
-            55.804519,
-            17.2808923
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8657134,
-            17.2721734
-          ],
-          [
-            55.8293935,
-            17.2750208
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.8977824,
-            17.2746876
-          ],
-          [
-            55.8657134,
-            17.2721734
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.9288172,
-            17.2818161
-          ],
-          [
-            55.8977824,
-            17.2746876
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            55.9469558,
-            17.2887372
-          ],
-          [
-            55.9288172,
-            17.2818161
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.0168921,
-            17.2783797
-          ],
-          [
-            55.9469558,
-            17.2887372
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.0766772,
-            17.28273
-          ],
-          [
-            56.0168921,
-            17.2783797
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5910595,
-            17.6521742
-          ],
-          [
-            56.6058587,
-            17.4648353
-          ],
-          [
-            56.5806474,
-            17.4021723
-          ],
-          [
-            56.5353474,
-            17.3509837
-          ],
-          [
-            56.4750286,
-            17.3169823
-          ],
-          [
-            56.386921,
-            17.2942745
-          ],
-          [
-            56.1261362,
-            17.2964156
-          ],
-          [
-            56.0766772,
-            17.28273
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5787618,
-            17.7386481
-          ],
-          [
-            56.5910595,
-            17.6521742
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.569294,
-            17.8051945
-          ],
-          [
-            56.5787618,
-            17.7386481
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5646565,
-            17.8377813
-          ],
-          [
-            56.569294,
-            17.8051945
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5616388,
-            17.858983
-          ],
-          [
-            56.5646565,
-            17.8377813
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5691948,
-            17.8657627
-          ],
-          [
-            56.5616388,
-            17.858983
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.6122404,
-            17.9186157
-          ],
-          [
-            56.5691948,
-            17.8657627
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.6924962,
-            17.9775171
-          ],
-          [
-            56.6122404,
-            17.9186157
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.7252437,
-            18.0142138
-          ],
-          [
-            56.6924962,
-            17.9775171
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.7557406,
-            18.0805639
-          ],
-          [
-            56.7252437,
-            18.0142138
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.7602737,
-            18.1569007
-          ],
-          [
-            56.7557406,
-            18.0805639
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.7991405,
-            18.2358092
-          ],
-          [
-            56.7602737,
-            18.1569007
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.8187964,
-            18.3483284
-          ],
-          [
-            56.7991405,
-            18.2358092
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.8408623,
-            18.4122725
-          ],
-          [
-            56.8187964,
-            18.3483284
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.8418355,
-            18.4888516
-          ],
-          [
-            56.8408623,
-            18.4122725
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.8824444,
-            18.537153
-          ],
-          [
-            56.8418355,
-            18.4888516
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.9734423,
-            18.6150233
-          ],
-          [
-            56.8824444,
-            18.537153
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.1084829,
-            18.667514
-          ],
-          [
-            56.9734423,
-            18.6150233
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.1426537,
-            18.676083
-          ],
-          [
-            57.1084829,
-            18.667514
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.406442,
-            18.7323715
-          ],
-          [
-            57.1426537,
-            18.676083
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.5315008,
-            18.7371522
-          ],
-          [
-            57.406442,
-            18.7323715
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.6422437,
-            18.7368876
-          ],
-          [
-            57.5315008,
-            18.7371522
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.7967767,
-            18.7591806
-          ],
-          [
-            57.6422437,
-            18.7368876
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.8455255,
-            18.7723314
-          ],
-          [
-            57.7967767,
-            18.7591806
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.9120773,
-            18.796579
-          ],
-          [
-            57.8455255,
-            18.7723314
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.9776485,
-            18.8436831
-          ],
-          [
-            57.9120773,
-            18.796579
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.036722,
-            18.9128541
-          ],
-          [
-            57.9776485,
-            18.8436831
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.0591681,
-            19.0246319
-          ],
-          [
-            58.036722,
-            18.9128541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.0521858,
-            19.0612412
-          ],
-          [
-            58.0591681,
-            19.0246319
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.0382167,
-            19.0959965
-          ],
-          [
-            58.0521858,
-            19.0612412
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.0141849,
-            19.131604
-          ],
-          [
-            58.0382167,
-            19.0959965
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.0122846,
-            19.1879882
-          ],
-          [
-            58.0141849,
-            19.131604
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.0039002,
-            19.2202041
-          ],
-          [
-            58.0122846,
-            19.1879882
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.9882978,
-            19.2537673
-          ],
-          [
-            58.0039002,
-            19.2202041
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.9618837,
-            19.2907141
-          ],
-          [
-            57.9882978,
-            19.2537673
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.958797,
-            19.2936862
-          ],
-          [
-            57.9618837,
-            19.2907141
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.9594944,
-            19.2961413
-          ],
-          [
-            57.958797,
-            19.2936862
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.0458526,
-            20.1076588
-          ],
-          [
-            58.0170632,
-            19.9334172
-          ],
-          [
-            57.9918787,
-            19.8760028
-          ],
-          [
-            58.0070514,
-            19.7667341
-          ],
-          [
-            57.9819384,
-            19.6975162
-          ],
-          [
-            57.9388509,
-            19.6475428
-          ],
-          [
-            57.9218124,
-            19.5598544
-          ],
-          [
-            57.9711504,
-            19.4241631
-          ],
-          [
-            57.9594944,
-            19.2961413
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.0473324,
-            20.1228803
-          ],
-          [
-            58.0458526,
-            20.1076588
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.0590942,
-            20.1236276
-          ],
-          [
-            58.0473324,
-            20.1228803
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.0707446,
-            20.1243678
-          ],
-          [
-            58.0590942,
-            20.1236276
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.1507626,
-            20.1294519
-          ],
-          [
-            58.0707446,
-            20.1243678
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.2216536,
-            20.1339559
-          ],
-          [
-            58.1507626,
-            20.1294519
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.266148,
-            20.1367828
-          ],
-          [
-            58.2216536,
-            20.1339559
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.270285,
-            20.1370456
-          ],
-          [
-            58.266148,
-            20.1367828
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.2776501,
-            20.1326603
-          ],
-          [
-            58.270285,
-            20.1370456
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.3875188,
-            20.0672279
-          ],
-          [
-            58.2776501,
-            20.1326603
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.4115901,
-            20.0528886
-          ],
-          [
-            58.3875188,
-            20.0672279
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.5598287,
-            19.9685438
-          ],
-          [
-            58.4115901,
-            20.0528886
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.6362449,
-            19.9542932
-          ],
-          [
-            58.5598287,
-            19.9685438
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.7481746,
-            19.9831086
-          ],
-          [
-            58.6362449,
-            19.9542932
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.8582714,
-            20.0579116
-          ],
-          [
-            58.7481746,
-            19.9831086
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.933307,
-            20.1323929
-          ],
-          [
-            58.8582714,
-            20.0579116
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.9774582,
-            20.1914213
-          ],
-          [
-            58.933307,
-            20.1323929
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.014462,
-            20.2384933
-          ],
-          [
-            58.9774582,
-            20.1914213
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.0886141,
-            20.3327782
-          ],
-          [
-            59.014462,
-            20.2384933
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.1594938,
-            20.3989252
-          ],
-          [
-            59.0886141,
-            20.3327782
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.1891126,
-            20.5214073
-          ],
-          [
-            59.1863905,
-            20.4634639
-          ],
-          [
-            59.1594938,
-            20.3989252
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.1883927,
-            20.5327774
-          ],
-          [
-            59.1891126,
-            20.5214073
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.1585712,
-            20.6270758
-          ],
-          [
-            59.1883927,
-            20.5327774
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.1231239,
-            20.7276868
-          ],
-          [
-            59.1585712,
-            20.6270758
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.1102646,
-            20.7668483
-          ],
-          [
-            59.1231239,
-            20.7276868
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.0767597,
-            20.857385
-          ],
-          [
-            59.1102646,
-            20.7668483
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.0479499,
-            20.9385916
-          ],
-          [
-            59.0767597,
-            20.857385
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.0487139,
-            20.9694633
-          ],
-          [
-            59.0479499,
-            20.9385916
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.3797472,
-            23.06466
-          ],
-          [
-            59.4574377,
-            22.9168365
-          ],
-          [
-            59.6040201,
-            22.7705209
-          ],
-          [
-            59.8839276,
-            22.7212537
-          ],
-          [
-            59.9709563,
-            22.656121
-          ],
-          [
-            60.0348298,
-            22.5275906
-          ],
-          [
-            60.0540691,
-            22.4435064
-          ],
-          [
-            60.0362056,
-            22.2561094
-          ],
-          [
-            60.0076875,
-            22.1469434
-          ],
-          [
-            59.8841803,
-            21.9890791
-          ],
-          [
-            59.8413064,
-            21.8513082
-          ],
-          [
-            59.6970867,
-            21.6707648
-          ],
-          [
-            59.6443676,
-            21.5415256
-          ],
-          [
-            59.5131196,
-            21.3089568
-          ],
-          [
-            59.4449959,
-            21.2546325
-          ],
-          [
-            59.3024498,
-            21.1940368
-          ],
-          [
-            59.1757844,
-            21.0988411
-          ],
-          [
-            59.0487139,
-            20.9694633
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.3753103,
-            23.0711987
-          ],
-          [
-            59.3797472,
-            23.06466
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            59.3714307,
-            23.0757981
-          ],
-          [
-            59.3753103,
-            23.0711987
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.9914403,
-            23.5196941
-          ],
-          [
-            59.0874307,
-            23.4484588
-          ],
-          [
-            59.2590372,
-            23.1606898
-          ],
-          [
-            59.3714307,
-            23.0757981
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.9900963,
-            23.527005
-          ],
-          [
-            58.9914403,
-            23.5196941
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.9762573,
-            23.5621308
-          ],
-          [
-            58.9900963,
-            23.527005
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.9713654,
-            23.5735992
-          ],
-          [
-            58.9762573,
-            23.5621308
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.9188823,
-            23.6526351
-          ],
-          [
-            58.9713654,
-            23.5735992
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.8393721,
-            23.7111341
-          ],
-          [
-            58.9188823,
-            23.6526351
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.7298309,
-            23.7860232
-          ],
-          [
-            58.8393721,
-            23.7111341
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.6116521,
-            23.8568731
-          ],
-          [
-            58.7298309,
-            23.7860232
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.4915819,
-            23.9126284
-          ],
-          [
-            58.6116521,
-            23.8568731
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.3509778,
-            23.9819429
-          ],
-          [
-            58.4915819,
-            23.9126284
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.220466,
-            24.0462489
-          ],
-          [
-            58.3509778,
-            23.9819429
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.1406221,
-            24.0681166
-          ],
-          [
-            58.220466,
-            24.0462489
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            58.014689,
-            24.0534956
-          ],
-          [
-            58.1406221,
-            24.0681166
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.9232337,
-            24.0388843
-          ],
-          [
-            58.014689,
-            24.0534956
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.9058352,
-            24.034927
-          ],
-          [
-            57.9232337,
-            24.0388843
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.8935212,
-            24.0321261
-          ],
-          [
-            57.9058352,
-            24.034927
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            57.687861,
-            23.979514
-          ],
-          [
-            57.8935212,
-            24.0321261
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5940524,
-            25.0087644
-          ],
-          [
-            56.7365617,
-            24.7014517
-          ],
-          [
-            56.7907952,
-            24.660106
-          ],
-          [
-            56.8389556,
-            24.577352
-          ],
-          [
-            56.9277459,
-            24.4909672
-          ],
-          [
-            57.0998382,
-            24.2521748
-          ],
-          [
-            57.2773842,
-            24.1160749
-          ],
-          [
-            57.6098675,
-            24.0194625
-          ],
-          [
-            57.687861,
-            23.979514
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5940524,
-            25.0087644
-          ],
-          [
-            56.5852044,
-            25.0064132
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.5852044,
-            25.0064132
-          ],
-          [
-            56.4905226,
-            24.9950206
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.4905226,
-            24.9950206
-          ],
-          [
-            56.4025176,
-            24.9844304
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.4025176,
-            24.9844304
-          ],
-          [
-            56.3826282,
-            24.9820369
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.3826282,
-            24.9820369
-          ],
-          [
-            56.376422,
-            24.9808344
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.376422,
-            24.9808344
-          ],
-          [
-            56.3746401,
-            24.9804235
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.3746401,
-            24.9804235
-          ],
-          [
-            56.3232806,
-            24.9723581
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.3232806,
-            24.9723581
-          ],
-          [
-            56.346983,
-            24.9293299
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.346983,
-            24.9293299
-          ],
-          [
-            56.3254598,
-            24.8984545
-          ],
-          [
-            56.2670629,
-            24.8661182
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.2670629,
-            24.8661182
-          ],
-          [
-            56.205659,
-            24.8505069
-          ],
-          [
-            56.2036202,
-            24.8238098
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.2036202,
-            24.8238098
-          ],
-          [
-            56.2010535,
-            24.7851227
-          ],
-          [
-            56.1443329,
-            24.7415562
-          ],
-          [
-            56.1127329,
-            24.7382019
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.1127329,
-            24.7382019
-          ],
-          [
-            56.0811398,
-            24.7432899
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.0811398,
-            24.7432899
-          ],
-          [
-            56.0542793,
-            24.7521114
-          ],
-          [
-            56.0361567,
-            24.810922
-          ],
-          [
-            55.9783405,
-            24.8773628
-          ],
-          [
-            55.9801644,
-            24.8944923
-          ],
-          [
-            56.0570007,
-            24.8720551
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.3489806,
-            25.3064976
-          ],
-          [
-            56.3197616,
-            25.3024548
-          ],
-          [
-            56.3069043,
-            25.3294573
-          ],
-          [
-            56.2676961,
-            25.3374352
-          ],
-          [
-            56.2440467,
-            25.3170649
-          ],
-          [
-            56.257835,
-            25.2865465
-          ],
-          [
-            56.2241067,
-            25.2632106
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.2241067,
-            25.2632106
-          ],
-          [
-            56.2092723,
-            25.2419001
-          ],
-          [
-            56.2708146,
-            25.227185
-          ],
-          [
-            56.3442309,
-            25.2638782
-          ],
-          [
-            56.3489806,
-            25.3064976
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "OM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
-        "name": "\u0639\u0645\u0627\u0646"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            56.2719766,
-            25.2847367
-          ],
-          [
-            56.2703706,
-            25.2631538
-          ],
-          [
-            56.2847708,
-            25.2627605
-          ],
-          [
-            56.2931578,
-            25.2769198
-          ],
-          [
-            56.2719766,
-            25.2847367
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.266151,
+              25.606283
+            ],
+            [
+              56.271019,
+              25.625887
+            ],
+            [
+              56.271019,
+              25.625887
+            ],
+            [
+              56.278657,
+              25.630159
+            ],
+            [
+              56.278657,
+              25.630159
+            ],
+            [
+              56.418384,
+              25.682657
+            ],
+            [
+              56.549221,
+              25.692716
+            ],
+            [
+              56.549221,
+              25.692716
+            ],
+            [
+              56.566254,
+              25.715996
+            ],
+            [
+              56.566254,
+              25.715996
+            ],
+            [
+              56.607534,
+              25.768517
+            ],
+            [
+              56.607534,
+              25.768517
+            ],
+            [
+              56.654943,
+              25.829634
+            ],
+            [
+              56.654943,
+              25.829634
+            ],
+            [
+              56.687689,
+              25.896575
+            ],
+            [
+              56.687689,
+              25.896575
+            ],
+            [
+              56.69399,
+              25.955254
+            ],
+            [
+              56.69399,
+              25.955254
+            ],
+            [
+              56.696127,
+              26.016195
+            ],
+            [
+              56.696127,
+              26.016195
+            ],
+            [
+              56.749173,
+              26.087319
+            ],
+            [
+              56.770465,
+              26.152921
+            ],
+            [
+              56.756936,
+              26.521184
+            ],
+            [
+              56.72992,
+              26.58761
+            ],
+            [
+              56.665429,
+              26.654629
+            ],
+            [
+              56.54625,
+              26.702674
+            ],
+            [
+              56.54625,
+              26.702674
+            ],
+            [
+              56.298146,
+              26.603391
+            ],
+            [
+              56.298146,
+              26.603391
+            ],
+            [
+              56.036445,
+              26.383926
+            ],
+            [
+              55.888369,
+              26.151722
+            ],
+            [
+              55.888369,
+              26.151722
+            ],
+            [
+              56.086446,
+              26.050444
+            ],
+            [
+              56.086446,
+              26.050444
+            ],
+            [
+              56.153574,
+              26.069408
+            ],
+            [
+              56.195513,
+              25.979301
+            ],
+            [
+              56.16444,
+              25.947151
+            ],
+            [
+              56.178517,
+              25.894512
+            ],
+            [
+              56.14,
+              25.826944
+            ],
+            [
+              56.167702,
+              25.72525
+            ],
+            [
+              56.16087,
+              25.660291
+            ],
+            [
+              56.16087,
+              25.660291
+            ],
+            [
+              56.191111,
+              25.648056
+            ],
+            [
+              56.201874,
+              25.611984
+            ],
+            [
+              56.266151,
+              25.606283
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "OM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+        "name": "\u0639\u0645\u0627\u0646",
+        "id": "OM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55.961137,
+              25.005631
+            ],
+            [
+              55.911098,
+              24.965302
+            ],
+            [
+              55.851619,
+              24.965534
+            ],
+            [
+              55.812858,
+              24.910696
+            ],
+            [
+              55.820688,
+              24.793647
+            ],
+            [
+              55.820688,
+              24.793647
+            ],
+            [
+              55.828516,
+              24.704529
+            ],
+            [
+              55.828516,
+              24.704529
+            ],
+            [
+              55.836481,
+              24.672004
+            ],
+            [
+              55.836481,
+              24.672004
+            ],
+            [
+              55.793702,
+              24.637131
+            ],
+            [
+              55.816147,
+              24.615294
+            ],
+            [
+              55.767575,
+              24.57258
+            ],
+            [
+              55.764822,
+              24.529654
+            ],
+            [
+              55.784854,
+              24.486936
+            ],
+            [
+              55.784854,
+              24.486936
+            ],
+            [
+              55.827731,
+              24.40956
+            ],
+            [
+              55.827731,
+              24.40956
+            ],
+            [
+              55.833944,
+              24.327733
+            ],
+            [
+              55.815721,
+              24.315933
+            ],
+            [
+              55.815721,
+              24.315933
+            ],
+            [
+              55.766706,
+              24.262092
+            ],
+            [
+              55.766706,
+              24.262092
+            ],
+            [
+              55.755738,
+              24.251734
+            ],
+            [
+              55.755738,
+              24.251734
+            ],
+            [
+              55.753315,
+              24.239838
+            ],
+            [
+              55.753315,
+              24.239838
+            ],
+            [
+              55.7549,
+              24.23438
+            ],
+            [
+              55.7549,
+              24.23438
+            ],
+            [
+              55.833396,
+              24.200922
+            ],
+            [
+              55.833396,
+              24.200922
+            ],
+            [
+              55.954447,
+              24.222568
+            ],
+            [
+              55.969673,
+              24.182335
+            ],
+            [
+              55.960879,
+              24.170075
+            ],
+            [
+              55.960879,
+              24.170075
+            ],
+            [
+              56.014249,
+              24.089958
+            ],
+            [
+              56.017398,
+              24.066467
+            ],
+            [
+              55.981338,
+              24.062487
+            ],
+            [
+              55.981338,
+              24.062487
+            ],
+            [
+              55.927908,
+              24.052257
+            ],
+            [
+              55.927908,
+              24.052257
+            ],
+            [
+              55.834059,
+              24.015602
+            ],
+            [
+              55.834059,
+              24.015602
+            ],
+            [
+              55.801125,
+              24.025482
+            ],
+            [
+              55.780572,
+              24.055905
+            ],
+            [
+              55.75193,
+              24.054295
+            ],
+            [
+              55.75193,
+              24.054295
+            ],
+            [
+              55.726916,
+              24.056087
+            ],
+            [
+              55.726916,
+              24.056087
+            ],
+            [
+              55.674887,
+              24.034361
+            ],
+            [
+              55.674887,
+              24.034361
+            ],
+            [
+              55.495226,
+              23.953599
+            ],
+            [
+              55.484532,
+              23.94211
+            ],
+            [
+              55.501458,
+              23.904491
+            ],
+            [
+              55.501458,
+              23.904491
+            ],
+            [
+              55.533726,
+              23.849352
+            ],
+            [
+              55.531598,
+              23.759487
+            ],
+            [
+              55.531598,
+              23.759487
+            ],
+            [
+              55.569228,
+              23.720734
+            ],
+            [
+              55.572308,
+              23.629646
+            ],
+            [
+              55.484224,
+              23.513934
+            ],
+            [
+              55.484224,
+              23.513934
+            ],
+            [
+              55.430691,
+              23.399593
+            ],
+            [
+              55.416506,
+              23.382151
+            ],
+            [
+              55.401537,
+              23.392525
+            ],
+            [
+              55.370516,
+              23.336049
+            ],
+            [
+              55.370516,
+              23.336049
+            ],
+            [
+              55.236467,
+              23.119331
+            ],
+            [
+              55.229725,
+              23.047919
+            ],
+            [
+              55.229725,
+              23.047919
+            ],
+            [
+              55.216283,
+              23.02621
+            ],
+            [
+              55.219712,
+              22.978191
+            ],
+            [
+              55.219712,
+              22.978191
+            ],
+            [
+              55.218643,
+              22.753353
+            ],
+            [
+              55.218643,
+              22.753353
+            ],
+            [
+              55.216061,
+              22.732437
+            ],
+            [
+              55.216061,
+              22.732437
+            ],
+            [
+              55.211371,
+              22.705423
+            ],
+            [
+              55.211371,
+              22.705423
+            ],
+            [
+              55.214049,
+              22.701283
+            ],
+            [
+              55.214049,
+              22.701283
+            ],
+            [
+              55.221465,
+              22.689822
+            ],
+            [
+              55.221465,
+              22.689822
+            ],
+            [
+              55.238286,
+              22.663824
+            ],
+            [
+              55.238286,
+              22.663824
+            ],
+            [
+              55.254855,
+              22.638209
+            ],
+            [
+              55.254855,
+              22.638209
+            ],
+            [
+              55.275306,
+              22.606585
+            ],
+            [
+              55.275306,
+              22.606585
+            ],
+            [
+              55.297015,
+              22.57301
+            ],
+            [
+              55.297015,
+              22.57301
+            ],
+            [
+              55.320654,
+              22.53644
+            ],
+            [
+              55.320654,
+              22.53644
+            ],
+            [
+              55.336985,
+              22.51117
+            ],
+            [
+              55.336985,
+              22.51117
+            ],
+            [
+              55.357119,
+              22.480009
+            ],
+            [
+              55.357119,
+              22.480009
+            ],
+            [
+              55.382222,
+              22.441148
+            ],
+            [
+              55.382222,
+              22.441148
+            ],
+            [
+              55.405362,
+              22.405315
+            ],
+            [
+              55.405362,
+              22.405315
+            ],
+            [
+              55.429122,
+              22.368514
+            ],
+            [
+              55.429122,
+              22.368514
+            ],
+            [
+              55.454992,
+              22.328433
+            ],
+            [
+              55.454992,
+              22.328433
+            ],
+            [
+              55.481603,
+              22.287191
+            ],
+            [
+              55.481603,
+              22.287191
+            ],
+            [
+              55.527293,
+              22.212804
+            ],
+            [
+              55.527293,
+              22.212804
+            ],
+            [
+              55.546146,
+              22.184369
+            ],
+            [
+              55.546146,
+              22.184369
+            ],
+            [
+              55.632765,
+              22.052694
+            ],
+            [
+              55.632765,
+              22.052694
+            ],
+            [
+              55.666685,
+              22.000015
+            ],
+            [
+              55.666685,
+              22.000015
+            ],
+            [
+              55.514715,
+              21.544505
+            ],
+            [
+              55.514715,
+              21.544505
+            ],
+            [
+              55.479299,
+              21.438157
+            ],
+            [
+              55.479299,
+              21.438157
+            ],
+            [
+              55.431741,
+              21.301719
+            ],
+            [
+              55.431741,
+              21.301719
+            ],
+            [
+              55.421292,
+              21.270436
+            ],
+            [
+              55.421292,
+              21.270436
+            ],
+            [
+              55.421058,
+              21.269831
+            ],
+            [
+              55.421058,
+              21.269831
+            ],
+            [
+              55.420702,
+              21.268828
+            ],
+            [
+              55.420702,
+              21.268828
+            ],
+            [
+              55.0,
+              20.0
+            ],
+            [
+              55.0,
+              20.0
+            ],
+            [
+              54.98862,
+              19.996219
+            ],
+            [
+              54.98862,
+              19.996219
+            ],
+            [
+              54.936842,
+              19.979011
+            ],
+            [
+              54.936842,
+              19.979011
+            ],
+            [
+              54.85794,
+              19.952787
+            ],
+            [
+              54.85794,
+              19.952787
+            ],
+            [
+              54.785228,
+              19.928616
+            ],
+            [
+              54.785228,
+              19.928616
+            ],
+            [
+              54.71267,
+              19.904492
+            ],
+            [
+              54.71267,
+              19.904492
+            ],
+            [
+              54.644178,
+              19.881717
+            ],
+            [
+              54.644178,
+              19.881717
+            ],
+            [
+              54.56998,
+              19.857042
+            ],
+            [
+              54.56998,
+              19.857042
+            ],
+            [
+              54.494384,
+              19.831896
+            ],
+            [
+              54.494384,
+              19.831896
+            ],
+            [
+              54.440632,
+              19.814015
+            ],
+            [
+              54.440632,
+              19.814015
+            ],
+            [
+              54.361518,
+              19.787692
+            ],
+            [
+              54.361518,
+              19.787692
+            ],
+            [
+              54.311699,
+              19.771115
+            ],
+            [
+              54.311699,
+              19.771115
+            ],
+            [
+              54.260883,
+              19.754204
+            ],
+            [
+              54.260883,
+              19.754204
+            ],
+            [
+              54.20884,
+              19.736882
+            ],
+            [
+              54.20884,
+              19.736882
+            ],
+            [
+              54.157146,
+              19.719675
+            ],
+            [
+              54.157146,
+              19.719675
+            ],
+            [
+              54.105549,
+              19.702498
+            ],
+            [
+              54.105549,
+              19.702498
+            ],
+            [
+              54.052073,
+              19.684694
+            ],
+            [
+              54.052073,
+              19.684694
+            ],
+            [
+              53.994749,
+              19.665607
+            ],
+            [
+              53.994749,
+              19.665607
+            ],
+            [
+              53.937624,
+              19.646583
+            ],
+            [
+              53.937624,
+              19.646583
+            ],
+            [
+              53.882869,
+              19.628346
+            ],
+            [
+              53.882869,
+              19.628346
+            ],
+            [
+              53.827017,
+              19.609743
+            ],
+            [
+              53.827017,
+              19.609743
+            ],
+            [
+              53.748415,
+              19.583557
+            ],
+            [
+              53.748415,
+              19.583557
+            ],
+            [
+              53.66704,
+              19.556444
+            ],
+            [
+              53.66704,
+              19.556444
+            ],
+            [
+              53.602762,
+              19.535024
+            ],
+            [
+              53.602762,
+              19.535024
+            ],
+            [
+              53.550363,
+              19.51756
+            ],
+            [
+              53.550363,
+              19.51756
+            ],
+            [
+              53.482753,
+              19.495023
+            ],
+            [
+              53.482753,
+              19.495023
+            ],
+            [
+              53.426084,
+              19.476132
+            ],
+            [
+              53.426084,
+              19.476132
+            ],
+            [
+              53.425734,
+              19.476015
+            ],
+            [
+              53.425734,
+              19.476015
+            ],
+            [
+              53.37546,
+              19.459253
+            ],
+            [
+              53.37546,
+              19.459253
+            ],
+            [
+              53.323587,
+              19.441957
+            ],
+            [
+              53.323587,
+              19.441957
+            ],
+            [
+              53.273961,
+              19.425408
+            ],
+            [
+              53.273961,
+              19.425408
+            ],
+            [
+              53.222257,
+              19.408164
+            ],
+            [
+              53.222257,
+              19.408164
+            ],
+            [
+              53.169963,
+              19.390722
+            ],
+            [
+              53.169963,
+              19.390722
+            ],
+            [
+              53.089919,
+              19.36402
+            ],
+            [
+              53.089919,
+              19.36402
+            ],
+            [
+              52.016837,
+              19.00563
+            ],
+            [
+              52.016837,
+              19.00563
+            ],
+            [
+              52.001505,
+              19.000503
+            ],
+            [
+              52.001505,
+              19.000503
+            ],
+            [
+              52.0,
+              19.0
+            ],
+            [
+              52.0,
+              19.0
+            ],
+            [
+              52.782175,
+              17.349733
+            ],
+            [
+              52.745833,
+              17.294444
+            ],
+            [
+              52.812283,
+              17.285531
+            ],
+            [
+              53.05673,
+              16.762312
+            ],
+            [
+              53.05673,
+              16.762312
+            ],
+            [
+              53.108881,
+              16.650442
+            ],
+            [
+              53.108881,
+              16.650442
+            ],
+            [
+              53.188846,
+              16.464961
+            ],
+            [
+              53.188846,
+              16.464961
+            ],
+            [
+              53.21291,
+              16.475862
+            ],
+            [
+              53.21291,
+              16.475862
+            ],
+            [
+              53.398412,
+              16.535843
+            ],
+            [
+              53.665218,
+              16.563791
+            ],
+            [
+              53.770619,
+              16.603858
+            ],
+            [
+              53.85856,
+              16.68577
+            ],
+            [
+              54.035466,
+              16.717156
+            ],
+            [
+              54.177828,
+              16.807784
+            ],
+            [
+              54.340716,
+              16.830702
+            ],
+            [
+              54.53897,
+              16.830009
+            ],
+            [
+              54.53897,
+              16.830009
+            ],
+            [
+              54.542919,
+              16.829732
+            ],
+            [
+              54.542919,
+              16.829732
+            ],
+            [
+              54.552897,
+              16.821434
+            ],
+            [
+              54.552897,
+              16.821434
+            ],
+            [
+              54.67414,
+              16.755115
+            ],
+            [
+              54.793106,
+              16.735131
+            ],
+            [
+              55.119428,
+              16.823817
+            ],
+            [
+              55.357534,
+              17.016746
+            ],
+            [
+              55.445488,
+              17.141416
+            ],
+            [
+              55.471391,
+              17.228379
+            ],
+            [
+              55.471391,
+              17.228379
+            ],
+            [
+              55.481287,
+              17.237355
+            ],
+            [
+              55.481287,
+              17.237355
+            ],
+            [
+              55.556102,
+              17.25373
+            ],
+            [
+              55.556102,
+              17.25373
+            ],
+            [
+              55.594351,
+              17.2621
+            ],
+            [
+              55.594351,
+              17.2621
+            ],
+            [
+              55.628819,
+              17.26459
+            ],
+            [
+              55.628819,
+              17.26459
+            ],
+            [
+              55.651697,
+              17.269489
+            ],
+            [
+              55.651697,
+              17.269489
+            ],
+            [
+              55.705706,
+              17.273519
+            ],
+            [
+              55.705706,
+              17.273519
+            ],
+            [
+              55.804519,
+              17.280892
+            ],
+            [
+              55.804519,
+              17.280892
+            ],
+            [
+              55.829394,
+              17.275021
+            ],
+            [
+              55.829394,
+              17.275021
+            ],
+            [
+              55.865713,
+              17.272173
+            ],
+            [
+              55.865713,
+              17.272173
+            ],
+            [
+              55.897782,
+              17.274688
+            ],
+            [
+              55.897782,
+              17.274688
+            ],
+            [
+              55.928817,
+              17.281816
+            ],
+            [
+              55.928817,
+              17.281816
+            ],
+            [
+              55.946956,
+              17.288737
+            ],
+            [
+              55.946956,
+              17.288737
+            ],
+            [
+              56.016892,
+              17.27838
+            ],
+            [
+              56.016892,
+              17.27838
+            ],
+            [
+              56.076677,
+              17.28273
+            ],
+            [
+              56.076677,
+              17.28273
+            ],
+            [
+              56.126136,
+              17.296416
+            ],
+            [
+              56.386921,
+              17.294275
+            ],
+            [
+              56.475029,
+              17.316982
+            ],
+            [
+              56.535347,
+              17.350984
+            ],
+            [
+              56.580647,
+              17.402172
+            ],
+            [
+              56.605859,
+              17.464835
+            ],
+            [
+              56.59106,
+              17.652174
+            ],
+            [
+              56.59106,
+              17.652174
+            ],
+            [
+              56.578762,
+              17.738648
+            ],
+            [
+              56.578762,
+              17.738648
+            ],
+            [
+              56.569294,
+              17.805194
+            ],
+            [
+              56.569294,
+              17.805194
+            ],
+            [
+              56.564656,
+              17.837781
+            ],
+            [
+              56.564656,
+              17.837781
+            ],
+            [
+              56.561639,
+              17.858983
+            ],
+            [
+              56.561639,
+              17.858983
+            ],
+            [
+              56.569195,
+              17.865763
+            ],
+            [
+              56.569195,
+              17.865763
+            ],
+            [
+              56.61224,
+              17.918616
+            ],
+            [
+              56.61224,
+              17.918616
+            ],
+            [
+              56.692496,
+              17.977517
+            ],
+            [
+              56.692496,
+              17.977517
+            ],
+            [
+              56.725244,
+              18.014214
+            ],
+            [
+              56.725244,
+              18.014214
+            ],
+            [
+              56.755741,
+              18.080564
+            ],
+            [
+              56.755741,
+              18.080564
+            ],
+            [
+              56.760274,
+              18.156901
+            ],
+            [
+              56.760274,
+              18.156901
+            ],
+            [
+              56.799141,
+              18.235809
+            ],
+            [
+              56.799141,
+              18.235809
+            ],
+            [
+              56.818796,
+              18.348328
+            ],
+            [
+              56.818796,
+              18.348328
+            ],
+            [
+              56.840862,
+              18.412273
+            ],
+            [
+              56.840862,
+              18.412273
+            ],
+            [
+              56.841836,
+              18.488852
+            ],
+            [
+              56.841836,
+              18.488852
+            ],
+            [
+              56.882444,
+              18.537153
+            ],
+            [
+              56.882444,
+              18.537153
+            ],
+            [
+              56.973442,
+              18.615023
+            ],
+            [
+              56.973442,
+              18.615023
+            ],
+            [
+              57.108483,
+              18.667514
+            ],
+            [
+              57.108483,
+              18.667514
+            ],
+            [
+              57.142654,
+              18.676083
+            ],
+            [
+              57.142654,
+              18.676083
+            ],
+            [
+              57.406442,
+              18.732371
+            ],
+            [
+              57.406442,
+              18.732371
+            ],
+            [
+              57.531501,
+              18.737152
+            ],
+            [
+              57.531501,
+              18.737152
+            ],
+            [
+              57.642244,
+              18.736888
+            ],
+            [
+              57.642244,
+              18.736888
+            ],
+            [
+              57.796777,
+              18.759181
+            ],
+            [
+              57.796777,
+              18.759181
+            ],
+            [
+              57.845526,
+              18.772331
+            ],
+            [
+              57.845526,
+              18.772331
+            ],
+            [
+              57.912077,
+              18.796579
+            ],
+            [
+              57.912077,
+              18.796579
+            ],
+            [
+              57.977649,
+              18.843683
+            ],
+            [
+              57.977649,
+              18.843683
+            ],
+            [
+              58.036722,
+              18.912854
+            ],
+            [
+              58.036722,
+              18.912854
+            ],
+            [
+              58.059168,
+              19.024632
+            ],
+            [
+              58.059168,
+              19.024632
+            ],
+            [
+              58.052186,
+              19.061241
+            ],
+            [
+              58.052186,
+              19.061241
+            ],
+            [
+              58.038217,
+              19.095996
+            ],
+            [
+              58.038217,
+              19.095996
+            ],
+            [
+              58.014185,
+              19.131604
+            ],
+            [
+              58.014185,
+              19.131604
+            ],
+            [
+              58.012285,
+              19.187988
+            ],
+            [
+              58.012285,
+              19.187988
+            ],
+            [
+              58.0039,
+              19.220204
+            ],
+            [
+              58.0039,
+              19.220204
+            ],
+            [
+              57.988298,
+              19.253767
+            ],
+            [
+              57.988298,
+              19.253767
+            ],
+            [
+              57.961884,
+              19.290714
+            ],
+            [
+              57.961884,
+              19.290714
+            ],
+            [
+              57.958797,
+              19.293686
+            ],
+            [
+              57.958797,
+              19.293686
+            ],
+            [
+              57.959494,
+              19.296141
+            ],
+            [
+              57.959494,
+              19.296141
+            ],
+            [
+              57.97115,
+              19.424163
+            ],
+            [
+              57.921812,
+              19.559854
+            ],
+            [
+              57.938851,
+              19.647543
+            ],
+            [
+              57.981938,
+              19.697516
+            ],
+            [
+              58.007051,
+              19.766734
+            ],
+            [
+              57.991879,
+              19.876003
+            ],
+            [
+              58.017063,
+              19.933417
+            ],
+            [
+              58.045853,
+              20.107659
+            ],
+            [
+              58.045853,
+              20.107659
+            ],
+            [
+              58.047332,
+              20.12288
+            ],
+            [
+              58.047332,
+              20.12288
+            ],
+            [
+              58.059094,
+              20.123628
+            ],
+            [
+              58.059094,
+              20.123628
+            ],
+            [
+              58.070745,
+              20.124368
+            ],
+            [
+              58.070745,
+              20.124368
+            ],
+            [
+              58.150763,
+              20.129452
+            ],
+            [
+              58.150763,
+              20.129452
+            ],
+            [
+              58.221654,
+              20.133956
+            ],
+            [
+              58.221654,
+              20.133956
+            ],
+            [
+              58.266148,
+              20.136783
+            ],
+            [
+              58.266148,
+              20.136783
+            ],
+            [
+              58.270285,
+              20.137046
+            ],
+            [
+              58.270285,
+              20.137046
+            ],
+            [
+              58.27765,
+              20.13266
+            ],
+            [
+              58.27765,
+              20.13266
+            ],
+            [
+              58.387519,
+              20.067228
+            ],
+            [
+              58.387519,
+              20.067228
+            ],
+            [
+              58.41159,
+              20.052889
+            ],
+            [
+              58.41159,
+              20.052889
+            ],
+            [
+              58.559829,
+              19.968544
+            ],
+            [
+              58.559829,
+              19.968544
+            ],
+            [
+              58.636245,
+              19.954293
+            ],
+            [
+              58.636245,
+              19.954293
+            ],
+            [
+              58.748175,
+              19.983109
+            ],
+            [
+              58.748175,
+              19.983109
+            ],
+            [
+              58.858271,
+              20.057912
+            ],
+            [
+              58.858271,
+              20.057912
+            ],
+            [
+              58.933307,
+              20.132393
+            ],
+            [
+              58.933307,
+              20.132393
+            ],
+            [
+              58.977458,
+              20.191421
+            ],
+            [
+              58.977458,
+              20.191421
+            ],
+            [
+              59.014462,
+              20.238493
+            ],
+            [
+              59.014462,
+              20.238493
+            ],
+            [
+              59.088614,
+              20.332778
+            ],
+            [
+              59.088614,
+              20.332778
+            ],
+            [
+              59.159494,
+              20.398925
+            ],
+            [
+              59.159494,
+              20.398925
+            ],
+            [
+              59.186391,
+              20.463464
+            ],
+            [
+              59.189113,
+              20.521407
+            ],
+            [
+              59.189113,
+              20.521407
+            ],
+            [
+              59.188393,
+              20.532777
+            ],
+            [
+              59.188393,
+              20.532777
+            ],
+            [
+              59.158571,
+              20.627076
+            ],
+            [
+              59.158571,
+              20.627076
+            ],
+            [
+              59.123124,
+              20.727687
+            ],
+            [
+              59.123124,
+              20.727687
+            ],
+            [
+              59.110265,
+              20.766848
+            ],
+            [
+              59.110265,
+              20.766848
+            ],
+            [
+              59.07676,
+              20.857385
+            ],
+            [
+              59.07676,
+              20.857385
+            ],
+            [
+              59.04795,
+              20.938592
+            ],
+            [
+              59.04795,
+              20.938592
+            ],
+            [
+              59.048714,
+              20.969463
+            ],
+            [
+              59.048714,
+              20.969463
+            ],
+            [
+              59.175784,
+              21.098841
+            ],
+            [
+              59.30245,
+              21.194037
+            ],
+            [
+              59.444996,
+              21.254632
+            ],
+            [
+              59.51312,
+              21.308957
+            ],
+            [
+              59.644368,
+              21.541526
+            ],
+            [
+              59.697087,
+              21.670765
+            ],
+            [
+              59.841306,
+              21.851308
+            ],
+            [
+              59.88418,
+              21.989079
+            ],
+            [
+              60.007688,
+              22.146943
+            ],
+            [
+              60.036206,
+              22.256109
+            ],
+            [
+              60.054069,
+              22.443506
+            ],
+            [
+              60.03483,
+              22.527591
+            ],
+            [
+              59.970956,
+              22.656121
+            ],
+            [
+              59.883928,
+              22.721254
+            ],
+            [
+              59.60402,
+              22.770521
+            ],
+            [
+              59.457438,
+              22.916836
+            ],
+            [
+              59.379747,
+              23.06466
+            ],
+            [
+              59.379747,
+              23.06466
+            ],
+            [
+              59.37531,
+              23.071199
+            ],
+            [
+              59.37531,
+              23.071199
+            ],
+            [
+              59.371431,
+              23.075798
+            ],
+            [
+              59.371431,
+              23.075798
+            ],
+            [
+              59.259037,
+              23.16069
+            ],
+            [
+              59.087431,
+              23.448459
+            ],
+            [
+              58.99144,
+              23.519694
+            ],
+            [
+              58.99144,
+              23.519694
+            ],
+            [
+              58.990096,
+              23.527005
+            ],
+            [
+              58.990096,
+              23.527005
+            ],
+            [
+              58.976257,
+              23.562131
+            ],
+            [
+              58.976257,
+              23.562131
+            ],
+            [
+              58.971365,
+              23.573599
+            ],
+            [
+              58.971365,
+              23.573599
+            ],
+            [
+              58.918882,
+              23.652635
+            ],
+            [
+              58.918882,
+              23.652635
+            ],
+            [
+              58.839372,
+              23.711134
+            ],
+            [
+              58.839372,
+              23.711134
+            ],
+            [
+              58.729831,
+              23.786023
+            ],
+            [
+              58.729831,
+              23.786023
+            ],
+            [
+              58.611652,
+              23.856873
+            ],
+            [
+              58.611652,
+              23.856873
+            ],
+            [
+              58.491582,
+              23.912628
+            ],
+            [
+              58.491582,
+              23.912628
+            ],
+            [
+              58.350978,
+              23.981943
+            ],
+            [
+              58.350978,
+              23.981943
+            ],
+            [
+              58.220466,
+              24.046249
+            ],
+            [
+              58.220466,
+              24.046249
+            ],
+            [
+              58.140622,
+              24.068117
+            ],
+            [
+              58.140622,
+              24.068117
+            ],
+            [
+              58.014689,
+              24.053496
+            ],
+            [
+              58.014689,
+              24.053496
+            ],
+            [
+              57.923234,
+              24.038884
+            ],
+            [
+              57.923234,
+              24.038884
+            ],
+            [
+              57.905835,
+              24.034927
+            ],
+            [
+              57.905835,
+              24.034927
+            ],
+            [
+              57.893521,
+              24.032126
+            ],
+            [
+              57.893521,
+              24.032126
+            ],
+            [
+              57.687861,
+              23.979514
+            ],
+            [
+              57.687861,
+              23.979514
+            ],
+            [
+              57.609868,
+              24.019462
+            ],
+            [
+              57.277384,
+              24.116075
+            ],
+            [
+              57.099838,
+              24.252175
+            ],
+            [
+              56.927746,
+              24.490967
+            ],
+            [
+              56.838956,
+              24.577352
+            ],
+            [
+              56.790795,
+              24.660106
+            ],
+            [
+              56.736562,
+              24.701452
+            ],
+            [
+              56.594052,
+              25.008764
+            ],
+            [
+              56.594052,
+              25.008764
+            ],
+            [
+              56.585204,
+              25.006413
+            ],
+            [
+              56.585204,
+              25.006413
+            ],
+            [
+              56.490523,
+              24.995021
+            ],
+            [
+              56.490523,
+              24.995021
+            ],
+            [
+              56.402518,
+              24.98443
+            ],
+            [
+              56.402518,
+              24.98443
+            ],
+            [
+              56.382628,
+              24.982037
+            ],
+            [
+              56.382628,
+              24.982037
+            ],
+            [
+              56.376422,
+              24.980834
+            ],
+            [
+              56.376422,
+              24.980834
+            ],
+            [
+              56.37464,
+              24.980424
+            ],
+            [
+              56.37464,
+              24.980424
+            ],
+            [
+              56.323281,
+              24.972358
+            ],
+            [
+              56.323281,
+              24.972358
+            ],
+            [
+              56.346983,
+              24.92933
+            ],
+            [
+              56.346983,
+              24.92933
+            ],
+            [
+              56.32546,
+              24.898454
+            ],
+            [
+              56.267063,
+              24.866118
+            ],
+            [
+              56.267063,
+              24.866118
+            ],
+            [
+              56.205659,
+              24.850507
+            ],
+            [
+              56.20362,
+              24.82381
+            ],
+            [
+              56.20362,
+              24.82381
+            ],
+            [
+              56.201054,
+              24.785123
+            ],
+            [
+              56.144333,
+              24.741556
+            ],
+            [
+              56.112733,
+              24.738202
+            ],
+            [
+              56.112733,
+              24.738202
+            ],
+            [
+              56.08114,
+              24.74329
+            ],
+            [
+              56.08114,
+              24.74329
+            ],
+            [
+              56.054279,
+              24.752111
+            ],
+            [
+              56.036157,
+              24.810922
+            ],
+            [
+              55.978341,
+              24.877363
+            ],
+            [
+              55.980164,
+              24.894492
+            ],
+            [
+              56.057001,
+              24.872055
+            ],
+            [
+              56.057001,
+              24.872055
+            ],
+            [
+              56.041303,
+              24.907558
+            ],
+            [
+              56.058921,
+              24.949431
+            ],
+            [
+              56.042075,
+              24.947686
+            ],
+            [
+              56.045483,
+              24.967887
+            ],
+            [
+              56.0071,
+              24.994599
+            ],
+            [
+              55.961137,
+              25.005631
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "OM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+        "name": "\u0639\u0645\u0627\u0646",
+        "id": "OM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56.224107,
+              25.263211
+            ],
+            [
+              56.209272,
+              25.2419
+            ],
+            [
+              56.270815,
+              25.227185
+            ],
+            [
+              56.344231,
+              25.263878
+            ],
+            [
+              56.348981,
+              25.306498
+            ],
+            [
+              56.348981,
+              25.306498
+            ],
+            [
+              56.319762,
+              25.302455
+            ],
+            [
+              56.306904,
+              25.329457
+            ],
+            [
+              56.267696,
+              25.337435
+            ],
+            [
+              56.244047,
+              25.317065
+            ],
+            [
+              56.257835,
+              25.286547
+            ],
+            [
+              56.224107,
+              25.263211
+            ]
+          ],
+          [
+            [
+              56.271977,
+              25.284737
+            ],
+            [
+              56.270371,
+              25.263154
+            ],
+            [
+              56.284771,
+              25.26276
+            ],
+            [
+              56.293158,
+              25.27692
+            ],
+            [
+              56.271977,
+              25.284737
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "OM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+        "name": "\u0639\u0645\u0627\u0646",
+        "id": "OM"
       }
     }
   ]

@@ -3,4242 +3,2019 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.1449527,
-            38.8421851
-          ],
-          [
-            46.1406764,
-            38.8445178
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.1449527,
-            38.8421851
-          ],
-          [
-            46.1559717,
-            38.8428203
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.1559717,
-            38.8428203
-          ],
-          [
-            46.173374,
-            38.8404775
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.173374,
-            38.8404775
-          ],
-          [
-            46.1841363,
-            38.8414876
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.1841363,
-            38.8414876
-          ],
-          [
-            46.2017895,
-            38.8517075
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.2017895,
-            38.8517075
-          ],
-          [
-            46.2064965,
-            38.8528824
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.2064965,
-            38.8528824
-          ],
-          [
-            46.2860078,
-            38.9008903
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.2860078,
-            38.9008903
-          ],
-          [
-            46.3632197,
-            38.9163092
-          ],
-          [
-            46.4210438,
-            38.8830219
-          ],
-          [
-            46.4534998,
-            38.8990073
-          ],
-          [
-            46.5243816,
-            38.8883123
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5243816,
-            38.8883123
-          ],
-          [
-            46.525684,
-            38.886675
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.525684,
-            38.886675
-          ],
-          [
-            46.5339832,
-            38.867172
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5339832,
-            38.867172
-          ],
-          [
-            46.5332517,
-            38.8952153
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5332517,
-            38.8952153
-          ],
-          [
-            46.5084556,
-            38.9616927
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5084556,
-            38.9616927
-          ],
-          [
-            46.5236008,
-            38.9706634
-          ],
-          [
-            46.5192286,
-            38.9952598
-          ],
-          [
-            46.5461978,
-            39.0034046
-          ],
-          [
-            46.5358044,
-            39.0374257
-          ],
-          [
-            46.5468768,
-            39.0469834
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5468768,
-            39.0469834
-          ],
-          [
-            46.5535127,
-            39.0574066
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5535127,
-            39.0574066
-          ],
-          [
-            46.5161378,
-            39.0629383
-          ],
-          [
-            46.5366583,
-            39.0837841
-          ],
-          [
-            46.501621,
-            39.1061735
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.501621,
-            39.1061735
-          ],
-          [
-            46.4996987,
-            39.1271083
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.4996987,
-            39.1271083
-          ],
-          [
-            46.4829124,
-            39.1365483
-          ],
-          [
-            46.4955009,
-            39.1510895
-          ],
-          [
-            46.4398471,
-            39.155162
-          ],
-          [
-            46.4312955,
-            39.1888647
-          ],
-          [
-            46.4450414,
-            39.1991444
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.4450414,
-            39.1991444
-          ],
-          [
-            46.5038928,
-            39.1844484
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5038928,
-            39.1844484
-          ],
-          [
-            46.51503,
-            39.21258
-          ],
-          [
-            46.5373395,
-            39.1589134
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5373395,
-            39.1589134
-          ],
-          [
-            46.58616,
-            39.2012973
-          ],
-          [
-            46.5735189,
-            39.215281
-          ],
-          [
-            46.6333087,
-            39.2309119
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.6333087,
-            39.2309119
-          ],
-          [
-            46.5529429,
-            39.2548322
-          ],
-          [
-            46.5196425,
-            39.2986771
-          ],
-          [
-            46.5369933,
-            39.3077846
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5369933,
-            39.3077846
-          ],
-          [
-            46.50301,
-            39.34357
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.50301,
-            39.34357
-          ],
-          [
-            46.45953,
-            39.33784
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.45953,
-            39.33784
-          ],
-          [
-            46.4111794,
-            39.3662882
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.4111794,
-            39.3662882
-          ],
-          [
-            46.392697,
-            39.3843403
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.392697,
-            39.3843403
-          ],
-          [
-            46.3857927,
-            39.4284325
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.3857927,
-            39.4284325
-          ],
-          [
-            46.3950242,
-            39.4430035
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.3950242,
-            39.4430035
-          ],
-          [
-            46.3959052,
-            39.4567152
-          ],
-          [
-            46.45828,
-            39.4493397
-          ],
-          [
-            46.4846083,
-            39.4833488
-          ],
-          [
-            46.5344202,
-            39.4676602
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5344202,
-            39.4676602
-          ],
-          [
-            46.4992264,
-            39.5163206
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.4992264,
-            39.5163206
-          ],
-          [
-            46.5481343,
-            39.5463942
-          ],
-          [
-            46.5887129,
-            39.528504
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5887129,
-            39.528504
-          ],
-          [
-            46.5662776,
-            39.5719979
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5662776,
-            39.5719979
-          ],
-          [
-            46.5061901,
-            39.5835794
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.5061901,
-            39.5835794
-          ],
-          [
-            46.4854871,
-            39.5865113
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.4854871,
-            39.5865113
-          ],
-          [
-            46.4304982,
-            39.5689458
-          ],
-          [
-            46.4128703,
-            39.5803745
-          ],
-          [
-            46.4126896,
-            39.6307873
-          ],
-          [
-            46.3710696,
-            39.6195543
-          ],
-          [
-            46.3764239,
-            39.6307209
-          ],
-          [
-            46.3570662,
-            39.638714
-          ],
-          [
-            46.2619777,
-            39.6063001
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.2619777,
-            39.6063001
-          ],
-          [
-            46.199827,
-            39.6021215
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.199827,
-            39.6021215
-          ],
-          [
-            46.1776631,
-            39.5792643
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.1776631,
-            39.5792643
-          ],
-          [
-            46.1717576,
-            39.6332358
-          ],
-          [
-            46.1551311,
-            39.6507625
-          ],
-          [
-            46.0959524,
-            39.6875272
-          ],
-          [
-            46.0786614,
-            39.677142
-          ],
-          [
-            46.0575099,
-            39.6907555
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.0575099,
-            39.6907555
-          ],
-          [
-            46.0696249,
-            39.6997181
-          ],
-          [
-            45.9777694,
-            39.7868692
-          ],
-          [
-            45.8878506,
-            39.8097373
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.8878506,
-            39.8097373
-          ],
-          [
-            45.8261319,
-            39.8259881
-          ],
-          [
-            45.8145258,
-            39.8620683
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.8145258,
-            39.8620683
-          ],
-          [
-            45.788635,
-            39.9030188
-          ],
-          [
-            45.8030326,
-            39.9281005
-          ],
-          [
-            45.7805991,
-            39.9468417
-          ],
-          [
-            45.6112097,
-            39.9740968
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.6112097,
-            39.9740968
-          ],
-          [
-            45.6044362,
-            40.0048575
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.6044362,
-            40.0048575
-          ],
-          [
-            45.6854051,
-            40.0327325
-          ],
-          [
-            45.7883933,
-            40.0292329
-          ],
-          [
-            45.8389133,
-            39.9910115
-          ],
-          [
-            45.8521998,
-            40.0151538
-          ],
-          [
-            45.8805131,
-            40.0208921
-          ],
-          [
-            45.9104069,
-            40.072132
-          ],
-          [
-            45.9039575,
-            40.1042323
-          ],
-          [
-            45.9497328,
-            40.1204403
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.9497328,
-            40.1204403
-          ],
-          [
-            45.9618571,
-            40.1235316
-          ],
-          [
-            45.97765,
-            40.21905
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.97765,
-            40.21905
-          ],
-          [
-            45.9346531,
-            40.2513788
-          ],
-          [
-            45.9550837,
-            40.2516712
-          ],
-          [
-            45.9599794,
-            40.2712565
-          ],
-          [
-            45.9304552,
-            40.2969898
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.9304552,
-            40.2969898
-          ],
-          [
-            45.8795316,
-            40.2972741
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.8795316,
-            40.2972741
-          ],
-          [
-            45.8231375,
-            40.3214612
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.8231375,
-            40.3214612
-          ],
-          [
-            45.6781491,
-            40.3656885
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.6781491,
-            40.3656885
-          ],
-          [
-            45.6489707,
-            40.3684072
-          ],
-          [
-            45.63732,
-            40.3958757
-          ],
-          [
-            45.5897362,
-            40.4306721
-          ],
-          [
-            45.5593969,
-            40.4284001
-          ],
-          [
-            45.5061287,
-            40.4645532
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.5061287,
-            40.4645532
-          ],
-          [
-            45.4386742,
-            40.5197504
-          ],
-          [
-            45.4307686,
-            40.5412946
-          ],
-          [
-            45.4501242,
-            40.552512
-          ],
-          [
-            45.4372716,
-            40.5644324
-          ],
-          [
-            45.4608425,
-            40.5795432
-          ],
-          [
-            45.4413207,
-            40.5927948
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.4413207,
-            40.5927948
-          ],
-          [
-            45.4372352,
-            40.5936634
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.4372352,
-            40.5936634
-          ],
-          [
-            45.4349801,
-            40.5957326
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.4349801,
-            40.5957326
-          ],
-          [
-            45.4347895,
-            40.5959074
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.4347895,
-            40.5959074
-          ],
-          [
-            45.3936413,
-            40.6092724
-          ],
-          [
-            45.3979664,
-            40.6299235
-          ],
-          [
-            45.3632777,
-            40.6547812
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.3632777,
-            40.6547812
-          ],
-          [
-            45.3752327,
-            40.6771259
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.3752327,
-            40.6771259
-          ],
-          [
-            45.3787647,
-            40.7100441
-          ],
-          [
-            45.4042583,
-            40.7024873
-          ],
-          [
-            45.4032909,
-            40.7315565
-          ],
-          [
-            45.4259526,
-            40.7424595
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.4259526,
-            40.7424595
-          ],
-          [
-            45.5456232,
-            40.7745406
-          ],
-          [
-            45.5919937,
-            40.8214275
-          ],
-          [
-            45.607953,
-            40.8506831
-          ],
-          [
-            45.5990228,
-            40.8686737
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.5990228,
-            40.8686737
-          ],
-          [
-            45.599809,
-            40.884317
-          ],
-          [
-            45.5579022,
-            40.8788822
-          ],
-          [
-            45.5591513,
-            40.8955356
-          ],
-          [
-            45.5169311,
-            40.9211728
-          ],
-          [
-            45.4812617,
-            40.9240559
-          ],
-          [
-            45.4539863,
-            40.9687514
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.4539863,
-            40.9687514
-          ],
-          [
-            45.4222934,
-            40.9588143
-          ],
-          [
-            45.4074096,
-            40.9860027
-          ],
-          [
-            45.4405928,
-            41.0160124
-          ],
-          [
-            45.3981903,
-            41.0237947
-          ],
-          [
-            45.3777516,
-            41.0115479
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.3777516,
-            41.0115479
-          ],
-          [
-            45.3614385,
-            40.9961034
-          ],
-          [
-            45.3187257,
-            41.0004529
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.3187257,
-            41.0004529
-          ],
-          [
-            45.2878459,
-            41.0383273
-          ],
-          [
-            45.2577494,
-            41.0041324
-          ],
-          [
-            45.184146,
-            41.0547998
-          ],
-          [
-            45.1663065,
-            41.0498569
-          ],
-          [
-            45.163541,
-            41.0819
-          ],
-          [
-            45.1299274,
-            41.095074
-          ],
-          [
-            45.1311404,
-            41.0643304
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.1311404,
-            41.0643304
-          ],
-          [
-            45.1057669,
-            41.0460697
-          ],
-          [
-            45.1028902,
-            41.0634384
-          ],
-          [
-            45.0593531,
-            41.0512967
-          ],
-          [
-            45.0774413,
-            41.0847451
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.0774413,
-            41.0847451
-          ],
-          [
-            45.071134,
-            41.0997116
-          ],
-          [
-            45.098946,
-            41.119861
-          ],
-          [
-            45.1781562,
-            41.1203973
-          ],
-          [
-            45.2044497,
-            41.1407302
-          ],
-          [
-            45.2018158,
-            41.1615472
-          ],
-          [
-            45.1227072,
-            41.2052741
-          ],
-          [
-            45.0897169,
-            41.1781699
-          ],
-          [
-            45.0407118,
-            41.2005592
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.0407118,
-            41.2005592
-          ],
-          [
-            45.0293045,
-            41.1953004
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.0293045,
-            41.1953004
-          ],
-          [
-            45.0233669,
-            41.2103148
-          ],
-          [
-            45.0456965,
-            41.2155008
-          ],
-          [
-            45.0557716,
-            41.2496204
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.0557716,
-            41.2496204
-          ],
-          [
-            45.0430238,
-            41.2602012
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.0430238,
-            41.2602012
-          ],
-          [
-            45.0138352,
-            41.2964966
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9610638,
-            41.2585535
-          ],
-          [
-            45.0138352,
-            41.2964966
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.921563,
-            41.258226
-          ],
-          [
-            44.9610638,
-            41.2585535
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.912902,
-            41.257277
-          ],
-          [
-            44.921563,
-            41.258226
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.8669701,
-            41.2757586
-          ],
-          [
-            44.898363,
-            41.274106
-          ],
-          [
-            44.912902,
-            41.257277
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.8468244,
-            41.2747508
-          ],
-          [
-            44.8669701,
-            41.2757586
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.8079687,
-            41.2743869
-          ],
-          [
-            44.8229374,
-            41.3016423
-          ],
-          [
-            44.8468244,
-            41.2747508
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.8332381,
-            41.2292754
-          ],
-          [
-            44.805276,
-            41.25192
-          ],
-          [
-            44.8079687,
-            41.2743869
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.8504916,
-            41.2292136
-          ],
-          [
-            44.8332381,
-            41.2292754
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.8883911,
-            41.2216523
-          ],
-          [
-            44.8504916,
-            41.2292136
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9014507,
-            41.2117642
-          ],
-          [
-            44.8883911,
-            41.2216523
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.605892,
-            41.21873
-          ],
-          [
-            44.6084704,
-            41.240571
-          ],
-          [
-            44.6878445,
-            41.2411582
-          ],
-          [
-            44.6820991,
-            41.2234806
-          ],
-          [
-            44.7271271,
-            41.2256764
-          ],
-          [
-            44.7263829,
-            41.2035443
-          ],
-          [
-            44.7948164,
-            41.2300928
-          ],
-          [
-            44.8664913,
-            41.2049115
-          ],
-          [
-            44.9014507,
-            41.2117642
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.595251,
-            41.192784
-          ],
-          [
-            44.605892,
-            41.21873
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.5452942,
-            41.1912914
-          ],
-          [
-            44.5792097,
-            41.2127799
-          ],
-          [
-            44.593336,
-            41.212503
-          ],
-          [
-            44.583612,
-            41.19657
-          ],
-          [
-            44.595251,
-            41.192784
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.535926,
-            41.226315
-          ],
-          [
-            44.547326,
-            41.224359
-          ],
-          [
-            44.532621,
-            41.197626
-          ],
-          [
-            44.5452942,
-            41.1912914
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.38266,
-            41.2210171
-          ],
-          [
-            44.468129,
-            41.180778
-          ],
-          [
-            44.511005,
-            41.195276
-          ],
-          [
-            44.535926,
-            41.226315
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.3208088,
-            41.2081977
-          ],
-          [
-            44.345316,
-            41.202484
-          ],
-          [
-            44.355049,
-            41.231575
-          ],
-          [
-            44.38266,
-            41.2210171
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.183196,
-            41.234528
-          ],
-          [
-            44.1796561,
-            41.2470804
-          ],
-          [
-            44.236639,
-            41.238948
-          ],
-          [
-            44.271137,
-            41.212696
-          ],
-          [
-            44.3208088,
-            41.2081977
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.034586,
-            41.1886
-          ],
-          [
-            44.088042,
-            41.202551
-          ],
-          [
-            44.090686,
-            41.189217
-          ],
-          [
-            44.162065,
-            41.189045
-          ],
-          [
-            44.183196,
-            41.234528
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.9525387,
-            41.1663356
-          ],
-          [
-            44.034586,
-            41.1886
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.9525387,
-            41.1663356
-          ],
-          [
-            43.938712,
-            41.176241
-          ],
-          [
-            43.8413509,
-            41.1608831
-          ],
-          [
-            43.7775975,
-            41.1308794
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.7775975,
-            41.1308794
-          ],
-          [
-            43.750739,
-            41.109326
-          ],
-          [
-            43.684596,
-            41.133751
-          ],
-          [
-            43.597547,
-            41.128916
-          ],
-          [
-            43.5681211,
-            41.1451261
-          ],
-          [
-            43.5067201,
-            41.131791
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.5067201,
-            41.131791
-          ],
-          [
-            43.474145,
-            41.123038
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.474145,
-            41.123038
-          ],
-          [
-            43.4471395,
-            41.0988144
-          ],
-          [
-            43.471514,
-            41.0675026
-          ],
-          [
-            43.4682566,
-            41.0332775
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.4682566,
-            41.0332775
-          ],
-          [
-            43.515122,
-            41.0140778
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.515122,
-            41.0140778
-          ],
-          [
-            43.592067,
-            40.986089
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.592067,
-            40.986089
-          ],
-          [
-            43.6323388,
-            40.9621985
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6323388,
-            40.9621985
-          ],
-          [
-            43.676308,
-            40.929729
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.676308,
-            40.929729
-          ],
-          [
-            43.676448,
-            40.8975125
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.676448,
-            40.8975125
-          ],
-          [
-            43.677417,
-            40.846424
-          ],
-          [
-            43.7170682,
-            40.8032683
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.7170682,
-            40.8032683
-          ],
-          [
-            43.7184934,
-            40.800197
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.7184934,
-            40.800197
-          ],
-          [
-            43.7302724,
-            40.7659084
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.7302724,
-            40.7659084
-          ],
-          [
-            43.743524,
-            40.7441908
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.743524,
-            40.7441908
-          ],
-          [
-            43.7483121,
-            40.7308892
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.7483121,
-            40.7308892
-          ],
-          [
-            43.7353107,
-            40.7126749
-          ],
-          [
-            43.7474604,
-            40.6838616
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.7474604,
-            40.6838616
-          ],
-          [
-            43.7184977,
-            40.6570445
-          ],
-          [
-            43.7035758,
-            40.6139563
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.7035758,
-            40.6139563
-          ],
-          [
-            43.6715096,
-            40.5673474
-          ],
-          [
-            43.6452115,
-            40.5627695
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6452115,
-            40.5627695
-          ],
-          [
-            43.6448332,
-            40.5626436
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6448332,
-            40.5626436
-          ],
-          [
-            43.6509671,
-            40.5328415
-          ],
-          [
-            43.6315916,
-            40.5301107
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6315916,
-            40.5301107
-          ],
-          [
-            43.6343707,
-            40.519285
-          ],
-          [
-            43.5982476,
-            40.5107183
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.5982476,
-            40.5107183
-          ],
-          [
-            43.5572004,
-            40.4869435
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.5572004,
-            40.4869435
-          ],
-          [
-            43.5421709,
-            40.4763969
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.5421709,
-            40.4763969
-          ],
-          [
-            43.5547734,
-            40.4650608
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.5547734,
-            40.4650608
-          ],
-          [
-            43.5975845,
-            40.4401701
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.5975845,
-            40.4401701
-          ],
-          [
-            43.6072346,
-            40.4366695
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6072346,
-            40.4366695
-          ],
-          [
-            43.6088054,
-            40.435417
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6088054,
-            40.435417
-          ],
-          [
-            43.6194761,
-            40.3989066
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6194761,
-            40.3989066
-          ],
-          [
-            43.6001544,
-            40.3697164
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6001544,
-            40.3697164
-          ],
-          [
-            43.590814,
-            40.3451289
-          ],
-          [
-            43.6316264,
-            40.2829425
-          ],
-          [
-            43.67232,
-            40.2652708
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.67232,
-            40.2652708
-          ],
-          [
-            43.6837106,
-            40.2266454
-          ],
-          [
-            43.6531003,
-            40.2248851
-          ],
-          [
-            43.7154688,
-            40.1628869
-          ],
-          [
-            43.6743382,
-            40.157475
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6743382,
-            40.157475
-          ],
-          [
-            43.6487368,
-            40.1312363
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.6487368,
-            40.1312363
-          ],
-          [
-            43.6782543,
-            40.0960637
-          ],
-          [
-            43.7757075,
-            40.075267
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.7757075,
-            40.075267
-          ],
-          [
-            43.8084593,
-            40.0618027
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.8084593,
-            40.0618027
-          ],
-          [
-            43.8371678,
-            40.0468961
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.8371678,
-            40.0468961
-          ],
-          [
-            43.8698639,
-            40.035904
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            43.8698639,
-            40.035904
-          ],
-          [
-            43.8994158,
-            40.0210172
-          ],
-          [
-            44.0090803,
-            40.0241972
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.0090803,
-            40.0241972
-          ],
-          [
-            44.0500416,
-            40.0271278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.0500416,
-            40.0271278
-          ],
-          [
-            44.1214762,
-            40.0341281
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.1214762,
-            40.0341281
-          ],
-          [
-            44.1605989,
-            40.0306852
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.1605989,
-            40.0306852
-          ],
-          [
-            44.2454001,
-            40.0484116
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.2454001,
-            40.0484116
-          ],
-          [
-            44.3345614,
-            40.0328094
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.3345614,
-            40.0328094
-          ],
-          [
-            44.4029025,
-            40.0023228
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.4029025,
-            40.0023228
-          ],
-          [
-            44.4256462,
-            39.9916537
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.4256462,
-            39.9916537
-          ],
-          [
-            44.4398408,
-            39.9850024
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.4398408,
-            39.9850024
-          ],
-          [
-            44.4468468,
-            39.9823203
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.4468468,
-            39.9823203
-          ],
-          [
-            44.4825745,
-            39.9649663
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.4825745,
-            39.9649663
-          ],
-          [
-            44.4877817,
-            39.9604036
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.4877817,
-            39.9604036
-          ],
-          [
-            44.4908341,
-            39.9575761
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.4908341,
-            39.9575761
-          ],
-          [
-            44.4924466,
-            39.951776
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.4924466,
-            39.951776
-          ],
-          [
-            44.5005822,
-            39.9453265
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.5005822,
-            39.9453265
-          ],
-          [
-            44.5018929,
-            39.9426123
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.5018929,
-            39.9426123
-          ],
-          [
-            44.5351045,
-            39.9218014
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.5351045,
-            39.9218014
-          ],
-          [
-            44.5553422,
-            39.9001286
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.5553422,
-            39.9001286
-          ],
-          [
-            44.5520164,
-            39.8827353
-          ],
-          [
-            44.5918376,
-            39.8590571
-          ],
-          [
-            44.5882157,
-            39.8332502
-          ],
-          [
-            44.6171957,
-            39.8281936
-          ],
-          [
-            44.611344,
-            39.815883
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.611344,
-            39.815883
-          ],
-          [
-            44.6563957,
-            39.7923225
-          ],
-          [
-            44.6932518,
-            39.7940702
-          ],
-          [
-            44.6873476,
-            39.7720251
-          ],
-          [
-            44.7107641,
-            39.7699858
-          ],
-          [
-            44.7227183,
-            39.7420096
-          ],
-          [
-            44.7431273,
-            39.7443119
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.7431273,
-            39.7443119
-          ],
-          [
-            44.7475578,
-            39.7164325
-          ],
-          [
-            44.764048,
-            39.7144569
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.764048,
-            39.7144569
-          ],
-          [
-            44.8859728,
-            39.7484162
-          ],
-          [
-            44.9310476,
-            39.7256325
-          ],
-          [
-            44.9753244,
-            39.7405919
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            44.9753244,
-            39.7405919
-          ],
-          [
-            45.0166583,
-            39.766172
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.0166583,
-            39.766172
-          ],
-          [
-            45.0611385,
-            39.7943811
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.0611385,
-            39.7943811
-          ],
-          [
-            45.0662786,
-            39.78934
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.1416503,
-            39.7210535
-          ],
-          [
-            45.1208501,
-            39.7598277
-          ],
-          [
-            45.0662786,
-            39.78934
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.2921741,
-            39.6137587
-          ],
-          [
-            45.2428761,
-            39.6116752
-          ],
-          [
-            45.2128797,
-            39.5818566
-          ],
-          [
-            45.1730311,
-            39.5920046
-          ],
-          [
-            45.1861293,
-            39.6491769
-          ],
-          [
-            45.1730548,
-            39.6641358
-          ],
-          [
-            45.1871764,
-            39.6768596
-          ],
-          [
-            45.1416503,
-            39.7210535
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.3422267,
-            39.5418849
-          ],
-          [
-            45.3112888,
-            39.563448
-          ],
-          [
-            45.2985657,
-            39.5866911
-          ],
-          [
-            45.3082392,
-            39.609012
-          ],
-          [
-            45.2921741,
-            39.6137587
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.3682474,
-            39.5406057
-          ],
-          [
-            45.3422267,
-            39.5418849
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.3773637,
-            39.5388814
-          ],
-          [
-            45.3682474,
-            39.5406057
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.470463,
-            39.4933387
-          ],
-          [
-            45.4351626,
-            39.5241098
-          ],
-          [
-            45.3773637,
-            39.5388814
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.6943344,
-            39.6035783
-          ],
-          [
-            45.6233051,
-            39.5632537
-          ],
-          [
-            45.577867,
-            39.5678881
-          ],
-          [
-            45.470463,
-            39.4933387
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.7810411,
-            39.5844948
-          ],
-          [
-            45.6943344,
-            39.6035783
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.8026221,
-            39.3652259
-          ],
-          [
-            45.7888876,
-            39.3807665
-          ],
-          [
-            45.8040036,
-            39.427949
-          ],
-          [
-            45.8410822,
-            39.4610459
-          ],
-          [
-            45.8136424,
-            39.4844908
-          ],
-          [
-            45.8204516,
-            39.5269317
-          ],
-          [
-            45.7810411,
-            39.5844948
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.9403681,
-            39.3095791
-          ],
-          [
-            45.8612694,
-            39.3567278
-          ],
-          [
-            45.8026221,
-            39.3652259
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            45.9987069,
-            39.2913194
-          ],
-          [
-            45.9403681,
-            39.3095791
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.0037264,
-            39.2802956
-          ],
-          [
-            45.9987069,
-            39.2913194
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.0698519,
-            39.0787549
-          ],
-          [
-            46.0311216,
-            39.0926431
-          ],
-          [
-            46.0169065,
-            39.1150053
-          ],
-          [
-            46.0236318,
-            39.1364477
-          ],
-          [
-            46.0036987,
-            39.148938
-          ],
-          [
-            45.9868248,
-            39.2397439
-          ],
-          [
-            46.0037264,
-            39.2802956
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.0698939,
-            39.0712652
-          ],
-          [
-            46.0698519,
-            39.0787549
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AM",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            46.1406764,
-            38.8445178
-          ],
-          [
-            46.1480678,
-            38.8949013
-          ],
-          [
-            46.1102148,
-            38.9520199
-          ],
-          [
-            46.101476,
-            39.0159176
-          ],
-          [
-            46.0768524,
-            39.0300316
-          ],
-          [
-            46.0698939,
-            39.0712652
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.140676,
+              38.844518
+            ],
+            [
+              46.148068,
+              38.894901
+            ],
+            [
+              46.110215,
+              38.95202
+            ],
+            [
+              46.101476,
+              39.015918
+            ],
+            [
+              46.076852,
+              39.030032
+            ],
+            [
+              46.069894,
+              39.071265
+            ],
+            [
+              46.069894,
+              39.071265
+            ],
+            [
+              46.069852,
+              39.078755
+            ],
+            [
+              46.069852,
+              39.078755
+            ],
+            [
+              46.031122,
+              39.092643
+            ],
+            [
+              46.016906,
+              39.115005
+            ],
+            [
+              46.023632,
+              39.136448
+            ],
+            [
+              46.003699,
+              39.148938
+            ],
+            [
+              45.986825,
+              39.239744
+            ],
+            [
+              46.003726,
+              39.280296
+            ],
+            [
+              46.003726,
+              39.280296
+            ],
+            [
+              45.998707,
+              39.291319
+            ],
+            [
+              45.998707,
+              39.291319
+            ],
+            [
+              45.940368,
+              39.309579
+            ],
+            [
+              45.940368,
+              39.309579
+            ],
+            [
+              45.861269,
+              39.356728
+            ],
+            [
+              45.802622,
+              39.365226
+            ],
+            [
+              45.802622,
+              39.365226
+            ],
+            [
+              45.788888,
+              39.380767
+            ],
+            [
+              45.804004,
+              39.427949
+            ],
+            [
+              45.841082,
+              39.461046
+            ],
+            [
+              45.813642,
+              39.484491
+            ],
+            [
+              45.820452,
+              39.526932
+            ],
+            [
+              45.781041,
+              39.584495
+            ],
+            [
+              45.781041,
+              39.584495
+            ],
+            [
+              45.694334,
+              39.603578
+            ],
+            [
+              45.694334,
+              39.603578
+            ],
+            [
+              45.623305,
+              39.563254
+            ],
+            [
+              45.577867,
+              39.567888
+            ],
+            [
+              45.470463,
+              39.493339
+            ],
+            [
+              45.470463,
+              39.493339
+            ],
+            [
+              45.435163,
+              39.52411
+            ],
+            [
+              45.377364,
+              39.538881
+            ],
+            [
+              45.377364,
+              39.538881
+            ],
+            [
+              45.368247,
+              39.540606
+            ],
+            [
+              45.368247,
+              39.540606
+            ],
+            [
+              45.342227,
+              39.541885
+            ],
+            [
+              45.342227,
+              39.541885
+            ],
+            [
+              45.311289,
+              39.563448
+            ],
+            [
+              45.298566,
+              39.586691
+            ],
+            [
+              45.308239,
+              39.609012
+            ],
+            [
+              45.292174,
+              39.613759
+            ],
+            [
+              45.292174,
+              39.613759
+            ],
+            [
+              45.242876,
+              39.611675
+            ],
+            [
+              45.21288,
+              39.581857
+            ],
+            [
+              45.173031,
+              39.592005
+            ],
+            [
+              45.186129,
+              39.649177
+            ],
+            [
+              45.173055,
+              39.664136
+            ],
+            [
+              45.187176,
+              39.67686
+            ],
+            [
+              45.14165,
+              39.721053
+            ],
+            [
+              45.14165,
+              39.721053
+            ],
+            [
+              45.12085,
+              39.759828
+            ],
+            [
+              45.066279,
+              39.78934
+            ],
+            [
+              45.066279,
+              39.78934
+            ],
+            [
+              45.061138,
+              39.794381
+            ],
+            [
+              45.061138,
+              39.794381
+            ],
+            [
+              45.016658,
+              39.766172
+            ],
+            [
+              45.016658,
+              39.766172
+            ],
+            [
+              44.975324,
+              39.740592
+            ],
+            [
+              44.975324,
+              39.740592
+            ],
+            [
+              44.931048,
+              39.725633
+            ],
+            [
+              44.885973,
+              39.748416
+            ],
+            [
+              44.764048,
+              39.714457
+            ],
+            [
+              44.764048,
+              39.714457
+            ],
+            [
+              44.747558,
+              39.716433
+            ],
+            [
+              44.743127,
+              39.744312
+            ],
+            [
+              44.743127,
+              39.744312
+            ],
+            [
+              44.722718,
+              39.74201
+            ],
+            [
+              44.710764,
+              39.769986
+            ],
+            [
+              44.687348,
+              39.772025
+            ],
+            [
+              44.693252,
+              39.79407
+            ],
+            [
+              44.656396,
+              39.792322
+            ],
+            [
+              44.611344,
+              39.815883
+            ],
+            [
+              44.611344,
+              39.815883
+            ],
+            [
+              44.617196,
+              39.828194
+            ],
+            [
+              44.588216,
+              39.83325
+            ],
+            [
+              44.591838,
+              39.859057
+            ],
+            [
+              44.552016,
+              39.882735
+            ],
+            [
+              44.555342,
+              39.900129
+            ],
+            [
+              44.555342,
+              39.900129
+            ],
+            [
+              44.535105,
+              39.921801
+            ],
+            [
+              44.535105,
+              39.921801
+            ],
+            [
+              44.501893,
+              39.942612
+            ],
+            [
+              44.501893,
+              39.942612
+            ],
+            [
+              44.500582,
+              39.945327
+            ],
+            [
+              44.500582,
+              39.945327
+            ],
+            [
+              44.492447,
+              39.951776
+            ],
+            [
+              44.492447,
+              39.951776
+            ],
+            [
+              44.490834,
+              39.957576
+            ],
+            [
+              44.490834,
+              39.957576
+            ],
+            [
+              44.487782,
+              39.960404
+            ],
+            [
+              44.487782,
+              39.960404
+            ],
+            [
+              44.482574,
+              39.964966
+            ],
+            [
+              44.482574,
+              39.964966
+            ],
+            [
+              44.446847,
+              39.98232
+            ],
+            [
+              44.446847,
+              39.98232
+            ],
+            [
+              44.439841,
+              39.985002
+            ],
+            [
+              44.439841,
+              39.985002
+            ],
+            [
+              44.425646,
+              39.991654
+            ],
+            [
+              44.425646,
+              39.991654
+            ],
+            [
+              44.402903,
+              40.002323
+            ],
+            [
+              44.402903,
+              40.002323
+            ],
+            [
+              44.334561,
+              40.032809
+            ],
+            [
+              44.334561,
+              40.032809
+            ],
+            [
+              44.2454,
+              40.048412
+            ],
+            [
+              44.2454,
+              40.048412
+            ],
+            [
+              44.160599,
+              40.030685
+            ],
+            [
+              44.160599,
+              40.030685
+            ],
+            [
+              44.121476,
+              40.034128
+            ],
+            [
+              44.121476,
+              40.034128
+            ],
+            [
+              44.050042,
+              40.027128
+            ],
+            [
+              44.050042,
+              40.027128
+            ],
+            [
+              44.00908,
+              40.024197
+            ],
+            [
+              44.00908,
+              40.024197
+            ],
+            [
+              43.899416,
+              40.021017
+            ],
+            [
+              43.869864,
+              40.035904
+            ],
+            [
+              43.869864,
+              40.035904
+            ],
+            [
+              43.837168,
+              40.046896
+            ],
+            [
+              43.837168,
+              40.046896
+            ],
+            [
+              43.808459,
+              40.061803
+            ],
+            [
+              43.808459,
+              40.061803
+            ],
+            [
+              43.775708,
+              40.075267
+            ],
+            [
+              43.775708,
+              40.075267
+            ],
+            [
+              43.678254,
+              40.096064
+            ],
+            [
+              43.648737,
+              40.131236
+            ],
+            [
+              43.648737,
+              40.131236
+            ],
+            [
+              43.674338,
+              40.157475
+            ],
+            [
+              43.674338,
+              40.157475
+            ],
+            [
+              43.715469,
+              40.162887
+            ],
+            [
+              43.6531,
+              40.224885
+            ],
+            [
+              43.683711,
+              40.226645
+            ],
+            [
+              43.67232,
+              40.265271
+            ],
+            [
+              43.67232,
+              40.265271
+            ],
+            [
+              43.631626,
+              40.282942
+            ],
+            [
+              43.590814,
+              40.345129
+            ],
+            [
+              43.600154,
+              40.369716
+            ],
+            [
+              43.600154,
+              40.369716
+            ],
+            [
+              43.619476,
+              40.398907
+            ],
+            [
+              43.619476,
+              40.398907
+            ],
+            [
+              43.608805,
+              40.435417
+            ],
+            [
+              43.608805,
+              40.435417
+            ],
+            [
+              43.607235,
+              40.43667
+            ],
+            [
+              43.607235,
+              40.43667
+            ],
+            [
+              43.597585,
+              40.44017
+            ],
+            [
+              43.597585,
+              40.44017
+            ],
+            [
+              43.554773,
+              40.465061
+            ],
+            [
+              43.554773,
+              40.465061
+            ],
+            [
+              43.542171,
+              40.476397
+            ],
+            [
+              43.542171,
+              40.476397
+            ],
+            [
+              43.5572,
+              40.486944
+            ],
+            [
+              43.5572,
+              40.486944
+            ],
+            [
+              43.598248,
+              40.510718
+            ],
+            [
+              43.598248,
+              40.510718
+            ],
+            [
+              43.634371,
+              40.519285
+            ],
+            [
+              43.631592,
+              40.530111
+            ],
+            [
+              43.631592,
+              40.530111
+            ],
+            [
+              43.650967,
+              40.532842
+            ],
+            [
+              43.644833,
+              40.562644
+            ],
+            [
+              43.644833,
+              40.562644
+            ],
+            [
+              43.645212,
+              40.56277
+            ],
+            [
+              43.645212,
+              40.56277
+            ],
+            [
+              43.67151,
+              40.567347
+            ],
+            [
+              43.703576,
+              40.613956
+            ],
+            [
+              43.703576,
+              40.613956
+            ],
+            [
+              43.718498,
+              40.657044
+            ],
+            [
+              43.74746,
+              40.683862
+            ],
+            [
+              43.74746,
+              40.683862
+            ],
+            [
+              43.735311,
+              40.712675
+            ],
+            [
+              43.748312,
+              40.730889
+            ],
+            [
+              43.748312,
+              40.730889
+            ],
+            [
+              43.743524,
+              40.744191
+            ],
+            [
+              43.743524,
+              40.744191
+            ],
+            [
+              43.730272,
+              40.765908
+            ],
+            [
+              43.730272,
+              40.765908
+            ],
+            [
+              43.718493,
+              40.800197
+            ],
+            [
+              43.718493,
+              40.800197
+            ],
+            [
+              43.717068,
+              40.803268
+            ],
+            [
+              43.717068,
+              40.803268
+            ],
+            [
+              43.677417,
+              40.846424
+            ],
+            [
+              43.676448,
+              40.897512
+            ],
+            [
+              43.676448,
+              40.897512
+            ],
+            [
+              43.676308,
+              40.929729
+            ],
+            [
+              43.676308,
+              40.929729
+            ],
+            [
+              43.632339,
+              40.962198
+            ],
+            [
+              43.632339,
+              40.962198
+            ],
+            [
+              43.592067,
+              40.986089
+            ],
+            [
+              43.592067,
+              40.986089
+            ],
+            [
+              43.515122,
+              41.014078
+            ],
+            [
+              43.515122,
+              41.014078
+            ],
+            [
+              43.468257,
+              41.033277
+            ],
+            [
+              43.468257,
+              41.033277
+            ],
+            [
+              43.471514,
+              41.067503
+            ],
+            [
+              43.447139,
+              41.098814
+            ],
+            [
+              43.474145,
+              41.123038
+            ],
+            [
+              43.474145,
+              41.123038
+            ],
+            [
+              43.50672,
+              41.131791
+            ],
+            [
+              43.50672,
+              41.131791
+            ],
+            [
+              43.568121,
+              41.145126
+            ],
+            [
+              43.597547,
+              41.128916
+            ],
+            [
+              43.684596,
+              41.133751
+            ],
+            [
+              43.750739,
+              41.109326
+            ],
+            [
+              43.777597,
+              41.130879
+            ],
+            [
+              43.777597,
+              41.130879
+            ],
+            [
+              43.841351,
+              41.160883
+            ],
+            [
+              43.938712,
+              41.176241
+            ],
+            [
+              43.952539,
+              41.166336
+            ],
+            [
+              43.952539,
+              41.166336
+            ],
+            [
+              44.034586,
+              41.1886
+            ],
+            [
+              44.034586,
+              41.1886
+            ],
+            [
+              44.088042,
+              41.202551
+            ],
+            [
+              44.090686,
+              41.189217
+            ],
+            [
+              44.162065,
+              41.189045
+            ],
+            [
+              44.183196,
+              41.234528
+            ],
+            [
+              44.183196,
+              41.234528
+            ],
+            [
+              44.179656,
+              41.24708
+            ],
+            [
+              44.236639,
+              41.238948
+            ],
+            [
+              44.271137,
+              41.212696
+            ],
+            [
+              44.320809,
+              41.208198
+            ],
+            [
+              44.320809,
+              41.208198
+            ],
+            [
+              44.345316,
+              41.202484
+            ],
+            [
+              44.355049,
+              41.231575
+            ],
+            [
+              44.38266,
+              41.221017
+            ],
+            [
+              44.38266,
+              41.221017
+            ],
+            [
+              44.468129,
+              41.180778
+            ],
+            [
+              44.511005,
+              41.195276
+            ],
+            [
+              44.535926,
+              41.226315
+            ],
+            [
+              44.535926,
+              41.226315
+            ],
+            [
+              44.547326,
+              41.224359
+            ],
+            [
+              44.532621,
+              41.197626
+            ],
+            [
+              44.545294,
+              41.191291
+            ],
+            [
+              44.545294,
+              41.191291
+            ],
+            [
+              44.57921,
+              41.21278
+            ],
+            [
+              44.593336,
+              41.212503
+            ],
+            [
+              44.583612,
+              41.19657
+            ],
+            [
+              44.595251,
+              41.192784
+            ],
+            [
+              44.595251,
+              41.192784
+            ],
+            [
+              44.605892,
+              41.21873
+            ],
+            [
+              44.605892,
+              41.21873
+            ],
+            [
+              44.60847,
+              41.240571
+            ],
+            [
+              44.687844,
+              41.241158
+            ],
+            [
+              44.682099,
+              41.223481
+            ],
+            [
+              44.727127,
+              41.225676
+            ],
+            [
+              44.726383,
+              41.203544
+            ],
+            [
+              44.794816,
+              41.230093
+            ],
+            [
+              44.866491,
+              41.204912
+            ],
+            [
+              44.901451,
+              41.211764
+            ],
+            [
+              44.901451,
+              41.211764
+            ],
+            [
+              44.888391,
+              41.221652
+            ],
+            [
+              44.888391,
+              41.221652
+            ],
+            [
+              44.850492,
+              41.229214
+            ],
+            [
+              44.850492,
+              41.229214
+            ],
+            [
+              44.833238,
+              41.229275
+            ],
+            [
+              44.833238,
+              41.229275
+            ],
+            [
+              44.805276,
+              41.25192
+            ],
+            [
+              44.807969,
+              41.274387
+            ],
+            [
+              44.807969,
+              41.274387
+            ],
+            [
+              44.822937,
+              41.301642
+            ],
+            [
+              44.846824,
+              41.274751
+            ],
+            [
+              44.846824,
+              41.274751
+            ],
+            [
+              44.86697,
+              41.275759
+            ],
+            [
+              44.86697,
+              41.275759
+            ],
+            [
+              44.898363,
+              41.274106
+            ],
+            [
+              44.912902,
+              41.257277
+            ],
+            [
+              44.912902,
+              41.257277
+            ],
+            [
+              44.921563,
+              41.258226
+            ],
+            [
+              44.921563,
+              41.258226
+            ],
+            [
+              44.961064,
+              41.258553
+            ],
+            [
+              44.961064,
+              41.258553
+            ],
+            [
+              45.013835,
+              41.296497
+            ],
+            [
+              45.013835,
+              41.296497
+            ],
+            [
+              45.043024,
+              41.260201
+            ],
+            [
+              45.043024,
+              41.260201
+            ],
+            [
+              45.055772,
+              41.24962
+            ],
+            [
+              45.055772,
+              41.24962
+            ],
+            [
+              45.045696,
+              41.215501
+            ],
+            [
+              45.023367,
+              41.210315
+            ],
+            [
+              45.029305,
+              41.1953
+            ],
+            [
+              45.029305,
+              41.1953
+            ],
+            [
+              45.040712,
+              41.200559
+            ],
+            [
+              45.040712,
+              41.200559
+            ],
+            [
+              45.089717,
+              41.17817
+            ],
+            [
+              45.122707,
+              41.205274
+            ],
+            [
+              45.201816,
+              41.161547
+            ],
+            [
+              45.20445,
+              41.14073
+            ],
+            [
+              45.178156,
+              41.120397
+            ],
+            [
+              45.098946,
+              41.119861
+            ],
+            [
+              45.071134,
+              41.099712
+            ],
+            [
+              45.077441,
+              41.084745
+            ],
+            [
+              45.077441,
+              41.084745
+            ],
+            [
+              45.059353,
+              41.051297
+            ],
+            [
+              45.10289,
+              41.063438
+            ],
+            [
+              45.105767,
+              41.04607
+            ],
+            [
+              45.13114,
+              41.06433
+            ],
+            [
+              45.13114,
+              41.06433
+            ],
+            [
+              45.129927,
+              41.095074
+            ],
+            [
+              45.163541,
+              41.0819
+            ],
+            [
+              45.166306,
+              41.049857
+            ],
+            [
+              45.184146,
+              41.0548
+            ],
+            [
+              45.257749,
+              41.004132
+            ],
+            [
+              45.287846,
+              41.038327
+            ],
+            [
+              45.318726,
+              41.000453
+            ],
+            [
+              45.318726,
+              41.000453
+            ],
+            [
+              45.361438,
+              40.996103
+            ],
+            [
+              45.377752,
+              41.011548
+            ],
+            [
+              45.377752,
+              41.011548
+            ],
+            [
+              45.39819,
+              41.023795
+            ],
+            [
+              45.440593,
+              41.016012
+            ],
+            [
+              45.40741,
+              40.986003
+            ],
+            [
+              45.422293,
+              40.958814
+            ],
+            [
+              45.453986,
+              40.968751
+            ],
+            [
+              45.453986,
+              40.968751
+            ],
+            [
+              45.481262,
+              40.924056
+            ],
+            [
+              45.516931,
+              40.921173
+            ],
+            [
+              45.559151,
+              40.895536
+            ],
+            [
+              45.557902,
+              40.878882
+            ],
+            [
+              45.599809,
+              40.884317
+            ],
+            [
+              45.599023,
+              40.868674
+            ],
+            [
+              45.599023,
+              40.868674
+            ],
+            [
+              45.607953,
+              40.850683
+            ],
+            [
+              45.591994,
+              40.821427
+            ],
+            [
+              45.545623,
+              40.774541
+            ],
+            [
+              45.425953,
+              40.74246
+            ],
+            [
+              45.425953,
+              40.74246
+            ],
+            [
+              45.403291,
+              40.731557
+            ],
+            [
+              45.404258,
+              40.702487
+            ],
+            [
+              45.378765,
+              40.710044
+            ],
+            [
+              45.375233,
+              40.677126
+            ],
+            [
+              45.375233,
+              40.677126
+            ],
+            [
+              45.363278,
+              40.654781
+            ],
+            [
+              45.363278,
+              40.654781
+            ],
+            [
+              45.397966,
+              40.629923
+            ],
+            [
+              45.393641,
+              40.609272
+            ],
+            [
+              45.43479,
+              40.595907
+            ],
+            [
+              45.43479,
+              40.595907
+            ],
+            [
+              45.43498,
+              40.595733
+            ],
+            [
+              45.43498,
+              40.595733
+            ],
+            [
+              45.437235,
+              40.593663
+            ],
+            [
+              45.437235,
+              40.593663
+            ],
+            [
+              45.441321,
+              40.592795
+            ],
+            [
+              45.441321,
+              40.592795
+            ],
+            [
+              45.460842,
+              40.579543
+            ],
+            [
+              45.437272,
+              40.564432
+            ],
+            [
+              45.450124,
+              40.552512
+            ],
+            [
+              45.430769,
+              40.541295
+            ],
+            [
+              45.438674,
+              40.51975
+            ],
+            [
+              45.506129,
+              40.464553
+            ],
+            [
+              45.506129,
+              40.464553
+            ],
+            [
+              45.559397,
+              40.4284
+            ],
+            [
+              45.589736,
+              40.430672
+            ],
+            [
+              45.63732,
+              40.395876
+            ],
+            [
+              45.648971,
+              40.368407
+            ],
+            [
+              45.678149,
+              40.365688
+            ],
+            [
+              45.678149,
+              40.365688
+            ],
+            [
+              45.823138,
+              40.321461
+            ],
+            [
+              45.823138,
+              40.321461
+            ],
+            [
+              45.879532,
+              40.297274
+            ],
+            [
+              45.879532,
+              40.297274
+            ],
+            [
+              45.930455,
+              40.29699
+            ],
+            [
+              45.930455,
+              40.29699
+            ],
+            [
+              45.959979,
+              40.271256
+            ],
+            [
+              45.955084,
+              40.251671
+            ],
+            [
+              45.934653,
+              40.251379
+            ],
+            [
+              45.97765,
+              40.21905
+            ],
+            [
+              45.97765,
+              40.21905
+            ],
+            [
+              45.961857,
+              40.123532
+            ],
+            [
+              45.949733,
+              40.12044
+            ],
+            [
+              45.949733,
+              40.12044
+            ],
+            [
+              45.903957,
+              40.104232
+            ],
+            [
+              45.910407,
+              40.072132
+            ],
+            [
+              45.880513,
+              40.020892
+            ],
+            [
+              45.8522,
+              40.015154
+            ],
+            [
+              45.838913,
+              39.991011
+            ],
+            [
+              45.788393,
+              40.029233
+            ],
+            [
+              45.685405,
+              40.032733
+            ],
+            [
+              45.604436,
+              40.004857
+            ],
+            [
+              45.604436,
+              40.004857
+            ],
+            [
+              45.61121,
+              39.974097
+            ],
+            [
+              45.61121,
+              39.974097
+            ],
+            [
+              45.780599,
+              39.946842
+            ],
+            [
+              45.803033,
+              39.9281
+            ],
+            [
+              45.788635,
+              39.903019
+            ],
+            [
+              45.814526,
+              39.862068
+            ],
+            [
+              45.814526,
+              39.862068
+            ],
+            [
+              45.826132,
+              39.825988
+            ],
+            [
+              45.887851,
+              39.809737
+            ],
+            [
+              45.887851,
+              39.809737
+            ],
+            [
+              45.977769,
+              39.786869
+            ],
+            [
+              46.069625,
+              39.699718
+            ],
+            [
+              46.05751,
+              39.690756
+            ],
+            [
+              46.05751,
+              39.690756
+            ],
+            [
+              46.078661,
+              39.677142
+            ],
+            [
+              46.095952,
+              39.687527
+            ],
+            [
+              46.155131,
+              39.650762
+            ],
+            [
+              46.171758,
+              39.633236
+            ],
+            [
+              46.177663,
+              39.579264
+            ],
+            [
+              46.177663,
+              39.579264
+            ],
+            [
+              46.199827,
+              39.602122
+            ],
+            [
+              46.199827,
+              39.602122
+            ],
+            [
+              46.261978,
+              39.6063
+            ],
+            [
+              46.261978,
+              39.6063
+            ],
+            [
+              46.357066,
+              39.638714
+            ],
+            [
+              46.376424,
+              39.630721
+            ],
+            [
+              46.37107,
+              39.619554
+            ],
+            [
+              46.41269,
+              39.630787
+            ],
+            [
+              46.41287,
+              39.580374
+            ],
+            [
+              46.430498,
+              39.568946
+            ],
+            [
+              46.485487,
+              39.586511
+            ],
+            [
+              46.485487,
+              39.586511
+            ],
+            [
+              46.50619,
+              39.583579
+            ],
+            [
+              46.50619,
+              39.583579
+            ],
+            [
+              46.566278,
+              39.571998
+            ],
+            [
+              46.566278,
+              39.571998
+            ],
+            [
+              46.588713,
+              39.528504
+            ],
+            [
+              46.588713,
+              39.528504
+            ],
+            [
+              46.548134,
+              39.546394
+            ],
+            [
+              46.499226,
+              39.516321
+            ],
+            [
+              46.499226,
+              39.516321
+            ],
+            [
+              46.53442,
+              39.46766
+            ],
+            [
+              46.53442,
+              39.46766
+            ],
+            [
+              46.484608,
+              39.483349
+            ],
+            [
+              46.45828,
+              39.44934
+            ],
+            [
+              46.395905,
+              39.456715
+            ],
+            [
+              46.395024,
+              39.443004
+            ],
+            [
+              46.395024,
+              39.443004
+            ],
+            [
+              46.385793,
+              39.428432
+            ],
+            [
+              46.385793,
+              39.428432
+            ],
+            [
+              46.392697,
+              39.38434
+            ],
+            [
+              46.392697,
+              39.38434
+            ],
+            [
+              46.411179,
+              39.366288
+            ],
+            [
+              46.411179,
+              39.366288
+            ],
+            [
+              46.45953,
+              39.33784
+            ],
+            [
+              46.45953,
+              39.33784
+            ],
+            [
+              46.50301,
+              39.34357
+            ],
+            [
+              46.50301,
+              39.34357
+            ],
+            [
+              46.536993,
+              39.307785
+            ],
+            [
+              46.536993,
+              39.307785
+            ],
+            [
+              46.519643,
+              39.298677
+            ],
+            [
+              46.552943,
+              39.254832
+            ],
+            [
+              46.633309,
+              39.230912
+            ],
+            [
+              46.633309,
+              39.230912
+            ],
+            [
+              46.573519,
+              39.215281
+            ],
+            [
+              46.58616,
+              39.201297
+            ],
+            [
+              46.53734,
+              39.158913
+            ],
+            [
+              46.53734,
+              39.158913
+            ],
+            [
+              46.51503,
+              39.21258
+            ],
+            [
+              46.503893,
+              39.184448
+            ],
+            [
+              46.503893,
+              39.184448
+            ],
+            [
+              46.445041,
+              39.199144
+            ],
+            [
+              46.445041,
+              39.199144
+            ],
+            [
+              46.431295,
+              39.188865
+            ],
+            [
+              46.439847,
+              39.155162
+            ],
+            [
+              46.495501,
+              39.151089
+            ],
+            [
+              46.482912,
+              39.136548
+            ],
+            [
+              46.499699,
+              39.127108
+            ],
+            [
+              46.499699,
+              39.127108
+            ],
+            [
+              46.501621,
+              39.106173
+            ],
+            [
+              46.501621,
+              39.106173
+            ],
+            [
+              46.536658,
+              39.083784
+            ],
+            [
+              46.516138,
+              39.062938
+            ],
+            [
+              46.553513,
+              39.057407
+            ],
+            [
+              46.553513,
+              39.057407
+            ],
+            [
+              46.546877,
+              39.046983
+            ],
+            [
+              46.546877,
+              39.046983
+            ],
+            [
+              46.535804,
+              39.037426
+            ],
+            [
+              46.546198,
+              39.003405
+            ],
+            [
+              46.519229,
+              38.99526
+            ],
+            [
+              46.523601,
+              38.970663
+            ],
+            [
+              46.508456,
+              38.961693
+            ],
+            [
+              46.508456,
+              38.961693
+            ],
+            [
+              46.533252,
+              38.895215
+            ],
+            [
+              46.533252,
+              38.895215
+            ],
+            [
+              46.533983,
+              38.867172
+            ],
+            [
+              46.533983,
+              38.867172
+            ],
+            [
+              46.525684,
+              38.886675
+            ],
+            [
+              46.525684,
+              38.886675
+            ],
+            [
+              46.524382,
+              38.888312
+            ],
+            [
+              46.524382,
+              38.888312
+            ],
+            [
+              46.4535,
+              38.899007
+            ],
+            [
+              46.421044,
+              38.883022
+            ],
+            [
+              46.36322,
+              38.916309
+            ],
+            [
+              46.286008,
+              38.90089
+            ],
+            [
+              46.286008,
+              38.90089
+            ],
+            [
+              46.206497,
+              38.852882
+            ],
+            [
+              46.206497,
+              38.852882
+            ],
+            [
+              46.201789,
+              38.851708
+            ],
+            [
+              46.201789,
+              38.851708
+            ],
+            [
+              46.184136,
+              38.841488
+            ],
+            [
+              46.184136,
+              38.841488
+            ],
+            [
+              46.173374,
+              38.840477
+            ],
+            [
+              46.173374,
+              38.840477
+            ],
+            [
+              46.155972,
+              38.84282
+            ],
+            [
+              46.155972,
+              38.84282
+            ],
+            [
+              46.144953,
+              38.842185
+            ],
+            [
+              46.144953,
+              38.842185
+            ],
+            [
+              46.140676,
+              38.844518
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "AM",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+        "name": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
+        "id": "AM"
       }
     }
   ]

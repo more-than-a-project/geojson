@@ -3,248 +3,139 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.099613,
+              14.24811
+            ],
+            [
+              -61.240919,
+              14.026511
+            ],
+            [
+              -61.284742,
+              13.893021
+            ],
+            [
+              -61.283197,
+              13.786718
+            ],
+            [
+              -61.265805,
+              13.72348
+            ],
+            [
+              -61.221331,
+              13.655258
+            ],
+            [
+              -61.137273,
+              13.582105
+            ],
+            [
+              -61.137273,
+              13.582105
+            ],
+            [
+              -60.982745,
+              13.509269
+            ],
+            [
+              -60.982745,
+              13.509269
+            ],
+            [
+              -60.892385,
+              13.512712
+            ],
+            [
+              -60.815294,
+              13.547978
+            ],
+            [
+              -60.766937,
+              13.598567
+            ],
+            [
+              -60.698152,
+              13.721249
+            ],
+            [
+              -60.671832,
+              13.84049
+            ],
+            [
+              -60.665031,
+              13.972849
+            ],
+            [
+              -60.688649,
+              14.116514
+            ],
+            [
+              -60.752103,
+              14.221569
+            ],
+            [
+              -60.752103,
+              14.221569
+            ],
+            [
+              -60.753188,
+              14.221738
+            ],
+            [
+              -60.753188,
+              14.221738
+            ],
+            [
+              -60.891944,
+              14.243333
+            ],
+            [
+              -60.891944,
+              14.243333
+            ],
+            [
+              -61.003889,
+              14.2725
+            ],
+            [
+              -61.003889,
+              14.2725
+            ],
+            [
+              -61.076389,
+              14.252778
+            ],
+            [
+              -61.076389,
+              14.252778
+            ],
+            [
+              -61.096863,
+              14.248663
+            ],
+            [
+              -61.096863,
+              14.248663
+            ],
+            [
+              -61.099613,
+              14.24811
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "LC",
         "iso-3166-2": null,
         "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
-        "name": "Saint Lucia"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -61.0968634,
-            14.2486628
-          ],
-          [
-            -61.0996135,
-            14.2481101
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "LC",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
-        "name": "Saint Lucia"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -61.1372732,
-            13.5821047
-          ],
-          [
-            -61.2213315,
-            13.6552582
-          ],
-          [
-            -61.2658053,
-            13.7234798
-          ],
-          [
-            -61.2831965,
-            13.7867181
-          ],
-          [
-            -61.2847418,
-            13.8930215
-          ],
-          [
-            -61.2409189,
-            14.0265113
-          ],
-          [
-            -61.0996135,
-            14.2481101
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "LC",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
-        "name": "Saint Lucia"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -61.1372732,
-            13.5821047
-          ],
-          [
-            -60.9827451,
-            13.5092693
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "LC",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
-        "name": "Saint Lucia"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -60.7521034,
-            14.2215693
-          ],
-          [
-            -60.6886494,
-            14.1165144
-          ],
-          [
-            -60.665031,
-            13.9728493
-          ],
-          [
-            -60.6718315,
-            13.8404895
-          ],
-          [
-            -60.6981522,
-            13.721249
-          ],
-          [
-            -60.7669366,
-            13.5985671
-          ],
-          [
-            -60.8152941,
-            13.5479785
-          ],
-          [
-            -60.8923854,
-            13.5127123
-          ],
-          [
-            -60.9827451,
-            13.5092693
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "LC",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
-        "name": "Saint Lucia"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -60.7531883,
-            14.2217382
-          ],
-          [
-            -60.7521034,
-            14.2215693
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "LC",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
-        "name": "Saint Lucia"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -60.8919444,
-            14.2433333
-          ],
-          [
-            -60.7531883,
-            14.2217382
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "LC",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
-        "name": "Saint Lucia"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -61.0038889,
-            14.2725
-          ],
-          [
-            -60.8919444,
-            14.2433333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "LC",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
-        "name": "Saint Lucia"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -61.0763889,
-            14.2527778
-          ],
-          [
-            -61.0038889,
-            14.2725
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "LC",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
-        "name": "Saint Lucia"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -61.0968634,
-            14.2486628
-          ],
-          [
-            -61.0763889,
-            14.2527778
-          ]
-        ]
+        "name": "Saint Lucia",
+        "id": "LC"
       }
     }
   ]

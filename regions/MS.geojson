@@ -3,100 +3,75 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.447495,
+              16.755673
+            ],
+            [
+              -62.433397,
+              16.644124
+            ],
+            [
+              -62.354317,
+              16.545289
+            ],
+            [
+              -62.261115,
+              16.486189
+            ],
+            [
+              -62.154425,
+              16.474256
+            ],
+            [
+              -62.057064,
+              16.501047
+            ],
+            [
+              -61.977485,
+              16.575087
+            ],
+            [
+              -61.939203,
+              16.661653
+            ],
+            [
+              -61.942569,
+              16.774049
+            ],
+            [
+              -61.942569,
+              16.774049
+            ],
+            [
+              -62.147185,
+              16.883595
+            ],
+            [
+              -62.147185,
+              16.883595
+            ],
+            [
+              -62.256309,
+              16.874082
+            ],
+            [
+              -62.447495,
+              16.755673
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "MS",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Montserrat.svg",
-        "name": "Montserrat"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -62.1471855,
-            16.8835951
-          ],
-          [
-            -62.2563093,
-            16.8740822
-          ],
-          [
-            -62.4474949,
-            16.7556732
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Montserrat.svg",
-        "name": "Montserrat"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -61.9425689,
-            16.7740488
-          ],
-          [
-            -62.1471855,
-            16.8835951
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MS",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Montserrat.svg",
-        "name": "Montserrat"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -61.9425689,
-            16.7740488
-          ],
-          [
-            -61.9392033,
-            16.6616527
-          ],
-          [
-            -61.9774854,
-            16.5750874
-          ],
-          [
-            -62.0570644,
-            16.5010474
-          ],
-          [
-            -62.1544254,
-            16.4742561
-          ],
-          [
-            -62.261115,
-            16.4861894
-          ],
-          [
-            -62.3543174,
-            16.5452893
-          ],
-          [
-            -62.4333966,
-            16.6441244
-          ],
-          [
-            -62.4474949,
-            16.7556732
-          ]
-        ]
+        "name": "Montserrat",
+        "id": "MS"
       }
     }
   ]

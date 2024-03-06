@@ -3,2022 +3,975 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.9845884,
-            31.7447187
-          ],
-          [
-            39.0063116,
-            32.0006304
-          ],
-          [
-            39.2008198,
-            32.1542832
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            39.2008198,
-            32.1542832
-          ],
-          [
-            39.2998604,
-            32.2305891
-          ],
-          [
-            39.2592617,
-            32.3544992
-          ],
-          [
-            39.0428354,
-            32.3029513
-          ],
-          [
-            38.9845955,
-            32.478381
-          ],
-          [
-            39.084884,
-            32.5022979
-          ],
-          [
-            38.8799451,
-            33.1188838
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.8799451,
-            33.1188838
-          ],
-          [
-            38.7929745,
-            33.3734848
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            38.3181413,
-            33.1228302
-          ],
-          [
-            38.3629106,
-            33.1629291
-          ],
-          [
-            38.4265753,
-            33.179565
-          ],
-          [
-            38.7929745,
-            33.3734848
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.4940757,
-            32.6925533
-          ],
-          [
-            37.5667957,
-            32.7332187
-          ],
-          [
-            37.740796,
-            32.7618001
-          ],
-          [
-            37.7621711,
-            32.7878578
-          ],
-          [
-            37.7693326,
-            32.8787228
-          ],
-          [
-            37.7854473,
-            32.89343
-          ],
-          [
-            37.8180372,
-            32.9053839
-          ],
-          [
-            37.901525,
-            32.8983584
-          ],
-          [
-            38.3181413,
-            33.1228302
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.0996295,
-            32.4511518
-          ],
-          [
-            37.2067446,
-            32.5574216
-          ],
-          [
-            37.255432,
-            32.5719161
-          ],
-          [
-            37.3599159,
-            32.5602285
-          ],
-          [
-            37.3791119,
-            32.5920942
-          ],
-          [
-            37.424555,
-            32.6069518
-          ],
-          [
-            37.4940757,
-            32.6925533
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.9142519,
-            32.3818689
-          ],
-          [
-            36.9622623,
-            32.4399799
-          ],
-          [
-            37.0207323,
-            32.4248103
-          ],
-          [
-            37.0647611,
-            32.4285058
-          ],
-          [
-            37.0996295,
-            32.4511518
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.7756029,
-            32.3209014
-          ],
-          [
-            36.8585766,
-            32.3190281
-          ],
-          [
-            36.9142519,
-            32.3818689
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.6893185,
-            32.3345092
-          ],
-          [
-            36.7215307,
-            32.3136418
-          ],
-          [
-            36.7756029,
-            32.3209014
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.5958069,
-            32.3492454
-          ],
-          [
-            36.6893185,
-            32.3345092
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.5659487,
-            32.3517481
-          ],
-          [
-            36.5958069,
-            32.3492454
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.513357,
-            32.3573507
-          ],
-          [
-            36.5659487,
-            32.3517481
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.4383775,
-            32.371486
-          ],
-          [
-            36.513357,
-            32.3573507
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.3560487,
-            32.4148567
-          ],
-          [
-            36.4004982,
-            32.3800052
-          ],
-          [
-            36.4383775,
-            32.371486
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.318529,
-            32.4472969
-          ],
-          [
-            36.3560487,
-            32.4148567
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.3055566,
-            32.4592675
-          ],
-          [
-            36.318529,
-            32.4472969
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.2570204,
-            32.4874456
-          ],
-          [
-            36.3055566,
-            32.4592675
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.1562284,
-            32.5238245
-          ],
-          [
-            36.1632901,
-            32.5146204
-          ],
-          [
-            36.1999978,
-            32.5298545
-          ],
-          [
-            36.2118596,
-            32.4948394
-          ],
-          [
-            36.2570204,
-            32.4874456
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.0890757,
-            32.515675
-          ],
-          [
-            36.1562284,
-            32.5238245
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.0283887,
-            32.6370872
-          ],
-          [
-            36.0256842,
-            32.6022652
-          ],
-          [
-            36.0621826,
-            32.5781568
-          ],
-          [
-            36.078734,
-            32.513485
-          ],
-          [
-            36.0890757,
-            32.515675
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.027861,
-            32.6474734
-          ],
-          [
-            36.0283887,
-            32.6370872
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            36.0243111,
-            32.6580074
-          ],
-          [
-            36.027861,
-            32.6474734
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.933758,
-            32.7210213
-          ],
-          [
-            35.9648788,
-            32.6641584
-          ],
-          [
-            36.0243111,
-            32.6580074
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.8866799,
-            32.7188707
-          ],
-          [
-            35.933758,
-            32.7210213
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7990575,
-            32.7539589
-          ],
-          [
-            35.800699,
-            32.7362451
-          ],
-          [
-            35.8744758,
-            32.733682
-          ],
-          [
-            35.8866799,
-            32.7188707
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7990575,
-            32.7539589
-          ],
-          [
-            35.7660663,
-            32.7466861
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7660663,
-            32.7466861
-          ],
-          [
-            35.7638615,
-            32.747787
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7638615,
-            32.747787
-          ],
-          [
-            35.7564962,
-            32.7452784
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7564962,
-            32.7452784
-          ],
-          [
-            35.6756008,
-            32.7056188
-          ],
-          [
-            35.6719912,
-            32.6911829
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6719912,
-            32.6911829
-          ],
-          [
-            35.6452569,
-            32.6775614
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6452569,
-            32.6775614
-          ],
-          [
-            35.6314286,
-            32.6836553
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.6314286,
-            32.6836553
-          ],
-          [
-            35.5985755,
-            32.6682741
-          ],
-          [
-            35.6056959,
-            32.6513624
-          ],
-          [
-            35.5713604,
-            32.6471412
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5640611,
-            32.6477111
-          ],
-          [
-            35.5713604,
-            32.6471412
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5640611,
-            32.6477111
-          ],
-          [
-            35.5664009,
-            32.6011967
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5664009,
-            32.6011967
-          ],
-          [
-            35.5781081,
-            32.5970235
-          ],
-          [
-            35.5769708,
-            32.5526238
-          ],
-          [
-            35.5525128,
-            32.5147493
-          ],
-          [
-            35.580175,
-            32.4874065
-          ],
-          [
-            35.5653743,
-            32.4809637
-          ],
-          [
-            35.573848,
-            32.458746
-          ],
-          [
-            35.551768,
-            32.4223737
-          ],
-          [
-            35.5549603,
-            32.3890173
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5549603,
-            32.3890173
-          ],
-          [
-            35.5689116,
-            32.245777
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5689116,
-            32.245777
-          ],
-          [
-            35.5688755,
-            32.1906318
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5688755,
-            32.1906318
-          ],
-          [
-            35.5324673,
-            32.1070334
-          ],
-          [
-            35.5460607,
-            32.082252
-          ],
-          [
-            35.5191635,
-            32.0474976
-          ],
-          [
-            35.5411236,
-            31.9734987
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5411236,
-            31.9734987
-          ],
-          [
-            35.5481587,
-            31.9684365
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5481587,
-            31.9684365
-          ],
-          [
-            35.5243208,
-            31.9076793
-          ],
-          [
-            35.54987,
-            31.8727299
-          ],
-          [
-            35.5364542,
-            31.8563685
-          ],
-          [
-            35.5465319,
-            31.8370292
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5465319,
-            31.8370292
-          ],
-          [
-            35.5463649,
-            31.8368441
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5463649,
-            31.8368441
-          ],
-          [
-            35.5462679,
-            31.8366323
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5462679,
-            31.8366323
-          ],
-          [
-            35.5389889,
-            31.8159633
-          ],
-          [
-            35.5581912,
-            31.7651859
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5581912,
-            31.7651859
-          ],
-          [
-            35.5586565,
-            31.758258
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5277469,
-            31.7215213
-          ],
-          [
-            35.5586565,
-            31.758258
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5256572,
-            31.7163537
-          ],
-          [
-            35.5277469,
-            31.7215213
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5177319,
-            31.6969493
-          ],
-          [
-            35.5256572,
-            31.7163537
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.476012,
-            31.49312
-          ],
-          [
-            35.4915229,
-            31.621088
-          ],
-          [
-            35.5177319,
-            31.6969493
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4748414,
-            31.445728
-          ],
-          [
-            35.476012,
-            31.49312
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4335287,
-            31.3246746
-          ],
-          [
-            35.4606945,
-            31.3716582
-          ],
-          [
-            35.4748414,
-            31.445728
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.4516308,
-            31.1478797
-          ],
-          [
-            35.3992311,
-            31.2452261
-          ],
-          [
-            35.4335287,
-            31.3246746
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3711667,
-            30.926784
-          ],
-          [
-            35.3940835,
-            30.9265815
-          ],
-          [
-            35.4164664,
-            30.9509396
-          ],
-          [
-            35.4259502,
-            31.0448151
-          ],
-          [
-            35.4547379,
-            31.1044493
-          ],
-          [
-            35.4516308,
-            31.1478797
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3331632,
-            30.8297206
-          ],
-          [
-            35.333056,
-            30.867222
-          ],
-          [
-            35.3711667,
-            30.926784
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3403693,
-            30.8125578
-          ],
-          [
-            35.3331632,
-            30.8297206
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.3082099,
-            30.762269
-          ],
-          [
-            35.3403693,
-            30.8125578
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.1512953,
-            30.2973857
-          ],
-          [
-            35.1920381,
-            30.346085
-          ],
-          [
-            35.1619544,
-            30.4413124
-          ],
-          [
-            35.1931539,
-            30.4989034
-          ],
-          [
-            35.2040329,
-            30.5819564
-          ],
-          [
-            35.2638594,
-            30.6601851
-          ],
-          [
-            35.2936616,
-            30.7122508
-          ],
-          [
-            35.2958074,
-            30.7620109
-          ],
-          [
-            35.3082099,
-            30.762269
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.0439372,
-            29.7880878
-          ],
-          [
-            35.0845351,
-            29.8855474
-          ],
-          [
-            35.0752869,
-            29.9503437
-          ],
-          [
-            35.0988903,
-            29.9914797
-          ],
-          [
-            35.1162281,
-            29.9952337
-          ],
-          [
-            35.1008644,
-            30.0122549
-          ],
-          [
-            35.1307121,
-            30.0615556
-          ],
-          [
-            35.1458397,
-            30.0627627
-          ],
-          [
-            35.1621905,
-            30.122488
-          ],
-          [
-            35.1445952,
-            30.1625878
-          ],
-          [
-            35.1512953,
-            30.2973857
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9952131,
-            29.6105243
-          ],
-          [
-            35.0196686,
-            29.6560237
-          ],
-          [
-            35.0132742,
-            29.7108681
-          ],
-          [
-            35.0439372,
-            29.7880878
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9915291,
-            29.603697
-          ],
-          [
-            34.9952131,
-            29.6105243
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9915291,
-            29.603697
-          ],
-          [
-            34.9786454,
-            29.5768077
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9773801,
-            29.5429571
-          ],
-          [
-            34.9786454,
-            29.5768077
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.9759867,
-            29.5398892
-          ],
-          [
-            34.9773801,
-            29.5429571
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.921211,
-            29.4533796
-          ],
-          [
-            34.9759867,
-            29.5398892
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.8844372,
-            29.3751955
-          ],
-          [
-            34.921211,
-            29.4533796
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            34.8844372,
-            29.3751955
-          ],
-          [
-            34.9606351,
-            29.3573827
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5023236,
-            29.2744157
-          ],
-          [
-            34.9606351,
-            29.3573827
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.5512323,
-            29.2668295
-          ],
-          [
-            35.5023236,
-            29.2744157
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.7371031,
-            29.2379941
-          ],
-          [
-            35.5512323,
-            29.2668295
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            35.778215,
-            29.2292166
-          ],
-          [
-            35.7371031,
-            29.2379941
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.3660269,
-            29.9755853
-          ],
-          [
-            36.7849032,
-            29.8679012
-          ],
-          [
-            36.7360779,
-            29.7889886
-          ],
-          [
-            36.6809221,
-            29.7494058
-          ],
-          [
-            36.6244587,
-            29.6368563
-          ],
-          [
-            36.4493379,
-            29.4303741
-          ],
-          [
-            36.3417408,
-            29.3801086
-          ],
-          [
-            36.0728117,
-            29.183401
-          ],
-          [
-            35.778215,
-            29.2292166
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.5016142,
-            29.9998026
-          ],
-          [
-            37.3660269,
-            29.9755853
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.2539084,
-            31.261127
-          ],
-          [
-            37.9971461,
-            30.5006607
-          ],
-          [
-            37.6655574,
-            30.3326227
-          ],
-          [
-            37.5016142,
-            29.9998026
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.0061712,
-            31.5006395
-          ],
-          [
-            37.2539084,
-            31.261127
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.7975097,
-            31.7030947
-          ],
-          [
-            37.0061712,
-            31.5006395
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.9642454,
-            31.7442153
-          ],
-          [
-            37.7975097,
-            31.7030947
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "JO",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
-        "name": "\u0627\u0644\u0623\u0631\u062f\u0646"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            37.9642454,
-            31.7442153
-          ],
-          [
-            37.9845884,
-            31.7447187
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39.20082,
+              32.154283
+            ],
+            [
+              39.29986,
+              32.230589
+            ],
+            [
+              39.259262,
+              32.354499
+            ],
+            [
+              39.042835,
+              32.302951
+            ],
+            [
+              38.984595,
+              32.478381
+            ],
+            [
+              39.084884,
+              32.502298
+            ],
+            [
+              38.879945,
+              33.118884
+            ],
+            [
+              38.879945,
+              33.118884
+            ],
+            [
+              38.792974,
+              33.373485
+            ],
+            [
+              38.792974,
+              33.373485
+            ],
+            [
+              38.426575,
+              33.179565
+            ],
+            [
+              38.362911,
+              33.162929
+            ],
+            [
+              38.318141,
+              33.12283
+            ],
+            [
+              38.318141,
+              33.12283
+            ],
+            [
+              37.901525,
+              32.898358
+            ],
+            [
+              37.818037,
+              32.905384
+            ],
+            [
+              37.785447,
+              32.89343
+            ],
+            [
+              37.769333,
+              32.878723
+            ],
+            [
+              37.762171,
+              32.787858
+            ],
+            [
+              37.740796,
+              32.7618
+            ],
+            [
+              37.566796,
+              32.733219
+            ],
+            [
+              37.494076,
+              32.692553
+            ],
+            [
+              37.494076,
+              32.692553
+            ],
+            [
+              37.424555,
+              32.606952
+            ],
+            [
+              37.379112,
+              32.592094
+            ],
+            [
+              37.359916,
+              32.560229
+            ],
+            [
+              37.255432,
+              32.571916
+            ],
+            [
+              37.206745,
+              32.557422
+            ],
+            [
+              37.099629,
+              32.451152
+            ],
+            [
+              37.099629,
+              32.451152
+            ],
+            [
+              37.064761,
+              32.428506
+            ],
+            [
+              37.020732,
+              32.42481
+            ],
+            [
+              36.962262,
+              32.43998
+            ],
+            [
+              36.914252,
+              32.381869
+            ],
+            [
+              36.914252,
+              32.381869
+            ],
+            [
+              36.858577,
+              32.319028
+            ],
+            [
+              36.775603,
+              32.320901
+            ],
+            [
+              36.775603,
+              32.320901
+            ],
+            [
+              36.721531,
+              32.313642
+            ],
+            [
+              36.689318,
+              32.334509
+            ],
+            [
+              36.689318,
+              32.334509
+            ],
+            [
+              36.595807,
+              32.349245
+            ],
+            [
+              36.595807,
+              32.349245
+            ],
+            [
+              36.565949,
+              32.351748
+            ],
+            [
+              36.565949,
+              32.351748
+            ],
+            [
+              36.513357,
+              32.357351
+            ],
+            [
+              36.513357,
+              32.357351
+            ],
+            [
+              36.438378,
+              32.371486
+            ],
+            [
+              36.438378,
+              32.371486
+            ],
+            [
+              36.400498,
+              32.380005
+            ],
+            [
+              36.356049,
+              32.414857
+            ],
+            [
+              36.356049,
+              32.414857
+            ],
+            [
+              36.318529,
+              32.447297
+            ],
+            [
+              36.318529,
+              32.447297
+            ],
+            [
+              36.305557,
+              32.459268
+            ],
+            [
+              36.305557,
+              32.459268
+            ],
+            [
+              36.25702,
+              32.487446
+            ],
+            [
+              36.25702,
+              32.487446
+            ],
+            [
+              36.21186,
+              32.494839
+            ],
+            [
+              36.199998,
+              32.529854
+            ],
+            [
+              36.16329,
+              32.51462
+            ],
+            [
+              36.156228,
+              32.523825
+            ],
+            [
+              36.156228,
+              32.523825
+            ],
+            [
+              36.089076,
+              32.515675
+            ],
+            [
+              36.089076,
+              32.515675
+            ],
+            [
+              36.078734,
+              32.513485
+            ],
+            [
+              36.062183,
+              32.578157
+            ],
+            [
+              36.025684,
+              32.602265
+            ],
+            [
+              36.028389,
+              32.637087
+            ],
+            [
+              36.028389,
+              32.637087
+            ],
+            [
+              36.027861,
+              32.647473
+            ],
+            [
+              36.027861,
+              32.647473
+            ],
+            [
+              36.024311,
+              32.658007
+            ],
+            [
+              36.024311,
+              32.658007
+            ],
+            [
+              35.964879,
+              32.664158
+            ],
+            [
+              35.933758,
+              32.721021
+            ],
+            [
+              35.933758,
+              32.721021
+            ],
+            [
+              35.88668,
+              32.718871
+            ],
+            [
+              35.88668,
+              32.718871
+            ],
+            [
+              35.874476,
+              32.733682
+            ],
+            [
+              35.800699,
+              32.736245
+            ],
+            [
+              35.799058,
+              32.753959
+            ],
+            [
+              35.799058,
+              32.753959
+            ],
+            [
+              35.766066,
+              32.746686
+            ],
+            [
+              35.766066,
+              32.746686
+            ],
+            [
+              35.763861,
+              32.747787
+            ],
+            [
+              35.763861,
+              32.747787
+            ],
+            [
+              35.756496,
+              32.745278
+            ],
+            [
+              35.756496,
+              32.745278
+            ],
+            [
+              35.675601,
+              32.705619
+            ],
+            [
+              35.671991,
+              32.691183
+            ],
+            [
+              35.671991,
+              32.691183
+            ],
+            [
+              35.645257,
+              32.677561
+            ],
+            [
+              35.645257,
+              32.677561
+            ],
+            [
+              35.631429,
+              32.683655
+            ],
+            [
+              35.631429,
+              32.683655
+            ],
+            [
+              35.598576,
+              32.668274
+            ],
+            [
+              35.605696,
+              32.651362
+            ],
+            [
+              35.57136,
+              32.647141
+            ],
+            [
+              35.57136,
+              32.647141
+            ],
+            [
+              35.564061,
+              32.647711
+            ],
+            [
+              35.564061,
+              32.647711
+            ],
+            [
+              35.566401,
+              32.601197
+            ],
+            [
+              35.566401,
+              32.601197
+            ],
+            [
+              35.578108,
+              32.597023
+            ],
+            [
+              35.576971,
+              32.552624
+            ],
+            [
+              35.552513,
+              32.514749
+            ],
+            [
+              35.580175,
+              32.487406
+            ],
+            [
+              35.565374,
+              32.480964
+            ],
+            [
+              35.573848,
+              32.458746
+            ],
+            [
+              35.551768,
+              32.422374
+            ],
+            [
+              35.55496,
+              32.389017
+            ],
+            [
+              35.55496,
+              32.389017
+            ],
+            [
+              35.568912,
+              32.245777
+            ],
+            [
+              35.568912,
+              32.245777
+            ],
+            [
+              35.568875,
+              32.190632
+            ],
+            [
+              35.568875,
+              32.190632
+            ],
+            [
+              35.532467,
+              32.107033
+            ],
+            [
+              35.546061,
+              32.082252
+            ],
+            [
+              35.519163,
+              32.047498
+            ],
+            [
+              35.541124,
+              31.973499
+            ],
+            [
+              35.541124,
+              31.973499
+            ],
+            [
+              35.548159,
+              31.968436
+            ],
+            [
+              35.548159,
+              31.968436
+            ],
+            [
+              35.524321,
+              31.907679
+            ],
+            [
+              35.54987,
+              31.87273
+            ],
+            [
+              35.536454,
+              31.856368
+            ],
+            [
+              35.546532,
+              31.837029
+            ],
+            [
+              35.546532,
+              31.837029
+            ],
+            [
+              35.546365,
+              31.836844
+            ],
+            [
+              35.546365,
+              31.836844
+            ],
+            [
+              35.546268,
+              31.836632
+            ],
+            [
+              35.546268,
+              31.836632
+            ],
+            [
+              35.538989,
+              31.815963
+            ],
+            [
+              35.558191,
+              31.765186
+            ],
+            [
+              35.558191,
+              31.765186
+            ],
+            [
+              35.558656,
+              31.758258
+            ],
+            [
+              35.558656,
+              31.758258
+            ],
+            [
+              35.527747,
+              31.721521
+            ],
+            [
+              35.527747,
+              31.721521
+            ],
+            [
+              35.525657,
+              31.716354
+            ],
+            [
+              35.525657,
+              31.716354
+            ],
+            [
+              35.517732,
+              31.696949
+            ],
+            [
+              35.517732,
+              31.696949
+            ],
+            [
+              35.491523,
+              31.621088
+            ],
+            [
+              35.476012,
+              31.49312
+            ],
+            [
+              35.476012,
+              31.49312
+            ],
+            [
+              35.474841,
+              31.445728
+            ],
+            [
+              35.474841,
+              31.445728
+            ],
+            [
+              35.460695,
+              31.371658
+            ],
+            [
+              35.433529,
+              31.324675
+            ],
+            [
+              35.433529,
+              31.324675
+            ],
+            [
+              35.399231,
+              31.245226
+            ],
+            [
+              35.451631,
+              31.14788
+            ],
+            [
+              35.451631,
+              31.14788
+            ],
+            [
+              35.454738,
+              31.104449
+            ],
+            [
+              35.42595,
+              31.044815
+            ],
+            [
+              35.416466,
+              30.95094
+            ],
+            [
+              35.394084,
+              30.926582
+            ],
+            [
+              35.371167,
+              30.926784
+            ],
+            [
+              35.371167,
+              30.926784
+            ],
+            [
+              35.333056,
+              30.867222
+            ],
+            [
+              35.333163,
+              30.829721
+            ],
+            [
+              35.333163,
+              30.829721
+            ],
+            [
+              35.340369,
+              30.812558
+            ],
+            [
+              35.340369,
+              30.812558
+            ],
+            [
+              35.30821,
+              30.762269
+            ],
+            [
+              35.30821,
+              30.762269
+            ],
+            [
+              35.295807,
+              30.762011
+            ],
+            [
+              35.293662,
+              30.712251
+            ],
+            [
+              35.263859,
+              30.660185
+            ],
+            [
+              35.204033,
+              30.581956
+            ],
+            [
+              35.193154,
+              30.498903
+            ],
+            [
+              35.161954,
+              30.441312
+            ],
+            [
+              35.192038,
+              30.346085
+            ],
+            [
+              35.151295,
+              30.297386
+            ],
+            [
+              35.151295,
+              30.297386
+            ],
+            [
+              35.144595,
+              30.162588
+            ],
+            [
+              35.162191,
+              30.122488
+            ],
+            [
+              35.14584,
+              30.062763
+            ],
+            [
+              35.130712,
+              30.061556
+            ],
+            [
+              35.100864,
+              30.012255
+            ],
+            [
+              35.116228,
+              29.995234
+            ],
+            [
+              35.09889,
+              29.99148
+            ],
+            [
+              35.075287,
+              29.950344
+            ],
+            [
+              35.084535,
+              29.885547
+            ],
+            [
+              35.043937,
+              29.788088
+            ],
+            [
+              35.043937,
+              29.788088
+            ],
+            [
+              35.013274,
+              29.710868
+            ],
+            [
+              35.019669,
+              29.656024
+            ],
+            [
+              34.995213,
+              29.610524
+            ],
+            [
+              34.995213,
+              29.610524
+            ],
+            [
+              34.991529,
+              29.603697
+            ],
+            [
+              34.991529,
+              29.603697
+            ],
+            [
+              34.978645,
+              29.576808
+            ],
+            [
+              34.978645,
+              29.576808
+            ],
+            [
+              34.97738,
+              29.542957
+            ],
+            [
+              34.97738,
+              29.542957
+            ],
+            [
+              34.975987,
+              29.539889
+            ],
+            [
+              34.975987,
+              29.539889
+            ],
+            [
+              34.921211,
+              29.45338
+            ],
+            [
+              34.921211,
+              29.45338
+            ],
+            [
+              34.884437,
+              29.375196
+            ],
+            [
+              34.884437,
+              29.375196
+            ],
+            [
+              34.960635,
+              29.357383
+            ],
+            [
+              34.960635,
+              29.357383
+            ],
+            [
+              35.502324,
+              29.274416
+            ],
+            [
+              35.502324,
+              29.274416
+            ],
+            [
+              35.551232,
+              29.26683
+            ],
+            [
+              35.551232,
+              29.26683
+            ],
+            [
+              35.737103,
+              29.237994
+            ],
+            [
+              35.737103,
+              29.237994
+            ],
+            [
+              35.778215,
+              29.229217
+            ],
+            [
+              35.778215,
+              29.229217
+            ],
+            [
+              36.072812,
+              29.183401
+            ],
+            [
+              36.341741,
+              29.380109
+            ],
+            [
+              36.449338,
+              29.430374
+            ],
+            [
+              36.624459,
+              29.636856
+            ],
+            [
+              36.680922,
+              29.749406
+            ],
+            [
+              36.736078,
+              29.788989
+            ],
+            [
+              36.784903,
+              29.867901
+            ],
+            [
+              37.366027,
+              29.975585
+            ],
+            [
+              37.366027,
+              29.975585
+            ],
+            [
+              37.501614,
+              29.999803
+            ],
+            [
+              37.501614,
+              29.999803
+            ],
+            [
+              37.665557,
+              30.332623
+            ],
+            [
+              37.997146,
+              30.500661
+            ],
+            [
+              37.253908,
+              31.261127
+            ],
+            [
+              37.253908,
+              31.261127
+            ],
+            [
+              37.006171,
+              31.500639
+            ],
+            [
+              37.006171,
+              31.500639
+            ],
+            [
+              37.79751,
+              31.703095
+            ],
+            [
+              37.79751,
+              31.703095
+            ],
+            [
+              37.964245,
+              31.744215
+            ],
+            [
+              37.964245,
+              31.744215
+            ],
+            [
+              37.984588,
+              31.744719
+            ],
+            [
+              37.984588,
+              31.744719
+            ],
+            [
+              39.006312,
+              32.00063
+            ],
+            [
+              39.20082,
+              32.154283
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "JO",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
+        "name": "\u0627\u0644\u0623\u0631\u062f\u0646",
+        "id": "JO"
       }
     }
   ]

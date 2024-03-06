@@ -3,2882 +3,1438 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            124.4182576,
-            38.05
-          ],
-          [
-            124.6333333,
-            38.05
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            124.4182576,
-            38.05
-          ],
-          [
-            124.3797155,
-            38.0499999
-          ],
-          [
-            124.3727348,
-            37.909855
-          ],
-          [
-            124.4110497,
-            37.8401532
-          ],
-          [
-            124.4160622,
-            37.7426988
-          ],
-          [
-            124.4446266,
-            37.6945754
-          ],
-          [
-            124.5750007,
-            37.5975097
-          ],
-          [
-            124.6594713,
-            37.5683773
-          ],
-          [
-            124.7840359,
-            37.5666135
-          ],
-          [
-            124.8660156,
-            37.5859294
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            124.8660156,
-            37.5859294
-          ],
-          [
-            124.940796,
-            37.6325559
-          ],
-          [
-            124.9775524,
-            37.6873674
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            124.8666667,
-            37.7666667
-          ],
-          [
-            124.9775524,
-            37.6873674
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            124.8589979,
-            37.8741209
-          ],
-          [
-            124.8666667,
-            37.7666667
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            124.8499999,
-            38.0
-          ],
-          [
-            124.8589979,
-            37.8741209
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            124.6333333,
-            38.05
-          ],
-          [
-            124.8499999,
-            38.0
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.7630983,
-            37.9749835
-          ],
-          [
-            126.795259,
-            37.9967616
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.795259,
-            37.9967616
-          ],
-          [
-            126.81383,
-            38.0
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.81383,
-            38.0
-          ],
-          [
-            126.8381973,
-            38.0304571
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.8381973,
-            38.0304571
-          ],
-          [
-            126.8524468,
-            38.0342751
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.8524468,
-            38.0342751
-          ],
-          [
-            126.868087,
-            38.0809681
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.868087,
-            38.0809681
-          ],
-          [
-            126.881224,
-            38.1033945
-          ],
-          [
-            126.9580313,
-            38.1322177
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.9601343,
-            38.1333357
-          ],
-          [
-            126.9580313,
-            38.1322177
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.9489916,
-            38.1578395
-          ],
-          [
-            126.9698773,
-            38.1450988
-          ],
-          [
-            126.9601343,
-            38.1333357
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.9489916,
-            38.1578395
-          ],
-          [
-            126.964691,
-            38.1690467
-          ],
-          [
-            126.9625582,
-            38.19073
-          ],
-          [
-            127.0087936,
-            38.2265941
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.0087936,
-            38.2265941
-          ],
-          [
-            127.0959367,
-            38.2810037
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.0959367,
-            38.2810037
-          ],
-          [
-            127.1017635,
-            38.2844313
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.1017635,
-            38.2844313
-          ],
-          [
-            127.1104106,
-            38.2955282
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.1104106,
-            38.2955282
-          ],
-          [
-            127.1333217,
-            38.3136844
-          ],
-          [
-            127.151948,
-            38.3052225
-          ],
-          [
-            127.234589,
-            38.3316934
-          ],
-          [
-            127.2978126,
-            38.3141246
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.2978126,
-            38.3141246
-          ],
-          [
-            127.3630071,
-            38.324389
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.3629087,
-            38.3267287
-          ],
-          [
-            127.3630071,
-            38.324389
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.3629087,
-            38.3267287
-          ],
-          [
-            127.3853173,
-            38.3370281
-          ],
-          [
-            127.4995079,
-            38.3022817
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.4995079,
-            38.3022817
-          ],
-          [
-            127.5027225,
-            38.3016595
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.5027225,
-            38.3016595
-          ],
-          [
-            127.5468926,
-            38.3244371
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.5468926,
-            38.3244371
-          ],
-          [
-            127.5736375,
-            38.3335478
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.5736375,
-            38.3335478
-          ],
-          [
-            127.6889606,
-            38.3241997
-          ],
-          [
-            127.7830088,
-            38.3488584
-          ],
-          [
-            127.8216664,
-            38.3040599
-          ],
-          [
-            127.8539537,
-            38.3138609
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.8539537,
-            38.3138609
-          ],
-          [
-            127.874765,
-            38.3173858
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            127.874765,
-            38.3173858
-          ],
-          [
-            127.8822326,
-            38.330918
-          ],
-          [
-            128.0161752,
-            38.3156493
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.0161752,
-            38.3156493
-          ],
-          [
-            128.0522376,
-            38.306667
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.0522376,
-            38.306667
-          ],
-          [
-            128.0867271,
-            38.3182037
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.0867271,
-            38.3182037
-          ],
-          [
-            128.1268938,
-            38.3316927
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.1268938,
-            38.3316927
-          ],
-          [
-            128.2154244,
-            38.3772376
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.2154244,
-            38.3772376
-          ],
-          [
-            128.2288118,
-            38.3957324
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.2288118,
-            38.3957324
-          ],
-          [
-            128.2841168,
-            38.4368044
-          ],
-          [
-            128.3067247,
-            38.4785816
-          ],
-          [
-            128.3093192,
-            38.5928598
-          ],
-          [
-            128.3283816,
-            38.5994193
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.3283816,
-            38.5994193
-          ],
-          [
-            128.3588643,
-            38.6153214
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.3588643,
-            38.6153214
-          ],
-          [
-            128.3767999,
-            38.6154662
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.3767999,
-            38.6154662
-          ],
-          [
-            128.3932089,
-            38.6155987
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.3932089,
-            38.6155987
-          ],
-          [
-            128.6537873,
-            38.6177023
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.6764357,
-            38.5696914
-          ],
-          [
-            128.6537873,
-            38.6177023
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.7071418,
-            38.5112091
-          ],
-          [
-            128.6764357,
-            38.5696914
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.7374154,
-            38.4683477
-          ],
-          [
-            128.7071418,
-            38.5112091
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.8244515,
-            38.3237617
-          ],
-          [
-            128.7374154,
-            38.4683477
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.8595719,
-            38.2508317
-          ],
-          [
-            128.8244515,
-            38.3237617
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.9974314,
-            38.0562167
-          ],
-          [
-            128.8692852,
-            38.2144463
-          ],
-          [
-            128.8595719,
-            38.2508317
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.0541115,
-            38.0
-          ],
-          [
-            128.9974314,
-            38.0562167
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.2757493,
-            37.7825338
-          ],
-          [
-            129.1405102,
-            37.8992285
-          ],
-          [
-            129.0541115,
-            38.0
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.3699776,
-            37.5941433
-          ],
-          [
-            129.3669317,
-            37.6257889
-          ],
-          [
-            129.2757493,
-            37.7825338
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.6243797,
-            37.2710398
-          ],
-          [
-            129.4576932,
-            37.5052536
-          ],
-          [
-            129.3699776,
-            37.5941433
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.6243797,
-            37.2710398
-          ],
-          [
-            129.6215268,
-            37.1944087
-          ],
-          [
-            129.6741615,
-            37.1137598
-          ],
-          [
-            129.6812907,
-            37.0638495
-          ],
-          [
-            129.6706005,
-            36.9400141
-          ],
-          [
-            129.7304631,
-            36.7758398
-          ],
-          [
-            129.7210218,
-            36.6618243
-          ],
-          [
-            129.6869351,
-            36.5922627
-          ],
-          [
-            129.7026573,
-            36.5062136
-          ],
-          [
-            129.6827446,
-            36.3943535
-          ],
-          [
-            129.659464,
-            36.3217792
-          ],
-          [
-            129.6299898,
-            36.2875404
-          ],
-          [
-            129.7641174,
-            36.2052437
-          ],
-          [
-            129.7987877,
-            36.1632132
-          ],
-          [
-            129.8317467,
-            36.0739046
-          ],
-          [
-            129.8326489,
-            35.9927301
-          ],
-          [
-            129.7828671,
-            35.8937787
-          ],
-          [
-            129.7819444,
-            35.8381484
-          ],
-          [
-            129.712104,
-            35.6271784
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.720619,
-            35.5464325
-          ],
-          [
-            129.712104,
-            35.6271784
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.6072103,
-            35.337703
-          ],
-          [
-            129.6690341,
-            35.3999801
-          ],
-          [
-            129.720619,
-            35.5464325
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.4889527,
-            35.1861705
-          ],
-          [
-            129.5590764,
-            35.2376709
-          ],
-          [
-            129.6072103,
-            35.337703
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.2578434,
-            35.124344
-          ],
-          [
-            129.465589,
-            35.1308566
-          ],
-          [
-            129.4889527,
-            35.1861705
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.2124731,
-            35.0828813
-          ],
-          [
-            129.2578434,
-            35.124344
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.1741142,
-            35.0417291
-          ],
-          [
-            129.2124731,
-            35.0828813
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.1008314,
-            34.949438
-          ],
-          [
-            129.1741142,
-            35.0417291
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            129.0658394,
-            34.8950453
-          ],
-          [
-            129.1008314,
-            34.949438
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.9485256,
-            34.7252504
-          ],
-          [
-            129.0658394,
-            34.8950453
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.9485256,
-            34.7252504
-          ],
-          [
-            128.7927232,
-            34.5099527
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.7927232,
-            34.5099527
-          ],
-          [
-            128.8162752,
-            34.343261
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.8162752,
-            34.343261
-          ],
-          [
-            128.3063269,
-            34.2050429
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.3063269,
-            34.2050429
-          ],
-          [
-            128.1715912,
-            34.1697419
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            128.1715912,
-            34.1697419
-          ],
-          [
-            127.9990615,
-            34.1233011
-          ],
-          [
-            127.7833347,
-            33.8841773
-          ],
-          [
-            127.7225872,
-            33.8533105
-          ],
-          [
-            127.5756586,
-            33.8245314
-          ],
-          [
-            126.9153195,
-            33.7591991
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.9153195,
-            33.7591991
-          ],
-          [
-            126.9918548,
-            33.7112689
-          ],
-          [
-            127.102203,
-            33.6814971
-          ],
-          [
-            127.1492382,
-            33.6500654
-          ],
-          [
-            127.2152291,
-            33.541639
-          ],
-          [
-            127.2106286,
-            33.4662976
-          ],
-          [
-            127.1545211,
-            33.3431643
-          ],
-          [
-            127.0430099,
-            33.1973576
-          ],
-          [
-            126.9782635,
-            33.1444508
-          ],
-          [
-            126.8512341,
-            33.0978696
-          ],
-          [
-            126.7846595,
-            33.0458111
-          ],
-          [
-            126.7129308,
-            33.020065
-          ],
-          [
-            126.47833,
-            33.0158896
-          ],
-          [
-            126.4142228,
-            32.9502291
-          ],
-          [
-            126.3551026,
-            32.920687
-          ],
-          [
-            126.227026,
-            32.910751
-          ],
-          [
-            126.1430922,
-            32.9384308
-          ],
-          [
-            126.0718614,
-            32.9922741
-          ],
-          [
-            126.0102177,
-            33.1190435
-          ],
-          [
-            125.925417,
-            33.2318111
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.925417,
-            33.2318111
-          ],
-          [
-            125.9019467,
-            33.3107336
-          ],
-          [
-            125.92481,
-            33.4071428
-          ],
-          [
-            126.081374,
-            33.5807816
-          ],
-          [
-            126.0590716,
-            33.6998995
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.0590716,
-            33.6998995
-          ],
-          [
-            125.7940999,
-            33.7395059
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.7940999,
-            33.7395059
-          ],
-          [
-            125.4170159,
-            33.7967135
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.4170159,
-            33.7967135
-          ],
-          [
-            125.0608056,
-            33.8521703
-          ],
-          [
-            124.9742883,
-            33.884668
-          ],
-          [
-            124.9015042,
-            33.9413665
-          ],
-          [
-            124.8565289,
-            34.0031508
-          ],
-          [
-            124.8364258,
-            34.1091822
-          ],
-          [
-            124.9385644,
-            34.7325347
-          ],
-          [
-            124.9636785,
-            34.7896067
-          ],
-          [
-            125.0057183,
-            34.8522416
-          ],
-          [
-            125.3959348,
-            35.1595144
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.3959348,
-            35.1595144
-          ],
-          [
-            125.5693123,
-            35.29508
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.5693123,
-            35.29508
-          ],
-          [
-            125.7760229,
-            35.4497421
-          ],
-          [
-            125.8001921,
-            35.5475501
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.8001921,
-            35.5475501
-          ],
-          [
-            125.847992,
-            35.6782285
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.847992,
-            35.6782285
-          ],
-          [
-            125.8360284,
-            35.7972099
-          ],
-          [
-            125.7508847,
-            36.0149494
-          ],
-          [
-            125.5233697,
-            36.2782091
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.5233697,
-            36.2782091
-          ],
-          [
-            125.3207013,
-            36.5169007
-          ],
-          [
-            125.2882816,
-            36.5916074
-          ],
-          [
-            125.3046323,
-            36.6975887
-          ],
-          [
-            125.3949276,
-            36.8544193
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.3949276,
-            36.8544193
-          ],
-          [
-            125.5170642,
-            37.0593294
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.5170642,
-            37.0593294
-          ],
-          [
-            125.5610868,
-            37.1154963
-          ],
-          [
-            125.6348582,
-            37.1702105
-          ],
-          [
-            125.7129813,
-            37.181098
-          ],
-          [
-            125.752472,
-            37.3021086
-          ],
-          [
-            125.8678027,
-            37.4094203
-          ],
-          [
-            125.7178994,
-            37.3925106
-          ],
-          [
-            125.6293915,
-            37.414857
-          ],
-          [
-            125.5524186,
-            37.4453372
-          ],
-          [
-            125.4871054,
-            37.5109195
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.4871054,
-            37.5109195
-          ],
-          [
-            125.4263063,
-            37.6492146
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.4263063,
-            37.6492146
-          ],
-          [
-            125.5166676,
-            37.6819328
-          ],
-          [
-            125.6950023,
-            37.6916644
-          ],
-          [
-            125.7500071,
-            37.7147092
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            125.7500071,
-            37.7147092
-          ],
-          [
-            126.016671,
-            37.6583268
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.016671,
-            37.6583268
-          ],
-          [
-            126.1111143,
-            37.7124922
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.1111143,
-            37.7124922
-          ],
-          [
-            126.1665504,
-            37.7284765
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.1665504,
-            37.7284765
-          ],
-          [
-            126.1871557,
-            37.7490299
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.1871557,
-            37.7490299
-          ],
-          [
-            126.1941204,
-            37.8084496
-          ],
-          [
-            126.2280251,
-            37.830421
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.2280251,
-            37.830421
-          ],
-          [
-            126.358154,
-            37.8364701
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.358154,
-            37.8364701
-          ],
-          [
-            126.4135758,
-            37.8447035
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.4592687,
-            37.8181961
-          ],
-          [
-            126.4135758,
-            37.8447035
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.4942272,
-            37.8023033
-          ],
-          [
-            126.4592687,
-            37.8181961
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.4965087,
-            37.8013197
-          ],
-          [
-            126.4942272,
-            37.8023033
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.5199827,
-            37.7920214
-          ],
-          [
-            126.4965087,
-            37.8013197
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.566554,
-            37.7689788
-          ],
-          [
-            126.5199827,
-            37.7920214
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.6034847,
-            37.7652942
-          ],
-          [
-            126.566554,
-            37.7689788
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.6521667,
-            37.7809602
-          ],
-          [
-            126.6034847,
-            37.7652942
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.6626179,
-            37.7807247
-          ],
-          [
-            126.6521667,
-            37.7809602
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.6626179,
-            37.7807247
-          ],
-          [
-            126.6634676,
-            37.7984202
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.6634676,
-            37.7984202
-          ],
-          [
-            126.6713766,
-            37.8293039
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.6912525,
-            37.8394001
-          ],
-          [
-            126.6713766,
-            37.8293039
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.6912525,
-            37.8394001
-          ],
-          [
-            126.6895761,
-            37.84318
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.6895761,
-            37.84318
-          ],
-          [
-            126.6882988,
-            37.9131065
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.6882988,
-            37.9131065
-          ],
-          [
-            126.6698349,
-            37.9551248
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.6698349,
-            37.9551248
-          ],
-          [
-            126.6705336,
-            37.9579462
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.6705336,
-            37.9579462
-          ],
-          [
-            126.736971,
-            37.9651642
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.736971,
-            37.9651642
-          ],
-          [
-            126.7402893,
-            37.9672154
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.7402893,
-            37.9672154
-          ],
-          [
-            126.7484888,
-            37.9717324
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            126.7484888,
-            37.9717324
-          ],
-          [
-            126.7630983,
-            37.9749835
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            130.5156628,
-            37.5225686
-          ],
-          [
-            130.5490779,
-            37.6178349
-          ],
-          [
-            130.6251239,
-            37.6830732
-          ],
-          [
-            130.7762448,
-            37.7360672
-          ],
-          [
-            130.9369467,
-            37.7522583
-          ],
-          [
-            131.0603712,
-            37.7211704
-          ],
-          [
-            131.1645697,
-            37.6510729
-          ],
-          [
-            131.2117766,
-            37.5724741
-          ],
-          [
-            131.2059046,
-            37.4739415
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            131.2059046,
-            37.4739415
-          ],
-          [
-            131.1618231,
-            37.3891179
-          ],
-          [
-            131.0652637,
-            37.309492
-          ],
-          [
-            130.9731671,
-            37.2664031
-          ],
-          [
-            130.8500861,
-            37.2535602
-          ],
-          [
-            130.6876675,
-            37.2945974
-          ],
-          [
-            130.5968587,
-            37.3469303
-          ],
-          [
-            130.5426403,
-            37.414346
-          ],
-          [
-            130.5156628,
-            37.5225686
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            131.8829285,
-            37.0382935
-          ],
-          [
-            131.760063,
-            37.0536703
-          ],
-          [
-            131.6658209,
-            37.0977708
-          ],
-          [
-            131.6081427,
-            37.1590854
-          ],
-          [
-            131.5847967,
-            37.241672
-          ],
-          [
-            131.6120909,
-            37.3331771
-          ],
-          [
-            131.6718291,
-            37.3940278
-          ],
-          [
-            131.7626379,
-            37.4362941
-          ],
-          [
-            131.8723026,
-            37.4494014
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "KR",
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.633333,
+              38.05
+            ],
+            [
+              124.85,
+              38.0
+            ],
+            [
+              124.85,
+              38.0
+            ],
+            [
+              124.858998,
+              37.874121
+            ],
+            [
+              124.858998,
+              37.874121
+            ],
+            [
+              124.866667,
+              37.766667
+            ],
+            [
+              124.866667,
+              37.766667
+            ],
+            [
+              124.977552,
+              37.687367
+            ],
+            [
+              124.977552,
+              37.687367
+            ],
+            [
+              124.940796,
+              37.632556
+            ],
+            [
+              124.866016,
+              37.585929
+            ],
+            [
+              124.866016,
+              37.585929
+            ],
+            [
+              124.784036,
+              37.566614
+            ],
+            [
+              124.659471,
+              37.568377
+            ],
+            [
+              124.575001,
+              37.59751
+            ],
+            [
+              124.444627,
+              37.694575
+            ],
+            [
+              124.416062,
+              37.742699
+            ],
+            [
+              124.41105,
+              37.840153
+            ],
+            [
+              124.372735,
+              37.909855
+            ],
+            [
+              124.379716,
+              38.05
+            ],
+            [
+              124.418258,
+              38.05
+            ],
+            [
+              124.418258,
+              38.05
+            ],
+            [
+              124.633333,
+              38.05
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "KR",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
-        "name": "\ub300\ud55c\ubbfc\uad6d"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            131.8723026,
-            37.4494014
-          ],
-          [
-            131.9567869,
-            37.4388838
-          ],
-          [
-            132.0554922,
-            37.3934823
-          ],
-          [
-            132.116432,
-            37.3349515
-          ],
-          [
-            132.1467806,
-            37.2353404
-          ],
-          [
-            132.115488,
-            37.1484136
-          ],
-          [
-            132.05889,
-            37.0944191
-          ],
-          [
-            131.9519802,
-            37.0480533
-          ],
-          [
-            131.8829285,
-            37.0382935
-          ]
-        ]
+        "name": "\ub300\ud55c\ubbfc\uad6d",
+        "id": "KR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.795259,
+              37.996762
+            ],
+            [
+              126.81383,
+              38.0
+            ],
+            [
+              126.81383,
+              38.0
+            ],
+            [
+              126.838197,
+              38.030457
+            ],
+            [
+              126.838197,
+              38.030457
+            ],
+            [
+              126.852447,
+              38.034275
+            ],
+            [
+              126.852447,
+              38.034275
+            ],
+            [
+              126.868087,
+              38.080968
+            ],
+            [
+              126.868087,
+              38.080968
+            ],
+            [
+              126.881224,
+              38.103395
+            ],
+            [
+              126.958031,
+              38.132218
+            ],
+            [
+              126.958031,
+              38.132218
+            ],
+            [
+              126.960134,
+              38.133336
+            ],
+            [
+              126.960134,
+              38.133336
+            ],
+            [
+              126.969877,
+              38.145099
+            ],
+            [
+              126.948992,
+              38.15784
+            ],
+            [
+              126.948992,
+              38.15784
+            ],
+            [
+              126.964691,
+              38.169047
+            ],
+            [
+              126.962558,
+              38.19073
+            ],
+            [
+              127.008794,
+              38.226594
+            ],
+            [
+              127.008794,
+              38.226594
+            ],
+            [
+              127.095937,
+              38.281004
+            ],
+            [
+              127.095937,
+              38.281004
+            ],
+            [
+              127.101764,
+              38.284431
+            ],
+            [
+              127.101764,
+              38.284431
+            ],
+            [
+              127.110411,
+              38.295528
+            ],
+            [
+              127.110411,
+              38.295528
+            ],
+            [
+              127.133322,
+              38.313684
+            ],
+            [
+              127.151948,
+              38.305222
+            ],
+            [
+              127.234589,
+              38.331693
+            ],
+            [
+              127.297813,
+              38.314125
+            ],
+            [
+              127.297813,
+              38.314125
+            ],
+            [
+              127.363007,
+              38.324389
+            ],
+            [
+              127.363007,
+              38.324389
+            ],
+            [
+              127.362909,
+              38.326729
+            ],
+            [
+              127.362909,
+              38.326729
+            ],
+            [
+              127.385317,
+              38.337028
+            ],
+            [
+              127.499508,
+              38.302282
+            ],
+            [
+              127.499508,
+              38.302282
+            ],
+            [
+              127.502723,
+              38.301659
+            ],
+            [
+              127.502723,
+              38.301659
+            ],
+            [
+              127.546893,
+              38.324437
+            ],
+            [
+              127.546893,
+              38.324437
+            ],
+            [
+              127.573638,
+              38.333548
+            ],
+            [
+              127.573638,
+              38.333548
+            ],
+            [
+              127.688961,
+              38.3242
+            ],
+            [
+              127.783009,
+              38.348858
+            ],
+            [
+              127.821666,
+              38.30406
+            ],
+            [
+              127.853954,
+              38.313861
+            ],
+            [
+              127.853954,
+              38.313861
+            ],
+            [
+              127.874765,
+              38.317386
+            ],
+            [
+              127.874765,
+              38.317386
+            ],
+            [
+              127.882233,
+              38.330918
+            ],
+            [
+              128.016175,
+              38.315649
+            ],
+            [
+              128.016175,
+              38.315649
+            ],
+            [
+              128.052238,
+              38.306667
+            ],
+            [
+              128.052238,
+              38.306667
+            ],
+            [
+              128.086727,
+              38.318204
+            ],
+            [
+              128.086727,
+              38.318204
+            ],
+            [
+              128.126894,
+              38.331693
+            ],
+            [
+              128.126894,
+              38.331693
+            ],
+            [
+              128.215424,
+              38.377238
+            ],
+            [
+              128.215424,
+              38.377238
+            ],
+            [
+              128.228812,
+              38.395732
+            ],
+            [
+              128.228812,
+              38.395732
+            ],
+            [
+              128.284117,
+              38.436804
+            ],
+            [
+              128.306725,
+              38.478582
+            ],
+            [
+              128.309319,
+              38.59286
+            ],
+            [
+              128.328382,
+              38.599419
+            ],
+            [
+              128.328382,
+              38.599419
+            ],
+            [
+              128.358864,
+              38.615321
+            ],
+            [
+              128.358864,
+              38.615321
+            ],
+            [
+              128.3768,
+              38.615466
+            ],
+            [
+              128.3768,
+              38.615466
+            ],
+            [
+              128.393209,
+              38.615599
+            ],
+            [
+              128.393209,
+              38.615599
+            ],
+            [
+              128.653787,
+              38.617702
+            ],
+            [
+              128.653787,
+              38.617702
+            ],
+            [
+              128.676436,
+              38.569691
+            ],
+            [
+              128.676436,
+              38.569691
+            ],
+            [
+              128.707142,
+              38.511209
+            ],
+            [
+              128.707142,
+              38.511209
+            ],
+            [
+              128.737415,
+              38.468348
+            ],
+            [
+              128.737415,
+              38.468348
+            ],
+            [
+              128.824452,
+              38.323762
+            ],
+            [
+              128.824452,
+              38.323762
+            ],
+            [
+              128.859572,
+              38.250832
+            ],
+            [
+              128.859572,
+              38.250832
+            ],
+            [
+              128.869285,
+              38.214446
+            ],
+            [
+              128.997431,
+              38.056217
+            ],
+            [
+              128.997431,
+              38.056217
+            ],
+            [
+              129.054112,
+              38.0
+            ],
+            [
+              129.054112,
+              38.0
+            ],
+            [
+              129.14051,
+              37.899228
+            ],
+            [
+              129.275749,
+              37.782534
+            ],
+            [
+              129.275749,
+              37.782534
+            ],
+            [
+              129.366932,
+              37.625789
+            ],
+            [
+              129.369978,
+              37.594143
+            ],
+            [
+              129.369978,
+              37.594143
+            ],
+            [
+              129.457693,
+              37.505254
+            ],
+            [
+              129.62438,
+              37.27104
+            ],
+            [
+              129.62438,
+              37.27104
+            ],
+            [
+              129.621527,
+              37.194409
+            ],
+            [
+              129.674161,
+              37.11376
+            ],
+            [
+              129.681291,
+              37.06385
+            ],
+            [
+              129.670601,
+              36.940014
+            ],
+            [
+              129.730463,
+              36.77584
+            ],
+            [
+              129.721022,
+              36.661824
+            ],
+            [
+              129.686935,
+              36.592263
+            ],
+            [
+              129.702657,
+              36.506214
+            ],
+            [
+              129.682745,
+              36.394354
+            ],
+            [
+              129.659464,
+              36.321779
+            ],
+            [
+              129.62999,
+              36.28754
+            ],
+            [
+              129.764117,
+              36.205244
+            ],
+            [
+              129.798788,
+              36.163213
+            ],
+            [
+              129.831747,
+              36.073905
+            ],
+            [
+              129.832649,
+              35.99273
+            ],
+            [
+              129.782867,
+              35.893779
+            ],
+            [
+              129.781944,
+              35.838148
+            ],
+            [
+              129.712104,
+              35.627178
+            ],
+            [
+              129.712104,
+              35.627178
+            ],
+            [
+              129.720619,
+              35.546433
+            ],
+            [
+              129.720619,
+              35.546433
+            ],
+            [
+              129.669034,
+              35.39998
+            ],
+            [
+              129.60721,
+              35.337703
+            ],
+            [
+              129.60721,
+              35.337703
+            ],
+            [
+              129.559076,
+              35.237671
+            ],
+            [
+              129.488953,
+              35.186171
+            ],
+            [
+              129.488953,
+              35.186171
+            ],
+            [
+              129.465589,
+              35.130857
+            ],
+            [
+              129.257843,
+              35.124344
+            ],
+            [
+              129.257843,
+              35.124344
+            ],
+            [
+              129.212473,
+              35.082881
+            ],
+            [
+              129.212473,
+              35.082881
+            ],
+            [
+              129.174114,
+              35.041729
+            ],
+            [
+              129.174114,
+              35.041729
+            ],
+            [
+              129.100831,
+              34.949438
+            ],
+            [
+              129.100831,
+              34.949438
+            ],
+            [
+              129.065839,
+              34.895045
+            ],
+            [
+              129.065839,
+              34.895045
+            ],
+            [
+              128.948526,
+              34.72525
+            ],
+            [
+              128.948526,
+              34.72525
+            ],
+            [
+              128.792723,
+              34.509953
+            ],
+            [
+              128.792723,
+              34.509953
+            ],
+            [
+              128.816275,
+              34.343261
+            ],
+            [
+              128.816275,
+              34.343261
+            ],
+            [
+              128.306327,
+              34.205043
+            ],
+            [
+              128.306327,
+              34.205043
+            ],
+            [
+              128.171591,
+              34.169742
+            ],
+            [
+              128.171591,
+              34.169742
+            ],
+            [
+              127.999061,
+              34.123301
+            ],
+            [
+              127.783335,
+              33.884177
+            ],
+            [
+              127.722587,
+              33.85331
+            ],
+            [
+              127.575659,
+              33.824531
+            ],
+            [
+              126.915319,
+              33.759199
+            ],
+            [
+              126.915319,
+              33.759199
+            ],
+            [
+              126.991855,
+              33.711269
+            ],
+            [
+              127.102203,
+              33.681497
+            ],
+            [
+              127.149238,
+              33.650065
+            ],
+            [
+              127.215229,
+              33.541639
+            ],
+            [
+              127.210629,
+              33.466298
+            ],
+            [
+              127.154521,
+              33.343164
+            ],
+            [
+              127.04301,
+              33.197358
+            ],
+            [
+              126.978263,
+              33.144451
+            ],
+            [
+              126.851234,
+              33.09787
+            ],
+            [
+              126.78466,
+              33.045811
+            ],
+            [
+              126.712931,
+              33.020065
+            ],
+            [
+              126.47833,
+              33.01589
+            ],
+            [
+              126.414223,
+              32.950229
+            ],
+            [
+              126.355103,
+              32.920687
+            ],
+            [
+              126.227026,
+              32.910751
+            ],
+            [
+              126.143092,
+              32.938431
+            ],
+            [
+              126.071861,
+              32.992274
+            ],
+            [
+              126.010218,
+              33.119043
+            ],
+            [
+              125.925417,
+              33.231811
+            ],
+            [
+              125.925417,
+              33.231811
+            ],
+            [
+              125.901947,
+              33.310734
+            ],
+            [
+              125.92481,
+              33.407143
+            ],
+            [
+              126.081374,
+              33.580782
+            ],
+            [
+              126.059072,
+              33.6999
+            ],
+            [
+              126.059072,
+              33.6999
+            ],
+            [
+              125.7941,
+              33.739506
+            ],
+            [
+              125.7941,
+              33.739506
+            ],
+            [
+              125.417016,
+              33.796714
+            ],
+            [
+              125.417016,
+              33.796714
+            ],
+            [
+              125.060806,
+              33.85217
+            ],
+            [
+              124.974288,
+              33.884668
+            ],
+            [
+              124.901504,
+              33.941367
+            ],
+            [
+              124.856529,
+              34.003151
+            ],
+            [
+              124.836426,
+              34.109182
+            ],
+            [
+              124.938564,
+              34.732535
+            ],
+            [
+              124.963679,
+              34.789607
+            ],
+            [
+              125.005718,
+              34.852242
+            ],
+            [
+              125.395935,
+              35.159514
+            ],
+            [
+              125.395935,
+              35.159514
+            ],
+            [
+              125.569312,
+              35.29508
+            ],
+            [
+              125.569312,
+              35.29508
+            ],
+            [
+              125.776023,
+              35.449742
+            ],
+            [
+              125.800192,
+              35.54755
+            ],
+            [
+              125.800192,
+              35.54755
+            ],
+            [
+              125.847992,
+              35.678229
+            ],
+            [
+              125.847992,
+              35.678229
+            ],
+            [
+              125.836028,
+              35.79721
+            ],
+            [
+              125.750885,
+              36.014949
+            ],
+            [
+              125.52337,
+              36.278209
+            ],
+            [
+              125.52337,
+              36.278209
+            ],
+            [
+              125.320701,
+              36.516901
+            ],
+            [
+              125.288282,
+              36.591607
+            ],
+            [
+              125.304632,
+              36.697589
+            ],
+            [
+              125.394928,
+              36.854419
+            ],
+            [
+              125.394928,
+              36.854419
+            ],
+            [
+              125.517064,
+              37.059329
+            ],
+            [
+              125.517064,
+              37.059329
+            ],
+            [
+              125.561087,
+              37.115496
+            ],
+            [
+              125.634858,
+              37.170211
+            ],
+            [
+              125.712981,
+              37.181098
+            ],
+            [
+              125.752472,
+              37.302109
+            ],
+            [
+              125.867803,
+              37.40942
+            ],
+            [
+              125.717899,
+              37.392511
+            ],
+            [
+              125.629391,
+              37.414857
+            ],
+            [
+              125.552419,
+              37.445337
+            ],
+            [
+              125.487105,
+              37.510919
+            ],
+            [
+              125.487105,
+              37.510919
+            ],
+            [
+              125.426306,
+              37.649215
+            ],
+            [
+              125.426306,
+              37.649215
+            ],
+            [
+              125.516668,
+              37.681933
+            ],
+            [
+              125.695002,
+              37.691664
+            ],
+            [
+              125.750007,
+              37.714709
+            ],
+            [
+              125.750007,
+              37.714709
+            ],
+            [
+              126.016671,
+              37.658327
+            ],
+            [
+              126.016671,
+              37.658327
+            ],
+            [
+              126.111114,
+              37.712492
+            ],
+            [
+              126.111114,
+              37.712492
+            ],
+            [
+              126.16655,
+              37.728476
+            ],
+            [
+              126.16655,
+              37.728476
+            ],
+            [
+              126.187156,
+              37.74903
+            ],
+            [
+              126.187156,
+              37.74903
+            ],
+            [
+              126.19412,
+              37.80845
+            ],
+            [
+              126.228025,
+              37.830421
+            ],
+            [
+              126.228025,
+              37.830421
+            ],
+            [
+              126.358154,
+              37.83647
+            ],
+            [
+              126.358154,
+              37.83647
+            ],
+            [
+              126.413576,
+              37.844704
+            ],
+            [
+              126.413576,
+              37.844704
+            ],
+            [
+              126.459269,
+              37.818196
+            ],
+            [
+              126.459269,
+              37.818196
+            ],
+            [
+              126.494227,
+              37.802303
+            ],
+            [
+              126.494227,
+              37.802303
+            ],
+            [
+              126.496509,
+              37.80132
+            ],
+            [
+              126.496509,
+              37.80132
+            ],
+            [
+              126.519983,
+              37.792021
+            ],
+            [
+              126.519983,
+              37.792021
+            ],
+            [
+              126.566554,
+              37.768979
+            ],
+            [
+              126.566554,
+              37.768979
+            ],
+            [
+              126.603485,
+              37.765294
+            ],
+            [
+              126.603485,
+              37.765294
+            ],
+            [
+              126.652167,
+              37.78096
+            ],
+            [
+              126.652167,
+              37.78096
+            ],
+            [
+              126.662618,
+              37.780725
+            ],
+            [
+              126.662618,
+              37.780725
+            ],
+            [
+              126.663468,
+              37.79842
+            ],
+            [
+              126.663468,
+              37.79842
+            ],
+            [
+              126.671377,
+              37.829304
+            ],
+            [
+              126.671377,
+              37.829304
+            ],
+            [
+              126.691253,
+              37.8394
+            ],
+            [
+              126.691253,
+              37.8394
+            ],
+            [
+              126.689576,
+              37.84318
+            ],
+            [
+              126.689576,
+              37.84318
+            ],
+            [
+              126.688299,
+              37.913106
+            ],
+            [
+              126.688299,
+              37.913106
+            ],
+            [
+              126.669835,
+              37.955125
+            ],
+            [
+              126.669835,
+              37.955125
+            ],
+            [
+              126.670534,
+              37.957946
+            ],
+            [
+              126.670534,
+              37.957946
+            ],
+            [
+              126.736971,
+              37.965164
+            ],
+            [
+              126.736971,
+              37.965164
+            ],
+            [
+              126.740289,
+              37.967215
+            ],
+            [
+              126.740289,
+              37.967215
+            ],
+            [
+              126.748489,
+              37.971732
+            ],
+            [
+              126.748489,
+              37.971732
+            ],
+            [
+              126.763098,
+              37.974984
+            ],
+            [
+              126.763098,
+              37.974984
+            ],
+            [
+              126.795259,
+              37.996762
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "KR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+        "name": "\ub300\ud55c\ubbfc\uad6d",
+        "id": "KR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              131.205905,
+              37.473942
+            ],
+            [
+              131.161823,
+              37.389118
+            ],
+            [
+              131.065264,
+              37.309492
+            ],
+            [
+              130.973167,
+              37.266403
+            ],
+            [
+              130.850086,
+              37.25356
+            ],
+            [
+              130.687668,
+              37.294597
+            ],
+            [
+              130.596859,
+              37.34693
+            ],
+            [
+              130.54264,
+              37.414346
+            ],
+            [
+              130.515663,
+              37.522569
+            ],
+            [
+              130.515663,
+              37.522569
+            ],
+            [
+              130.549078,
+              37.617835
+            ],
+            [
+              130.625124,
+              37.683073
+            ],
+            [
+              130.776245,
+              37.736067
+            ],
+            [
+              130.936947,
+              37.752258
+            ],
+            [
+              131.060371,
+              37.72117
+            ],
+            [
+              131.16457,
+              37.651073
+            ],
+            [
+              131.211777,
+              37.572474
+            ],
+            [
+              131.205905,
+              37.473942
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "KR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+        "name": "\ub300\ud55c\ubbfc\uad6d",
+        "id": "KR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              131.872303,
+              37.449401
+            ],
+            [
+              131.956787,
+              37.438884
+            ],
+            [
+              132.055492,
+              37.393482
+            ],
+            [
+              132.116432,
+              37.334952
+            ],
+            [
+              132.146781,
+              37.23534
+            ],
+            [
+              132.115488,
+              37.148414
+            ],
+            [
+              132.05889,
+              37.094419
+            ],
+            [
+              131.95198,
+              37.048053
+            ],
+            [
+              131.882928,
+              37.038294
+            ],
+            [
+              131.882928,
+              37.038294
+            ],
+            [
+              131.760063,
+              37.05367
+            ],
+            [
+              131.665821,
+              37.097771
+            ],
+            [
+              131.608143,
+              37.159085
+            ],
+            [
+              131.584797,
+              37.241672
+            ],
+            [
+              131.612091,
+              37.333177
+            ],
+            [
+              131.671829,
+              37.394028
+            ],
+            [
+              131.762638,
+              37.436294
+            ],
+            [
+              131.872303,
+              37.449401
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "KR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+        "name": "\ub300\ud55c\ubbfc\uad6d",
+        "id": "KR"
       }
     }
   ]

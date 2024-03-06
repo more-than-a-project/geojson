@@ -3,6176 +3,2539 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.2209042,
-            13.563429
-          ],
-          [
-            -90.6171461,
-            13.717116
-          ],
-          [
-            -90.6958522,
-            13.7267963
-          ],
-          [
-            -90.7779854,
-            13.713795
-          ],
-          [
-            -91.07011,
-            13.7136195
-          ],
-          [
-            -91.2644032,
-            13.7354645
-          ],
-          [
-            -91.3899989,
-            13.7670346
-          ],
-          [
-            -91.6460247,
-            13.8727721
-          ],
-          [
-            -91.8957644,
-            14.0208614
-          ],
-          [
-            -92.3648725,
-            14.3811832
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.3648725,
-            14.3811832
-          ],
-          [
-            -92.2283178,
-            14.5310748
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.1784751,
-            14.6007559
-          ],
-          [
-            -92.185014,
-            14.5737655
-          ],
-          [
-            -92.2283178,
-            14.5310748
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.1541104,
-            14.7312324
-          ],
-          [
-            -92.1472053,
-            14.6587215
-          ],
-          [
-            -92.1793998,
-            14.6245316
-          ],
-          [
-            -92.1784751,
-            14.6007559
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.176865,
-            14.799853
-          ],
-          [
-            -92.1585673,
-            14.7680165
-          ],
-          [
-            -92.1705984,
-            14.7473526
-          ],
-          [
-            -92.1541104,
-            14.7312324
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.1787469,
-            14.8043627
-          ],
-          [
-            -92.176865,
-            14.799853
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.1815194,
-            14.8473809
-          ],
-          [
-            -92.1787469,
-            14.8043627
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.1504854,
-            14.9893788
-          ],
-          [
-            -92.1362163,
-            14.8916496
-          ],
-          [
-            -92.1815194,
-            14.8473809
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.1309551,
-            15.0137083
-          ],
-          [
-            -92.1504854,
-            14.9893788
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.079839,
-            15.0310805
-          ],
-          [
-            -92.0992174,
-            15.0097784
-          ],
-          [
-            -92.1309551,
-            15.0137083
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.0592798,
-            15.0708208
-          ],
-          [
-            -92.079839,
-            15.0310805
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.099721,
-            15.1215506
-          ],
-          [
-            -92.0592798,
-            15.0708208
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.1078219,
-            15.1316517
-          ],
-          [
-            -92.099721,
-            15.1215506
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.1237026,
-            15.1516483
-          ],
-          [
-            -92.1078219,
-            15.1316517
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.1366906,
-            15.1679685
-          ],
-          [
-            -92.1237026,
-            15.1516483
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.1627529,
-            15.2007077
-          ],
-          [
-            -92.1366906,
-            15.1679685
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.1843801,
-            15.2276757
-          ],
-          [
-            -92.1627529,
-            15.2007077
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.2105311,
-            15.2606194
-          ],
-          [
-            -92.1843801,
-            15.2276757
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.1282017,
-            15.4009259
-          ],
-          [
-            -92.2105311,
-            15.2606194
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.116139,
-            15.421398
-          ],
-          [
-            -92.1282017,
-            15.4009259
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.116139,
-            15.421398
-          ],
-          [
-            -92.0234795,
-            15.5790894
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.0234795,
-            15.5790894
-          ],
-          [
-            -92.0036993,
-            15.6126815
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -92.0036993,
-            15.6126815
-          ],
-          [
-            -91.9900982,
-            15.6357367
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.9900982,
-            15.6357367
-          ],
-          [
-            -91.9409174,
-            15.7193195
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.9409174,
-            15.7193195
-          ],
-          [
-            -91.9218615,
-            15.7516334
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.9218615,
-            15.7516334
-          ],
-          [
-            -91.8945847,
-            15.7978365
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.8945847,
-            15.7978365
-          ],
-          [
-            -91.7315687,
-            16.0738945
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.7315687,
-            16.0738945
-          ],
-          [
-            -91.4984322,
-            16.0739052
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.4984322,
-            16.0739052
-          ],
-          [
-            -91.3820771,
-            16.0739176
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.3820771,
-            16.0739176
-          ],
-          [
-            -91.3607195,
-            16.0738467
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.3607195,
-            16.0738467
-          ],
-          [
-            -91.2964973,
-            16.0739139
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.2964973,
-            16.0739139
-          ],
-          [
-            -91.1657286,
-            16.0738218
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.1657286,
-            16.0738218
-          ],
-          [
-            -91.107642,
-            16.0738378
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.107642,
-            16.0738378
-          ],
-          [
-            -90.961197,
-            16.0738917
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.961197,
-            16.0738917
-          ],
-          [
-            -90.7916356,
-            16.0738749
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.4421549,
-            16.0738051
-          ],
-          [
-            -90.7916356,
-            16.0738749
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.4421549,
-            16.0738051
-          ],
-          [
-            -90.4260408,
-            16.1036092
-          ],
-          [
-            -90.4548486,
-            16.0927774
-          ],
-          [
-            -90.45889,
-            16.1112794
-          ],
-          [
-            -90.4530964,
-            16.1251528
-          ],
-          [
-            -90.4309408,
-            16.1197121
-          ],
-          [
-            -90.429922,
-            16.1392345
-          ],
-          [
-            -90.451974,
-            16.1495203
-          ],
-          [
-            -90.4260289,
-            16.1638745
-          ],
-          [
-            -90.454535,
-            16.1868574
-          ],
-          [
-            -90.4580706,
-            16.2111811
-          ],
-          [
-            -90.4290118,
-            16.2335349
-          ],
-          [
-            -90.4562433,
-            16.2494588
-          ],
-          [
-            -90.4241266,
-            16.2590515
-          ],
-          [
-            -90.439842,
-            16.3045271
-          ],
-          [
-            -90.4120331,
-            16.3077528
-          ],
-          [
-            -90.4124775,
-            16.3288366
-          ],
-          [
-            -90.3827247,
-            16.3395583
-          ],
-          [
-            -90.4038117,
-            16.3614817
-          ],
-          [
-            -90.4107202,
-            16.3462129
-          ],
-          [
-            -90.4120782,
-            16.3620097
-          ],
-          [
-            -90.396043,
-            16.3748566
-          ],
-          [
-            -90.3761548,
-            16.359794
-          ],
-          [
-            -90.372307,
-            16.3726087
-          ],
-          [
-            -90.4021335,
-            16.3911794
-          ],
-          [
-            -90.3898782,
-            16.4132969
-          ],
-          [
-            -90.4093879,
-            16.4045443
-          ],
-          [
-            -90.4218417,
-            16.4251367
-          ],
-          [
-            -90.4855311,
-            16.4229818
-          ],
-          [
-            -90.4799755,
-            16.4609879
-          ],
-          [
-            -90.4984497,
-            16.453834
-          ],
-          [
-            -90.5164121,
-            16.4698243
-          ],
-          [
-            -90.5309803,
-            16.4581353
-          ],
-          [
-            -90.5490052,
-            16.4693846
-          ],
-          [
-            -90.5436936,
-            16.4810175
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.5436936,
-            16.4810175
-          ],
-          [
-            -90.5902044,
-            16.4700849
-          ],
-          [
-            -90.5988553,
-            16.4912235
-          ],
-          [
-            -90.6314417,
-            16.4779233
-          ],
-          [
-            -90.6065199,
-            16.5053823
-          ],
-          [
-            -90.6157127,
-            16.5213249
-          ],
-          [
-            -90.6460684,
-            16.517957
-          ],
-          [
-            -90.6469768,
-            16.5608447
-          ],
-          [
-            -90.6262966,
-            16.5780391
-          ],
-          [
-            -90.6411998,
-            16.5958485
-          ],
-          [
-            -90.6443648,
-            16.5797258
-          ],
-          [
-            -90.6660095,
-            16.5805625
-          ],
-          [
-            -90.6541916,
-            16.5960785
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.6541916,
-            16.5960785
-          ],
-          [
-            -90.6584984,
-            16.6405504
-          ],
-          [
-            -90.7122445,
-            16.7250911
-          ],
-          [
-            -90.8023989,
-            16.7759556
-          ],
-          [
-            -90.8040941,
-            16.7982656
-          ],
-          [
-            -90.8539787,
-            16.7976106
-          ],
-          [
-            -90.8815031,
-            16.8248953
-          ],
-          [
-            -90.9217651,
-            16.8219353
-          ],
-          [
-            -90.9336388,
-            16.8593264
-          ],
-          [
-            -90.9740547,
-            16.8636264
-          ],
-          [
-            -90.9545092,
-            16.8844741
-          ],
-          [
-            -90.9638333,
-            16.9008401
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.9638333,
-            16.9008401
-          ],
-          [
-            -90.985063,
-            16.897954
-          ],
-          [
-            -90.9878314,
-            16.8630849
-          ],
-          [
-            -91.0071122,
-            16.8861835
-          ],
-          [
-            -91.0656273,
-            16.9028582
-          ],
-          [
-            -91.06448,
-            16.9251297
-          ],
-          [
-            -91.1200496,
-            16.9775283
-          ],
-          [
-            -91.1221823,
-            17.002795
-          ],
-          [
-            -91.1752532,
-            17.015704
-          ],
-          [
-            -91.2139408,
-            17.05322
-          ],
-          [
-            -91.226958,
-            17.0950589
-          ],
-          [
-            -91.2604097,
-            17.1029721
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.2604097,
-            17.1029721
-          ],
-          [
-            -91.266447,
-            17.170133
-          ],
-          [
-            -91.3244239,
-            17.1830866
-          ],
-          [
-            -91.3490894,
-            17.159687
-          ],
-          [
-            -91.3544554,
-            17.1905173
-          ],
-          [
-            -91.4188174,
-            17.2092952
-          ],
-          [
-            -91.4399546,
-            17.2508691
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.4396192,
-            17.2508678
-          ],
-          [
-            -91.4399546,
-            17.2508691
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -91.3457787,
-            17.2509325
-          ],
-          [
-            -91.4396192,
-            17.2508678
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.9872641,
-            17.2512992
-          ],
-          [
-            -91.3457787,
-            17.2509325
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.9872641,
-            17.2512992
-          ],
-          [
-            -90.9872938,
-            17.2592247
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.9872938,
-            17.2592247
-          ],
-          [
-            -90.9876897,
-            17.2785684
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.98772,
-            17.4230269
-          ],
-          [
-            -90.9876897,
-            17.2785684
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.9877156,
-            17.8153438
-          ],
-          [
-            -90.98772,
-            17.4230269
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.3650473,
-            17.8124246
-          ],
-          [
-            -90.9877156,
-            17.8153438
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.2454985,
-            17.8158258
-          ],
-          [
-            -90.3650473,
-            17.8124246
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.9996203,
-            17.8158198
-          ],
-          [
-            -90.2454985,
-            17.8158258
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.9166758,
-            17.8159276
-          ],
-          [
-            -89.9996203,
-            17.8158198
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7668826,
-            17.8156629
-          ],
-          [
-            -89.9166758,
-            17.8159276
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.6999759,
-            17.8154997
-          ],
-          [
-            -89.7668826,
-            17.8156629
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5000322,
-            17.8153714
-          ],
-          [
-            -89.6999759,
-            17.8154997
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3333337,
-            17.8154311
-          ],
-          [
-            -89.5000322,
-            17.8153714
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1519123,
-            17.8155996
-          ],
-          [
-            -89.3333337,
-            17.8154311
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1519452,
-            17.7723781
-          ],
-          [
-            -89.1519123,
-            17.8155996
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.151797,
-            17.6991069
-          ],
-          [
-            -89.1519452,
-            17.7723781
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1518114,
-            17.6672864
-          ],
-          [
-            -89.151797,
-            17.6991069
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1513501,
-            17.5380252
-          ],
-          [
-            -89.1518114,
-            17.6672864
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1509069,
-            17.4029036
-          ],
-          [
-            -89.1513501,
-            17.5380252
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1506652,
-            17.321911
-          ],
-          [
-            -89.1509069,
-            17.4029036
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1506469,
-            17.3157913
-          ],
-          [
-            -89.1506652,
-            17.321911
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1505218,
-            17.2658401
-          ],
-          [
-            -89.1506469,
-            17.3157913
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1505203,
-            17.2652431
-          ],
-          [
-            -89.1505218,
-            17.2658401
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1504572,
-            17.2400532
-          ],
-          [
-            -89.1505203,
-            17.2652431
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1504458,
-            17.2355233
-          ],
-          [
-            -89.1504572,
-            17.2400532
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1500042,
-            17.0590708
-          ],
-          [
-            -89.1504458,
-            17.2355233
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1538316,
-            17.0012015
-          ],
-          [
-            -89.1500042,
-            17.0590708
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1556962,
-            16.9735301
-          ],
-          [
-            -89.1538316,
-            17.0012015
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1580697,
-            16.9383006
-          ],
-          [
-            -89.1556962,
-            16.9735301
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1630574,
-            16.8639505
-          ],
-          [
-            -89.1580697,
-            16.9383006
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1656843,
-            16.8246982
-          ],
-          [
-            -89.1630574,
-            16.8639505
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1726996,
-            16.7204875
-          ],
-          [
-            -89.1656843,
-            16.8246982
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1759191,
-            16.672743
-          ],
-          [
-            -89.1726996,
-            16.7204875
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1894328,
-            16.4715228
-          ],
-          [
-            -89.1759191,
-            16.672743
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.190918,
-            16.4491779
-          ],
-          [
-            -89.1894328,
-            16.4715228
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1943213,
-            16.398869
-          ],
-          [
-            -89.190918,
-            16.4491779
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2012941,
-            16.2946539
-          ],
-          [
-            -89.1943213,
-            16.398869
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2032346,
-            16.2657976
-          ],
-          [
-            -89.2012941,
-            16.2946539
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2042961,
-            16.2494734
-          ],
-          [
-            -89.2032346,
-            16.2657976
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.204729,
-            16.2429906
-          ],
-          [
-            -89.2042961,
-            16.2494734
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2052002,
-            16.2359354
-          ],
-          [
-            -89.204729,
-            16.2429906
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2073331,
-            16.2039923
-          ],
-          [
-            -89.2052002,
-            16.2359354
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2075137,
-            16.2012877
-          ],
-          [
-            -89.2073331,
-            16.2039923
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2275905,
-            15.8961777
-          ],
-          [
-            -89.2075137,
-            16.2012877
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2275905,
-            15.8961777
-          ],
-          [
-            -89.2246698,
-            15.8910836
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2246698,
-            15.8910836
-          ],
-          [
-            -89.1764907,
-            15.9132797
-          ],
-          [
-            -89.1500807,
-            15.8964243
-          ],
-          [
-            -89.0921162,
-            15.9106519
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.0921162,
-            15.9106519
-          ],
-          [
-            -89.079449,
-            15.8973291
-          ],
-          [
-            -89.0399975,
-            15.9149219
-          ],
-          [
-            -89.0189483,
-            15.9102105
-          ],
-          [
-            -89.0190228,
-            15.8944319
-          ],
-          [
-            -88.9949529,
-            15.9043856
-          ],
-          [
-            -88.9573078,
-            15.8883752
-          ],
-          [
-            -88.9130235,
-            15.8999174
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.9130235,
-            15.8999174
-          ],
-          [
-            -88.7459226,
-            15.9771058
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.7459226,
-            15.9771058
-          ],
-          [
-            -88.7085476,
-            16.0340802
-          ],
-          [
-            -88.5925895,
-            16.0719098
-          ],
-          [
-            -88.507926,
-            16.0649043
-          ],
-          [
-            -88.3241003,
-            15.9645817
-          ],
-          [
-            -88.2134425,
-            15.9342592
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.2134425,
-            15.9342592
-          ],
-          [
-            -88.2278143,
-            15.7238365
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.2371645,
-            15.7225125
-          ],
-          [
-            -88.2278143,
-            15.7238365
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.2678328,
-            15.6825169
-          ],
-          [
-            -88.2472454,
-            15.6885132
-          ],
-          [
-            -88.2527208,
-            15.7228265
-          ],
-          [
-            -88.2371645,
-            15.7225125
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.3134485,
-            15.6821093
-          ],
-          [
-            -88.2823852,
-            15.6744013
-          ],
-          [
-            -88.283234,
-            15.6945422
-          ],
-          [
-            -88.2678328,
-            15.6825169
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.3209869,
-            15.6699484
-          ],
-          [
-            -88.3134485,
-            15.6821093
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.3242654,
-            15.6723426
-          ],
-          [
-            -88.3209869,
-            15.6699484
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.3260835,
-            15.6675712
-          ],
-          [
-            -88.3242654,
-            15.6723426
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.3288517,
-            15.6404538
-          ],
-          [
-            -88.3260835,
-            15.6675712
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.3305222,
-            15.6389528
-          ],
-          [
-            -88.3288517,
-            15.6404538
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.3457244,
-            15.6176683
-          ],
-          [
-            -88.3305222,
-            15.6389528
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.3457244,
-            15.6176683
-          ],
-          [
-            -88.4730449,
-            15.5136669
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.4730449,
-            15.5136669
-          ],
-          [
-            -88.4872117,
-            15.5017651
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.4872117,
-            15.5017651
-          ],
-          [
-            -88.5089114,
-            15.4832334
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.5089114,
-            15.4832334
-          ],
-          [
-            -88.5343104,
-            15.4615469
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.5343104,
-            15.4615469
-          ],
-          [
-            -88.5538173,
-            15.4463587
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.5616547,
-            15.4389025
-          ],
-          [
-            -88.5538173,
-            15.4463587
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.5653079,
-            15.4335351
-          ],
-          [
-            -88.5616547,
-            15.4389025
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.5653079,
-            15.4335351
-          ],
-          [
-            -88.5760032,
-            15.42541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.5760032,
-            15.42541
-          ],
-          [
-            -88.582423,
-            15.4213441
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.582423,
-            15.4213441
-          ],
-          [
-            -88.5841075,
-            15.4192058
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.5841075,
-            15.4192058
-          ],
-          [
-            -88.5881388,
-            15.4214036
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.5881388,
-            15.4214036
-          ],
-          [
-            -88.6109054,
-            15.4076139
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.6109054,
-            15.4076139
-          ],
-          [
-            -88.6142314,
-            15.4044722
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.6142314,
-            15.4044722
-          ],
-          [
-            -88.6543185,
-            15.3655667
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.6543185,
-            15.3655667
-          ],
-          [
-            -88.6817932,
-            15.3403022
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.6817932,
-            15.3403022
-          ],
-          [
-            -88.7582525,
-            15.2949094
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.7582525,
-            15.2949094
-          ],
-          [
-            -88.8701143,
-            15.222919
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.8701143,
-            15.222919
-          ],
-          [
-            -88.9350458,
-            15.1688325
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.9350458,
-            15.1688325
-          ],
-          [
-            -88.9423325,
-            15.1625418
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.9423325,
-            15.1625418
-          ],
-          [
-            -88.9749569,
-            15.1361957
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -88.9749569,
-            15.1361957
-          ],
-          [
-            -89.0059565,
-            15.1244776
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.0059565,
-            15.1244776
-          ],
-          [
-            -89.0564225,
-            15.1056888
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.0564225,
-            15.1056888
-          ],
-          [
-            -89.0841494,
-            15.0953426
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.0841494,
-            15.0953426
-          ],
-          [
-            -89.1542594,
-            15.0688692
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1537678,
-            15.056503
-          ],
-          [
-            -89.1542594,
-            15.0688692
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1537678,
-            15.056503
-          ],
-          [
-            -89.1657069,
-            15.0407364
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1657069,
-            15.0407364
-          ],
-          [
-            -89.1749947,
-            15.038025
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1749947,
-            15.038025
-          ],
-          [
-            -89.1840608,
-            15.0044194
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1840608,
-            15.0044194
-          ],
-          [
-            -89.1566316,
-            14.9797535
-          ],
-          [
-            -89.1789789,
-            14.9232769
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1789789,
-            14.9232769
-          ],
-          [
-            -89.2280669,
-            14.8825217
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2280669,
-            14.8825217
-          ],
-          [
-            -89.2237826,
-            14.8346939
-          ],
-          [
-            -89.1942918,
-            14.7972929
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1942918,
-            14.7972929
-          ],
-          [
-            -89.168857,
-            14.7749033
-          ],
-          [
-            -89.1653753,
-            14.7315808
-          ],
-          [
-            -89.1311568,
-            14.7130345
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1311568,
-            14.7130345
-          ],
-          [
-            -89.1496871,
-            14.6760082
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1496871,
-            14.6760082
-          ],
-          [
-            -89.1555343,
-            14.6737663
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1500626,
-            14.6391915
-          ],
-          [
-            -89.1555343,
-            14.6737663
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1513303,
-            14.5847697
-          ],
-          [
-            -89.1500626,
-            14.6391915
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1513303,
-            14.5847697
-          ],
-          [
-            -89.1631855,
-            14.5721304
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1631855,
-            14.5721304
-          ],
-          [
-            -89.1959327,
-            14.5775663
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1959327,
-            14.5775663
-          ],
-          [
-            -89.1963536,
-            14.5777626
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.1963536,
-            14.5777626
-          ],
-          [
-            -89.2013602,
-            14.5800936
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2013602,
-            14.5800936
-          ],
-          [
-            -89.2384654,
-            14.5848204
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2384654,
-            14.5848204
-          ],
-          [
-            -89.2634178,
-            14.5476775
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2830711,
-            14.5313798
-          ],
-          [
-            -89.2634178,
-            14.5476775
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2830841,
-            14.5311943
-          ],
-          [
-            -89.2830711,
-            14.5313798
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2831153,
-            14.5311111
-          ],
-          [
-            -89.2830841,
-            14.5311943
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2841506,
-            14.5281667
-          ],
-          [
-            -89.2831153,
-            14.5311111
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.2992069,
-            14.5088161
-          ],
-          [
-            -89.2841506,
-            14.5281667
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3029454,
-            14.5079727
-          ],
-          [
-            -89.2992069,
-            14.5088161
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3056603,
-            14.5052326
-          ],
-          [
-            -89.3029454,
-            14.5079727
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3056603,
-            14.5052326
-          ],
-          [
-            -89.3020339,
-            14.4937393
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3567419,
-            14.4670086
-          ],
-          [
-            -89.3020339,
-            14.4937393
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3522717,
-            14.425811
-          ],
-          [
-            -89.3567419,
-            14.4670086
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3522717,
-            14.425811
-          ],
-          [
-            -89.3559888,
-            14.4206107
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3559888,
-            14.4206107
-          ],
-          [
-            -89.3566756,
-            14.422769
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3566756,
-            14.422769
-          ],
-          [
-            -89.3642448,
-            14.4254421
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3642448,
-            14.4254421
-          ],
-          [
-            -89.3796418,
-            14.4379172
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3850892,
-            14.4276269
-          ],
-          [
-            -89.3796418,
-            14.4379172
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3852314,
-            14.4275408
-          ],
-          [
-            -89.3850892,
-            14.4276269
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3852314,
-            14.4275408
-          ],
-          [
-            -89.3866952,
-            14.443563
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.3866952,
-            14.443563
-          ],
-          [
-            -89.3867011,
-            14.4436193
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.4371019,
-            14.4118228
-          ],
-          [
-            -89.4021358,
-            14.44694
-          ],
-          [
-            -89.3867011,
-            14.4436193
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.4371019,
-            14.4118228
-          ],
-          [
-            -89.4624792,
-            14.423884
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.4624792,
-            14.423884
-          ],
-          [
-            -89.5104824,
-            14.4067475
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5104824,
-            14.4067475
-          ],
-          [
-            -89.5363571,
-            14.3849636
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5332457,
-            14.3917556
-          ],
-          [
-            -89.5363571,
-            14.3849636
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5357318,
-            14.4027038
-          ],
-          [
-            -89.5332457,
-            14.3917556
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5415557,
-            14.4108027
-          ],
-          [
-            -89.5357318,
-            14.4027038
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5425008,
-            14.4151891
-          ],
-          [
-            -89.5415557,
-            14.4108027
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5425008,
-            14.4151891
-          ],
-          [
-            -89.5425854,
-            14.4161396
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5425854,
-            14.4161396
-          ],
-          [
-            -89.5452089,
-            14.4161409
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5452089,
-            14.4161409
-          ],
-          [
-            -89.5477523,
-            14.4160833
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5477523,
-            14.4160833
-          ],
-          [
-            -89.549399,
-            14.4160872
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.549399,
-            14.4160872
-          ],
-          [
-            -89.5510137,
-            14.4160911
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5510137,
-            14.4160911
-          ],
-          [
-            -89.551449,
-            14.4161122
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.551449,
-            14.4161122
-          ],
-          [
-            -89.5520664,
-            14.4161046
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5520664,
-            14.4161046
-          ],
-          [
-            -89.5541635,
-            14.4160786
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5541635,
-            14.4160786
-          ],
-          [
-            -89.5566038,
-            14.4160887
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5566038,
-            14.4160887
-          ],
-          [
-            -89.5572822,
-            14.4160838
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5572822,
-            14.4160838
-          ],
-          [
-            -89.5594376,
-            14.4161173
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5594376,
-            14.4161173
-          ],
-          [
-            -89.5598238,
-            14.4161233
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5598238,
-            14.4161233
-          ],
-          [
-            -89.5634258,
-            14.4162691
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5634258,
-            14.4162691
-          ],
-          [
-            -89.5656789,
-            14.4163618
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5692712,
-            14.4165766
-          ],
-          [
-            -89.5656789,
-            14.4163618
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5692712,
-            14.4165766
-          ],
-          [
-            -89.5703017,
-            14.4166305
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5703017,
-            14.4166305
-          ],
-          [
-            -89.5739159,
-            14.4169276
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5739159,
-            14.4169276
-          ],
-          [
-            -89.5739518,
-            14.4168163
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5739518,
-            14.4168163
-          ],
-          [
-            -89.5752073,
-            14.412996
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5752073,
-            14.412996
-          ],
-          [
-            -89.5771246,
-            14.4068606
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5771246,
-            14.4068606
-          ],
-          [
-            -89.5771897,
-            14.4066521
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5771897,
-            14.4066521
-          ],
-          [
-            -89.5785619,
-            14.4034477
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5785619,
-            14.4034477
-          ],
-          [
-            -89.5786262,
-            14.4029796
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5786262,
-            14.4029796
-          ],
-          [
-            -89.5791784,
-            14.3978446
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5791784,
-            14.3978446
-          ],
-          [
-            -89.5811361,
-            14.3793072
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5811361,
-            14.3793072
-          ],
-          [
-            -89.5804987,
-            14.3737998
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5804987,
-            14.3737998
-          ],
-          [
-            -89.5639198,
-            14.3554643
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5873262,
-            14.3470595
-          ],
-          [
-            -89.5639198,
-            14.3554643
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5873262,
-            14.3470595
-          ],
-          [
-            -89.5875451,
-            14.3470401
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5875451,
-            14.3470401
-          ],
-          [
-            -89.5880323,
-            14.3460911
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5880323,
-            14.3460911
-          ],
-          [
-            -89.5900582,
-            14.3357616
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5900582,
-            14.3357616
-          ],
-          [
-            -89.5919038,
-            14.3330084
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5919038,
-            14.3330084
-          ],
-          [
-            -89.5912563,
-            14.3295508
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5912563,
-            14.3295508
-          ],
-          [
-            -89.5914761,
-            14.316688
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5914761,
-            14.316688
-          ],
-          [
-            -89.5925807,
-            14.3142718
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5925807,
-            14.3142718
-          ],
-          [
-            -89.5620257,
-            14.3145039
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5620257,
-            14.3145039
-          ],
-          [
-            -89.5515617,
-            14.3024023
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5515617,
-            14.3024023
-          ],
-          [
-            -89.5496413,
-            14.2987837
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5496413,
-            14.2987837
-          ],
-          [
-            -89.5504961,
-            14.2751724
-          ],
-          [
-            -89.5250142,
-            14.2440799
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5250142,
-            14.2440799
-          ],
-          [
-            -89.5221752,
-            14.241137
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5221752,
-            14.241137
-          ],
-          [
-            -89.5211104,
-            14.2359712
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5211104,
-            14.2359712
-          ],
-          [
-            -89.5207241,
-            14.236161
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5207241,
-            14.236161
-          ],
-          [
-            -89.5220518,
-            14.2301826
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5220518,
-            14.2301826
-          ],
-          [
-            -89.5231736,
-            14.2289629
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5231736,
-            14.2289629
-          ],
-          [
-            -89.5205983,
-            14.2288759
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5276095,
-            14.2212497
-          ],
-          [
-            -89.5205983,
-            14.2288759
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5794538,
-            14.20403
-          ],
-          [
-            -89.5276095,
-            14.2212497
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5816295,
-            14.2030256
-          ],
-          [
-            -89.5794538,
-            14.20403
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.586146,
-            14.2034248
-          ],
-          [
-            -89.5816295,
-            14.2030256
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.586378,
-            14.2034612
-          ],
-          [
-            -89.586146,
-            14.2034248
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.5943924,
-            14.2019335
-          ],
-          [
-            -89.586378,
-            14.2034612
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.6025773,
-            14.2025145
-          ],
-          [
-            -89.5943924,
-            14.2019335
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.6301834,
-            14.2042993
-          ],
-          [
-            -89.6025773,
-            14.2025145
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.6467474,
-            14.1958755
-          ],
-          [
-            -89.6301834,
-            14.2042993
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.6467474,
-            14.1958755
-          ],
-          [
-            -89.6658624,
-            14.1859081
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.6658624,
-            14.1859081
-          ],
-          [
-            -89.666846,
-            14.1853918
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.666846,
-            14.1853918
-          ],
-          [
-            -89.6713609,
-            14.1750202
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.6713609,
-            14.1750202
-          ],
-          [
-            -89.6915919,
-            14.1573963
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.6915919,
-            14.1573963
-          ],
-          [
-            -89.7140691,
-            14.1379756
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7140691,
-            14.1379756
-          ],
-          [
-            -89.7219267,
-            14.1248433
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7219267,
-            14.1248433
-          ],
-          [
-            -89.7255273,
-            14.1193358
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7255273,
-            14.1193358
-          ],
-          [
-            -89.7298346,
-            14.1082095
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7298346,
-            14.1082095
-          ],
-          [
-            -89.7300961,
-            14.1076618
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7300961,
-            14.1076618
-          ],
-          [
-            -89.7300873,
-            14.1075437
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7318406,
-            14.0961533
-          ],
-          [
-            -89.7300873,
-            14.1075437
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7320163,
-            14.0954274
-          ],
-          [
-            -89.7318406,
-            14.0961533
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7320163,
-            14.0954274
-          ],
-          [
-            -89.7341972,
-            14.0918472
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7341972,
-            14.0918472
-          ],
-          [
-            -89.7368985,
-            14.0837312
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7368985,
-            14.0837312
-          ],
-          [
-            -89.7350634,
-            14.0344343
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7350634,
-            14.0344343
-          ],
-          [
-            -89.7533192,
-            14.0325817
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7533192,
-            14.0325817
-          ],
-          [
-            -89.7570813,
-            14.032866
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7570813,
-            14.032866
-          ],
-          [
-            -89.7856898,
-            14.0384154
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7856898,
-            14.0384154
-          ],
-          [
-            -89.7973208,
-            14.0498676
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.7973208,
-            14.0498676
-          ],
-          [
-            -89.8038916,
-            14.0540609
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.8038916,
-            14.0540609
-          ],
-          [
-            -89.8225949,
-            14.0635668
-          ],
-          [
-            -89.8589091,
-            14.0515012
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.8589091,
-            14.0515012
-          ],
-          [
-            -89.8599068,
-            14.0439484
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.8599068,
-            14.0439484
-          ],
-          [
-            -89.9043158,
-            14.0324616
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.9043158,
-            14.0324616
-          ],
-          [
-            -89.925263,
-            14.0072437
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.925263,
-            14.0072437
-          ],
-          [
-            -89.9714303,
-            13.9647867
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -89.9714303,
-            13.9647867
-          ],
-          [
-            -90.0240555,
-            13.9379598
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.0240555,
-            13.9379598
-          ],
-          [
-            -90.0356335,
-            13.90043
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.0356335,
-            13.90043
-          ],
-          [
-            -90.0662578,
-            13.8809719
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.0662578,
-            13.8809719
-          ],
-          [
-            -90.0984182,
-            13.8586863
-          ],
-          [
-            -90.1164166,
-            13.7988378
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.1164166,
-            13.7988378
-          ],
-          [
-            -90.1178783,
-            13.7890851
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.1178783,
-            13.7890851
-          ],
-          [
-            -90.1043407,
-            13.7771802
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.1043407,
-            13.7771802
-          ],
-          [
-            -90.0927925,
-            13.7575656
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.0927925,
-            13.7575656
-          ],
-          [
-            -90.1022733,
-            13.740501
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.1022733,
-            13.740501
-          ],
-          [
-            -90.1166565,
-            13.749316
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.1166565,
-            13.749316
-          ],
-          [
-            -90.1356128,
-            13.7462335
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.1379563,
-            13.7412125
-          ],
-          [
-            -90.1356128,
-            13.7462335
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "GT",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
-        "name": "Guatemala"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -90.2209042,
-            13.563429
-          ],
-          [
-            -90.1379563,
-            13.7412125
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -92.364873,
+              14.381183
+            ],
+            [
+              -92.228318,
+              14.531075
+            ],
+            [
+              -92.228318,
+              14.531075
+            ],
+            [
+              -92.185014,
+              14.573766
+            ],
+            [
+              -92.178475,
+              14.600756
+            ],
+            [
+              -92.178475,
+              14.600756
+            ],
+            [
+              -92.1794,
+              14.624532
+            ],
+            [
+              -92.147205,
+              14.658722
+            ],
+            [
+              -92.15411,
+              14.731232
+            ],
+            [
+              -92.15411,
+              14.731232
+            ],
+            [
+              -92.170598,
+              14.747353
+            ],
+            [
+              -92.158567,
+              14.768016
+            ],
+            [
+              -92.176865,
+              14.799853
+            ],
+            [
+              -92.176865,
+              14.799853
+            ],
+            [
+              -92.178747,
+              14.804363
+            ],
+            [
+              -92.178747,
+              14.804363
+            ],
+            [
+              -92.181519,
+              14.847381
+            ],
+            [
+              -92.181519,
+              14.847381
+            ],
+            [
+              -92.136216,
+              14.89165
+            ],
+            [
+              -92.150485,
+              14.989379
+            ],
+            [
+              -92.150485,
+              14.989379
+            ],
+            [
+              -92.130955,
+              15.013708
+            ],
+            [
+              -92.130955,
+              15.013708
+            ],
+            [
+              -92.099217,
+              15.009778
+            ],
+            [
+              -92.079839,
+              15.03108
+            ],
+            [
+              -92.079839,
+              15.03108
+            ],
+            [
+              -92.05928,
+              15.070821
+            ],
+            [
+              -92.05928,
+              15.070821
+            ],
+            [
+              -92.099721,
+              15.121551
+            ],
+            [
+              -92.099721,
+              15.121551
+            ],
+            [
+              -92.107822,
+              15.131652
+            ],
+            [
+              -92.107822,
+              15.131652
+            ],
+            [
+              -92.123703,
+              15.151648
+            ],
+            [
+              -92.123703,
+              15.151648
+            ],
+            [
+              -92.136691,
+              15.167969
+            ],
+            [
+              -92.136691,
+              15.167969
+            ],
+            [
+              -92.162753,
+              15.200708
+            ],
+            [
+              -92.162753,
+              15.200708
+            ],
+            [
+              -92.18438,
+              15.227676
+            ],
+            [
+              -92.18438,
+              15.227676
+            ],
+            [
+              -92.210531,
+              15.260619
+            ],
+            [
+              -92.210531,
+              15.260619
+            ],
+            [
+              -92.128202,
+              15.400926
+            ],
+            [
+              -92.128202,
+              15.400926
+            ],
+            [
+              -92.116139,
+              15.421398
+            ],
+            [
+              -92.116139,
+              15.421398
+            ],
+            [
+              -92.023479,
+              15.579089
+            ],
+            [
+              -92.023479,
+              15.579089
+            ],
+            [
+              -92.003699,
+              15.612682
+            ],
+            [
+              -92.003699,
+              15.612682
+            ],
+            [
+              -91.990098,
+              15.635737
+            ],
+            [
+              -91.990098,
+              15.635737
+            ],
+            [
+              -91.940917,
+              15.719319
+            ],
+            [
+              -91.940917,
+              15.719319
+            ],
+            [
+              -91.921862,
+              15.751633
+            ],
+            [
+              -91.921862,
+              15.751633
+            ],
+            [
+              -91.894585,
+              15.797837
+            ],
+            [
+              -91.894585,
+              15.797837
+            ],
+            [
+              -91.731569,
+              16.073895
+            ],
+            [
+              -91.731569,
+              16.073895
+            ],
+            [
+              -91.498432,
+              16.073905
+            ],
+            [
+              -91.498432,
+              16.073905
+            ],
+            [
+              -91.382077,
+              16.073918
+            ],
+            [
+              -91.382077,
+              16.073918
+            ],
+            [
+              -91.36072,
+              16.073847
+            ],
+            [
+              -91.36072,
+              16.073847
+            ],
+            [
+              -91.296497,
+              16.073914
+            ],
+            [
+              -91.296497,
+              16.073914
+            ],
+            [
+              -91.165729,
+              16.073822
+            ],
+            [
+              -91.165729,
+              16.073822
+            ],
+            [
+              -91.107642,
+              16.073838
+            ],
+            [
+              -91.107642,
+              16.073838
+            ],
+            [
+              -90.961197,
+              16.073892
+            ],
+            [
+              -90.961197,
+              16.073892
+            ],
+            [
+              -90.791636,
+              16.073875
+            ],
+            [
+              -90.791636,
+              16.073875
+            ],
+            [
+              -90.442155,
+              16.073805
+            ],
+            [
+              -90.442155,
+              16.073805
+            ],
+            [
+              -90.426041,
+              16.103609
+            ],
+            [
+              -90.454849,
+              16.092777
+            ],
+            [
+              -90.45889,
+              16.111279
+            ],
+            [
+              -90.453096,
+              16.125153
+            ],
+            [
+              -90.430941,
+              16.119712
+            ],
+            [
+              -90.429922,
+              16.139235
+            ],
+            [
+              -90.451974,
+              16.14952
+            ],
+            [
+              -90.426029,
+              16.163874
+            ],
+            [
+              -90.454535,
+              16.186857
+            ],
+            [
+              -90.458071,
+              16.211181
+            ],
+            [
+              -90.429012,
+              16.233535
+            ],
+            [
+              -90.456243,
+              16.249459
+            ],
+            [
+              -90.424127,
+              16.259052
+            ],
+            [
+              -90.439842,
+              16.304527
+            ],
+            [
+              -90.412033,
+              16.307753
+            ],
+            [
+              -90.412477,
+              16.328837
+            ],
+            [
+              -90.382725,
+              16.339558
+            ],
+            [
+              -90.403812,
+              16.361482
+            ],
+            [
+              -90.41072,
+              16.346213
+            ],
+            [
+              -90.412078,
+              16.36201
+            ],
+            [
+              -90.396043,
+              16.374857
+            ],
+            [
+              -90.376155,
+              16.359794
+            ],
+            [
+              -90.372307,
+              16.372609
+            ],
+            [
+              -90.402134,
+              16.391179
+            ],
+            [
+              -90.389878,
+              16.413297
+            ],
+            [
+              -90.409388,
+              16.404544
+            ],
+            [
+              -90.421842,
+              16.425137
+            ],
+            [
+              -90.485531,
+              16.422982
+            ],
+            [
+              -90.479975,
+              16.460988
+            ],
+            [
+              -90.49845,
+              16.453834
+            ],
+            [
+              -90.516412,
+              16.469824
+            ],
+            [
+              -90.53098,
+              16.458135
+            ],
+            [
+              -90.549005,
+              16.469385
+            ],
+            [
+              -90.543694,
+              16.481018
+            ],
+            [
+              -90.543694,
+              16.481018
+            ],
+            [
+              -90.590204,
+              16.470085
+            ],
+            [
+              -90.598855,
+              16.491224
+            ],
+            [
+              -90.631442,
+              16.477923
+            ],
+            [
+              -90.60652,
+              16.505382
+            ],
+            [
+              -90.615713,
+              16.521325
+            ],
+            [
+              -90.646068,
+              16.517957
+            ],
+            [
+              -90.646977,
+              16.560845
+            ],
+            [
+              -90.626297,
+              16.578039
+            ],
+            [
+              -90.6412,
+              16.595848
+            ],
+            [
+              -90.644365,
+              16.579726
+            ],
+            [
+              -90.66601,
+              16.580562
+            ],
+            [
+              -90.654192,
+              16.596079
+            ],
+            [
+              -90.654192,
+              16.596079
+            ],
+            [
+              -90.658498,
+              16.64055
+            ],
+            [
+              -90.712244,
+              16.725091
+            ],
+            [
+              -90.802399,
+              16.775956
+            ],
+            [
+              -90.804094,
+              16.798266
+            ],
+            [
+              -90.853979,
+              16.797611
+            ],
+            [
+              -90.881503,
+              16.824895
+            ],
+            [
+              -90.921765,
+              16.821935
+            ],
+            [
+              -90.933639,
+              16.859326
+            ],
+            [
+              -90.974055,
+              16.863626
+            ],
+            [
+              -90.954509,
+              16.884474
+            ],
+            [
+              -90.963833,
+              16.90084
+            ],
+            [
+              -90.963833,
+              16.90084
+            ],
+            [
+              -90.985063,
+              16.897954
+            ],
+            [
+              -90.987831,
+              16.863085
+            ],
+            [
+              -91.007112,
+              16.886184
+            ],
+            [
+              -91.065627,
+              16.902858
+            ],
+            [
+              -91.06448,
+              16.92513
+            ],
+            [
+              -91.12005,
+              16.977528
+            ],
+            [
+              -91.122182,
+              17.002795
+            ],
+            [
+              -91.175253,
+              17.015704
+            ],
+            [
+              -91.213941,
+              17.05322
+            ],
+            [
+              -91.226958,
+              17.095059
+            ],
+            [
+              -91.26041,
+              17.102972
+            ],
+            [
+              -91.26041,
+              17.102972
+            ],
+            [
+              -91.266447,
+              17.170133
+            ],
+            [
+              -91.324424,
+              17.183087
+            ],
+            [
+              -91.349089,
+              17.159687
+            ],
+            [
+              -91.354455,
+              17.190517
+            ],
+            [
+              -91.418817,
+              17.209295
+            ],
+            [
+              -91.439955,
+              17.250869
+            ],
+            [
+              -91.439955,
+              17.250869
+            ],
+            [
+              -91.439619,
+              17.250868
+            ],
+            [
+              -91.439619,
+              17.250868
+            ],
+            [
+              -91.345779,
+              17.250933
+            ],
+            [
+              -91.345779,
+              17.250933
+            ],
+            [
+              -90.987264,
+              17.251299
+            ],
+            [
+              -90.987264,
+              17.251299
+            ],
+            [
+              -90.987294,
+              17.259225
+            ],
+            [
+              -90.987294,
+              17.259225
+            ],
+            [
+              -90.98769,
+              17.278568
+            ],
+            [
+              -90.98769,
+              17.278568
+            ],
+            [
+              -90.98772,
+              17.423027
+            ],
+            [
+              -90.98772,
+              17.423027
+            ],
+            [
+              -90.987716,
+              17.815344
+            ],
+            [
+              -90.987716,
+              17.815344
+            ],
+            [
+              -90.365047,
+              17.812425
+            ],
+            [
+              -90.365047,
+              17.812425
+            ],
+            [
+              -90.245498,
+              17.815826
+            ],
+            [
+              -90.245498,
+              17.815826
+            ],
+            [
+              -89.99962,
+              17.81582
+            ],
+            [
+              -89.99962,
+              17.81582
+            ],
+            [
+              -89.916676,
+              17.815928
+            ],
+            [
+              -89.916676,
+              17.815928
+            ],
+            [
+              -89.766883,
+              17.815663
+            ],
+            [
+              -89.766883,
+              17.815663
+            ],
+            [
+              -89.699976,
+              17.8155
+            ],
+            [
+              -89.699976,
+              17.8155
+            ],
+            [
+              -89.500032,
+              17.815371
+            ],
+            [
+              -89.500032,
+              17.815371
+            ],
+            [
+              -89.333334,
+              17.815431
+            ],
+            [
+              -89.333334,
+              17.815431
+            ],
+            [
+              -89.151912,
+              17.8156
+            ],
+            [
+              -89.151912,
+              17.8156
+            ],
+            [
+              -89.151945,
+              17.772378
+            ],
+            [
+              -89.151945,
+              17.772378
+            ],
+            [
+              -89.151797,
+              17.699107
+            ],
+            [
+              -89.151797,
+              17.699107
+            ],
+            [
+              -89.151811,
+              17.667286
+            ],
+            [
+              -89.151811,
+              17.667286
+            ],
+            [
+              -89.15135,
+              17.538025
+            ],
+            [
+              -89.15135,
+              17.538025
+            ],
+            [
+              -89.150907,
+              17.402904
+            ],
+            [
+              -89.150907,
+              17.402904
+            ],
+            [
+              -89.150665,
+              17.321911
+            ],
+            [
+              -89.150665,
+              17.321911
+            ],
+            [
+              -89.150647,
+              17.315791
+            ],
+            [
+              -89.150647,
+              17.315791
+            ],
+            [
+              -89.150522,
+              17.26584
+            ],
+            [
+              -89.150522,
+              17.26584
+            ],
+            [
+              -89.15052,
+              17.265243
+            ],
+            [
+              -89.15052,
+              17.265243
+            ],
+            [
+              -89.150457,
+              17.240053
+            ],
+            [
+              -89.150457,
+              17.240053
+            ],
+            [
+              -89.150446,
+              17.235523
+            ],
+            [
+              -89.150446,
+              17.235523
+            ],
+            [
+              -89.150004,
+              17.059071
+            ],
+            [
+              -89.150004,
+              17.059071
+            ],
+            [
+              -89.153832,
+              17.001202
+            ],
+            [
+              -89.153832,
+              17.001202
+            ],
+            [
+              -89.155696,
+              16.97353
+            ],
+            [
+              -89.155696,
+              16.97353
+            ],
+            [
+              -89.15807,
+              16.938301
+            ],
+            [
+              -89.15807,
+              16.938301
+            ],
+            [
+              -89.163057,
+              16.863951
+            ],
+            [
+              -89.163057,
+              16.863951
+            ],
+            [
+              -89.165684,
+              16.824698
+            ],
+            [
+              -89.165684,
+              16.824698
+            ],
+            [
+              -89.1727,
+              16.720488
+            ],
+            [
+              -89.1727,
+              16.720488
+            ],
+            [
+              -89.175919,
+              16.672743
+            ],
+            [
+              -89.175919,
+              16.672743
+            ],
+            [
+              -89.189433,
+              16.471523
+            ],
+            [
+              -89.189433,
+              16.471523
+            ],
+            [
+              -89.190918,
+              16.449178
+            ],
+            [
+              -89.190918,
+              16.449178
+            ],
+            [
+              -89.194321,
+              16.398869
+            ],
+            [
+              -89.194321,
+              16.398869
+            ],
+            [
+              -89.201294,
+              16.294654
+            ],
+            [
+              -89.201294,
+              16.294654
+            ],
+            [
+              -89.203235,
+              16.265798
+            ],
+            [
+              -89.203235,
+              16.265798
+            ],
+            [
+              -89.204296,
+              16.249473
+            ],
+            [
+              -89.204296,
+              16.249473
+            ],
+            [
+              -89.204729,
+              16.242991
+            ],
+            [
+              -89.204729,
+              16.242991
+            ],
+            [
+              -89.2052,
+              16.235935
+            ],
+            [
+              -89.2052,
+              16.235935
+            ],
+            [
+              -89.207333,
+              16.203992
+            ],
+            [
+              -89.207333,
+              16.203992
+            ],
+            [
+              -89.207514,
+              16.201288
+            ],
+            [
+              -89.207514,
+              16.201288
+            ],
+            [
+              -89.227591,
+              15.896178
+            ],
+            [
+              -89.227591,
+              15.896178
+            ],
+            [
+              -89.22467,
+              15.891084
+            ],
+            [
+              -89.22467,
+              15.891084
+            ],
+            [
+              -89.176491,
+              15.91328
+            ],
+            [
+              -89.150081,
+              15.896424
+            ],
+            [
+              -89.092116,
+              15.910652
+            ],
+            [
+              -89.092116,
+              15.910652
+            ],
+            [
+              -89.079449,
+              15.897329
+            ],
+            [
+              -89.039997,
+              15.914922
+            ],
+            [
+              -89.018948,
+              15.91021
+            ],
+            [
+              -89.019023,
+              15.894432
+            ],
+            [
+              -88.994953,
+              15.904386
+            ],
+            [
+              -88.957308,
+              15.888375
+            ],
+            [
+              -88.913023,
+              15.899917
+            ],
+            [
+              -88.913023,
+              15.899917
+            ],
+            [
+              -88.745923,
+              15.977106
+            ],
+            [
+              -88.745923,
+              15.977106
+            ],
+            [
+              -88.708548,
+              16.03408
+            ],
+            [
+              -88.59259,
+              16.07191
+            ],
+            [
+              -88.507926,
+              16.064904
+            ],
+            [
+              -88.3241,
+              15.964582
+            ],
+            [
+              -88.213442,
+              15.934259
+            ],
+            [
+              -88.213442,
+              15.934259
+            ],
+            [
+              -88.227814,
+              15.723837
+            ],
+            [
+              -88.227814,
+              15.723837
+            ],
+            [
+              -88.237165,
+              15.722513
+            ],
+            [
+              -88.237165,
+              15.722513
+            ],
+            [
+              -88.252721,
+              15.722827
+            ],
+            [
+              -88.247245,
+              15.688513
+            ],
+            [
+              -88.267833,
+              15.682517
+            ],
+            [
+              -88.267833,
+              15.682517
+            ],
+            [
+              -88.283234,
+              15.694542
+            ],
+            [
+              -88.282385,
+              15.674401
+            ],
+            [
+              -88.313449,
+              15.682109
+            ],
+            [
+              -88.313449,
+              15.682109
+            ],
+            [
+              -88.320987,
+              15.669948
+            ],
+            [
+              -88.320987,
+              15.669948
+            ],
+            [
+              -88.324265,
+              15.672343
+            ],
+            [
+              -88.324265,
+              15.672343
+            ],
+            [
+              -88.326083,
+              15.667571
+            ],
+            [
+              -88.326083,
+              15.667571
+            ],
+            [
+              -88.328852,
+              15.640454
+            ],
+            [
+              -88.328852,
+              15.640454
+            ],
+            [
+              -88.330522,
+              15.638953
+            ],
+            [
+              -88.330522,
+              15.638953
+            ],
+            [
+              -88.345724,
+              15.617668
+            ],
+            [
+              -88.345724,
+              15.617668
+            ],
+            [
+              -88.473045,
+              15.513667
+            ],
+            [
+              -88.473045,
+              15.513667
+            ],
+            [
+              -88.487212,
+              15.501765
+            ],
+            [
+              -88.487212,
+              15.501765
+            ],
+            [
+              -88.508911,
+              15.483233
+            ],
+            [
+              -88.508911,
+              15.483233
+            ],
+            [
+              -88.53431,
+              15.461547
+            ],
+            [
+              -88.53431,
+              15.461547
+            ],
+            [
+              -88.553817,
+              15.446359
+            ],
+            [
+              -88.553817,
+              15.446359
+            ],
+            [
+              -88.561655,
+              15.438902
+            ],
+            [
+              -88.561655,
+              15.438902
+            ],
+            [
+              -88.565308,
+              15.433535
+            ],
+            [
+              -88.565308,
+              15.433535
+            ],
+            [
+              -88.576003,
+              15.42541
+            ],
+            [
+              -88.576003,
+              15.42541
+            ],
+            [
+              -88.582423,
+              15.421344
+            ],
+            [
+              -88.582423,
+              15.421344
+            ],
+            [
+              -88.584108,
+              15.419206
+            ],
+            [
+              -88.584108,
+              15.419206
+            ],
+            [
+              -88.588139,
+              15.421404
+            ],
+            [
+              -88.588139,
+              15.421404
+            ],
+            [
+              -88.610905,
+              15.407614
+            ],
+            [
+              -88.610905,
+              15.407614
+            ],
+            [
+              -88.614231,
+              15.404472
+            ],
+            [
+              -88.614231,
+              15.404472
+            ],
+            [
+              -88.654319,
+              15.365567
+            ],
+            [
+              -88.654319,
+              15.365567
+            ],
+            [
+              -88.681793,
+              15.340302
+            ],
+            [
+              -88.681793,
+              15.340302
+            ],
+            [
+              -88.758252,
+              15.294909
+            ],
+            [
+              -88.758252,
+              15.294909
+            ],
+            [
+              -88.870114,
+              15.222919
+            ],
+            [
+              -88.870114,
+              15.222919
+            ],
+            [
+              -88.935046,
+              15.168833
+            ],
+            [
+              -88.935046,
+              15.168833
+            ],
+            [
+              -88.942333,
+              15.162542
+            ],
+            [
+              -88.942333,
+              15.162542
+            ],
+            [
+              -88.974957,
+              15.136196
+            ],
+            [
+              -88.974957,
+              15.136196
+            ],
+            [
+              -89.005956,
+              15.124478
+            ],
+            [
+              -89.005956,
+              15.124478
+            ],
+            [
+              -89.056422,
+              15.105689
+            ],
+            [
+              -89.056422,
+              15.105689
+            ],
+            [
+              -89.084149,
+              15.095343
+            ],
+            [
+              -89.084149,
+              15.095343
+            ],
+            [
+              -89.154259,
+              15.068869
+            ],
+            [
+              -89.154259,
+              15.068869
+            ],
+            [
+              -89.153768,
+              15.056503
+            ],
+            [
+              -89.153768,
+              15.056503
+            ],
+            [
+              -89.165707,
+              15.040736
+            ],
+            [
+              -89.165707,
+              15.040736
+            ],
+            [
+              -89.174995,
+              15.038025
+            ],
+            [
+              -89.174995,
+              15.038025
+            ],
+            [
+              -89.184061,
+              15.004419
+            ],
+            [
+              -89.184061,
+              15.004419
+            ],
+            [
+              -89.156632,
+              14.979753
+            ],
+            [
+              -89.178979,
+              14.923277
+            ],
+            [
+              -89.178979,
+              14.923277
+            ],
+            [
+              -89.228067,
+              14.882522
+            ],
+            [
+              -89.228067,
+              14.882522
+            ],
+            [
+              -89.223783,
+              14.834694
+            ],
+            [
+              -89.194292,
+              14.797293
+            ],
+            [
+              -89.194292,
+              14.797293
+            ],
+            [
+              -89.168857,
+              14.774903
+            ],
+            [
+              -89.165375,
+              14.731581
+            ],
+            [
+              -89.131157,
+              14.713034
+            ],
+            [
+              -89.131157,
+              14.713034
+            ],
+            [
+              -89.149687,
+              14.676008
+            ],
+            [
+              -89.149687,
+              14.676008
+            ],
+            [
+              -89.155534,
+              14.673766
+            ],
+            [
+              -89.155534,
+              14.673766
+            ],
+            [
+              -89.150063,
+              14.639192
+            ],
+            [
+              -89.150063,
+              14.639192
+            ],
+            [
+              -89.15133,
+              14.58477
+            ],
+            [
+              -89.15133,
+              14.58477
+            ],
+            [
+              -89.163185,
+              14.57213
+            ],
+            [
+              -89.163185,
+              14.57213
+            ],
+            [
+              -89.195933,
+              14.577566
+            ],
+            [
+              -89.195933,
+              14.577566
+            ],
+            [
+              -89.196354,
+              14.577763
+            ],
+            [
+              -89.196354,
+              14.577763
+            ],
+            [
+              -89.20136,
+              14.580094
+            ],
+            [
+              -89.20136,
+              14.580094
+            ],
+            [
+              -89.238465,
+              14.58482
+            ],
+            [
+              -89.238465,
+              14.58482
+            ],
+            [
+              -89.263418,
+              14.547678
+            ],
+            [
+              -89.263418,
+              14.547678
+            ],
+            [
+              -89.283071,
+              14.53138
+            ],
+            [
+              -89.283071,
+              14.53138
+            ],
+            [
+              -89.283084,
+              14.531194
+            ],
+            [
+              -89.283084,
+              14.531194
+            ],
+            [
+              -89.283115,
+              14.531111
+            ],
+            [
+              -89.283115,
+              14.531111
+            ],
+            [
+              -89.284151,
+              14.528167
+            ],
+            [
+              -89.284151,
+              14.528167
+            ],
+            [
+              -89.299207,
+              14.508816
+            ],
+            [
+              -89.299207,
+              14.508816
+            ],
+            [
+              -89.302945,
+              14.507973
+            ],
+            [
+              -89.302945,
+              14.507973
+            ],
+            [
+              -89.30566,
+              14.505233
+            ],
+            [
+              -89.30566,
+              14.505233
+            ],
+            [
+              -89.302034,
+              14.493739
+            ],
+            [
+              -89.302034,
+              14.493739
+            ],
+            [
+              -89.356742,
+              14.467009
+            ],
+            [
+              -89.356742,
+              14.467009
+            ],
+            [
+              -89.352272,
+              14.425811
+            ],
+            [
+              -89.352272,
+              14.425811
+            ],
+            [
+              -89.355989,
+              14.420611
+            ],
+            [
+              -89.355989,
+              14.420611
+            ],
+            [
+              -89.356676,
+              14.422769
+            ],
+            [
+              -89.356676,
+              14.422769
+            ],
+            [
+              -89.364245,
+              14.425442
+            ],
+            [
+              -89.364245,
+              14.425442
+            ],
+            [
+              -89.379642,
+              14.437917
+            ],
+            [
+              -89.379642,
+              14.437917
+            ],
+            [
+              -89.385089,
+              14.427627
+            ],
+            [
+              -89.385089,
+              14.427627
+            ],
+            [
+              -89.385231,
+              14.427541
+            ],
+            [
+              -89.385231,
+              14.427541
+            ],
+            [
+              -89.386695,
+              14.443563
+            ],
+            [
+              -89.386695,
+              14.443563
+            ],
+            [
+              -89.386701,
+              14.443619
+            ],
+            [
+              -89.386701,
+              14.443619
+            ],
+            [
+              -89.402136,
+              14.44694
+            ],
+            [
+              -89.437102,
+              14.411823
+            ],
+            [
+              -89.437102,
+              14.411823
+            ],
+            [
+              -89.462479,
+              14.423884
+            ],
+            [
+              -89.462479,
+              14.423884
+            ],
+            [
+              -89.510482,
+              14.406747
+            ],
+            [
+              -89.510482,
+              14.406747
+            ],
+            [
+              -89.536357,
+              14.384964
+            ],
+            [
+              -89.536357,
+              14.384964
+            ],
+            [
+              -89.533246,
+              14.391756
+            ],
+            [
+              -89.533246,
+              14.391756
+            ],
+            [
+              -89.535732,
+              14.402704
+            ],
+            [
+              -89.535732,
+              14.402704
+            ],
+            [
+              -89.541556,
+              14.410803
+            ],
+            [
+              -89.541556,
+              14.410803
+            ],
+            [
+              -89.542501,
+              14.415189
+            ],
+            [
+              -89.542501,
+              14.415189
+            ],
+            [
+              -89.542585,
+              14.41614
+            ],
+            [
+              -89.542585,
+              14.41614
+            ],
+            [
+              -89.545209,
+              14.416141
+            ],
+            [
+              -89.545209,
+              14.416141
+            ],
+            [
+              -89.547752,
+              14.416083
+            ],
+            [
+              -89.547752,
+              14.416083
+            ],
+            [
+              -89.549399,
+              14.416087
+            ],
+            [
+              -89.549399,
+              14.416087
+            ],
+            [
+              -89.551014,
+              14.416091
+            ],
+            [
+              -89.551014,
+              14.416091
+            ],
+            [
+              -89.551449,
+              14.416112
+            ],
+            [
+              -89.551449,
+              14.416112
+            ],
+            [
+              -89.552066,
+              14.416105
+            ],
+            [
+              -89.552066,
+              14.416105
+            ],
+            [
+              -89.554164,
+              14.416079
+            ],
+            [
+              -89.554164,
+              14.416079
+            ],
+            [
+              -89.556604,
+              14.416089
+            ],
+            [
+              -89.556604,
+              14.416089
+            ],
+            [
+              -89.557282,
+              14.416084
+            ],
+            [
+              -89.557282,
+              14.416084
+            ],
+            [
+              -89.559438,
+              14.416117
+            ],
+            [
+              -89.559438,
+              14.416117
+            ],
+            [
+              -89.559824,
+              14.416123
+            ],
+            [
+              -89.559824,
+              14.416123
+            ],
+            [
+              -89.563426,
+              14.416269
+            ],
+            [
+              -89.563426,
+              14.416269
+            ],
+            [
+              -89.565679,
+              14.416362
+            ],
+            [
+              -89.565679,
+              14.416362
+            ],
+            [
+              -89.569271,
+              14.416577
+            ],
+            [
+              -89.569271,
+              14.416577
+            ],
+            [
+              -89.570302,
+              14.416631
+            ],
+            [
+              -89.570302,
+              14.416631
+            ],
+            [
+              -89.573916,
+              14.416928
+            ],
+            [
+              -89.573916,
+              14.416928
+            ],
+            [
+              -89.573952,
+              14.416816
+            ],
+            [
+              -89.573952,
+              14.416816
+            ],
+            [
+              -89.575207,
+              14.412996
+            ],
+            [
+              -89.575207,
+              14.412996
+            ],
+            [
+              -89.577125,
+              14.406861
+            ],
+            [
+              -89.577125,
+              14.406861
+            ],
+            [
+              -89.57719,
+              14.406652
+            ],
+            [
+              -89.57719,
+              14.406652
+            ],
+            [
+              -89.578562,
+              14.403448
+            ],
+            [
+              -89.578562,
+              14.403448
+            ],
+            [
+              -89.578626,
+              14.40298
+            ],
+            [
+              -89.578626,
+              14.40298
+            ],
+            [
+              -89.579178,
+              14.397845
+            ],
+            [
+              -89.579178,
+              14.397845
+            ],
+            [
+              -89.581136,
+              14.379307
+            ],
+            [
+              -89.581136,
+              14.379307
+            ],
+            [
+              -89.580499,
+              14.3738
+            ],
+            [
+              -89.580499,
+              14.3738
+            ],
+            [
+              -89.56392,
+              14.355464
+            ],
+            [
+              -89.56392,
+              14.355464
+            ],
+            [
+              -89.587326,
+              14.34706
+            ],
+            [
+              -89.587326,
+              14.34706
+            ],
+            [
+              -89.587545,
+              14.34704
+            ],
+            [
+              -89.587545,
+              14.34704
+            ],
+            [
+              -89.588032,
+              14.346091
+            ],
+            [
+              -89.588032,
+              14.346091
+            ],
+            [
+              -89.590058,
+              14.335762
+            ],
+            [
+              -89.590058,
+              14.335762
+            ],
+            [
+              -89.591904,
+              14.333008
+            ],
+            [
+              -89.591904,
+              14.333008
+            ],
+            [
+              -89.591256,
+              14.329551
+            ],
+            [
+              -89.591256,
+              14.329551
+            ],
+            [
+              -89.591476,
+              14.316688
+            ],
+            [
+              -89.591476,
+              14.316688
+            ],
+            [
+              -89.592581,
+              14.314272
+            ],
+            [
+              -89.592581,
+              14.314272
+            ],
+            [
+              -89.562026,
+              14.314504
+            ],
+            [
+              -89.562026,
+              14.314504
+            ],
+            [
+              -89.551562,
+              14.302402
+            ],
+            [
+              -89.551562,
+              14.302402
+            ],
+            [
+              -89.549641,
+              14.298784
+            ],
+            [
+              -89.549641,
+              14.298784
+            ],
+            [
+              -89.550496,
+              14.275172
+            ],
+            [
+              -89.525014,
+              14.24408
+            ],
+            [
+              -89.525014,
+              14.24408
+            ],
+            [
+              -89.522175,
+              14.241137
+            ],
+            [
+              -89.522175,
+              14.241137
+            ],
+            [
+              -89.52111,
+              14.235971
+            ],
+            [
+              -89.52111,
+              14.235971
+            ],
+            [
+              -89.520724,
+              14.236161
+            ],
+            [
+              -89.520724,
+              14.236161
+            ],
+            [
+              -89.522052,
+              14.230183
+            ],
+            [
+              -89.522052,
+              14.230183
+            ],
+            [
+              -89.523174,
+              14.228963
+            ],
+            [
+              -89.523174,
+              14.228963
+            ],
+            [
+              -89.520598,
+              14.228876
+            ],
+            [
+              -89.520598,
+              14.228876
+            ],
+            [
+              -89.527609,
+              14.22125
+            ],
+            [
+              -89.527609,
+              14.22125
+            ],
+            [
+              -89.579454,
+              14.20403
+            ],
+            [
+              -89.579454,
+              14.20403
+            ],
+            [
+              -89.58163,
+              14.203026
+            ],
+            [
+              -89.58163,
+              14.203026
+            ],
+            [
+              -89.586146,
+              14.203425
+            ],
+            [
+              -89.586146,
+              14.203425
+            ],
+            [
+              -89.586378,
+              14.203461
+            ],
+            [
+              -89.586378,
+              14.203461
+            ],
+            [
+              -89.594392,
+              14.201934
+            ],
+            [
+              -89.594392,
+              14.201934
+            ],
+            [
+              -89.602577,
+              14.202514
+            ],
+            [
+              -89.602577,
+              14.202514
+            ],
+            [
+              -89.630183,
+              14.204299
+            ],
+            [
+              -89.630183,
+              14.204299
+            ],
+            [
+              -89.646747,
+              14.195875
+            ],
+            [
+              -89.646747,
+              14.195875
+            ],
+            [
+              -89.665862,
+              14.185908
+            ],
+            [
+              -89.665862,
+              14.185908
+            ],
+            [
+              -89.666846,
+              14.185392
+            ],
+            [
+              -89.666846,
+              14.185392
+            ],
+            [
+              -89.671361,
+              14.17502
+            ],
+            [
+              -89.671361,
+              14.17502
+            ],
+            [
+              -89.691592,
+              14.157396
+            ],
+            [
+              -89.691592,
+              14.157396
+            ],
+            [
+              -89.714069,
+              14.137976
+            ],
+            [
+              -89.714069,
+              14.137976
+            ],
+            [
+              -89.721927,
+              14.124843
+            ],
+            [
+              -89.721927,
+              14.124843
+            ],
+            [
+              -89.725527,
+              14.119336
+            ],
+            [
+              -89.725527,
+              14.119336
+            ],
+            [
+              -89.729835,
+              14.108209
+            ],
+            [
+              -89.729835,
+              14.108209
+            ],
+            [
+              -89.730096,
+              14.107662
+            ],
+            [
+              -89.730096,
+              14.107662
+            ],
+            [
+              -89.730087,
+              14.107544
+            ],
+            [
+              -89.730087,
+              14.107544
+            ],
+            [
+              -89.731841,
+              14.096153
+            ],
+            [
+              -89.731841,
+              14.096153
+            ],
+            [
+              -89.732016,
+              14.095427
+            ],
+            [
+              -89.732016,
+              14.095427
+            ],
+            [
+              -89.734197,
+              14.091847
+            ],
+            [
+              -89.734197,
+              14.091847
+            ],
+            [
+              -89.736898,
+              14.083731
+            ],
+            [
+              -89.736898,
+              14.083731
+            ],
+            [
+              -89.735063,
+              14.034434
+            ],
+            [
+              -89.735063,
+              14.034434
+            ],
+            [
+              -89.753319,
+              14.032582
+            ],
+            [
+              -89.753319,
+              14.032582
+            ],
+            [
+              -89.757081,
+              14.032866
+            ],
+            [
+              -89.757081,
+              14.032866
+            ],
+            [
+              -89.78569,
+              14.038415
+            ],
+            [
+              -89.78569,
+              14.038415
+            ],
+            [
+              -89.797321,
+              14.049868
+            ],
+            [
+              -89.797321,
+              14.049868
+            ],
+            [
+              -89.803892,
+              14.054061
+            ],
+            [
+              -89.803892,
+              14.054061
+            ],
+            [
+              -89.822595,
+              14.063567
+            ],
+            [
+              -89.858909,
+              14.051501
+            ],
+            [
+              -89.858909,
+              14.051501
+            ],
+            [
+              -89.859907,
+              14.043948
+            ],
+            [
+              -89.859907,
+              14.043948
+            ],
+            [
+              -89.904316,
+              14.032462
+            ],
+            [
+              -89.904316,
+              14.032462
+            ],
+            [
+              -89.925263,
+              14.007244
+            ],
+            [
+              -89.925263,
+              14.007244
+            ],
+            [
+              -89.97143,
+              13.964787
+            ],
+            [
+              -89.97143,
+              13.964787
+            ],
+            [
+              -90.024056,
+              13.93796
+            ],
+            [
+              -90.024056,
+              13.93796
+            ],
+            [
+              -90.035634,
+              13.90043
+            ],
+            [
+              -90.035634,
+              13.90043
+            ],
+            [
+              -90.066258,
+              13.880972
+            ],
+            [
+              -90.066258,
+              13.880972
+            ],
+            [
+              -90.098418,
+              13.858686
+            ],
+            [
+              -90.116417,
+              13.798838
+            ],
+            [
+              -90.116417,
+              13.798838
+            ],
+            [
+              -90.117878,
+              13.789085
+            ],
+            [
+              -90.117878,
+              13.789085
+            ],
+            [
+              -90.104341,
+              13.77718
+            ],
+            [
+              -90.104341,
+              13.77718
+            ],
+            [
+              -90.092793,
+              13.757566
+            ],
+            [
+              -90.092793,
+              13.757566
+            ],
+            [
+              -90.102273,
+              13.740501
+            ],
+            [
+              -90.102273,
+              13.740501
+            ],
+            [
+              -90.116657,
+              13.749316
+            ],
+            [
+              -90.116657,
+              13.749316
+            ],
+            [
+              -90.135613,
+              13.746234
+            ],
+            [
+              -90.135613,
+              13.746234
+            ],
+            [
+              -90.137956,
+              13.741212
+            ],
+            [
+              -90.137956,
+              13.741212
+            ],
+            [
+              -90.220904,
+              13.563429
+            ],
+            [
+              -90.220904,
+              13.563429
+            ],
+            [
+              -90.617146,
+              13.717116
+            ],
+            [
+              -90.695852,
+              13.726796
+            ],
+            [
+              -90.777985,
+              13.713795
+            ],
+            [
+              -91.07011,
+              13.71362
+            ],
+            [
+              -91.264403,
+              13.735465
+            ],
+            [
+              -91.389999,
+              13.767035
+            ],
+            [
+              -91.646025,
+              13.872772
+            ],
+            [
+              -91.895764,
+              14.020861
+            ],
+            [
+              -92.364873,
+              14.381183
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "GT",
+        "iso-3166-2": null,
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+        "name": "Guatemala",
+        "id": "GT"
       }
     }
   ]

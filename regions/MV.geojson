@@ -3,674 +3,327 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.36931,
+              6.065795
+            ],
+            [
+              72.4585,
+              5.085816
+            ],
+            [
+              72.4585,
+              5.085816
+            ],
+            [
+              72.49918,
+              4.638321
+            ],
+            [
+              72.49918,
+              4.638321
+            ],
+            [
+              72.535412,
+              4.239526
+            ],
+            [
+              72.504524,
+              4.055187
+            ],
+            [
+              72.500897,
+              3.876828
+            ],
+            [
+              72.500897,
+              3.876828
+            ],
+            [
+              72.497001,
+              3.627211
+            ],
+            [
+              72.534691,
+              3.372473
+            ],
+            [
+              72.534691,
+              3.372473
+            ],
+            [
+              72.589855,
+              2.983263
+            ],
+            [
+              72.589855,
+              2.983263
+            ],
+            [
+              72.66633,
+              2.539798
+            ],
+            [
+              72.66633,
+              2.539798
+            ],
+            [
+              72.715787,
+              1.883825
+            ],
+            [
+              72.715787,
+              1.883825
+            ],
+            [
+              72.747414,
+              1.340052
+            ],
+            [
+              72.747414,
+              1.340052
+            ],
+            [
+              72.790298,
+              0.625853
+            ],
+            [
+              72.790298,
+              0.625853
+            ],
+            [
+              72.786252,
+              0.487123
+            ],
+            [
+              72.836482,
+              -0.064733
+            ],
+            [
+              72.836482,
+              -0.064733
+            ],
+            [
+              72.864632,
+              -0.443849
+            ],
+            [
+              72.864632,
+              -0.443849
+            ],
+            [
+              72.883236,
+              -0.645287
+            ],
+            [
+              72.955897,
+              -0.795151
+            ],
+            [
+              73.060826,
+              -0.885533
+            ],
+            [
+              73.174552,
+              -0.90694
+            ],
+            [
+              73.285759,
+              -0.867823
+            ],
+            [
+              73.379615,
+              -0.781342
+            ],
+            [
+              73.628943,
+              -0.381712
+            ],
+            [
+              73.628943,
+              -0.381712
+            ],
+            [
+              73.706519,
+              -0.004082
+            ],
+            [
+              73.706519,
+              -0.004082
+            ],
+            [
+              73.760562,
+              0.235343
+            ],
+            [
+              73.760562,
+              0.235343
+            ],
+            [
+              73.788008,
+              0.431021
+            ],
+            [
+              73.786839,
+              1.385421
+            ],
+            [
+              73.786839,
+              1.385421
+            ],
+            [
+              73.785939,
+              2.12058
+            ],
+            [
+              73.82849,
+              2.448961
+            ],
+            [
+              73.82849,
+              2.448961
+            ],
+            [
+              73.854346,
+              2.64846
+            ],
+            [
+              73.854346,
+              2.64846
+            ],
+            [
+              73.935106,
+              3.190955
+            ],
+            [
+              73.935106,
+              3.190955
+            ],
+            [
+              73.970096,
+              3.467067
+            ],
+            [
+              73.950152,
+              3.782082
+            ],
+            [
+              73.950152,
+              3.782082
+            ],
+            [
+              73.878984,
+              5.091613
+            ],
+            [
+              73.878984,
+              5.091613
+            ],
+            [
+              73.853298,
+              5.416324
+            ],
+            [
+              73.820913,
+              5.485277
+            ],
+            [
+              73.754314,
+              5.736955
+            ],
+            [
+              73.754314,
+              5.736955
+            ],
+            [
+              73.653146,
+              6.119057
+            ],
+            [
+              73.653146,
+              6.119057
+            ],
+            [
+              73.520156,
+              6.620926
+            ],
+            [
+              73.520156,
+              6.620926
+            ],
+            [
+              73.475609,
+              6.791816
+            ],
+            [
+              73.475609,
+              6.791816
+            ],
+            [
+              73.412019,
+              7.021668
+            ],
+            [
+              73.359889,
+              7.105648
+            ],
+            [
+              73.296438,
+              7.15135
+            ],
+            [
+              72.987144,
+              7.292491
+            ],
+            [
+              72.9036,
+              7.310625
+            ],
+            [
+              72.763451,
+              7.280163
+            ],
+            [
+              72.699441,
+              7.250199
+            ],
+            [
+              72.645141,
+              7.202176
+            ],
+            [
+              72.602704,
+              7.120964
+            ],
+            [
+              72.511739,
+              6.807427
+            ],
+            [
+              72.511739,
+              6.807427
+            ],
+            [
+              72.362515,
+              6.292645
+            ],
+            [
+              72.36931,
+              6.065795
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "MV",
         "iso-3166-2": null,
         "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.5117389,
-            6.8074267
-          ],
-          [
-            72.3625145,
-            6.2926449
-          ],
-          [
-            72.3693104,
-            6.0657949
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.3693104,
-            6.0657949
-          ],
-          [
-            72.4584997,
-            5.0858164
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.4584997,
-            5.0858164
-          ],
-          [
-            72.4991801,
-            4.6383215
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.4991801,
-            4.6383215
-          ],
-          [
-            72.5354117,
-            4.2395257
-          ],
-          [
-            72.5045242,
-            4.0551871
-          ],
-          [
-            72.5008971,
-            3.8768278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.5008971,
-            3.8768278
-          ],
-          [
-            72.4970013,
-            3.6272111
-          ],
-          [
-            72.5346907,
-            3.3724734
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.5346907,
-            3.3724734
-          ],
-          [
-            72.589855,
-            2.9832627
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.589855,
-            2.9832627
-          ],
-          [
-            72.6663303,
-            2.5397982
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.6663303,
-            2.5397982
-          ],
-          [
-            72.7157869,
-            1.8838253
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.7157869,
-            1.8838253
-          ],
-          [
-            72.7474141,
-            1.3400524
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.7474141,
-            1.3400524
-          ],
-          [
-            72.7902979,
-            0.6258529
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.7902979,
-            0.6258529
-          ],
-          [
-            72.7862519,
-            0.4871229
-          ],
-          [
-            72.8364815,
-            -0.0647332
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.8364815,
-            -0.0647332
-          ],
-          [
-            72.8646316,
-            -0.4438493
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            72.8646316,
-            -0.4438493
-          ],
-          [
-            72.8832361,
-            -0.6452874
-          ],
-          [
-            72.9558972,
-            -0.7951507
-          ],
-          [
-            73.0608255,
-            -0.8855332
-          ],
-          [
-            73.1745523,
-            -0.9069396
-          ],
-          [
-            73.2857587,
-            -0.8678232
-          ],
-          [
-            73.3796155,
-            -0.7813418
-          ],
-          [
-            73.6289434,
-            -0.3817121
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.6289434,
-            -0.3817121
-          ],
-          [
-            73.7065187,
-            -0.0040821
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.7065187,
-            -0.0040821
-          ],
-          [
-            73.7605622,
-            0.2353433
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.7605622,
-            0.2353433
-          ],
-          [
-            73.7880075,
-            0.4310208
-          ],
-          [
-            73.7868392,
-            1.3854208
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.7868392,
-            1.3854208
-          ],
-          [
-            73.785939,
-            2.1205797
-          ],
-          [
-            73.8284901,
-            2.4489615
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.8284901,
-            2.4489615
-          ],
-          [
-            73.8543457,
-            2.6484604
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.8543457,
-            2.6484604
-          ],
-          [
-            73.9351061,
-            3.1909554
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.9351061,
-            3.1909554
-          ],
-          [
-            73.9700962,
-            3.4670674
-          ],
-          [
-            73.9501522,
-            3.7820824
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.9501522,
-            3.7820824
-          ],
-          [
-            73.878984,
-            5.0916131
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.878984,
-            5.0916131
-          ],
-          [
-            73.8532985,
-            5.4163243
-          ],
-          [
-            73.8209131,
-            5.4852768
-          ],
-          [
-            73.7543142,
-            5.7369545
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.7543142,
-            5.7369545
-          ],
-          [
-            73.6531457,
-            6.1190566
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.6531457,
-            6.1190566
-          ],
-          [
-            73.520156,
-            6.6209261
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.520156,
-            6.6209261
-          ],
-          [
-            73.4756089,
-            6.7918159
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MV",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
-        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            73.4756089,
-            6.7918159
-          ],
-          [
-            73.4120194,
-            7.0216679
-          ],
-          [
-            73.3598894,
-            7.1056482
-          ],
-          [
-            73.2964377,
-            7.1513504
-          ],
-          [
-            72.9871442,
-            7.2924908
-          ],
-          [
-            72.9035997,
-            7.3106246
-          ],
-          [
-            72.7634506,
-            7.2801629
-          ],
-          [
-            72.6994409,
-            7.2501989
-          ],
-          [
-            72.6451407,
-            7.2021762
-          ],
-          [
-            72.6027044,
-            7.1209636
-          ],
-          [
-            72.5117389,
-            6.8074267
-          ]
-        ]
+        "name": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ac",
+        "id": "MV"
       }
     }
   ]

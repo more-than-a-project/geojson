@@ -3,112 +3,59 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.454579,
+              41.90039
+            ],
+            [
+              12.457554,
+              41.903253
+            ],
+            [
+              12.457554,
+              41.903253
+            ],
+            [
+              12.457558,
+              41.903332
+            ],
+            [
+              12.457558,
+              41.903332
+            ],
+            [
+              12.457657,
+              41.905821
+            ],
+            [
+              12.457657,
+              41.905821
+            ],
+            [
+              12.445788,
+              41.901967
+            ],
+            [
+              12.445788,
+              41.901967
+            ],
+            [
+              12.454579,
+              41.90039
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "VA",
         "iso-3166-2": null,
         "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
-        "name": "Civitas Vaticana - Citt\u00e0 del Vaticano"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.4457878,
-            41.9019669
-          ],
-          [
-            12.4545788,
-            41.9003896
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "VA",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
-        "name": "Civitas Vaticana - Citt\u00e0 del Vaticano"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.4576569,
-            41.9058208
-          ],
-          [
-            12.4457878,
-            41.9019669
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "VA",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
-        "name": "Civitas Vaticana - Citt\u00e0 del Vaticano"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.4575579,
-            41.9033324
-          ],
-          [
-            12.4576569,
-            41.9058208
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "VA",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
-        "name": "Civitas Vaticana - Citt\u00e0 del Vaticano"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.4575538,
-            41.903253
-          ],
-          [
-            12.4575579,
-            41.9033324
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "VA",
-        "iso-3166-2": null,
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
-        "name": "Civitas Vaticana - Citt\u00e0 del Vaticano"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            12.4545788,
-            41.9003896
-          ],
-          [
-            12.4575538,
-            41.903253
-          ]
-        ]
+        "name": "Civitas Vaticana - Citt\u00e0 del Vaticano",
+        "id": "VA"
       }
     }
   ]

@@ -3,296 +3,187 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.659987,
+              18.268543
+            ],
+            [
+              -64.640138,
+              18.106342
+            ],
+            [
+              -64.640138,
+              18.106342
+            ],
+            [
+              -64.577658,
+              18.109628
+            ],
+            [
+              -64.45785,
+              18.155457
+            ],
+            [
+              -64.34774,
+              18.220651
+            ],
+            [
+              -64.259591,
+              18.306743
+            ],
+            [
+              -64.163615,
+              18.369096
+            ],
+            [
+              -64.11589,
+              18.454445
+            ],
+            [
+              -64.116687,
+              18.555337
+            ],
+            [
+              -64.063361,
+              18.65729
+            ],
+            [
+              -64.061667,
+              18.722206
+            ],
+            [
+              -64.081643,
+              18.789174
+            ],
+            [
+              -64.153617,
+              18.879642
+            ],
+            [
+              -64.241125,
+              18.93186
+            ],
+            [
+              -64.333364,
+              18.95038
+            ],
+            [
+              -64.465483,
+              18.94046
+            ],
+            [
+              -64.537122,
+              18.907937
+            ],
+            [
+              -64.602931,
+              18.835395
+            ],
+            [
+              -64.627484,
+              18.747559
+            ],
+            [
+              -64.619451,
+              18.687445
+            ],
+            [
+              -64.694566,
+              18.658653
+            ],
+            [
+              -64.884706,
+              18.645769
+            ],
+            [
+              -64.955961,
+              18.611435
+            ],
+            [
+              -64.955961,
+              18.611435
+            ],
+            [
+              -64.897222,
+              18.489444
+            ],
+            [
+              -64.897222,
+              18.489444
+            ],
+            [
+              -64.890183,
+              18.462797
+            ],
+            [
+              -64.890183,
+              18.462797
+            ],
+            [
+              -64.871944,
+              18.408611
+            ],
+            [
+              -64.843776,
+              18.394113
+            ],
+            [
+              -64.843776,
+              18.394113
+            ],
+            [
+              -64.799167,
+              18.408056
+            ],
+            [
+              -64.755833,
+              18.377222
+            ],
+            [
+              -64.755833,
+              18.377222
+            ],
+            [
+              -64.670833,
+              18.366111
+            ],
+            [
+              -64.670833,
+              18.366111
+            ],
+            [
+              -64.637778,
+              18.356111
+            ],
+            [
+              -64.636944,
+              18.321111
+            ],
+            [
+              -64.661268,
+              18.279848
+            ],
+            [
+              -64.661268,
+              18.279848
+            ],
+            [
+              -64.659987,
+              18.268543
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "VG",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
-        "name": "British Virgin Islands"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -64.6612682,
-            18.2798482
-          ],
-          [
-            -64.6599871,
-            18.2685426
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "VG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
-        "name": "British Virgin Islands"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -64.6401383,
-            18.1063419
-          ],
-          [
-            -64.6599871,
-            18.2685426
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "VG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
-        "name": "British Virgin Islands"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -64.9559611,
-            18.6114349
-          ],
-          [
-            -64.8847059,
-            18.6457691
-          ],
-          [
-            -64.6945661,
-            18.6586531
-          ],
-          [
-            -64.6194515,
-            18.6874452
-          ],
-          [
-            -64.6274838,
-            18.7475594
-          ],
-          [
-            -64.6029312,
-            18.8353949
-          ],
-          [
-            -64.5371218,
-            18.9079373
-          ],
-          [
-            -64.4654829,
-            18.9404601
-          ],
-          [
-            -64.3333643,
-            18.9503802
-          ],
-          [
-            -64.2411255,
-            18.93186
-          ],
-          [
-            -64.1536175,
-            18.8796417
-          ],
-          [
-            -64.081643,
-            18.789174
-          ],
-          [
-            -64.0616667,
-            18.7222057
-          ],
-          [
-            -64.0633606,
-            18.6572895
-          ],
-          [
-            -64.1166875,
-            18.555337
-          ],
-          [
-            -64.1158901,
-            18.4544453
-          ],
-          [
-            -64.1636153,
-            18.3690964
-          ],
-          [
-            -64.259591,
-            18.3067428
-          ],
-          [
-            -64.3477401,
-            18.2206508
-          ],
-          [
-            -64.4578502,
-            18.155457
-          ],
-          [
-            -64.5776577,
-            18.1096277
-          ],
-          [
-            -64.6401383,
-            18.1063419
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "VG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
-        "name": "British Virgin Islands"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -64.8972222,
-            18.4894444
-          ],
-          [
-            -64.9559611,
-            18.6114349
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "VG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
-        "name": "British Virgin Islands"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -64.8901832,
-            18.4627971
-          ],
-          [
-            -64.8972222,
-            18.4894444
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "VG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
-        "name": "British Virgin Islands"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -64.8437761,
-            18.3941135
-          ],
-          [
-            -64.8719444,
-            18.4086111
-          ],
-          [
-            -64.8901832,
-            18.4627971
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "VG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
-        "name": "British Virgin Islands"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -64.7558333,
-            18.3772222
-          ],
-          [
-            -64.7991667,
-            18.4080556
-          ],
-          [
-            -64.8437761,
-            18.3941135
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "VG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
-        "name": "British Virgin Islands"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -64.6708333,
-            18.3661111
-          ],
-          [
-            -64.7558333,
-            18.3772222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "VG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg",
-        "name": "British Virgin Islands"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -64.6612682,
-            18.2798482
-          ],
-          [
-            -64.6369444,
-            18.3211111
-          ],
-          [
-            -64.6377778,
-            18.3561111
-          ],
-          [
-            -64.6708333,
-            18.3661111
-          ]
-        ]
+        "name": "British Virgin Islands",
+        "id": "VG"
       }
     }
   ]

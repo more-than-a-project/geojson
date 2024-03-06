@@ -3,632 +3,287 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.443401,
+              42.571923
+            ],
+            [
+              1.413578,
+              42.535378
+            ],
+            [
+              1.413578,
+              42.535378
+            ],
+            [
+              1.450724,
+              42.540077
+            ],
+            [
+              1.4684,
+              42.509996
+            ],
+            [
+              1.4684,
+              42.509996
+            ],
+            [
+              1.460331,
+              42.504474
+            ],
+            [
+              1.460331,
+              42.504474
+            ],
+            [
+              1.431647,
+              42.493765
+            ],
+            [
+              1.431647,
+              42.493765
+            ],
+            [
+              1.420761,
+              42.492599
+            ],
+            [
+              1.420761,
+              42.492599
+            ],
+            [
+              1.408608,
+              42.484341
+            ],
+            [
+              1.44103,
+              42.47548
+            ],
+            [
+              1.444333,
+              42.441113
+            ],
+            [
+              1.472715,
+              42.435351
+            ],
+            [
+              1.472715,
+              42.435351
+            ],
+            [
+              1.472868,
+              42.43524
+            ],
+            [
+              1.472868,
+              42.43524
+            ],
+            [
+              1.522988,
+              42.431095
+            ],
+            [
+              1.522988,
+              42.431095
+            ],
+            [
+              1.552631,
+              42.433457
+            ],
+            [
+              1.561141,
+              42.458656
+            ],
+            [
+              1.561141,
+              42.458656
+            ],
+            [
+              1.5812,
+              42.450195
+            ],
+            [
+              1.5812,
+              42.450195
+            ],
+            [
+              1.597611,
+              42.467619
+            ],
+            [
+              1.657026,
+              42.46845
+            ],
+            [
+              1.662765,
+              42.492004
+            ],
+            [
+              1.662765,
+              42.492004
+            ],
+            [
+              1.725891,
+              42.502699
+            ],
+            [
+              1.725891,
+              42.502699
+            ],
+            [
+              1.7244,
+              42.517581
+            ],
+            [
+              1.7244,
+              42.517581
+            ],
+            [
+              1.727588,
+              42.518672
+            ],
+            [
+              1.727588,
+              42.518672
+            ],
+            [
+              1.739072,
+              42.555504
+            ],
+            [
+              1.739072,
+              42.555504
+            ],
+            [
+              1.769629,
+              42.564843
+            ],
+            [
+              1.769629,
+              42.564843
+            ],
+            [
+              1.786664,
+              42.574183
+            ],
+            [
+              1.786664,
+              42.574183
+            ],
+            [
+              1.727654,
+              42.588269
+            ],
+            [
+              1.727654,
+              42.588269
+            ],
+            [
+              1.738409,
+              42.61171
+            ],
+            [
+              1.738409,
+              42.61171
+            ],
+            [
+              1.73608,
+              42.617838
+            ],
+            [
+              1.73608,
+              42.617838
+            ],
+            [
+              1.602522,
+              42.625542
+            ],
+            [
+              1.602522,
+              42.625542
+            ],
+            [
+              1.580353,
+              42.636829
+            ],
+            [
+              1.580353,
+              42.636829
+            ],
+            [
+              1.574794,
+              42.647935
+            ],
+            [
+              1.574794,
+              42.647935
+            ],
+            [
+              1.552627,
+              42.654271
+            ],
+            [
+              1.552627,
+              42.654271
+            ],
+            [
+              1.524017,
+              42.649578
+            ],
+            [
+              1.524017,
+              42.649578
+            ],
+            [
+              1.493759,
+              42.653489
+            ],
+            [
+              1.493759,
+              42.653489
+            ],
+            [
+              1.470035,
+              42.636075
+            ],
+            [
+              1.468975,
+              42.606463
+            ],
+            [
+              1.468975,
+              42.606463
+            ],
+            [
+              1.441991,
+              42.603723
+            ],
+            [
+              1.441991,
+              42.603723
+            ],
+            [
+              1.426605,
+              42.583344
+            ],
+            [
+              1.443401,
+              42.571923
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "AD",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.4419909,
-            42.6037228
-          ],
-          [
-            1.4266051,
-            42.5833438
-          ],
-          [
-            1.4434009,
-            42.5719235
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.4434009,
-            42.5719235
-          ],
-          [
-            1.4135781,
-            42.5353776
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.4135781,
-            42.5353776
-          ],
-          [
-            1.450724,
-            42.540077
-          ],
-          [
-            1.4683999,
-            42.509996
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.4683999,
-            42.509996
-          ],
-          [
-            1.4603314,
-            42.5044741
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.4603314,
-            42.5044741
-          ],
-          [
-            1.431647,
-            42.4937647
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.431647,
-            42.4937647
-          ],
-          [
-            1.4077997,
-            42.486294
-          ],
-          [
-            1.4410304,
-            42.4754801
-          ],
-          [
-            1.4443332,
-            42.4411125
-          ],
-          [
-            1.4727151,
-            42.4353506
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.4727151,
-            42.4353506
-          ],
-          [
-            1.472868,
-            42.4352396
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.472868,
-            42.4352396
-          ],
-          [
-            1.5510875,
-            42.4326182
-          ],
-          [
-            1.5611409,
-            42.4586557
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.5611409,
-            42.4586557
-          ],
-          [
-            1.5811997,
-            42.450195
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.5811997,
-            42.450195
-          ],
-          [
-            1.5976114,
-            42.4676186
-          ],
-          [
-            1.6570261,
-            42.46845
-          ],
-          [
-            1.6627648,
-            42.4920035
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.6627648,
-            42.4920035
-          ],
-          [
-            1.725891,
-            42.5026989
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.7243998,
-            42.5175812
-          ],
-          [
-            1.725891,
-            42.5026989
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.7275879,
-            42.5186721
-          ],
-          [
-            1.7243998,
-            42.5175812
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.7390717,
-            42.5555043
-          ],
-          [
-            1.7275879,
-            42.5186721
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.7696286,
-            42.5648431
-          ],
-          [
-            1.7390717,
-            42.5555043
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.786664,
-            42.5741828
-          ],
-          [
-            1.7696286,
-            42.5648431
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.7276538,
-            42.5882686
-          ],
-          [
-            1.786664,
-            42.5741828
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.7384087,
-            42.6117099
-          ],
-          [
-            1.7276538,
-            42.5882686
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.73608,
-            42.6178377
-          ],
-          [
-            1.7384087,
-            42.6117099
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.6025216,
-            42.6255422
-          ],
-          [
-            1.73608,
-            42.6178377
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.5803532,
-            42.6368285
-          ],
-          [
-            1.6025216,
-            42.6255422
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.5747943,
-            42.6479347
-          ],
-          [
-            1.5803532,
-            42.6368285
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.5526267,
-            42.654271
-          ],
-          [
-            1.5747943,
-            42.6479347
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.5240173,
-            42.6495779
-          ],
-          [
-            1.5526267,
-            42.654271
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.4937589,
-            42.6534892
-          ],
-          [
-            1.5240173,
-            42.6495779
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.4689753,
-            42.606463
-          ],
-          [
-            1.4700352,
-            42.636075
-          ],
-          [
-            1.4937589,
-            42.6534892
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "AD",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
-        "name": "Andorra"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.4419909,
-            42.6037228
-          ],
-          [
-            1.4689753,
-            42.606463
-          ]
-        ]
+        "name": "Andorra",
+        "id": "AD"
       }
     }
   ]

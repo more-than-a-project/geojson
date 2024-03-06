@@ -3,2742 +3,1163 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.5508549,
-            9.5885565
-          ],
-          [
-            -82.4971569,
-            9.6477956
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.5651122,
-            9.5715388
-          ],
-          [
-            -82.5508549,
-            9.5885565
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.5991346,
-            9.5598679
-          ],
-          [
-            -82.5574363,
-            9.5388972
-          ],
-          [
-            -82.5651122,
-            9.5715388
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.6659868,
-            9.494893
-          ],
-          [
-            -82.6546191,
-            9.5111504
-          ],
-          [
-            -82.6390562,
-            9.4936437
-          ],
-          [
-            -82.6058383,
-            9.5042645
-          ],
-          [
-            -82.5991346,
-            9.5598679
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.6765192,
-            9.508759
-          ],
-          [
-            -82.6659868,
-            9.494893
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.7028265,
-            9.5283454
-          ],
-          [
-            -82.6765192,
-            9.508759
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.7035204,
-            9.5344547
-          ],
-          [
-            -82.6980015,
-            9.5467746
-          ],
-          [
-            -82.6883498,
-            9.5333757
-          ],
-          [
-            -82.7028265,
-            9.5283454
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.7200036,
-            9.5604311
-          ],
-          [
-            -82.7035204,
-            9.5344547
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.7424178,
-            9.5745167
-          ],
-          [
-            -82.7200036,
-            9.5604311
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.7709343,
-            9.5825134
-          ],
-          [
-            -82.7453274,
-            9.590971
-          ],
-          [
-            -82.7424178,
-            9.5745167
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.7878949,
-            9.5954956
-          ],
-          [
-            -82.7709343,
-            9.5825134
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.7888738,
-            9.5963307
-          ],
-          [
-            -82.7878949,
-            9.5954956
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.869735,
-            9.5934197
-          ],
-          [
-            -82.850527,
-            9.6220898
-          ],
-          [
-            -82.7888738,
-            9.5963307
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8839503,
-            9.5638776
-          ],
-          [
-            -82.869735,
-            9.5934197
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8444566,
-            9.5000154
-          ],
-          [
-            -82.8723297,
-            9.524588
-          ],
-          [
-            -82.8682011,
-            9.5537409
-          ],
-          [
-            -82.8839503,
-            9.5638776
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8625378,
-            9.4920514
-          ],
-          [
-            -82.8444566,
-            9.5000154
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9431286,
-            9.4720857
-          ],
-          [
-            -82.8625378,
-            9.4920514
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9430474,
-            9.4360877
-          ],
-          [
-            -82.9431286,
-            9.4720857
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9429833,
-            9.4156394
-          ],
-          [
-            -82.9430474,
-            9.4360877
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9409765,
-            9.3821538
-          ],
-          [
-            -82.9429833,
-            9.4156394
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9401826,
-            9.3036955
-          ],
-          [
-            -82.9409765,
-            9.3821538
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.936106,
-            9.1602444
-          ],
-          [
-            -82.9401826,
-            9.3036955
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9345038,
-            9.0839588
-          ],
-          [
-            -82.936106,
-            9.1602444
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9079754,
-            9.0827403
-          ],
-          [
-            -82.9345038,
-            9.0839588
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8784125,
-            9.0640952
-          ],
-          [
-            -82.8871185,
-            9.0879039
-          ],
-          [
-            -82.9079754,
-            9.0827403
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8151572,
-            9.0247736
-          ],
-          [
-            -82.8784125,
-            9.0640952
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.765696,
-            8.9973272
-          ],
-          [
-            -82.801389,
-            9.003611
-          ],
-          [
-            -82.8151572,
-            9.0247736
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.7593295,
-            8.9959751
-          ],
-          [
-            -82.765696,
-            8.9973272
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.7159356,
-            8.9419418
-          ],
-          [
-            -82.7593295,
-            8.9959751
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.7118974,
-            8.9222593
-          ],
-          [
-            -82.7159356,
-            8.9419418
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.7482091,
-            8.9016075
-          ],
-          [
-            -82.7118974,
-            8.9222593
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.7544862,
-            8.8919457
-          ],
-          [
-            -82.7482091,
-            8.9016075
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8925428,
-            8.771842
-          ],
-          [
-            -82.862933,
-            8.8140259
-          ],
-          [
-            -82.8840648,
-            8.823464
-          ],
-          [
-            -82.8677055,
-            8.8471309
-          ],
-          [
-            -82.7544862,
-            8.8919457
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9145433,
-            8.7696577
-          ],
-          [
-            -82.8925428,
-            8.771842
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9165394,
-            8.7442358
-          ],
-          [
-            -82.9145433,
-            8.7696577
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9032631,
-            8.7340096
-          ],
-          [
-            -82.9165394,
-            8.7442358
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.863845,
-            8.6835596
-          ],
-          [
-            -82.9032631,
-            8.7340096
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8587344,
-            8.6746907
-          ],
-          [
-            -82.863845,
-            8.6835596
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8331871,
-            8.637806
-          ],
-          [
-            -82.8587344,
-            8.6746907
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8300065,
-            8.6359948
-          ],
-          [
-            -82.8331871,
-            8.637806
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8311364,
-            8.5955222
-          ],
-          [
-            -82.8300065,
-            8.6359948
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8344626,
-            8.5540266
-          ],
-          [
-            -82.8221814,
-            8.567098
-          ],
-          [
-            -82.8311364,
-            8.5955222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8340824,
-            8.5078814
-          ],
-          [
-            -82.8344626,
-            8.5540266
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8318434,
-            8.504387
-          ],
-          [
-            -82.8340824,
-            8.5078814
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.839477,
-            8.4801916
-          ],
-          [
-            -82.8318434,
-            8.504387
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8453642,
-            8.4719382
-          ],
-          [
-            -82.839477,
-            8.4801916
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8737179,
-            8.4383737
-          ],
-          [
-            -82.8453642,
-            8.4719382
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9309222,
-            8.4350043
-          ],
-          [
-            -82.8737179,
-            8.4383737
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9591036,
-            8.4048733
-          ],
-          [
-            -82.9309222,
-            8.4350043
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9948622,
-            8.3692763
-          ],
-          [
-            -82.9591036,
-            8.4048733
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -83.0044616,
-            8.3607948
-          ],
-          [
-            -82.9948622,
-            8.3692763
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -83.0476439,
-            8.3420115
-          ],
-          [
-            -83.0044616,
-            8.3607948
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -83.046672,
-            8.3369313
-          ],
-          [
-            -83.0476439,
-            8.3420115
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -83.0458459,
-            8.3178637
-          ],
-          [
-            -83.046672,
-            8.3369313
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9975677,
-            8.2853481
-          ],
-          [
-            -83.0458459,
-            8.3178637
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9922714,
-            8.2760681
-          ],
-          [
-            -82.9975677,
-            8.2853481
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9567739,
-            8.2805411
-          ],
-          [
-            -82.9749497,
-            8.2893287
-          ],
-          [
-            -82.9922714,
-            8.2760681
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9524728,
-            8.2710568
-          ],
-          [
-            -82.9567739,
-            8.2805411
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9485469,
-            8.2689204
-          ],
-          [
-            -82.9524728,
-            8.2710568
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9332897,
-            8.2254107
-          ],
-          [
-            -82.9280272,
-            8.2428724
-          ],
-          [
-            -82.9485469,
-            8.2689204
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9168853,
-            8.1944089
-          ],
-          [
-            -82.9332897,
-            8.2254107
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9030665,
-            8.1758406
-          ],
-          [
-            -82.9168853,
-            8.1944089
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.909477,
-            8.1683482
-          ],
-          [
-            -82.9030665,
-            8.1758406
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8970047,
-            8.1233647
-          ],
-          [
-            -82.909477,
-            8.1683482
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8873801,
-            8.0772401
-          ],
-          [
-            -82.8970047,
-            8.1233647
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.8940056,
-            8.0492509
-          ],
-          [
-            -82.8873801,
-            8.0772401
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.903517,
-            8.0405215
-          ],
-          [
-            -82.8940056,
-            8.0492509
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.9817233,
-            7.8538819
-          ],
-          [
-            -82.903517,
-            8.0405215
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.4999642,
-            7.4227721
-          ],
-          [
-            -82.9817233,
-            7.8538819
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.166066,
-            7.1878844
-          ],
-          [
-            -82.4999642,
-            7.4227721
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.6002483,
-            7.0037602
-          ],
-          [
-            -81.8232843,
-            7.0056664
-          ],
-          [
-            -81.8940951,
-            7.0279887
-          ],
-          [
-            -82.166066,
-            7.1878844
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.2240108,
-            7.0109413
-          ],
-          [
-            -80.6002483,
-            7.0037602
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.0645871,
-            7.0169909
-          ],
-          [
-            -79.2240108,
-            7.0109413
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -78.0364058,
-            7.0509361
-          ],
-          [
-            -78.0645871,
-            7.0169909
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.8934597,
-            7.2223219
-          ],
-          [
-            -78.0364058,
-            7.0509361
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.8934597,
-            7.2223219
-          ],
-          [
-            -77.8529278,
-            7.3528438
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.8529278,
-            7.3528438
-          ],
-          [
-            -77.8181846,
-            7.4724812
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.8181846,
-            7.4724812
-          ],
-          [
-            -77.7543894,
-            7.4614791
-          ],
-          [
-            -77.7152609,
-            7.4944151
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.7152609,
-            7.4944151
-          ],
-          [
-            -77.7091506,
-            7.5013999
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.7091506,
-            7.5013999
-          ],
-          [
-            -77.7028483,
-            7.5194945
-          ],
-          [
-            -77.7486601,
-            7.6143245
-          ],
-          [
-            -77.7273389,
-            7.7015502
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.7273389,
-            7.7015502
-          ],
-          [
-            -77.6907367,
-            7.6925699
-          ],
-          [
-            -77.645202,
-            7.651469
-          ],
-          [
-            -77.6122791,
-            7.5416626
-          ],
-          [
-            -77.5629294,
-            7.5087503
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.5629294,
-            7.5087503
-          ],
-          [
-            -77.5335989,
-            7.5434773
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.5335989,
-            7.5434773
-          ],
-          [
-            -77.5156507,
-            7.5832778
-          ],
-          [
-            -77.4911392,
-            7.5677229
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.4911392,
-            7.5677229
-          ],
-          [
-            -77.4688271,
-            7.629866
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.4688271,
-            7.629866
-          ],
-          [
-            -77.4656861,
-            7.6627409
-          ],
-          [
-            -77.4404114,
-            7.6584167
-          ],
-          [
-            -77.3974031,
-            7.7331136
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.3738152,
-            7.7700776
-          ],
-          [
-            -77.3974031,
-            7.7331136
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.3738152,
-            7.7700776
-          ],
-          [
-            -77.3393683,
-            7.7660598
-          ],
-          [
-            -77.3686186,
-            7.8283389
-          ],
-          [
-            -77.3453495,
-            7.8496584
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.3453495,
-            7.8496584
-          ],
-          [
-            -77.3247697,
-            7.8958364
-          ],
-          [
-            -77.2950327,
-            7.9108282
-          ],
-          [
-            -77.1686139,
-            7.9214671
-          ],
-          [
-            -77.1585983,
-            7.9327155
-          ],
-          [
-            -77.1797284,
-            7.955927
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.1797284,
-            7.955927
-          ],
-          [
-            -77.1622576,
-            7.9695487
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.1622576,
-            7.9695487
-          ],
-          [
-            -77.1705269,
-            7.9764824
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.1705269,
-            7.9764824
-          ],
-          [
-            -77.2351676,
-            8.0255753
-          ],
-          [
-            -77.2190388,
-            8.0372377
-          ],
-          [
-            -77.2305512,
-            8.0676647
-          ],
-          [
-            -77.2179686,
-            8.0851588
-          ],
-          [
-            -77.239179,
-            8.1447793
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.239179,
-            8.1447793
-          ],
-          [
-            -77.2580006,
-            8.1580802
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.2580006,
-            8.1580802
-          ],
-          [
-            -77.2513325,
-            8.1872188
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.2513325,
-            8.1872188
-          ],
-          [
-            -77.2800525,
-            8.223907
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.2800525,
-            8.223907
-          ],
-          [
-            -77.2846724,
-            8.2334801
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.2846724,
-            8.2334801
-          ],
-          [
-            -77.2869011,
-            8.2364466
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.2869011,
-            8.2364466
-          ],
-          [
-            -77.28816,
-            8.2395347
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.28816,
-            8.2395347
-          ],
-          [
-            -77.300177,
-            8.2716855
-          ],
-          [
-            -77.3283953,
-            8.2660915
-          ],
-          [
-            -77.3388117,
-            8.2873774
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.3388117,
-            8.2873774
-          ],
-          [
-            -77.3557551,
-            8.317376
-          ],
-          [
-            -77.3496391,
-            8.3472278
-          ],
-          [
-            -77.3663251,
-            8.3539348
-          ],
-          [
-            -77.3588843,
-            8.4021263
-          ],
-          [
-            -77.3982652,
-            8.462678
-          ],
-          [
-            -77.4477007,
-            8.4721697
-          ],
-          [
-            -77.4473975,
-            8.4887872
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.4473975,
-            8.4887872
-          ],
-          [
-            -77.4469249,
-            8.5137163
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.4469249,
-            8.5137163
-          ],
-          [
-            -77.4372897,
-            8.5406093
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.4372897,
-            8.5406093
-          ],
-          [
-            -77.4406255,
-            8.5559419
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.4406255,
-            8.5559419
-          ],
-          [
-            -77.4101322,
-            8.5660636
-          ],
-          [
-            -77.4182841,
-            8.5882913
-          ],
-          [
-            -77.3903658,
-            8.5847591
-          ],
-          [
-            -77.4100654,
-            8.6405977
-          ],
-          [
-            -77.3955261,
-            8.6512008
-          ],
-          [
-            -77.3648367,
-            8.6413335
-          ],
-          [
-            -77.3682728,
-            8.6767583
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.3682728,
-            8.6767583
-          ],
-          [
-            -77.3683121,
-            8.6773722
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.3683122,
-            8.6773725
-          ],
-          [
-            -77.3683121,
-            8.6773722
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.3683122,
-            8.6773725
-          ],
-          [
-            -77.3682168,
-            8.677666
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.3682168,
-            8.677666
-          ],
-          [
-            -77.2998825,
-            8.8878762
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -79.0931487,
-            9.8195729
-          ],
-          [
-            -78.6089347,
-            9.7836874
-          ],
-          [
-            -78.0788754,
-            9.5138018
-          ],
-          [
-            -77.6443284,
-            9.2153705
-          ],
-          [
-            -77.2998825,
-            8.8878762
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -80.965424,
-            9.4801222
-          ],
-          [
-            -79.671286,
-            9.8405035
-          ],
-          [
-            -79.5574577,
-            9.846818
-          ],
-          [
-            -79.0931487,
-            9.8195729
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -81.3186578,
-            9.3337717
-          ],
-          [
-            -80.965424,
-            9.4801222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -81.3411163,
-            9.3323749
-          ],
-          [
-            -81.3186578,
-            9.3337717
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.4298986,
-            9.7219791
-          ],
-          [
-            -81.3411163,
-            9.3323749
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.4298986,
-            9.7219791
-          ],
-          [
-            -82.4299043,
-            9.7219732
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "PA",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
-        "name": "Panam\u00e1"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -82.4299043,
-            9.7219732
-          ],
-          [
-            -82.4971569,
-            9.6477956
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.497157,
+              9.647796
+            ],
+            [
+              -82.429904,
+              9.721973
+            ],
+            [
+              -82.429904,
+              9.721973
+            ],
+            [
+              -82.429899,
+              9.721979
+            ],
+            [
+              -82.429899,
+              9.721979
+            ],
+            [
+              -81.341116,
+              9.332375
+            ],
+            [
+              -81.341116,
+              9.332375
+            ],
+            [
+              -81.318658,
+              9.333772
+            ],
+            [
+              -81.318658,
+              9.333772
+            ],
+            [
+              -80.965424,
+              9.480122
+            ],
+            [
+              -80.965424,
+              9.480122
+            ],
+            [
+              -79.671286,
+              9.840504
+            ],
+            [
+              -79.557458,
+              9.846818
+            ],
+            [
+              -79.093149,
+              9.819573
+            ],
+            [
+              -79.093149,
+              9.819573
+            ],
+            [
+              -78.608935,
+              9.783687
+            ],
+            [
+              -78.078875,
+              9.513802
+            ],
+            [
+              -77.644328,
+              9.215371
+            ],
+            [
+              -77.299882,
+              8.887876
+            ],
+            [
+              -77.299882,
+              8.887876
+            ],
+            [
+              -77.368217,
+              8.677666
+            ],
+            [
+              -77.368217,
+              8.677666
+            ],
+            [
+              -77.368312,
+              8.677373
+            ],
+            [
+              -77.368312,
+              8.677373
+            ],
+            [
+              -77.368312,
+              8.677372
+            ],
+            [
+              -77.368312,
+              8.677372
+            ],
+            [
+              -77.368273,
+              8.676758
+            ],
+            [
+              -77.368273,
+              8.676758
+            ],
+            [
+              -77.364837,
+              8.641334
+            ],
+            [
+              -77.395526,
+              8.651201
+            ],
+            [
+              -77.410065,
+              8.640598
+            ],
+            [
+              -77.390366,
+              8.584759
+            ],
+            [
+              -77.418284,
+              8.588291
+            ],
+            [
+              -77.410132,
+              8.566064
+            ],
+            [
+              -77.440625,
+              8.555942
+            ],
+            [
+              -77.440625,
+              8.555942
+            ],
+            [
+              -77.43729,
+              8.540609
+            ],
+            [
+              -77.43729,
+              8.540609
+            ],
+            [
+              -77.446925,
+              8.513716
+            ],
+            [
+              -77.446925,
+              8.513716
+            ],
+            [
+              -77.447397,
+              8.488787
+            ],
+            [
+              -77.447397,
+              8.488787
+            ],
+            [
+              -77.447701,
+              8.47217
+            ],
+            [
+              -77.398265,
+              8.462678
+            ],
+            [
+              -77.358884,
+              8.402126
+            ],
+            [
+              -77.366325,
+              8.353935
+            ],
+            [
+              -77.349639,
+              8.347228
+            ],
+            [
+              -77.355755,
+              8.317376
+            ],
+            [
+              -77.338812,
+              8.287377
+            ],
+            [
+              -77.338812,
+              8.287377
+            ],
+            [
+              -77.328395,
+              8.266091
+            ],
+            [
+              -77.300177,
+              8.271686
+            ],
+            [
+              -77.28816,
+              8.239535
+            ],
+            [
+              -77.28816,
+              8.239535
+            ],
+            [
+              -77.286901,
+              8.236447
+            ],
+            [
+              -77.286901,
+              8.236447
+            ],
+            [
+              -77.284672,
+              8.23348
+            ],
+            [
+              -77.284672,
+              8.23348
+            ],
+            [
+              -77.280052,
+              8.223907
+            ],
+            [
+              -77.280052,
+              8.223907
+            ],
+            [
+              -77.251333,
+              8.187219
+            ],
+            [
+              -77.251333,
+              8.187219
+            ],
+            [
+              -77.258001,
+              8.15808
+            ],
+            [
+              -77.258001,
+              8.15808
+            ],
+            [
+              -77.239179,
+              8.144779
+            ],
+            [
+              -77.239179,
+              8.144779
+            ],
+            [
+              -77.217969,
+              8.085159
+            ],
+            [
+              -77.230551,
+              8.067665
+            ],
+            [
+              -77.219039,
+              8.037238
+            ],
+            [
+              -77.235168,
+              8.025575
+            ],
+            [
+              -77.170527,
+              7.976482
+            ],
+            [
+              -77.170527,
+              7.976482
+            ],
+            [
+              -77.162258,
+              7.969549
+            ],
+            [
+              -77.162258,
+              7.969549
+            ],
+            [
+              -77.179728,
+              7.955927
+            ],
+            [
+              -77.179728,
+              7.955927
+            ],
+            [
+              -77.158598,
+              7.932715
+            ],
+            [
+              -77.168614,
+              7.921467
+            ],
+            [
+              -77.295033,
+              7.910828
+            ],
+            [
+              -77.32477,
+              7.895836
+            ],
+            [
+              -77.345349,
+              7.849658
+            ],
+            [
+              -77.345349,
+              7.849658
+            ],
+            [
+              -77.368619,
+              7.828339
+            ],
+            [
+              -77.339368,
+              7.76606
+            ],
+            [
+              -77.373815,
+              7.770078
+            ],
+            [
+              -77.373815,
+              7.770078
+            ],
+            [
+              -77.397403,
+              7.733114
+            ],
+            [
+              -77.397403,
+              7.733114
+            ],
+            [
+              -77.440411,
+              7.658417
+            ],
+            [
+              -77.465686,
+              7.662741
+            ],
+            [
+              -77.468827,
+              7.629866
+            ],
+            [
+              -77.468827,
+              7.629866
+            ],
+            [
+              -77.491139,
+              7.567723
+            ],
+            [
+              -77.491139,
+              7.567723
+            ],
+            [
+              -77.515651,
+              7.583278
+            ],
+            [
+              -77.533599,
+              7.543477
+            ],
+            [
+              -77.533599,
+              7.543477
+            ],
+            [
+              -77.562929,
+              7.50875
+            ],
+            [
+              -77.562929,
+              7.50875
+            ],
+            [
+              -77.612279,
+              7.541663
+            ],
+            [
+              -77.645202,
+              7.651469
+            ],
+            [
+              -77.690737,
+              7.69257
+            ],
+            [
+              -77.727339,
+              7.70155
+            ],
+            [
+              -77.727339,
+              7.70155
+            ],
+            [
+              -77.74866,
+              7.614325
+            ],
+            [
+              -77.702848,
+              7.519495
+            ],
+            [
+              -77.709151,
+              7.5014
+            ],
+            [
+              -77.709151,
+              7.5014
+            ],
+            [
+              -77.715261,
+              7.494415
+            ],
+            [
+              -77.715261,
+              7.494415
+            ],
+            [
+              -77.754389,
+              7.461479
+            ],
+            [
+              -77.818185,
+              7.472481
+            ],
+            [
+              -77.818185,
+              7.472481
+            ],
+            [
+              -77.852928,
+              7.352844
+            ],
+            [
+              -77.852928,
+              7.352844
+            ],
+            [
+              -77.89346,
+              7.222322
+            ],
+            [
+              -77.89346,
+              7.222322
+            ],
+            [
+              -78.036406,
+              7.050936
+            ],
+            [
+              -78.036406,
+              7.050936
+            ],
+            [
+              -78.064587,
+              7.016991
+            ],
+            [
+              -78.064587,
+              7.016991
+            ],
+            [
+              -79.224011,
+              7.010941
+            ],
+            [
+              -79.224011,
+              7.010941
+            ],
+            [
+              -80.600248,
+              7.00376
+            ],
+            [
+              -80.600248,
+              7.00376
+            ],
+            [
+              -81.823284,
+              7.005666
+            ],
+            [
+              -81.894095,
+              7.027989
+            ],
+            [
+              -82.166066,
+              7.187884
+            ],
+            [
+              -82.166066,
+              7.187884
+            ],
+            [
+              -82.499964,
+              7.422772
+            ],
+            [
+              -82.499964,
+              7.422772
+            ],
+            [
+              -82.981723,
+              7.853882
+            ],
+            [
+              -82.981723,
+              7.853882
+            ],
+            [
+              -82.903517,
+              8.040522
+            ],
+            [
+              -82.903517,
+              8.040522
+            ],
+            [
+              -82.894006,
+              8.049251
+            ],
+            [
+              -82.894006,
+              8.049251
+            ],
+            [
+              -82.88738,
+              8.07724
+            ],
+            [
+              -82.88738,
+              8.07724
+            ],
+            [
+              -82.897005,
+              8.123365
+            ],
+            [
+              -82.897005,
+              8.123365
+            ],
+            [
+              -82.909477,
+              8.168348
+            ],
+            [
+              -82.909477,
+              8.168348
+            ],
+            [
+              -82.903066,
+              8.175841
+            ],
+            [
+              -82.903066,
+              8.175841
+            ],
+            [
+              -82.916885,
+              8.194409
+            ],
+            [
+              -82.916885,
+              8.194409
+            ],
+            [
+              -82.93329,
+              8.225411
+            ],
+            [
+              -82.93329,
+              8.225411
+            ],
+            [
+              -82.928027,
+              8.242872
+            ],
+            [
+              -82.948547,
+              8.26892
+            ],
+            [
+              -82.948547,
+              8.26892
+            ],
+            [
+              -82.952473,
+              8.271057
+            ],
+            [
+              -82.952473,
+              8.271057
+            ],
+            [
+              -82.956774,
+              8.280541
+            ],
+            [
+              -82.956774,
+              8.280541
+            ],
+            [
+              -82.97495,
+              8.289329
+            ],
+            [
+              -82.992271,
+              8.276068
+            ],
+            [
+              -82.992271,
+              8.276068
+            ],
+            [
+              -82.997568,
+              8.285348
+            ],
+            [
+              -82.997568,
+              8.285348
+            ],
+            [
+              -83.045846,
+              8.317864
+            ],
+            [
+              -83.045846,
+              8.317864
+            ],
+            [
+              -83.046672,
+              8.336931
+            ],
+            [
+              -83.046672,
+              8.336931
+            ],
+            [
+              -83.047644,
+              8.342011
+            ],
+            [
+              -83.047644,
+              8.342011
+            ],
+            [
+              -83.004462,
+              8.360795
+            ],
+            [
+              -83.004462,
+              8.360795
+            ],
+            [
+              -82.994862,
+              8.369276
+            ],
+            [
+              -82.994862,
+              8.369276
+            ],
+            [
+              -82.959104,
+              8.404873
+            ],
+            [
+              -82.959104,
+              8.404873
+            ],
+            [
+              -82.930922,
+              8.435004
+            ],
+            [
+              -82.930922,
+              8.435004
+            ],
+            [
+              -82.873718,
+              8.438374
+            ],
+            [
+              -82.873718,
+              8.438374
+            ],
+            [
+              -82.845364,
+              8.471938
+            ],
+            [
+              -82.845364,
+              8.471938
+            ],
+            [
+              -82.839477,
+              8.480192
+            ],
+            [
+              -82.839477,
+              8.480192
+            ],
+            [
+              -82.831843,
+              8.504387
+            ],
+            [
+              -82.831843,
+              8.504387
+            ],
+            [
+              -82.834082,
+              8.507881
+            ],
+            [
+              -82.834082,
+              8.507881
+            ],
+            [
+              -82.834463,
+              8.554027
+            ],
+            [
+              -82.834463,
+              8.554027
+            ],
+            [
+              -82.822181,
+              8.567098
+            ],
+            [
+              -82.831136,
+              8.595522
+            ],
+            [
+              -82.831136,
+              8.595522
+            ],
+            [
+              -82.830006,
+              8.635995
+            ],
+            [
+              -82.830006,
+              8.635995
+            ],
+            [
+              -82.833187,
+              8.637806
+            ],
+            [
+              -82.833187,
+              8.637806
+            ],
+            [
+              -82.858734,
+              8.674691
+            ],
+            [
+              -82.858734,
+              8.674691
+            ],
+            [
+              -82.863845,
+              8.68356
+            ],
+            [
+              -82.863845,
+              8.68356
+            ],
+            [
+              -82.903263,
+              8.73401
+            ],
+            [
+              -82.903263,
+              8.73401
+            ],
+            [
+              -82.916539,
+              8.744236
+            ],
+            [
+              -82.916539,
+              8.744236
+            ],
+            [
+              -82.914543,
+              8.769658
+            ],
+            [
+              -82.914543,
+              8.769658
+            ],
+            [
+              -82.892543,
+              8.771842
+            ],
+            [
+              -82.892543,
+              8.771842
+            ],
+            [
+              -82.862933,
+              8.814026
+            ],
+            [
+              -82.884065,
+              8.823464
+            ],
+            [
+              -82.867705,
+              8.847131
+            ],
+            [
+              -82.754486,
+              8.891946
+            ],
+            [
+              -82.754486,
+              8.891946
+            ],
+            [
+              -82.748209,
+              8.901608
+            ],
+            [
+              -82.748209,
+              8.901608
+            ],
+            [
+              -82.711897,
+              8.922259
+            ],
+            [
+              -82.711897,
+              8.922259
+            ],
+            [
+              -82.715936,
+              8.941942
+            ],
+            [
+              -82.715936,
+              8.941942
+            ],
+            [
+              -82.75933,
+              8.995975
+            ],
+            [
+              -82.75933,
+              8.995975
+            ],
+            [
+              -82.765696,
+              8.997327
+            ],
+            [
+              -82.765696,
+              8.997327
+            ],
+            [
+              -82.801389,
+              9.003611
+            ],
+            [
+              -82.815157,
+              9.024774
+            ],
+            [
+              -82.815157,
+              9.024774
+            ],
+            [
+              -82.878412,
+              9.064095
+            ],
+            [
+              -82.878412,
+              9.064095
+            ],
+            [
+              -82.887118,
+              9.087904
+            ],
+            [
+              -82.907975,
+              9.08274
+            ],
+            [
+              -82.907975,
+              9.08274
+            ],
+            [
+              -82.934504,
+              9.083959
+            ],
+            [
+              -82.934504,
+              9.083959
+            ],
+            [
+              -82.936106,
+              9.160244
+            ],
+            [
+              -82.936106,
+              9.160244
+            ],
+            [
+              -82.940183,
+              9.303695
+            ],
+            [
+              -82.940183,
+              9.303695
+            ],
+            [
+              -82.940977,
+              9.382154
+            ],
+            [
+              -82.940977,
+              9.382154
+            ],
+            [
+              -82.942983,
+              9.415639
+            ],
+            [
+              -82.942983,
+              9.415639
+            ],
+            [
+              -82.943047,
+              9.436088
+            ],
+            [
+              -82.943047,
+              9.436088
+            ],
+            [
+              -82.943129,
+              9.472086
+            ],
+            [
+              -82.943129,
+              9.472086
+            ],
+            [
+              -82.862538,
+              9.492051
+            ],
+            [
+              -82.862538,
+              9.492051
+            ],
+            [
+              -82.844457,
+              9.500015
+            ],
+            [
+              -82.844457,
+              9.500015
+            ],
+            [
+              -82.87233,
+              9.524588
+            ],
+            [
+              -82.868201,
+              9.553741
+            ],
+            [
+              -82.88395,
+              9.563878
+            ],
+            [
+              -82.88395,
+              9.563878
+            ],
+            [
+              -82.869735,
+              9.59342
+            ],
+            [
+              -82.869735,
+              9.59342
+            ],
+            [
+              -82.850527,
+              9.62209
+            ],
+            [
+              -82.788874,
+              9.596331
+            ],
+            [
+              -82.788874,
+              9.596331
+            ],
+            [
+              -82.787895,
+              9.595496
+            ],
+            [
+              -82.787895,
+              9.595496
+            ],
+            [
+              -82.770934,
+              9.582513
+            ],
+            [
+              -82.770934,
+              9.582513
+            ],
+            [
+              -82.745327,
+              9.590971
+            ],
+            [
+              -82.742418,
+              9.574517
+            ],
+            [
+              -82.742418,
+              9.574517
+            ],
+            [
+              -82.720004,
+              9.560431
+            ],
+            [
+              -82.720004,
+              9.560431
+            ],
+            [
+              -82.70352,
+              9.534455
+            ],
+            [
+              -82.70352,
+              9.534455
+            ],
+            [
+              -82.698002,
+              9.546775
+            ],
+            [
+              -82.68835,
+              9.533376
+            ],
+            [
+              -82.702827,
+              9.528345
+            ],
+            [
+              -82.702827,
+              9.528345
+            ],
+            [
+              -82.676519,
+              9.508759
+            ],
+            [
+              -82.676519,
+              9.508759
+            ],
+            [
+              -82.665987,
+              9.494893
+            ],
+            [
+              -82.665987,
+              9.494893
+            ],
+            [
+              -82.654619,
+              9.51115
+            ],
+            [
+              -82.639056,
+              9.493644
+            ],
+            [
+              -82.605838,
+              9.504264
+            ],
+            [
+              -82.599135,
+              9.559868
+            ],
+            [
+              -82.599135,
+              9.559868
+            ],
+            [
+              -82.557436,
+              9.538897
+            ],
+            [
+              -82.565112,
+              9.571539
+            ],
+            [
+              -82.565112,
+              9.571539
+            ],
+            [
+              -82.550855,
+              9.588556
+            ],
+            [
+              -82.550855,
+              9.588556
+            ],
+            [
+              -82.497157,
+              9.647796
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "PA",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
+        "name": "Panam\u00e1",
+        "id": "PA"
       }
     }
   ]

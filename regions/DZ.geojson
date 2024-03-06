@@ -3,5482 +3,2839 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3176717,
-            35.4152605
-          ],
-          [
-            8.3244948,
-            35.4133897
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3244948,
-            35.4133897
-          ],
-          [
-            8.3167085,
-            35.3370002
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3167085,
-            35.3370002
-          ],
-          [
-            8.3167193,
-            35.3303657
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3167193,
-            35.3303657
-          ],
-          [
-            8.3335957,
-            35.2804499
-          ],
-          [
-            8.4010943,
-            35.2507858
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.4010943,
-            35.2507858
-          ],
-          [
-            8.4765307,
-            35.239755
-          ],
-          [
-            8.4385681,
-            35.1984712
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.4385681,
-            35.1984712
-          ],
-          [
-            8.3998166,
-            35.1279222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3998166,
-            35.1279222
-          ],
-          [
-            8.3923671,
-            35.1216234
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3923671,
-            35.1216234
-          ],
-          [
-            8.343064,
-            35.0719686
-          ],
-          [
-            8.3113047,
-            34.957129
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3113047,
-            34.957129
-          ],
-          [
-            8.3086479,
-            34.9537492
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3086479,
-            34.9537492
-          ],
-          [
-            8.2907911,
-            34.9457762
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.2907911,
-            34.9457762
-          ],
-          [
-            8.245209,
-            34.9210544
-          ],
-          [
-            8.2853006,
-            34.8055689
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.2853006,
-            34.8055689
-          ],
-          [
-            8.2923357,
-            34.7523834
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.2923357,
-            34.7523834
-          ],
-          [
-            8.3242071,
-            34.73281
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3242071,
-            34.73281
-          ],
-          [
-            8.3010446,
-            34.732189
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3010446,
-            34.732189
-          ],
-          [
-            8.2373414,
-            34.6799341
-          ],
-          [
-            8.2808361,
-            34.6548029
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.2808361,
-            34.6548029
-          ],
-          [
-            8.2413371,
-            34.6314836
-          ],
-          [
-            8.2501347,
-            34.6145499
-          ],
-          [
-            8.2110174,
-            34.6035296
-          ],
-          [
-            8.2043441,
-            34.5890456
-          ],
-          [
-            8.2222398,
-            34.578022
-          ],
-          [
-            8.1891219,
-            34.5724153
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.1891219,
-            34.5724153
-          ],
-          [
-            8.1612698,
-            34.5692349
-          ],
-          [
-            8.1666653,
-            34.5526662
-          ],
-          [
-            8.1480848,
-            34.5334487
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.1480848,
-            34.5334487
-          ],
-          [
-            8.137652,
-            34.5323541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.137652,
-            34.5323541
-          ],
-          [
-            8.1156194,
-            34.5123224
-          ],
-          [
-            8.0830585,
-            34.5158009
-          ],
-          [
-            8.0149115,
-            34.465191
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.0149115,
-            34.465191
-          ],
-          [
-            7.9409163,
-            34.4362677
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.9409163,
-            34.4362677
-          ],
-          [
-            7.9225427,
-            34.4157788
-          ],
-          [
-            7.856513,
-            34.405304
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.856513,
-            34.405304
-          ],
-          [
-            7.8451045,
-            34.3290362
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.8451045,
-            34.3290362
-          ],
-          [
-            7.8088157,
-            34.243762
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.8088157,
-            34.243762
-          ],
-          [
-            7.7965696,
-            34.2091904
-          ],
-          [
-            7.7227578,
-            34.1705548
-          ],
-          [
-            7.6515144,
-            34.2008692
-          ],
-          [
-            7.6030026,
-            34.1146564
-          ],
-          [
-            7.5373389,
-            34.0731161
-          ],
-          [
-            7.5345623,
-            34.0525595
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.5345623,
-            34.0525595
-          ],
-          [
-            7.5603873,
-            34.0146165
-          ],
-          [
-            7.5219807,
-            33.9050755
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.5219807,
-            33.9050755
-          ],
-          [
-            7.5462413,
-            33.8365222
-          ],
-          [
-            7.5244707,
-            33.7975738
-          ],
-          [
-            7.5613154,
-            33.7776587
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.5613154,
-            33.7776587
-          ],
-          [
-            7.5884335,
-            33.7507706
-          ],
-          [
-            7.5645171,
-            33.7274185
-          ],
-          [
-            7.579595,
-            33.7045214
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.579595,
-            33.7045214
-          ],
-          [
-            7.6338507,
-            33.5721128
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.6338507,
-            33.5721128
-          ],
-          [
-            7.7365763,
-            33.424659
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.7365763,
-            33.424659
-          ],
-          [
-            7.732558,
-            33.3747001
-          ],
-          [
-            7.7492157,
-            33.3273523
-          ],
-          [
-            7.777753,
-            33.32364
-          ],
-          [
-            7.8321519,
-            33.1881161
-          ],
-          [
-            7.880534,
-            33.186936
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.880534,
-            33.186936
-          ],
-          [
-            8.106881,
-            33.104887
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.106881,
-            33.104887
-          ],
-          [
-            8.116149,
-            33.049835
-          ],
-          [
-            8.247183,
-            32.924407
-          ],
-          [
-            8.322605,
-            32.823472
-          ],
-          [
-            8.35683,
-            32.502602
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.35683,
-            32.502602
-          ],
-          [
-            8.5883259,
-            32.3650509
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.5883259,
-            32.3650509
-          ],
-          [
-            9.0763986,
-            32.0845929
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.0763986,
-            32.0845929
-          ],
-          [
-            9.2288374,
-            31.5140695
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.2288374,
-            31.5140695
-          ],
-          [
-            9.473817,
-            30.559038
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.473817,
-            30.559038
-          ],
-          [
-            9.5592065,
-            30.229061
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.5592065,
-            30.229061
-          ],
-          [
-            9.398919,
-            30.178669
-          ],
-          [
-            9.391316,
-            30.146357
-          ],
-          [
-            9.407538,
-            30.065861
-          ],
-          [
-            9.538688,
-            29.901201
-          ],
-          [
-            9.779948,
-            29.424757
-          ],
-          [
-            9.871652,
-            29.027662
-          ],
-          [
-            9.8930511,
-            28.8404968
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.8930511,
-            28.8404968
-          ],
-          [
-            9.902313,
-            28.759132
-          ],
-          [
-            9.8694224,
-            28.5402479
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.8694224,
-            28.5402479
-          ],
-          [
-            9.832934,
-            28.28595
-          ],
-          [
-            9.96204,
-            27.885993
-          ],
-          [
-            9.9449826,
-            27.8121177
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.9449826,
-            27.8121177
-          ],
-          [
-            9.942353,
-            27.73245
-          ],
-          [
-            9.888631,
-            27.609153
-          ],
-          [
-            9.816291,
-            27.571916
-          ],
-          [
-            9.877991,
-            27.562405
-          ],
-          [
-            9.862791,
-            27.504425
-          ],
-          [
-            9.813447,
-            27.462886
-          ],
-          [
-            9.785656,
-            27.365488
-          ],
-          [
-            9.7830706,
-            27.2723042
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.7830706,
-            27.2723042
-          ],
-          [
-            9.860289,
-            26.94651
-          ],
-          [
-            9.925362,
-            26.861947
-          ],
-          [
-            9.902106,
-            26.74318
-          ],
-          [
-            9.913332,
-            26.646871
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.913332,
-            26.646871
-          ],
-          [
-            9.863299,
-            26.519911
-          ],
-          [
-            9.7623255,
-            26.4811215
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.7623255,
-            26.4811215
-          ],
-          [
-            9.512373,
-            26.385101
-          ],
-          [
-            9.455908,
-            26.25333
-          ],
-          [
-            9.398983,
-            26.195638
-          ],
-          [
-            10.032093,
-            25.359573
-          ],
-          [
-            10.0357609,
-            25.1534172
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.0357609,
-            25.1534172
-          ],
-          [
-            10.0377723,
-            24.9656335
-          ],
-          [
-            10.094155,
-            24.888803
-          ],
-          [
-            10.216372,
-            24.650641
-          ],
-          [
-            10.30257,
-            24.599078
-          ],
-          [
-            10.356677,
-            24.536972
-          ],
-          [
-            10.545496,
-            24.533881
-          ],
-          [
-            10.588023,
-            24.541327
-          ],
-          [
-            10.61473,
-            24.573582
-          ],
-          [
-            10.706074,
-            24.573067
-          ],
-          [
-            10.728946,
-            24.565908
-          ],
-          [
-            10.766643,
-            24.510391
-          ],
-          [
-            10.799887,
-            24.527808
-          ],
-          [
-            10.793069,
-            24.544252
-          ],
-          [
-            10.826892,
-            24.569803
-          ],
-          [
-            10.896418,
-            24.556054
-          ],
-          [
-            10.95234,
-            24.531018
-          ],
-          [
-            11.052326,
-            24.424683
-          ],
-          [
-            11.133173,
-            24.394434
-          ],
-          [
-            11.430189,
-            24.204854
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.430189,
-            24.204854
-          ],
-          [
-            11.604258,
-            24.264727
-          ],
-          [
-            11.997337,
-            23.517178
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.997337,
-            23.517178
-          ],
-          [
-            11.4101023,
-            23.1830874
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            11.4101023,
-            23.1830874
-          ],
-          [
-            10.9734854,
-            22.917653
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.9734854,
-            22.917653
-          ],
-          [
-            10.238563,
-            22.496408
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            10.238563,
-            22.496408
-          ],
-          [
-            8.996974,
-            21.77859
-          ],
-          [
-            7.7944146,
-            21.0467515
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.7944146,
-            21.0467515
-          ],
-          [
-            7.459686,
-            20.842495
-          ],
-          [
-            5.811229,
-            19.443969
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            5.811229,
-            19.443969
-          ],
-          [
-            4.6731441,
-            19.2183495
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            4.6731441,
-            19.2183495
-          ],
-          [
-            4.266708,
-            19.1441458
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            3.120424,
-            19.132311
-          ],
-          [
-            3.166116,
-            19.11325
-          ],
-          [
-            3.275907,
-            19.033355
-          ],
-          [
-            3.29562,
-            19.002023
-          ],
-          [
-            3.330973,
-            18.995416
-          ],
-          [
-            3.357648,
-            18.968147
-          ],
-          [
-            4.266708,
-            19.1441458
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            3.0148803,
-            19.9325018
-          ],
-          [
-            3.149014,
-            19.856724
-          ],
-          [
-            3.254628,
-            19.834791
-          ],
-          [
-            3.259589,
-            19.817559
-          ],
-          [
-            3.229954,
-            19.713642
-          ],
-          [
-            3.252191,
-            19.642682
-          ],
-          [
-            3.231869,
-            19.584463
-          ],
-          [
-            3.266377,
-            19.526828
-          ],
-          [
-            3.24811,
-            19.497843
-          ],
-          [
-            3.266116,
-            19.448499
-          ],
-          [
-            3.257855,
-            19.435542
-          ],
-          [
-            3.209464,
-            19.432128
-          ],
-          [
-            3.198362,
-            19.413381
-          ],
-          [
-            3.178257,
-            19.359073
-          ],
-          [
-            3.204217,
-            19.305195
-          ],
-          [
-            3.200581,
-            19.277088
-          ],
-          [
-            3.122644,
-            19.185182
-          ],
-          [
-            3.120424,
-            19.132311
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.8434411,
-            19.9680695
-          ],
-          [
-            2.976943,
-            19.9531802
-          ],
-          [
-            3.0148803,
-            19.9325018
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.6724632,
-            20.0987864
-          ],
-          [
-            2.7009089,
-            20.0868499
-          ],
-          [
-            2.7123014,
-            20.0249965
-          ],
-          [
-            2.734948,
-            19.9935527
-          ],
-          [
-            2.8434411,
-            19.9680695
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            2.4760498,
-            20.0954299
-          ],
-          [
-            2.519918,
-            20.094666
-          ],
-          [
-            2.554439,
-            20.03939
-          ],
-          [
-            2.588199,
-            20.031899
-          ],
-          [
-            2.622458,
-            20.053872
-          ],
-          [
-            2.665264,
-            20.050863
-          ],
-          [
-            2.6724632,
-            20.0987864
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.371936,
-            20.669749
-          ],
-          [
-            1.599572,
-            20.596081
-          ],
-          [
-            1.667574,
-            20.530003
-          ],
-          [
-            1.669285,
-            20.405119
-          ],
-          [
-            1.775031,
-            20.337223
-          ],
-          [
-            1.799409,
-            20.296914
-          ],
-          [
-            1.883236,
-            20.296593
-          ],
-          [
-            1.897563,
-            20.243025
-          ],
-          [
-            1.922476,
-            20.224314
-          ],
-          [
-            1.946854,
-            20.259812
-          ],
-          [
-            1.978931,
-            20.266976
-          ],
-          [
-            1.999862,
-            20.242941
-          ],
-          [
-            2.040424,
-            20.269614
-          ],
-          [
-            2.120554,
-            20.238254
-          ],
-          [
-            2.190171,
-            20.277906
-          ],
-          [
-            2.192347,
-            20.313352
-          ],
-          [
-            2.214543,
-            20.318726
-          ],
-          [
-            2.312027,
-            20.271115
-          ],
-          [
-            2.317919,
-            20.218177
-          ],
-          [
-            2.348683,
-            20.203096
-          ],
-          [
-            2.357373,
-            20.162244
-          ],
-          [
-            2.399822,
-            20.133178
-          ],
-          [
-            2.37835,
-            20.094229
-          ],
-          [
-            2.375423,
-            20.028382
-          ],
-          [
-            2.397525,
-            20.039789
-          ],
-          [
-            2.412825,
-            20.075615
-          ],
-          [
-            2.4760498,
-            20.0954299
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            1.335369,
-            20.72182
-          ],
-          [
-            1.353225,
-            20.67702
-          ],
-          [
-            1.371936,
-            20.669749
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.0213676,
-            21.8852937
-          ],
-          [
-            1.1665556,
-            21.1163645
-          ],
-          [
-            1.193591,
-            20.943255
-          ],
-          [
-            1.16408,
-            20.738607
-          ],
-          [
-            1.22973,
-            20.723745
-          ],
-          [
-            1.314626,
-            20.740746
-          ],
-          [
-            1.335369,
-            20.72182
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.8333344,
-            25.0000001
-          ],
-          [
-            -0.0213676,
-            21.8852937
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.668261,
-            25.513483
-          ],
-          [
-            -4.8333344,
-            25.0000001
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.668117,
-            27.314942
-          ],
-          [
-            -5.668261,
-            25.513483
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.6662523,
-            27.6706253
-          ],
-          [
-            -8.668117,
-            27.314942
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.6678179,
-            27.9948766
-          ],
-          [
-            -8.6662523,
-            27.6706253
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.6688733,
-            28.3110599
-          ],
-          [
-            -8.6678179,
-            27.9948766
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.6687494,
-            28.6671925
-          ],
-          [
-            -8.6688733,
-            28.3110599
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.4960008,
-            28.7769062
-          ],
-          [
-            -8.5848004,
-            28.7414512
-          ],
-          [
-            -8.6687494,
-            28.6671925
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.3030978,
-            28.921015
-          ],
-          [
-            -8.4283018,
-            28.8108169
-          ],
-          [
-            -8.4960008,
-            28.7769062
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.0156245,
-            29.0906464
-          ],
-          [
-            -8.3030978,
-            28.921015
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -7.488727,
-            29.3601303
-          ],
-          [
-            -7.6102231,
-            29.3674409
-          ],
-          [
-            -7.6372862,
-            29.2980421
-          ],
-          [
-            -7.7732321,
-            29.2551038
-          ],
-          [
-            -7.8264606,
-            29.2062763
-          ],
-          [
-            -7.8912988,
-            29.1831833
-          ],
-          [
-            -8.0156245,
-            29.0906464
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -7.2837169,
-            29.4492886
-          ],
-          [
-            -7.3508895,
-            29.3885962
-          ],
-          [
-            -7.488727,
-            29.3601303
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.604455,
-            29.527368
-          ],
-          [
-            -6.714663,
-            29.508501
-          ],
-          [
-            -6.77725,
-            29.462101
-          ],
-          [
-            -6.915404,
-            29.497439
-          ],
-          [
-            -7.022626,
-            29.493585
-          ],
-          [
-            -7.149831,
-            29.522714
-          ],
-          [
-            -7.239821,
-            29.485465
-          ],
-          [
-            -7.2837169,
-            29.4492886
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.4485081,
-            29.5656416
-          ],
-          [
-            -6.5410679,
-            29.5153454
-          ],
-          [
-            -6.604455,
-            29.527368
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.499998,
-            29.563009
-          ],
-          [
-            -5.565482,
-            29.476586
-          ],
-          [
-            -5.650809,
-            29.504543
-          ],
-          [
-            -5.6858283,
-            29.5411868
-          ],
-          [
-            -5.714535,
-            29.519831
-          ],
-          [
-            -5.749243,
-            29.518265
-          ],
-          [
-            -5.723236,
-            29.586196
-          ],
-          [
-            -5.8020302,
-            29.6076386
-          ],
-          [
-            -5.950203,
-            29.590879
-          ],
-          [
-            -6.0289998,
-            29.5641445
-          ],
-          [
-            -6.165324,
-            29.582295
-          ],
-          [
-            -6.247456,
-            29.565404
-          ],
-          [
-            -6.3738697,
-            29.5681574
-          ],
-          [
-            -6.3903063,
-            29.5498285
-          ],
-          [
-            -6.4485081,
-            29.5656416
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.3613561,
-            29.732072
-          ],
-          [
-            -5.499998,
-            29.563009
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.3203136,
-            29.7872607
-          ],
-          [
-            -5.3613561,
-            29.732072
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.1300342,
-            30.0001583
-          ],
-          [
-            -5.270706,
-            29.9048714
-          ],
-          [
-            -5.3227986,
-            29.8187995
-          ],
-          [
-            -5.3203136,
-            29.7872607
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.279084,
-            30.54187
-          ],
-          [
-            -4.3296784,
-            30.5215464
-          ],
-          [
-            -4.5862677,
-            30.2929273
-          ],
-          [
-            -4.936618,
-            30.140473
-          ],
-          [
-            -5.1300342,
-            30.0001583
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.6694002,
-            30.6647953
-          ],
-          [
-            -3.7427809,
-            30.6396343
-          ],
-          [
-            -3.8167992,
-            30.590355
-          ],
-          [
-            -3.8865366,
-            30.6106899
-          ],
-          [
-            -4.1483315,
-            30.5851367
-          ],
-          [
-            -4.279084,
-            30.54187
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.7775478,
-            31.1179942
-          ],
-          [
-            -3.775059,
-            31.100898
-          ],
-          [
-            -3.760258,
-            31.125719
-          ],
-          [
-            -3.730511,
-            31.117121
-          ],
-          [
-            -3.733906,
-            31.146092
-          ],
-          [
-            -3.710543,
-            31.154377
-          ],
-          [
-            -3.708012,
-            31.136758
-          ],
-          [
-            -3.70545,
-            31.136835
-          ],
-          [
-            -3.704773,
-            31.151949
-          ],
-          [
-            -3.713868,
-            31.165705
-          ],
-          [
-            -3.70206,
-            31.176034
-          ],
-          [
-            -3.671551,
-            31.15125
-          ],
-          [
-            -3.679536,
-            31.086518
-          ],
-          [
-            -3.643864,
-            31.081955
-          ],
-          [
-            -3.66645,
-            31.09027
-          ],
-          [
-            -3.664645,
-            31.102512
-          ],
-          [
-            -3.636583,
-            31.09966
-          ],
-          [
-            -3.651593,
-            31.134295
-          ],
-          [
-            -3.638993,
-            31.169772
-          ],
-          [
-            -3.636938,
-            31.111301
-          ],
-          [
-            -3.615993,
-            31.119486
-          ],
-          [
-            -3.59218,
-            31.058343
-          ],
-          [
-            -3.573893,
-            31.043014
-          ],
-          [
-            -3.552388,
-            31.063937
-          ],
-          [
-            -3.554944,
-            31.040299
-          ],
-          [
-            -3.542002,
-            31.038604
-          ],
-          [
-            -3.540543,
-            30.955089
-          ],
-          [
-            -3.559799,
-            30.929184
-          ],
-          [
-            -3.575302,
-            30.933962
-          ],
-          [
-            -3.615723,
-            30.86577
-          ],
-          [
-            -3.636231,
-            30.875682
-          ],
-          [
-            -3.6584473,
-            30.8513951
-          ],
-          [
-            -3.6295874,
-            30.7446488
-          ],
-          [
-            -3.6447001,
-            30.6904384
-          ],
-          [
-            -3.6694002,
-            30.6647953
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.6648402,
-            31.4014639
-          ],
-          [
-            -3.648377,
-            31.397007
-          ],
-          [
-            -3.65479,
-            31.383826
-          ],
-          [
-            -3.711615,
-            31.362014
-          ],
-          [
-            -3.722566,
-            31.342117
-          ],
-          [
-            -3.749309,
-            31.36099
-          ],
-          [
-            -3.762653,
-            31.310618
-          ],
-          [
-            -3.785554,
-            31.292765
-          ],
-          [
-            -3.754446,
-            31.279126
-          ],
-          [
-            -3.790699,
-            31.236217
-          ],
-          [
-            -3.75931,
-            31.179997
-          ],
-          [
-            -3.7775478,
-            31.1179942
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.6649547,
-            31.4466022
-          ],
-          [
-            -3.6648402,
-            31.4014639
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.665007,
-            31.5138716
-          ],
-          [
-            -3.6649547,
-            31.4466022
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.2517668,
-            31.7136199
-          ],
-          [
-            -3.664666,
-            31.633535
-          ],
-          [
-            -3.665007,
-            31.5138716
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.1322454,
-            31.7345932
-          ],
-          [
-            -3.2517668,
-            31.7136199
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.8206956,
-            31.7936425
-          ],
-          [
-            -3.1322454,
-            31.7345932
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.9126236,
-            32.0019984
-          ],
-          [
-            -2.8423219,
-            31.8836179
-          ],
-          [
-            -2.8441458,
-            31.8320658
-          ],
-          [
-            -2.8206956,
-            31.7936425
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.9281321,
-            32.0479356
-          ],
-          [
-            -2.9126236,
-            32.0019984
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.9052179,
-            32.0862417
-          ],
-          [
-            -2.9281321,
-            32.0479356
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.4025616,
-            32.157695
-          ],
-          [
-            -2.5424404,
-            32.1450817
-          ],
-          [
-            -2.600034,
-            32.112911
-          ],
-          [
-            -2.873435,
-            32.111359
-          ],
-          [
-            -2.9052179,
-            32.0862417
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.3113343,
-            32.1573117
-          ],
-          [
-            -2.4025616,
-            32.157695
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.98244,
-            32.170038
-          ],
-          [
-            -2.019522,
-            32.181557
-          ],
-          [
-            -2.180236,
-            32.142248
-          ],
-          [
-            -2.277609,
-            32.168605
-          ],
-          [
-            -2.2870994,
-            32.1527042
-          ],
-          [
-            -2.3113343,
-            32.1573117
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.926779,
-            32.151053
-          ],
-          [
-            -1.98244,
-            32.170038
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.2306324,
-            32.0773928
-          ],
-          [
-            -1.504776,
-            32.103871
-          ],
-          [
-            -1.580311,
-            32.09224
-          ],
-          [
-            -1.8683804,
-            32.1440792
-          ],
-          [
-            -1.9033993,
-            32.1643566
-          ],
-          [
-            -1.926779,
-            32.151053
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.2306324,
-            32.0773928
-          ],
-          [
-            -1.2296892,
-            32.0763672
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.1958957,
-            32.0897923
-          ],
-          [
-            -1.2296892,
-            32.0763672
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.2695426,
-            32.1628002
-          ],
-          [
-            -1.183153,
-            32.163625
-          ],
-          [
-            -1.1523608,
-            32.1110738
-          ],
-          [
-            -1.1958957,
-            32.0897923
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.2487208,
-            32.3202627
-          ],
-          [
-            -1.2350845,
-            32.3098862
-          ],
-          [
-            -1.2411205,
-            32.2057076
-          ],
-          [
-            -1.3002208,
-            32.1706904
-          ],
-          [
-            -1.2936744,
-            32.15849
-          ],
-          [
-            -1.2695426,
-            32.1628002
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.1241824,
-            32.4114674
-          ],
-          [
-            -1.1956859,
-            32.402719
-          ],
-          [
-            -1.2217417,
-            32.3403659
-          ],
-          [
-            -1.2487208,
-            32.3202627
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.0448208,
-            32.4763287
-          ],
-          [
-            -1.1241824,
-            32.4114674
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -0.998635,
-            32.514435
-          ],
-          [
-            -1.0448208,
-            32.4763287
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.3564089,
-            32.7318035
-          ],
-          [
-            -1.2714915,
-            32.6957002
-          ],
-          [
-            -0.998635,
-            32.514435
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.3989913,
-            32.7626626
-          ],
-          [
-            -1.3564089,
-            32.7318035
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.473715,
-            32.999302
-          ],
-          [
-            -1.492191,
-            32.969281
-          ],
-          [
-            -1.543783,
-            32.957761
-          ],
-          [
-            -1.3989913,
-            32.7626626
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.6635493,
-            33.3781218
-          ],
-          [
-            -1.6655974,
-            33.2717685
-          ],
-          [
-            -1.6002223,
-            33.2048382
-          ],
-          [
-            -1.5733369,
-            33.1458016
-          ],
-          [
-            -1.475468,
-            33.07653
-          ],
-          [
-            -1.461762,
-            33.042215
-          ],
-          [
-            -1.473715,
-            32.999302
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.6635493,
-            33.3781218
-          ],
-          [
-            -1.6212669,
-            33.4481823
-          ],
-          [
-            -1.6217658,
-            33.4877123
-          ],
-          [
-            -1.5881567,
-            33.5290641
-          ],
-          [
-            -1.6033605,
-            33.5563969
-          ],
-          [
-            -1.5947088,
-            33.6054857
-          ],
-          [
-            -1.631342,
-            33.631416
-          ],
-          [
-            -1.6461832,
-            33.6697143
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.6461832,
-            33.6697143
-          ],
-          [
-            -1.7115029,
-            33.687023
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.7115029,
-            33.687023
-          ],
-          [
-            -1.7324754,
-            33.701108
-          ],
-          [
-            -1.7209464,
-            33.7405653
-          ],
-          [
-            -1.67132,
-            33.773102
-          ],
-          [
-            -1.6987466,
-            33.8696876
-          ],
-          [
-            -1.6514166,
-            34.0966739
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.7030227,
-            34.2202234
-          ],
-          [
-            -1.6514166,
-            34.0966739
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.7427462,
-            34.4343083
-          ],
-          [
-            -1.7829697,
-            34.3916963
-          ],
-          [
-            -1.7053325,
-            34.30687
-          ],
-          [
-            -1.7030227,
-            34.2202234
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.6877315,
-            34.4931273
-          ],
-          [
-            -1.7427462,
-            34.4343083
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.7413651,
-            34.5078191
-          ],
-          [
-            -1.6877315,
-            34.4931273
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.7964269,
-            34.5773631
-          ],
-          [
-            -1.7413651,
-            34.5078191
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.7729071,
-            34.7147241
-          ],
-          [
-            -1.8538264,
-            34.6162286
-          ],
-          [
-            -1.8229821,
-            34.609694
-          ],
-          [
-            -1.7964269,
-            34.5773631
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.7729071,
-            34.7147241
-          ],
-          [
-            -1.7712238,
-            34.7246084
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.7712238,
-            34.7246084
-          ],
-          [
-            -1.7388688,
-            34.7428411
-          ],
-          [
-            -1.7658862,
-            34.7563769
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.7658862,
-            34.7563769
-          ],
-          [
-            -1.814831,
-            34.7826594
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.8178741,
-            34.781545
-          ],
-          [
-            -1.814831,
-            34.7826594
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.8861474,
-            34.8061427
-          ],
-          [
-            -1.8178741,
-            34.781545
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.8887317,
-            34.8062193
-          ],
-          [
-            -1.8861474,
-            34.8061427
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.8929176,
-            34.8387287
-          ],
-          [
-            -1.8887317,
-            34.8062193
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.9226623,
-            34.8551581
-          ],
-          [
-            -1.8929176,
-            34.8387287
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.9450844,
-            34.8647889
-          ],
-          [
-            -1.9226623,
-            34.8551581
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.9730333,
-            34.8799006
-          ],
-          [
-            -1.9450844,
-            34.8647889
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.9740893,
-            34.8916894
-          ],
-          [
-            -1.9730333,
-            34.8799006
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.9734606,
-            34.9357961
-          ],
-          [
-            -1.9740893,
-            34.8916894
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.0563729,
-            34.9360524
-          ],
-          [
-            -2.0364331,
-            34.9244876
-          ],
-          [
-            -1.9734606,
-            34.9357961
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.0768395,
-            34.9469257
-          ],
-          [
-            -2.0563729,
-            34.9360524
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.0918629,
-            34.9578151
-          ],
-          [
-            -2.0768395,
-            34.9469257
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.0918629,
-            34.9578151
-          ],
-          [
-            -2.0941696,
-            34.9591011
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.0941696,
-            34.9591011
-          ],
-          [
-            -2.1085772,
-            34.9709035
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.1085772,
-            34.9709035
-          ],
-          [
-            -2.1442638,
-            34.9988911
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.1442638,
-            34.9988911
-          ],
-          [
-            -2.1591524,
-            35.0080324
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.1591524,
-            35.0080324
-          ],
-          [
-            -2.2088689,
-            35.0414654
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.2088689,
-            35.0414654
-          ],
-          [
-            -2.2175372,
-            35.0497034
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.2175372,
-            35.0497034
-          ],
-          [
-            -2.2117611,
-            35.0852573
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.2064219,
-            35.3372157
-          ],
-          [
-            -2.2117611,
-            35.0852573
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.2064219,
-            35.3372157
-          ],
-          [
-            -1.9800369,
-            35.321943
-          ],
-          [
-            -1.8354562,
-            35.3633772
-          ],
-          [
-            -1.6621127,
-            35.4633962
-          ],
-          [
-            -1.3488371,
-            35.8367606
-          ],
-          [
-            -1.2397573,
-            35.9084279
-          ],
-          [
-            -0.9527465,
-            35.9685365
-          ],
-          [
-            -0.8205805,
-            35.9664659
-          ],
-          [
-            -0.5408316,
-            36.0816658
-          ],
-          [
-            -0.3692164,
-            36.1127124
-          ],
-          [
-            -0.0131916,
-            36.2126213
-          ],
-          [
-            0.1984408,
-            36.3563652
-          ],
-          [
-            0.5404265,
-            36.5067672
-          ],
-          [
-            0.6914389,
-            36.547639
-          ],
-          [
-            0.8447532,
-            36.6339067
-          ],
-          [
-            1.2756163,
-            36.746363
-          ],
-          [
-            1.6416168,
-            36.7561221
-          ],
-          [
-            1.8238392,
-            36.7937006
-          ],
-          [
-            1.9209622,
-            36.7867427
-          ],
-          [
-            2.3012933,
-            36.8459368
-          ],
-          [
-            2.3925996,
-            36.8459021
-          ],
-          [
-            2.7099721,
-            36.9409124
-          ],
-          [
-            2.7604986,
-            36.9753361
-          ],
-          [
-            2.8487113,
-            37.0042931
-          ],
-          [
-            2.9646964,
-            37.020195
-          ],
-          [
-            3.2882038,
-            37.019773
-          ],
-          [
-            3.8707194,
-            37.1264595
-          ],
-          [
-            4.7914204,
-            37.0968223
-          ],
-          [
-            4.8824505,
-            37.0815607
-          ],
-          [
-            5.1731459,
-            36.9803174
-          ],
-          [
-            5.5432997,
-            36.9873356
-          ],
-          [
-            5.6453422,
-            37.0186789
-          ],
-          [
-            5.9934407,
-            37.0609525
-          ],
-          [
-            6.1193499,
-            37.18999
-          ],
-          [
-            6.2228322,
-            37.247606
-          ],
-          [
-            6.376723,
-            37.2889267
-          ],
-          [
-            6.5691526,
-            37.2767242
-          ],
-          [
-            6.6569465,
-            37.2422177
-          ],
-          [
-            6.7561532,
-            37.179027
-          ],
-          [
-            7.1717314,
-            37.2947247
-          ],
-          [
-            7.413017,
-            37.2858692
-          ],
-          [
-            7.5,
-            37.268984
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            7.5,
-            37.268984
-          ],
-          [
-            7.7408877,
-            37.1760078
-          ],
-          [
-            8.2524869,
-            37.1528344
-          ],
-          [
-            8.4177692,
-            37.1210373
-          ],
-          [
-            8.5904911,
-            37.1430333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.6420767,
-            36.9409263
-          ],
-          [
-            8.653986,
-            36.9156879
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.653986,
-            36.9156879
-          ],
-          [
-            8.6310741,
-            36.8996159
-          ],
-          [
-            8.6247557,
-            36.8551225
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.6247557,
-            36.8551225
-          ],
-          [
-            8.6811291,
-            36.8389505
-          ],
-          [
-            8.6368889,
-            36.8041383
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.6368889,
-            36.8041383
-          ],
-          [
-            8.6359472,
-            36.803232
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.6359472,
-            36.803232
-          ],
-          [
-            8.590616,
-            36.7923751
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.590616,
-            36.7923751
-          ],
-          [
-            8.5724828,
-            36.7731991
-          ],
-          [
-            8.5417909,
-            36.7730399
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.5417909,
-            36.7730399
-          ],
-          [
-            8.5230792,
-            36.781925
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.5230792,
-            36.781925
-          ],
-          [
-            8.4306442,
-            36.759849
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.4306442,
-            36.759849
-          ],
-          [
-            8.428918,
-            36.7487327
-          ],
-          [
-            8.4700492,
-            36.7414161
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.4700492,
-            36.7414161
-          ],
-          [
-            8.4837519,
-            36.6987472
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.4837519,
-            36.6987472
-          ],
-          [
-            8.4826144,
-            36.6815623
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.4826144,
-            36.6815623
-          ],
-          [
-            8.4514484,
-            36.6622974
-          ],
-          [
-            8.4552152,
-            36.6419019
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.4552152,
-            36.6419019
-          ],
-          [
-            8.4492013,
-            36.6180711
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.4492013,
-            36.6180711
-          ],
-          [
-            8.4178289,
-            36.6223942
-          ],
-          [
-            8.386024,
-            36.5945688
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.386024,
-            36.5945688
-          ],
-          [
-            8.3598683,
-            36.5896251
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3598683,
-            36.5896251
-          ],
-          [
-            8.3490886,
-            36.5828676
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3490886,
-            36.5828676
-          ],
-          [
-            8.3238906,
-            36.5700352
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3238906,
-            36.5700352
-          ],
-          [
-            8.2815844,
-            36.5386512
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.2815844,
-            36.5386512
-          ],
-          [
-            8.256953,
-            36.5371555
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.256953,
-            36.5371555
-          ],
-          [
-            8.1558075,
-            36.4994169
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.1558075,
-            36.4994169
-          ],
-          [
-            8.1594852,
-            36.4908146
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.1594852,
-            36.4908146
-          ],
-          [
-            8.1671025,
-            36.4672273
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.1671025,
-            36.4672273
-          ],
-          [
-            8.2134151,
-            36.4466929
-          ],
-          [
-            8.3273083,
-            36.4361403
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3273083,
-            36.4361403
-          ],
-          [
-            8.3322038,
-            36.4333655
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3322038,
-            36.4333655
-          ],
-          [
-            8.3548679,
-            36.4461786
-          ],
-          [
-            8.3717816,
-            36.4283341
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3717816,
-            36.4283341
-          ],
-          [
-            8.4095213,
-            36.4117095
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.4095213,
-            36.4117095
-          ],
-          [
-            8.3943897,
-            36.3658032
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3943897,
-            36.3658032
-          ],
-          [
-            8.3765019,
-            36.3500358
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3765019,
-            36.3500358
-          ],
-          [
-            8.377245,
-            36.3240292
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.377245,
-            36.3240292
-          ],
-          [
-            8.3910564,
-            36.3049445
-          ],
-          [
-            8.3699421,
-            36.2965055
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3699421,
-            36.2965055
-          ],
-          [
-            8.3379153,
-            36.2645221
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3379153,
-            36.2645221
-          ],
-          [
-            8.3552113,
-            36.2508756
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3552113,
-            36.2508756
-          ],
-          [
-            8.3468161,
-            36.2258869
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3468161,
-            36.2258869
-          ],
-          [
-            8.3068234,
-            36.1728299
-          ],
-          [
-            8.338532,
-            36.1378169
-          ],
-          [
-            8.3418802,
-            36.104379
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3418802,
-            36.104379
-          ],
-          [
-            8.3433682,
-            36.1007318
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3433682,
-            36.1007318
-          ],
-          [
-            8.3460057,
-            36.0970341
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3460057,
-            36.0970341
-          ],
-          [
-            8.3116951,
-            36.0695944
-          ],
-          [
-            8.3000586,
-            36.0108156
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3000586,
-            36.0108156
-          ],
-          [
-            8.2908218,
-            35.9569014
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.2908218,
-            35.9569014
-          ],
-          [
-            8.2660193,
-            35.9398985
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.2660193,
-            35.9398985
-          ],
-          [
-            8.2556956,
-            35.9083225
-          ],
-          [
-            8.2704996,
-            35.9023564
-          ],
-          [
-            8.2534606,
-            35.8858807
-          ],
-          [
-            8.2704138,
-            35.8795839
-          ],
-          [
-            8.2684827,
-            35.8586717
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.2684827,
-            35.8586717
-          ],
-          [
-            8.2655964,
-            35.7866281
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.2655964,
-            35.7866281
-          ],
-          [
-            8.2642708,
-            35.7306553
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.2642708,
-            35.7306553
-          ],
-          [
-            8.3108329,
-            35.6921473
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3108329,
-            35.6921473
-          ],
-          [
-            8.3560442,
-            35.6697677
-          ],
-          [
-            8.3539598,
-            35.6166075
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3539598,
-            35.6166075
-          ],
-          [
-            8.3619704,
-            35.5417439
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3619704,
-            35.5417439
-          ],
-          [
-            8.3742577,
-            35.4941967
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3742577,
-            35.4941967
-          ],
-          [
-            8.3844046,
-            35.4667624
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.3844046,
-            35.4667624
-          ],
-          [
-            8.3532695,
-            35.4631447
-          ],
-          [
-            8.3176717,
-            35.4152605
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "DZ",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
-        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            8.6420767,
-            36.9409263
-          ],
-          [
-            8.5904911,
-            37.1430333
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.324495,
+              35.41339
+            ],
+            [
+              8.316709,
+              35.337
+            ],
+            [
+              8.316709,
+              35.337
+            ],
+            [
+              8.316719,
+              35.330366
+            ],
+            [
+              8.316719,
+              35.330366
+            ],
+            [
+              8.333596,
+              35.28045
+            ],
+            [
+              8.401094,
+              35.250786
+            ],
+            [
+              8.401094,
+              35.250786
+            ],
+            [
+              8.476531,
+              35.239755
+            ],
+            [
+              8.438568,
+              35.198471
+            ],
+            [
+              8.438568,
+              35.198471
+            ],
+            [
+              8.399817,
+              35.127922
+            ],
+            [
+              8.399817,
+              35.127922
+            ],
+            [
+              8.392367,
+              35.121623
+            ],
+            [
+              8.392367,
+              35.121623
+            ],
+            [
+              8.343064,
+              35.071969
+            ],
+            [
+              8.311305,
+              34.957129
+            ],
+            [
+              8.311305,
+              34.957129
+            ],
+            [
+              8.308648,
+              34.953749
+            ],
+            [
+              8.308648,
+              34.953749
+            ],
+            [
+              8.290791,
+              34.945776
+            ],
+            [
+              8.290791,
+              34.945776
+            ],
+            [
+              8.245209,
+              34.921054
+            ],
+            [
+              8.285301,
+              34.805569
+            ],
+            [
+              8.285301,
+              34.805569
+            ],
+            [
+              8.292336,
+              34.752383
+            ],
+            [
+              8.292336,
+              34.752383
+            ],
+            [
+              8.324207,
+              34.73281
+            ],
+            [
+              8.324207,
+              34.73281
+            ],
+            [
+              8.301045,
+              34.732189
+            ],
+            [
+              8.301045,
+              34.732189
+            ],
+            [
+              8.237341,
+              34.679934
+            ],
+            [
+              8.280836,
+              34.654803
+            ],
+            [
+              8.280836,
+              34.654803
+            ],
+            [
+              8.241337,
+              34.631484
+            ],
+            [
+              8.250135,
+              34.61455
+            ],
+            [
+              8.211017,
+              34.60353
+            ],
+            [
+              8.204344,
+              34.589046
+            ],
+            [
+              8.22224,
+              34.578022
+            ],
+            [
+              8.189122,
+              34.572415
+            ],
+            [
+              8.189122,
+              34.572415
+            ],
+            [
+              8.16127,
+              34.569235
+            ],
+            [
+              8.166665,
+              34.552666
+            ],
+            [
+              8.148085,
+              34.533449
+            ],
+            [
+              8.148085,
+              34.533449
+            ],
+            [
+              8.137652,
+              34.532354
+            ],
+            [
+              8.137652,
+              34.532354
+            ],
+            [
+              8.115619,
+              34.512322
+            ],
+            [
+              8.083058,
+              34.515801
+            ],
+            [
+              8.014912,
+              34.465191
+            ],
+            [
+              8.014912,
+              34.465191
+            ],
+            [
+              7.940916,
+              34.436268
+            ],
+            [
+              7.940916,
+              34.436268
+            ],
+            [
+              7.922543,
+              34.415779
+            ],
+            [
+              7.856513,
+              34.405304
+            ],
+            [
+              7.856513,
+              34.405304
+            ],
+            [
+              7.845104,
+              34.329036
+            ],
+            [
+              7.845104,
+              34.329036
+            ],
+            [
+              7.808816,
+              34.243762
+            ],
+            [
+              7.808816,
+              34.243762
+            ],
+            [
+              7.79657,
+              34.20919
+            ],
+            [
+              7.722758,
+              34.170555
+            ],
+            [
+              7.651514,
+              34.200869
+            ],
+            [
+              7.603003,
+              34.114656
+            ],
+            [
+              7.537339,
+              34.073116
+            ],
+            [
+              7.534562,
+              34.05256
+            ],
+            [
+              7.534562,
+              34.05256
+            ],
+            [
+              7.560387,
+              34.014617
+            ],
+            [
+              7.521981,
+              33.905076
+            ],
+            [
+              7.521981,
+              33.905076
+            ],
+            [
+              7.546241,
+              33.836522
+            ],
+            [
+              7.524471,
+              33.797574
+            ],
+            [
+              7.561315,
+              33.777659
+            ],
+            [
+              7.561315,
+              33.777659
+            ],
+            [
+              7.588433,
+              33.750771
+            ],
+            [
+              7.564517,
+              33.727418
+            ],
+            [
+              7.579595,
+              33.704521
+            ],
+            [
+              7.579595,
+              33.704521
+            ],
+            [
+              7.633851,
+              33.572113
+            ],
+            [
+              7.633851,
+              33.572113
+            ],
+            [
+              7.736576,
+              33.424659
+            ],
+            [
+              7.736576,
+              33.424659
+            ],
+            [
+              7.732558,
+              33.3747
+            ],
+            [
+              7.749216,
+              33.327352
+            ],
+            [
+              7.777753,
+              33.32364
+            ],
+            [
+              7.832152,
+              33.188116
+            ],
+            [
+              7.880534,
+              33.186936
+            ],
+            [
+              7.880534,
+              33.186936
+            ],
+            [
+              8.106881,
+              33.104887
+            ],
+            [
+              8.106881,
+              33.104887
+            ],
+            [
+              8.116149,
+              33.049835
+            ],
+            [
+              8.247183,
+              32.924407
+            ],
+            [
+              8.322605,
+              32.823472
+            ],
+            [
+              8.35683,
+              32.502602
+            ],
+            [
+              8.35683,
+              32.502602
+            ],
+            [
+              8.588326,
+              32.365051
+            ],
+            [
+              8.588326,
+              32.365051
+            ],
+            [
+              9.076399,
+              32.084593
+            ],
+            [
+              9.076399,
+              32.084593
+            ],
+            [
+              9.228837,
+              31.51407
+            ],
+            [
+              9.228837,
+              31.51407
+            ],
+            [
+              9.473817,
+              30.559038
+            ],
+            [
+              9.473817,
+              30.559038
+            ],
+            [
+              9.559207,
+              30.229061
+            ],
+            [
+              9.559207,
+              30.229061
+            ],
+            [
+              9.398919,
+              30.178669
+            ],
+            [
+              9.391316,
+              30.146357
+            ],
+            [
+              9.407538,
+              30.065861
+            ],
+            [
+              9.538688,
+              29.901201
+            ],
+            [
+              9.779948,
+              29.424757
+            ],
+            [
+              9.871652,
+              29.027662
+            ],
+            [
+              9.893051,
+              28.840497
+            ],
+            [
+              9.893051,
+              28.840497
+            ],
+            [
+              9.902313,
+              28.759132
+            ],
+            [
+              9.869422,
+              28.540248
+            ],
+            [
+              9.869422,
+              28.540248
+            ],
+            [
+              9.832934,
+              28.28595
+            ],
+            [
+              9.96204,
+              27.885993
+            ],
+            [
+              9.944983,
+              27.812118
+            ],
+            [
+              9.944983,
+              27.812118
+            ],
+            [
+              9.942353,
+              27.73245
+            ],
+            [
+              9.888631,
+              27.609153
+            ],
+            [
+              9.816291,
+              27.571916
+            ],
+            [
+              9.877991,
+              27.562405
+            ],
+            [
+              9.862791,
+              27.504425
+            ],
+            [
+              9.813447,
+              27.462886
+            ],
+            [
+              9.785656,
+              27.365488
+            ],
+            [
+              9.783071,
+              27.272304
+            ],
+            [
+              9.783071,
+              27.272304
+            ],
+            [
+              9.860289,
+              26.94651
+            ],
+            [
+              9.925362,
+              26.861947
+            ],
+            [
+              9.902106,
+              26.74318
+            ],
+            [
+              9.913332,
+              26.646871
+            ],
+            [
+              9.913332,
+              26.646871
+            ],
+            [
+              9.863299,
+              26.519911
+            ],
+            [
+              9.762325,
+              26.481122
+            ],
+            [
+              9.762325,
+              26.481122
+            ],
+            [
+              9.512373,
+              26.385101
+            ],
+            [
+              9.455908,
+              26.25333
+            ],
+            [
+              9.398983,
+              26.195638
+            ],
+            [
+              10.032093,
+              25.359573
+            ],
+            [
+              10.035761,
+              25.153417
+            ],
+            [
+              10.035761,
+              25.153417
+            ],
+            [
+              10.037772,
+              24.965633
+            ],
+            [
+              10.094155,
+              24.888803
+            ],
+            [
+              10.216372,
+              24.650641
+            ],
+            [
+              10.30257,
+              24.599078
+            ],
+            [
+              10.356677,
+              24.536972
+            ],
+            [
+              10.545496,
+              24.533881
+            ],
+            [
+              10.588023,
+              24.541327
+            ],
+            [
+              10.61473,
+              24.573582
+            ],
+            [
+              10.706074,
+              24.573067
+            ],
+            [
+              10.728946,
+              24.565908
+            ],
+            [
+              10.766643,
+              24.510391
+            ],
+            [
+              10.799887,
+              24.527808
+            ],
+            [
+              10.793069,
+              24.544252
+            ],
+            [
+              10.826892,
+              24.569803
+            ],
+            [
+              10.896418,
+              24.556054
+            ],
+            [
+              10.95234,
+              24.531018
+            ],
+            [
+              11.052326,
+              24.424683
+            ],
+            [
+              11.133173,
+              24.394434
+            ],
+            [
+              11.430189,
+              24.204854
+            ],
+            [
+              11.430189,
+              24.204854
+            ],
+            [
+              11.604258,
+              24.264727
+            ],
+            [
+              11.997337,
+              23.517178
+            ],
+            [
+              11.997337,
+              23.517178
+            ],
+            [
+              11.410102,
+              23.183087
+            ],
+            [
+              11.410102,
+              23.183087
+            ],
+            [
+              10.973485,
+              22.917653
+            ],
+            [
+              10.973485,
+              22.917653
+            ],
+            [
+              10.238563,
+              22.496408
+            ],
+            [
+              10.238563,
+              22.496408
+            ],
+            [
+              8.996974,
+              21.77859
+            ],
+            [
+              7.794415,
+              21.046751
+            ],
+            [
+              7.794415,
+              21.046751
+            ],
+            [
+              7.459686,
+              20.842495
+            ],
+            [
+              5.811229,
+              19.443969
+            ],
+            [
+              5.811229,
+              19.443969
+            ],
+            [
+              4.673144,
+              19.218349
+            ],
+            [
+              4.673144,
+              19.218349
+            ],
+            [
+              4.266708,
+              19.144146
+            ],
+            [
+              4.266708,
+              19.144146
+            ],
+            [
+              3.357648,
+              18.968147
+            ],
+            [
+              3.330973,
+              18.995416
+            ],
+            [
+              3.29562,
+              19.002023
+            ],
+            [
+              3.275907,
+              19.033355
+            ],
+            [
+              3.166116,
+              19.11325
+            ],
+            [
+              3.120424,
+              19.132311
+            ],
+            [
+              3.120424,
+              19.132311
+            ],
+            [
+              3.122644,
+              19.185182
+            ],
+            [
+              3.200581,
+              19.277088
+            ],
+            [
+              3.204217,
+              19.305195
+            ],
+            [
+              3.178257,
+              19.359073
+            ],
+            [
+              3.198362,
+              19.413381
+            ],
+            [
+              3.209464,
+              19.432128
+            ],
+            [
+              3.257855,
+              19.435542
+            ],
+            [
+              3.266116,
+              19.448499
+            ],
+            [
+              3.24811,
+              19.497843
+            ],
+            [
+              3.266377,
+              19.526828
+            ],
+            [
+              3.231869,
+              19.584463
+            ],
+            [
+              3.252191,
+              19.642682
+            ],
+            [
+              3.229954,
+              19.713642
+            ],
+            [
+              3.259589,
+              19.817559
+            ],
+            [
+              3.254628,
+              19.834791
+            ],
+            [
+              3.149014,
+              19.856724
+            ],
+            [
+              3.01488,
+              19.932502
+            ],
+            [
+              3.01488,
+              19.932502
+            ],
+            [
+              2.976943,
+              19.95318
+            ],
+            [
+              2.843441,
+              19.968069
+            ],
+            [
+              2.843441,
+              19.968069
+            ],
+            [
+              2.734948,
+              19.993553
+            ],
+            [
+              2.712301,
+              20.024997
+            ],
+            [
+              2.700909,
+              20.08685
+            ],
+            [
+              2.672463,
+              20.098786
+            ],
+            [
+              2.672463,
+              20.098786
+            ],
+            [
+              2.665264,
+              20.050863
+            ],
+            [
+              2.622458,
+              20.053872
+            ],
+            [
+              2.588199,
+              20.031899
+            ],
+            [
+              2.554439,
+              20.03939
+            ],
+            [
+              2.519918,
+              20.094666
+            ],
+            [
+              2.47605,
+              20.09543
+            ],
+            [
+              2.47605,
+              20.09543
+            ],
+            [
+              2.412825,
+              20.075615
+            ],
+            [
+              2.397525,
+              20.039789
+            ],
+            [
+              2.375423,
+              20.028382
+            ],
+            [
+              2.37835,
+              20.094229
+            ],
+            [
+              2.399822,
+              20.133178
+            ],
+            [
+              2.357373,
+              20.162244
+            ],
+            [
+              2.348683,
+              20.203096
+            ],
+            [
+              2.317919,
+              20.218177
+            ],
+            [
+              2.312027,
+              20.271115
+            ],
+            [
+              2.214543,
+              20.318726
+            ],
+            [
+              2.192347,
+              20.313352
+            ],
+            [
+              2.190171,
+              20.277906
+            ],
+            [
+              2.120554,
+              20.238254
+            ],
+            [
+              2.040424,
+              20.269614
+            ],
+            [
+              1.999862,
+              20.242941
+            ],
+            [
+              1.978931,
+              20.266976
+            ],
+            [
+              1.946854,
+              20.259812
+            ],
+            [
+              1.922476,
+              20.224314
+            ],
+            [
+              1.897563,
+              20.243025
+            ],
+            [
+              1.883236,
+              20.296593
+            ],
+            [
+              1.799409,
+              20.296914
+            ],
+            [
+              1.775031,
+              20.337223
+            ],
+            [
+              1.669285,
+              20.405119
+            ],
+            [
+              1.667574,
+              20.530003
+            ],
+            [
+              1.599572,
+              20.596081
+            ],
+            [
+              1.371936,
+              20.669749
+            ],
+            [
+              1.371936,
+              20.669749
+            ],
+            [
+              1.353225,
+              20.67702
+            ],
+            [
+              1.335369,
+              20.72182
+            ],
+            [
+              1.335369,
+              20.72182
+            ],
+            [
+              1.314626,
+              20.740746
+            ],
+            [
+              1.22973,
+              20.723745
+            ],
+            [
+              1.16408,
+              20.738607
+            ],
+            [
+              1.193591,
+              20.943255
+            ],
+            [
+              1.166556,
+              21.116364
+            ],
+            [
+              -0.021368,
+              21.885294
+            ],
+            [
+              -0.021368,
+              21.885294
+            ],
+            [
+              -4.833334,
+              25.0
+            ],
+            [
+              -4.833334,
+              25.0
+            ],
+            [
+              -5.668261,
+              25.513483
+            ],
+            [
+              -5.668261,
+              25.513483
+            ],
+            [
+              -8.668117,
+              27.314942
+            ],
+            [
+              -8.668117,
+              27.314942
+            ],
+            [
+              -8.666252,
+              27.670625
+            ],
+            [
+              -8.666252,
+              27.670625
+            ],
+            [
+              -8.667818,
+              27.994877
+            ],
+            [
+              -8.667818,
+              27.994877
+            ],
+            [
+              -8.668873,
+              28.31106
+            ],
+            [
+              -8.668873,
+              28.31106
+            ],
+            [
+              -8.668749,
+              28.667192
+            ],
+            [
+              -8.668749,
+              28.667192
+            ],
+            [
+              -8.5848,
+              28.741451
+            ],
+            [
+              -8.496001,
+              28.776906
+            ],
+            [
+              -8.496001,
+              28.776906
+            ],
+            [
+              -8.428302,
+              28.810817
+            ],
+            [
+              -8.303098,
+              28.921015
+            ],
+            [
+              -8.303098,
+              28.921015
+            ],
+            [
+              -8.015624,
+              29.090646
+            ],
+            [
+              -8.015624,
+              29.090646
+            ],
+            [
+              -7.891299,
+              29.183183
+            ],
+            [
+              -7.826461,
+              29.206276
+            ],
+            [
+              -7.773232,
+              29.255104
+            ],
+            [
+              -7.637286,
+              29.298042
+            ],
+            [
+              -7.610223,
+              29.367441
+            ],
+            [
+              -7.488727,
+              29.36013
+            ],
+            [
+              -7.488727,
+              29.36013
+            ],
+            [
+              -7.35089,
+              29.388596
+            ],
+            [
+              -7.283717,
+              29.449289
+            ],
+            [
+              -7.283717,
+              29.449289
+            ],
+            [
+              -7.239821,
+              29.485465
+            ],
+            [
+              -7.149831,
+              29.522714
+            ],
+            [
+              -7.022626,
+              29.493585
+            ],
+            [
+              -6.915404,
+              29.497439
+            ],
+            [
+              -6.77725,
+              29.462101
+            ],
+            [
+              -6.714663,
+              29.508501
+            ],
+            [
+              -6.604455,
+              29.527368
+            ],
+            [
+              -6.604455,
+              29.527368
+            ],
+            [
+              -6.541068,
+              29.515345
+            ],
+            [
+              -6.448508,
+              29.565642
+            ],
+            [
+              -6.448508,
+              29.565642
+            ],
+            [
+              -6.390306,
+              29.549829
+            ],
+            [
+              -6.37387,
+              29.568157
+            ],
+            [
+              -6.247456,
+              29.565404
+            ],
+            [
+              -6.165324,
+              29.582295
+            ],
+            [
+              -6.029,
+              29.564145
+            ],
+            [
+              -5.950203,
+              29.590879
+            ],
+            [
+              -5.80203,
+              29.607639
+            ],
+            [
+              -5.723236,
+              29.586196
+            ],
+            [
+              -5.749243,
+              29.518265
+            ],
+            [
+              -5.714535,
+              29.519831
+            ],
+            [
+              -5.685828,
+              29.541187
+            ],
+            [
+              -5.650809,
+              29.504543
+            ],
+            [
+              -5.565482,
+              29.476586
+            ],
+            [
+              -5.499998,
+              29.563009
+            ],
+            [
+              -5.499998,
+              29.563009
+            ],
+            [
+              -5.361356,
+              29.732072
+            ],
+            [
+              -5.361356,
+              29.732072
+            ],
+            [
+              -5.320314,
+              29.787261
+            ],
+            [
+              -5.320314,
+              29.787261
+            ],
+            [
+              -5.322799,
+              29.8188
+            ],
+            [
+              -5.270706,
+              29.904871
+            ],
+            [
+              -5.130034,
+              30.000158
+            ],
+            [
+              -5.130034,
+              30.000158
+            ],
+            [
+              -4.936618,
+              30.140473
+            ],
+            [
+              -4.586268,
+              30.292927
+            ],
+            [
+              -4.329678,
+              30.521546
+            ],
+            [
+              -4.279084,
+              30.54187
+            ],
+            [
+              -4.279084,
+              30.54187
+            ],
+            [
+              -4.148332,
+              30.585137
+            ],
+            [
+              -3.886537,
+              30.61069
+            ],
+            [
+              -3.816799,
+              30.590355
+            ],
+            [
+              -3.742781,
+              30.639634
+            ],
+            [
+              -3.6694,
+              30.664795
+            ],
+            [
+              -3.6694,
+              30.664795
+            ],
+            [
+              -3.6447,
+              30.690438
+            ],
+            [
+              -3.629587,
+              30.744649
+            ],
+            [
+              -3.658447,
+              30.851395
+            ],
+            [
+              -3.636231,
+              30.875682
+            ],
+            [
+              -3.615723,
+              30.86577
+            ],
+            [
+              -3.575302,
+              30.933962
+            ],
+            [
+              -3.559799,
+              30.929184
+            ],
+            [
+              -3.540543,
+              30.955089
+            ],
+            [
+              -3.542002,
+              31.038604
+            ],
+            [
+              -3.554944,
+              31.040299
+            ],
+            [
+              -3.552388,
+              31.063937
+            ],
+            [
+              -3.573893,
+              31.043014
+            ],
+            [
+              -3.59218,
+              31.058343
+            ],
+            [
+              -3.615993,
+              31.119486
+            ],
+            [
+              -3.636938,
+              31.111301
+            ],
+            [
+              -3.638993,
+              31.169772
+            ],
+            [
+              -3.651593,
+              31.134295
+            ],
+            [
+              -3.636583,
+              31.09966
+            ],
+            [
+              -3.664645,
+              31.102512
+            ],
+            [
+              -3.66645,
+              31.09027
+            ],
+            [
+              -3.643864,
+              31.081955
+            ],
+            [
+              -3.679536,
+              31.086518
+            ],
+            [
+              -3.671551,
+              31.15125
+            ],
+            [
+              -3.70206,
+              31.176034
+            ],
+            [
+              -3.713868,
+              31.165705
+            ],
+            [
+              -3.704773,
+              31.151949
+            ],
+            [
+              -3.70545,
+              31.136835
+            ],
+            [
+              -3.708012,
+              31.136758
+            ],
+            [
+              -3.710543,
+              31.154377
+            ],
+            [
+              -3.733906,
+              31.146092
+            ],
+            [
+              -3.730511,
+              31.117121
+            ],
+            [
+              -3.760258,
+              31.125719
+            ],
+            [
+              -3.775059,
+              31.100898
+            ],
+            [
+              -3.777548,
+              31.117994
+            ],
+            [
+              -3.777548,
+              31.117994
+            ],
+            [
+              -3.75931,
+              31.179997
+            ],
+            [
+              -3.790699,
+              31.236217
+            ],
+            [
+              -3.754446,
+              31.279126
+            ],
+            [
+              -3.785554,
+              31.292765
+            ],
+            [
+              -3.762653,
+              31.310618
+            ],
+            [
+              -3.749309,
+              31.36099
+            ],
+            [
+              -3.722566,
+              31.342117
+            ],
+            [
+              -3.711615,
+              31.362014
+            ],
+            [
+              -3.65479,
+              31.383826
+            ],
+            [
+              -3.648377,
+              31.397007
+            ],
+            [
+              -3.66484,
+              31.401464
+            ],
+            [
+              -3.66484,
+              31.401464
+            ],
+            [
+              -3.664955,
+              31.446602
+            ],
+            [
+              -3.664955,
+              31.446602
+            ],
+            [
+              -3.665007,
+              31.513872
+            ],
+            [
+              -3.665007,
+              31.513872
+            ],
+            [
+              -3.664666,
+              31.633535
+            ],
+            [
+              -3.251767,
+              31.71362
+            ],
+            [
+              -3.251767,
+              31.71362
+            ],
+            [
+              -3.132245,
+              31.734593
+            ],
+            [
+              -3.132245,
+              31.734593
+            ],
+            [
+              -2.820696,
+              31.793643
+            ],
+            [
+              -2.820696,
+              31.793643
+            ],
+            [
+              -2.844146,
+              31.832066
+            ],
+            [
+              -2.842322,
+              31.883618
+            ],
+            [
+              -2.912624,
+              32.001998
+            ],
+            [
+              -2.912624,
+              32.001998
+            ],
+            [
+              -2.928132,
+              32.047936
+            ],
+            [
+              -2.928132,
+              32.047936
+            ],
+            [
+              -2.905218,
+              32.086242
+            ],
+            [
+              -2.905218,
+              32.086242
+            ],
+            [
+              -2.873435,
+              32.111359
+            ],
+            [
+              -2.600034,
+              32.112911
+            ],
+            [
+              -2.54244,
+              32.145082
+            ],
+            [
+              -2.402562,
+              32.157695
+            ],
+            [
+              -2.402562,
+              32.157695
+            ],
+            [
+              -2.311334,
+              32.157312
+            ],
+            [
+              -2.311334,
+              32.157312
+            ],
+            [
+              -2.287099,
+              32.152704
+            ],
+            [
+              -2.277609,
+              32.168605
+            ],
+            [
+              -2.180236,
+              32.142248
+            ],
+            [
+              -2.019522,
+              32.181557
+            ],
+            [
+              -1.98244,
+              32.170038
+            ],
+            [
+              -1.98244,
+              32.170038
+            ],
+            [
+              -1.926779,
+              32.151053
+            ],
+            [
+              -1.926779,
+              32.151053
+            ],
+            [
+              -1.903399,
+              32.164357
+            ],
+            [
+              -1.86838,
+              32.144079
+            ],
+            [
+              -1.580311,
+              32.09224
+            ],
+            [
+              -1.504776,
+              32.103871
+            ],
+            [
+              -1.230632,
+              32.077393
+            ],
+            [
+              -1.230632,
+              32.077393
+            ],
+            [
+              -1.229689,
+              32.076367
+            ],
+            [
+              -1.229689,
+              32.076367
+            ],
+            [
+              -1.195896,
+              32.089792
+            ],
+            [
+              -1.195896,
+              32.089792
+            ],
+            [
+              -1.152361,
+              32.111074
+            ],
+            [
+              -1.183153,
+              32.163625
+            ],
+            [
+              -1.269543,
+              32.1628
+            ],
+            [
+              -1.269543,
+              32.1628
+            ],
+            [
+              -1.293674,
+              32.15849
+            ],
+            [
+              -1.300221,
+              32.17069
+            ],
+            [
+              -1.241121,
+              32.205708
+            ],
+            [
+              -1.235084,
+              32.309886
+            ],
+            [
+              -1.248721,
+              32.320263
+            ],
+            [
+              -1.248721,
+              32.320263
+            ],
+            [
+              -1.221742,
+              32.340366
+            ],
+            [
+              -1.195686,
+              32.402719
+            ],
+            [
+              -1.124182,
+              32.411467
+            ],
+            [
+              -1.124182,
+              32.411467
+            ],
+            [
+              -1.044821,
+              32.476329
+            ],
+            [
+              -1.044821,
+              32.476329
+            ],
+            [
+              -0.998635,
+              32.514435
+            ],
+            [
+              -0.998635,
+              32.514435
+            ],
+            [
+              -1.271491,
+              32.6957
+            ],
+            [
+              -1.356409,
+              32.731803
+            ],
+            [
+              -1.356409,
+              32.731803
+            ],
+            [
+              -1.398991,
+              32.762663
+            ],
+            [
+              -1.398991,
+              32.762663
+            ],
+            [
+              -1.543783,
+              32.957761
+            ],
+            [
+              -1.492191,
+              32.969281
+            ],
+            [
+              -1.473715,
+              32.999302
+            ],
+            [
+              -1.473715,
+              32.999302
+            ],
+            [
+              -1.461762,
+              33.042215
+            ],
+            [
+              -1.475468,
+              33.07653
+            ],
+            [
+              -1.573337,
+              33.145802
+            ],
+            [
+              -1.600222,
+              33.204838
+            ],
+            [
+              -1.665597,
+              33.271769
+            ],
+            [
+              -1.663549,
+              33.378122
+            ],
+            [
+              -1.663549,
+              33.378122
+            ],
+            [
+              -1.621267,
+              33.448182
+            ],
+            [
+              -1.621766,
+              33.487712
+            ],
+            [
+              -1.588157,
+              33.529064
+            ],
+            [
+              -1.60336,
+              33.556397
+            ],
+            [
+              -1.594709,
+              33.605486
+            ],
+            [
+              -1.631342,
+              33.631416
+            ],
+            [
+              -1.646183,
+              33.669714
+            ],
+            [
+              -1.646183,
+              33.669714
+            ],
+            [
+              -1.711503,
+              33.687023
+            ],
+            [
+              -1.711503,
+              33.687023
+            ],
+            [
+              -1.732475,
+              33.701108
+            ],
+            [
+              -1.720946,
+              33.740565
+            ],
+            [
+              -1.67132,
+              33.773102
+            ],
+            [
+              -1.698747,
+              33.869688
+            ],
+            [
+              -1.651417,
+              34.096674
+            ],
+            [
+              -1.651417,
+              34.096674
+            ],
+            [
+              -1.703023,
+              34.220223
+            ],
+            [
+              -1.703023,
+              34.220223
+            ],
+            [
+              -1.705332,
+              34.30687
+            ],
+            [
+              -1.78297,
+              34.391696
+            ],
+            [
+              -1.742746,
+              34.434308
+            ],
+            [
+              -1.742746,
+              34.434308
+            ],
+            [
+              -1.687731,
+              34.493127
+            ],
+            [
+              -1.687731,
+              34.493127
+            ],
+            [
+              -1.741365,
+              34.507819
+            ],
+            [
+              -1.741365,
+              34.507819
+            ],
+            [
+              -1.796427,
+              34.577363
+            ],
+            [
+              -1.796427,
+              34.577363
+            ],
+            [
+              -1.822982,
+              34.609694
+            ],
+            [
+              -1.853826,
+              34.616229
+            ],
+            [
+              -1.772907,
+              34.714724
+            ],
+            [
+              -1.772907,
+              34.714724
+            ],
+            [
+              -1.771224,
+              34.724608
+            ],
+            [
+              -1.771224,
+              34.724608
+            ],
+            [
+              -1.738869,
+              34.742841
+            ],
+            [
+              -1.765886,
+              34.756377
+            ],
+            [
+              -1.765886,
+              34.756377
+            ],
+            [
+              -1.814831,
+              34.782659
+            ],
+            [
+              -1.814831,
+              34.782659
+            ],
+            [
+              -1.817874,
+              34.781545
+            ],
+            [
+              -1.817874,
+              34.781545
+            ],
+            [
+              -1.886147,
+              34.806143
+            ],
+            [
+              -1.886147,
+              34.806143
+            ],
+            [
+              -1.888732,
+              34.806219
+            ],
+            [
+              -1.888732,
+              34.806219
+            ],
+            [
+              -1.892918,
+              34.838729
+            ],
+            [
+              -1.892918,
+              34.838729
+            ],
+            [
+              -1.922662,
+              34.855158
+            ],
+            [
+              -1.922662,
+              34.855158
+            ],
+            [
+              -1.945084,
+              34.864789
+            ],
+            [
+              -1.945084,
+              34.864789
+            ],
+            [
+              -1.973033,
+              34.879901
+            ],
+            [
+              -1.973033,
+              34.879901
+            ],
+            [
+              -1.974089,
+              34.891689
+            ],
+            [
+              -1.974089,
+              34.891689
+            ],
+            [
+              -1.973461,
+              34.935796
+            ],
+            [
+              -1.973461,
+              34.935796
+            ],
+            [
+              -2.036433,
+              34.924488
+            ],
+            [
+              -2.056373,
+              34.936052
+            ],
+            [
+              -2.056373,
+              34.936052
+            ],
+            [
+              -2.07684,
+              34.946926
+            ],
+            [
+              -2.07684,
+              34.946926
+            ],
+            [
+              -2.091863,
+              34.957815
+            ],
+            [
+              -2.091863,
+              34.957815
+            ],
+            [
+              -2.09417,
+              34.959101
+            ],
+            [
+              -2.09417,
+              34.959101
+            ],
+            [
+              -2.108577,
+              34.970903
+            ],
+            [
+              -2.108577,
+              34.970903
+            ],
+            [
+              -2.144264,
+              34.998891
+            ],
+            [
+              -2.144264,
+              34.998891
+            ],
+            [
+              -2.159152,
+              35.008032
+            ],
+            [
+              -2.159152,
+              35.008032
+            ],
+            [
+              -2.208869,
+              35.041465
+            ],
+            [
+              -2.208869,
+              35.041465
+            ],
+            [
+              -2.217537,
+              35.049703
+            ],
+            [
+              -2.217537,
+              35.049703
+            ],
+            [
+              -2.211761,
+              35.085257
+            ],
+            [
+              -2.211761,
+              35.085257
+            ],
+            [
+              -2.206422,
+              35.337216
+            ],
+            [
+              -2.206422,
+              35.337216
+            ],
+            [
+              -1.980037,
+              35.321943
+            ],
+            [
+              -1.835456,
+              35.363377
+            ],
+            [
+              -1.662113,
+              35.463396
+            ],
+            [
+              -1.348837,
+              35.836761
+            ],
+            [
+              -1.239757,
+              35.908428
+            ],
+            [
+              -0.952747,
+              35.968536
+            ],
+            [
+              -0.820581,
+              35.966466
+            ],
+            [
+              -0.540832,
+              36.081666
+            ],
+            [
+              -0.369216,
+              36.112712
+            ],
+            [
+              -0.013192,
+              36.212621
+            ],
+            [
+              0.198441,
+              36.356365
+            ],
+            [
+              0.540427,
+              36.506767
+            ],
+            [
+              0.691439,
+              36.547639
+            ],
+            [
+              0.844753,
+              36.633907
+            ],
+            [
+              1.275616,
+              36.746363
+            ],
+            [
+              1.641617,
+              36.756122
+            ],
+            [
+              1.823839,
+              36.793701
+            ],
+            [
+              1.920962,
+              36.786743
+            ],
+            [
+              2.301293,
+              36.845937
+            ],
+            [
+              2.3926,
+              36.845902
+            ],
+            [
+              2.709972,
+              36.940912
+            ],
+            [
+              2.760499,
+              36.975336
+            ],
+            [
+              2.848711,
+              37.004293
+            ],
+            [
+              2.964696,
+              37.020195
+            ],
+            [
+              3.288204,
+              37.019773
+            ],
+            [
+              3.870719,
+              37.12646
+            ],
+            [
+              4.79142,
+              37.096822
+            ],
+            [
+              4.882451,
+              37.081561
+            ],
+            [
+              5.173146,
+              36.980317
+            ],
+            [
+              5.5433,
+              36.987336
+            ],
+            [
+              5.645342,
+              37.018679
+            ],
+            [
+              5.993441,
+              37.060952
+            ],
+            [
+              6.11935,
+              37.18999
+            ],
+            [
+              6.222832,
+              37.247606
+            ],
+            [
+              6.376723,
+              37.288927
+            ],
+            [
+              6.569153,
+              37.276724
+            ],
+            [
+              6.656947,
+              37.242218
+            ],
+            [
+              6.756153,
+              37.179027
+            ],
+            [
+              7.171731,
+              37.294725
+            ],
+            [
+              7.413017,
+              37.285869
+            ],
+            [
+              7.5,
+              37.268984
+            ],
+            [
+              7.5,
+              37.268984
+            ],
+            [
+              7.740888,
+              37.176008
+            ],
+            [
+              8.252487,
+              37.152834
+            ],
+            [
+              8.417769,
+              37.121037
+            ],
+            [
+              8.590491,
+              37.143033
+            ],
+            [
+              8.590491,
+              37.143033
+            ],
+            [
+              8.642077,
+              36.940926
+            ],
+            [
+              8.642077,
+              36.940926
+            ],
+            [
+              8.653986,
+              36.915688
+            ],
+            [
+              8.653986,
+              36.915688
+            ],
+            [
+              8.631074,
+              36.899616
+            ],
+            [
+              8.624756,
+              36.855123
+            ],
+            [
+              8.624756,
+              36.855123
+            ],
+            [
+              8.681129,
+              36.838951
+            ],
+            [
+              8.636889,
+              36.804138
+            ],
+            [
+              8.636889,
+              36.804138
+            ],
+            [
+              8.635947,
+              36.803232
+            ],
+            [
+              8.635947,
+              36.803232
+            ],
+            [
+              8.590616,
+              36.792375
+            ],
+            [
+              8.590616,
+              36.792375
+            ],
+            [
+              8.572483,
+              36.773199
+            ],
+            [
+              8.541791,
+              36.77304
+            ],
+            [
+              8.541791,
+              36.77304
+            ],
+            [
+              8.523079,
+              36.781925
+            ],
+            [
+              8.523079,
+              36.781925
+            ],
+            [
+              8.430644,
+              36.759849
+            ],
+            [
+              8.430644,
+              36.759849
+            ],
+            [
+              8.428918,
+              36.748733
+            ],
+            [
+              8.470049,
+              36.741416
+            ],
+            [
+              8.470049,
+              36.741416
+            ],
+            [
+              8.483752,
+              36.698747
+            ],
+            [
+              8.483752,
+              36.698747
+            ],
+            [
+              8.482614,
+              36.681562
+            ],
+            [
+              8.482614,
+              36.681562
+            ],
+            [
+              8.451448,
+              36.662297
+            ],
+            [
+              8.455215,
+              36.641902
+            ],
+            [
+              8.455215,
+              36.641902
+            ],
+            [
+              8.449201,
+              36.618071
+            ],
+            [
+              8.449201,
+              36.618071
+            ],
+            [
+              8.417829,
+              36.622394
+            ],
+            [
+              8.386024,
+              36.594569
+            ],
+            [
+              8.386024,
+              36.594569
+            ],
+            [
+              8.359868,
+              36.589625
+            ],
+            [
+              8.359868,
+              36.589625
+            ],
+            [
+              8.349089,
+              36.582868
+            ],
+            [
+              8.349089,
+              36.582868
+            ],
+            [
+              8.323891,
+              36.570035
+            ],
+            [
+              8.323891,
+              36.570035
+            ],
+            [
+              8.281584,
+              36.538651
+            ],
+            [
+              8.281584,
+              36.538651
+            ],
+            [
+              8.256953,
+              36.537155
+            ],
+            [
+              8.256953,
+              36.537155
+            ],
+            [
+              8.155807,
+              36.499417
+            ],
+            [
+              8.155807,
+              36.499417
+            ],
+            [
+              8.159485,
+              36.490815
+            ],
+            [
+              8.159485,
+              36.490815
+            ],
+            [
+              8.167103,
+              36.467227
+            ],
+            [
+              8.167103,
+              36.467227
+            ],
+            [
+              8.213415,
+              36.446693
+            ],
+            [
+              8.327308,
+              36.43614
+            ],
+            [
+              8.327308,
+              36.43614
+            ],
+            [
+              8.332204,
+              36.433366
+            ],
+            [
+              8.332204,
+              36.433366
+            ],
+            [
+              8.354868,
+              36.446179
+            ],
+            [
+              8.371782,
+              36.428334
+            ],
+            [
+              8.371782,
+              36.428334
+            ],
+            [
+              8.409521,
+              36.41171
+            ],
+            [
+              8.409521,
+              36.41171
+            ],
+            [
+              8.39439,
+              36.365803
+            ],
+            [
+              8.39439,
+              36.365803
+            ],
+            [
+              8.376502,
+              36.350036
+            ],
+            [
+              8.376502,
+              36.350036
+            ],
+            [
+              8.377245,
+              36.324029
+            ],
+            [
+              8.377245,
+              36.324029
+            ],
+            [
+              8.391056,
+              36.304944
+            ],
+            [
+              8.369942,
+              36.296506
+            ],
+            [
+              8.369942,
+              36.296506
+            ],
+            [
+              8.337915,
+              36.264522
+            ],
+            [
+              8.337915,
+              36.264522
+            ],
+            [
+              8.355211,
+              36.250876
+            ],
+            [
+              8.355211,
+              36.250876
+            ],
+            [
+              8.346816,
+              36.225887
+            ],
+            [
+              8.346816,
+              36.225887
+            ],
+            [
+              8.306823,
+              36.17283
+            ],
+            [
+              8.338532,
+              36.137817
+            ],
+            [
+              8.34188,
+              36.104379
+            ],
+            [
+              8.34188,
+              36.104379
+            ],
+            [
+              8.343368,
+              36.100732
+            ],
+            [
+              8.343368,
+              36.100732
+            ],
+            [
+              8.346006,
+              36.097034
+            ],
+            [
+              8.346006,
+              36.097034
+            ],
+            [
+              8.311695,
+              36.069594
+            ],
+            [
+              8.300059,
+              36.010816
+            ],
+            [
+              8.300059,
+              36.010816
+            ],
+            [
+              8.290822,
+              35.956901
+            ],
+            [
+              8.290822,
+              35.956901
+            ],
+            [
+              8.266019,
+              35.939898
+            ],
+            [
+              8.266019,
+              35.939898
+            ],
+            [
+              8.255696,
+              35.908322
+            ],
+            [
+              8.2705,
+              35.902356
+            ],
+            [
+              8.253461,
+              35.885881
+            ],
+            [
+              8.270414,
+              35.879584
+            ],
+            [
+              8.268483,
+              35.858672
+            ],
+            [
+              8.268483,
+              35.858672
+            ],
+            [
+              8.265596,
+              35.786628
+            ],
+            [
+              8.265596,
+              35.786628
+            ],
+            [
+              8.264271,
+              35.730655
+            ],
+            [
+              8.264271,
+              35.730655
+            ],
+            [
+              8.310833,
+              35.692147
+            ],
+            [
+              8.310833,
+              35.692147
+            ],
+            [
+              8.356044,
+              35.669768
+            ],
+            [
+              8.35396,
+              35.616608
+            ],
+            [
+              8.35396,
+              35.616608
+            ],
+            [
+              8.36197,
+              35.541744
+            ],
+            [
+              8.36197,
+              35.541744
+            ],
+            [
+              8.374258,
+              35.494197
+            ],
+            [
+              8.374258,
+              35.494197
+            ],
+            [
+              8.384405,
+              35.466762
+            ],
+            [
+              8.384405,
+              35.466762
+            ],
+            [
+              8.353269,
+              35.463145
+            ],
+            [
+              8.317672,
+              35.415261
+            ],
+            [
+              8.317672,
+              35.415261
+            ],
+            [
+              8.324495,
+              35.41339
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "DZ",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+        "name": "Alg\u00e9rie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+        "id": "DZ"
       }
     }
   ]

@@ -3,344 +3,196 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.57167,
+              1.4435
+            ],
+            [
+              104.535126,
+              1.380239
+            ],
+            [
+              104.535126,
+              1.380239
+            ],
+            [
+              104.407387,
+              1.325586
+            ],
+            [
+              104.345933,
+              1.321372
+            ],
+            [
+              104.390198,
+              1.424105
+            ],
+            [
+              104.487707,
+              1.514318
+            ],
+            [
+              104.487707,
+              1.514318
+            ],
+            [
+              104.57167,
+              1.4435
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "SG",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            104.487707,
-            1.5143183
-          ],
-          [
-            104.5716696,
-            1.4435
-          ]
-        ]
+        "name": "Singapore",
+        "id": "SG"
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.881308,
+              1.20607
+            ],
+            [
+              103.918592,
+              1.222689
+            ],
+            [
+              103.918592,
+              1.222689
+            ],
+            [
+              104.032561,
+              1.2627
+            ],
+            [
+              104.032561,
+              1.2627
+            ],
+            [
+              104.13308,
+              1.265667
+            ],
+            [
+              104.13308,
+              1.265667
+            ],
+            [
+              104.081439,
+              1.357607
+            ],
+            [
+              104.093671,
+              1.39987
+            ],
+            [
+              104.077676,
+              1.431339
+            ],
+            [
+              104.040683,
+              1.4466
+            ],
+            [
+              103.992917,
+              1.425
+            ],
+            [
+              103.920044,
+              1.427449
+            ],
+            [
+              103.920044,
+              1.427449
+            ],
+            [
+              103.902128,
+              1.427825
+            ],
+            [
+              103.902128,
+              1.427825
+            ],
+            [
+              103.87789,
+              1.445409
+            ],
+            [
+              103.87789,
+              1.445409
+            ],
+            [
+              103.812624,
+              1.478751
+            ],
+            [
+              103.760404,
+              1.448854
+            ],
+            [
+              103.740095,
+              1.453872
+            ],
+            [
+              103.740095,
+              1.453872
+            ],
+            [
+              103.713811,
+              1.457944
+            ],
+            [
+              103.672902,
+              1.428396
+            ],
+            [
+              103.586414,
+              1.269411
+            ],
+            [
+              103.586414,
+              1.269411
+            ],
+            [
+              103.566667,
+              1.1955
+            ],
+            [
+              103.566667,
+              1.1955
+            ],
+            [
+              103.659643,
+              1.185421
+            ],
+            [
+              103.740448,
+              1.12854
+            ],
+            [
+              103.881308,
+              1.20607
+            ]
+          ]
+        ]
+      },
       "properties": {
         "iso-3166-1": "SG",
         "iso-3166-2": null,
         "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            104.5716696,
-            1.4435
-          ],
-          [
-            104.535126,
-            1.3802388
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            104.535126,
-            1.3802388
-          ],
-          [
-            104.4073872,
-            1.325586
-          ],
-          [
-            104.3459327,
-            1.3213718
-          ],
-          [
-            104.3901981,
-            1.4241048
-          ],
-          [
-            104.487707,
-            1.5143183
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            103.5666667,
-            1.1955
-          ],
-          [
-            103.659643,
-            1.1854207
-          ],
-          [
-            103.7404479,
-            1.1285402
-          ],
-          [
-            103.8813079,
-            1.2060701
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            103.8813079,
-            1.2060701
-          ],
-          [
-            103.9185915,
-            1.2226885
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            103.9185915,
-            1.2226885
-          ],
-          [
-            104.0325609,
-            1.2626996
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            104.1330802,
-            1.2656666
-          ],
-          [
-            104.0325609,
-            1.2626996
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            103.9200435,
-            1.4274486
-          ],
-          [
-            103.9929167,
-            1.425
-          ],
-          [
-            104.0406831,
-            1.4465999
-          ],
-          [
-            104.0776756,
-            1.4313394
-          ],
-          [
-            104.0936715,
-            1.39987
-          ],
-          [
-            104.0814389,
-            1.3576073
-          ],
-          [
-            104.1330802,
-            1.2656666
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            103.9021275,
-            1.427825
-          ],
-          [
-            103.9200435,
-            1.4274486
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            103.8778899,
-            1.4454088
-          ],
-          [
-            103.9021275,
-            1.427825
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            103.7400951,
-            1.4538716
-          ],
-          [
-            103.7604043,
-            1.4488536
-          ],
-          [
-            103.8126238,
-            1.4787511
-          ],
-          [
-            103.8778899,
-            1.4454088
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            103.5864138,
-            1.2694108
-          ],
-          [
-            103.6729018,
-            1.4283963
-          ],
-          [
-            103.7138107,
-            1.4579441
-          ],
-          [
-            103.7400951,
-            1.4538716
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "SG",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
-        "name": "Singapore"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            103.5864138,
-            1.2694108
-          ],
-          [
-            103.5666667,
-            1.1955
-          ]
-        ]
+        "name": "Singapore",
+        "id": "SG"
       }
     }
   ]

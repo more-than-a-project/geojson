@@ -3,4572 +3,2167 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.7171281,
-            16.0672303
-          ],
-          [
-            -16.7272703,
-            16.2988337
-          ],
-          [
-            -16.6595973,
-            16.5302179
-          ],
-          [
-            -16.642166,
-            16.6722288
-          ],
-          [
-            -16.3499652,
-            17.3762935
-          ],
-          [
-            -16.2726946,
-            17.6221189
-          ],
-          [
-            -16.233156,
-            18.0628899
-          ],
-          [
-            -16.2612897,
-            18.40435
-          ],
-          [
-            -16.3366563,
-            18.6013877
-          ],
-          [
-            -16.3897586,
-            18.8706853
-          ],
-          [
-            -16.4405082,
-            18.9764324
-          ],
-          [
-            -16.4869602,
-            19.0308718
-          ],
-          [
-            -16.6252722,
-            19.1201581
-          ],
-          [
-            -16.7382487,
-            19.2996811
-          ],
-          [
-            -17.2359609,
-            20.667252
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.7171281,
-            16.0672303
-          ],
-          [
-            -16.5087122,
-            16.0664132
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.5087122,
-            16.0664132
-          ],
-          [
-            -16.5083018,
-            16.06638
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.5083018,
-            16.06638
-          ],
-          [
-            -16.5049004,
-            16.0663942
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.501394,
-            16.0693237
-          ],
-          [
-            -16.5049004,
-            16.0663942
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4969512,
-            16.0739597
-          ],
-          [
-            -16.501394,
-            16.0693237
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4964282,
-            16.0734262
-          ],
-          [
-            -16.4969512,
-            16.0739597
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4960577,
-            16.0730012
-          ],
-          [
-            -16.4964282,
-            16.0734262
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4949922,
-            16.0725597
-          ],
-          [
-            -16.4960577,
-            16.0730012
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4939441,
-            16.0723465
-          ],
-          [
-            -16.4949922,
-            16.0725597
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4918304,
-            16.0693284
-          ],
-          [
-            -16.4939441,
-            16.0723465
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4918304,
-            16.0693284
-          ],
-          [
-            -16.4889713,
-            16.0609903
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4889713,
-            16.0609903
-          ],
-          [
-            -16.4894601,
-            16.0572127
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4894601,
-            16.0572127
-          ],
-          [
-            -16.4872045,
-            16.0553107
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4771256,
-            16.0656486
-          ],
-          [
-            -16.4872045,
-            16.0553107
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4264759,
-            16.2154628
-          ],
-          [
-            -16.4546486,
-            16.1800716
-          ],
-          [
-            -16.4437191,
-            16.1033454
-          ],
-          [
-            -16.4771256,
-            16.0656486
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4147628,
-            16.2157674
-          ],
-          [
-            -16.4264759,
-            16.2154628
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4146839,
-            16.2157622
-          ],
-          [
-            -16.4147628,
-            16.2157674
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.4079891,
-            16.2141538
-          ],
-          [
-            -16.4146839,
-            16.2157622
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.3537937,
-            16.2798769
-          ],
-          [
-            -16.3722886,
-            16.2330496
-          ],
-          [
-            -16.4079891,
-            16.2141538
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.1519284,
-            16.5472338
-          ],
-          [
-            -16.18851,
-            16.5133913
-          ],
-          [
-            -16.2500817,
-            16.5257273
-          ],
-          [
-            -16.2824142,
-            16.5096851
-          ],
-          [
-            -16.3103061,
-            16.4093186
-          ],
-          [
-            -16.3320417,
-            16.3975084
-          ],
-          [
-            -16.3320203,
-            16.3489881
-          ],
-          [
-            -16.3663223,
-            16.3148877
-          ],
-          [
-            -16.3537937,
-            16.2798769
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.812205,
-            16.5069971
-          ],
-          [
-            -15.8585329,
-            16.4906422
-          ],
-          [
-            -15.8670516,
-            16.5125194
-          ],
-          [
-            -15.8959759,
-            16.5151246
-          ],
-          [
-            -15.9633976,
-            16.4830231
-          ],
-          [
-            -16.0022955,
-            16.5008111
-          ],
-          [
-            -16.0517667,
-            16.4770632
-          ],
-          [
-            -16.1024302,
-            16.5231328
-          ],
-          [
-            -16.1094651,
-            16.5525536
-          ],
-          [
-            -16.1519284,
-            16.5472338
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.7929557,
-            16.4977571
-          ],
-          [
-            -15.812205,
-            16.5069971
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.7082975,
-            16.4722613
-          ],
-          [
-            -15.7929557,
-            16.4977571
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.696065,
-            16.4714171
-          ],
-          [
-            -15.7082975,
-            16.4722613
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.673828,
-            16.4786523
-          ],
-          [
-            -15.696065,
-            16.4714171
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.6310515,
-            16.490072
-          ],
-          [
-            -15.673828,
-            16.4786523
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.5120714,
-            16.522756
-          ],
-          [
-            -15.5479163,
-            16.5091349
-          ],
-          [
-            -15.6230573,
-            16.5246157
-          ],
-          [
-            -15.6310515,
-            16.490072
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.5072201,
-            16.5276095
-          ],
-          [
-            -15.5120714,
-            16.522756
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.4514737,
-            16.5871825
-          ],
-          [
-            -15.4714057,
-            16.590177
-          ],
-          [
-            -15.5127493,
-            16.5632979
-          ],
-          [
-            -15.5072201,
-            16.5276095
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.4360248,
-            16.5694798
-          ],
-          [
-            -15.4514737,
-            16.5871825
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.3330151,
-            16.5607515
-          ],
-          [
-            -15.4064866,
-            16.5347643
-          ],
-          [
-            -15.4290965,
-            16.545185
-          ],
-          [
-            -15.4360248,
-            16.5694798
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.1037109,
-            16.5885353
-          ],
-          [
-            -15.126793,
-            16.5774817
-          ],
-          [
-            -15.1697107,
-            16.5891727
-          ],
-          [
-            -15.2296043,
-            16.5523314
-          ],
-          [
-            -15.301216,
-            16.5743142
-          ],
-          [
-            -15.3330151,
-            16.5607515
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.0666205,
-            16.6476416
-          ],
-          [
-            -15.092462,
-            16.6776883
-          ],
-          [
-            -15.117168,
-            16.6540887
-          ],
-          [
-            -15.1169945,
-            16.6349858
-          ],
-          [
-            -15.0778719,
-            16.6223994
-          ],
-          [
-            -15.1037109,
-            16.5885353
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.952995,
-            16.6618451
-          ],
-          [
-            -14.9535076,
-            16.6780436
-          ],
-          [
-            -14.9860289,
-            16.6919044
-          ],
-          [
-            -15.0057244,
-            16.6403456
-          ],
-          [
-            -15.0526409,
-            16.6275089
-          ],
-          [
-            -15.0666205,
-            16.6476416
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.9540211,
-            16.657611
-          ],
-          [
-            -14.952995,
-            16.6618451
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.9543401,
-            16.6561639
-          ],
-          [
-            -14.9540211,
-            16.657611
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.9466224,
-            16.6364772
-          ],
-          [
-            -14.9543401,
-            16.6561639
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.7490604,
-            16.6241888
-          ],
-          [
-            -14.7664541,
-            16.6557534
-          ],
-          [
-            -14.7880116,
-            16.6288626
-          ],
-          [
-            -14.8132258,
-            16.6536999
-          ],
-          [
-            -14.8263473,
-            16.6346138
-          ],
-          [
-            -14.8613645,
-            16.6361656
-          ],
-          [
-            -14.878449,
-            16.6601657
-          ],
-          [
-            -14.8976709,
-            16.6299992
-          ],
-          [
-            -14.9131071,
-            16.6484487
-          ],
-          [
-            -14.9466224,
-            16.6364772
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.5670217,
-            16.6227297
-          ],
-          [
-            -14.6233795,
-            16.6289716
-          ],
-          [
-            -14.64016,
-            16.6172255
-          ],
-          [
-            -14.649035,
-            16.6499592
-          ],
-          [
-            -14.7266045,
-            16.6465612
-          ],
-          [
-            -14.7341972,
-            16.6193116
-          ],
-          [
-            -14.7490604,
-            16.6241888
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.5519244,
-            16.6243241
-          ],
-          [
-            -14.5670217,
-            16.6227297
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.5133163,
-            16.623593
-          ],
-          [
-            -14.5452559,
-            16.6437441
-          ],
-          [
-            -14.5519244,
-            16.6243241
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.2569282,
-            16.5142526
-          ],
-          [
-            -14.2768802,
-            16.5835338
-          ],
-          [
-            -14.333282,
-            16.5696175
-          ],
-          [
-            -14.3340076,
-            16.6410994
-          ],
-          [
-            -14.4046574,
-            16.6320586
-          ],
-          [
-            -14.4200327,
-            16.6525258
-          ],
-          [
-            -14.4483385,
-            16.622881
-          ],
-          [
-            -14.5133163,
-            16.623593
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.2026492,
-            16.5121293
-          ],
-          [
-            -14.2000008,
-            16.5315161
-          ],
-          [
-            -14.23838,
-            16.5466133
-          ],
-          [
-            -14.2569282,
-            16.5142526
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.199543,
-            16.5086931
-          ],
-          [
-            -14.2026492,
-            16.5121293
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.1491085,
-            16.4712146
-          ],
-          [
-            -14.199543,
-            16.5086931
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.0271212,
-            16.3476702
-          ],
-          [
-            -14.0710564,
-            16.4061559
-          ],
-          [
-            -14.139163,
-            16.4545874
-          ],
-          [
-            -14.1332171,
-            16.4774657
-          ],
-          [
-            -14.1491085,
-            16.4712146
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.9723681,
-            16.2224068
-          ],
-          [
-            -13.9519513,
-            16.2702222
-          ],
-          [
-            -13.9872969,
-            16.2752456
-          ],
-          [
-            -13.9908632,
-            16.3043815
-          ],
-          [
-            -13.957453,
-            16.3148238
-          ],
-          [
-            -13.9952604,
-            16.3459182
-          ],
-          [
-            -14.0271212,
-            16.3476702
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.8421007,
-            16.1082134
-          ],
-          [
-            -13.8785268,
-            16.154643
-          ],
-          [
-            -13.8756485,
-            16.1950396
-          ],
-          [
-            -13.9116638,
-            16.1955412
-          ],
-          [
-            -13.9207799,
-            16.2302266
-          ],
-          [
-            -13.9723681,
-            16.2224068
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.7040211,
-            16.1628782
-          ],
-          [
-            -13.7185342,
-            16.1815226
-          ],
-          [
-            -13.7467307,
-            16.1508494
-          ],
-          [
-            -13.7980714,
-            16.1430687
-          ],
-          [
-            -13.8421007,
-            16.1082134
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.7178069,
-            16.1362925
-          ],
-          [
-            -13.7040211,
-            16.1628782
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.6805904,
-            16.0946248
-          ],
-          [
-            -13.7178069,
-            16.1362925
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.546943,
-            16.1329146
-          ],
-          [
-            -13.6805904,
-            16.0946248
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.4902225,
-            16.1469888
-          ],
-          [
-            -13.5184301,
-            16.1250393
-          ],
-          [
-            -13.546943,
-            16.1329146
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.4860038,
-            16.0817271
-          ],
-          [
-            -13.515092,
-            16.1025007
-          ],
-          [
-            -13.4746948,
-            16.1316752
-          ],
-          [
-            -13.4902225,
-            16.1469888
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.3512666,
-            15.9480053
-          ],
-          [
-            -13.3784164,
-            16.0150305
-          ],
-          [
-            -13.3757739,
-            16.0547033
-          ],
-          [
-            -13.4409873,
-            16.0815277
-          ],
-          [
-            -13.4597625,
-            16.1089496
-          ],
-          [
-            -13.4860038,
-            16.0817271
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.3379827,
-            15.9341435
-          ],
-          [
-            -13.3512666,
-            15.9480053
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.3028306,
-            15.8365365
-          ],
-          [
-            -13.3000701,
-            15.8707697
-          ],
-          [
-            -13.3351214,
-            15.8954326
-          ],
-          [
-            -13.3122827,
-            15.9232564
-          ],
-          [
-            -13.3379827,
-            15.9341435
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.2195125,
-            15.7046087
-          ],
-          [
-            -13.2921995,
-            15.7665427
-          ],
-          [
-            -13.2877259,
-            15.7897537
-          ],
-          [
-            -13.2652453,
-            15.7893786
-          ],
-          [
-            -13.3028306,
-            15.8365365
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.2525207,
-            15.6714541
-          ],
-          [
-            -13.2180101,
-            15.6751654
-          ],
-          [
-            -13.2076163,
-            15.6936527
-          ],
-          [
-            -13.2195125,
-            15.7046087
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.2389503,
-            15.6373545
-          ],
-          [
-            -13.2525207,
-            15.6714541
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.1653081,
-            15.615141
-          ],
-          [
-            -13.1903731,
-            15.6263944
-          ],
-          [
-            -13.2225879,
-            15.6091585
-          ],
-          [
-            -13.2389503,
-            15.6373545
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.0932324,
-            15.5699443
-          ],
-          [
-            -13.0884448,
-            15.5823608
-          ],
-          [
-            -13.1653081,
-            15.615141
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.0857819,
-            15.5566056
-          ],
-          [
-            -13.0932324,
-            15.5699443
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.0176421,
-            15.482362
-          ],
-          [
-            -13.0566693,
-            15.4783023
-          ],
-          [
-            -13.1022285,
-            15.4972527
-          ],
-          [
-            -13.0857819,
-            15.5566056
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.9600025,
-            15.4439385
-          ],
-          [
-            -12.964898,
-            15.5001298
-          ],
-          [
-            -13.0176421,
-            15.482362
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.8599726,
-            15.2558293
-          ],
-          [
-            -12.8434596,
-            15.2615568
-          ],
-          [
-            -12.8362072,
-            15.2900088
-          ],
-          [
-            -12.8861956,
-            15.3358145
-          ],
-          [
-            -12.932315,
-            15.3423929
-          ],
-          [
-            -12.9481965,
-            15.3657054
-          ],
-          [
-            -12.9484482,
-            15.4142267
-          ],
-          [
-            -12.9249245,
-            15.4416231
-          ],
-          [
-            -12.9600025,
-            15.4439385
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.8750853,
-            15.2672825
-          ],
-          [
-            -12.8599726,
-            15.2558293
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.8920106,
-            15.2691022
-          ],
-          [
-            -12.8750853,
-            15.2672825
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.8564528,
-            15.2148353
-          ],
-          [
-            -12.8979613,
-            15.2492041
-          ],
-          [
-            -12.8920106,
-            15.2691022
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.7883703,
-            15.1834368
-          ],
-          [
-            -12.802807,
-            15.2143732
-          ],
-          [
-            -12.8463006,
-            15.1984957
-          ],
-          [
-            -12.8564528,
-            15.2148353
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.7460519,
-            15.1312107
-          ],
-          [
-            -12.790722,
-            15.1518475
-          ],
-          [
-            -12.7883703,
-            15.1834368
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.7015368,
-            15.0981281
-          ],
-          [
-            -12.7460519,
-            15.1312107
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.6958388,
-            15.0881803
-          ],
-          [
-            -12.7015368,
-            15.0981281
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.6912973,
-            15.0842185
-          ],
-          [
-            -12.6958388,
-            15.0881803
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.5520493,
-            15.0321387
-          ],
-          [
-            -12.6062155,
-            15.0829018
-          ],
-          [
-            -12.6639152,
-            15.1090666
-          ],
-          [
-            -12.6912973,
-            15.0842185
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.5313548,
-            15.0261823
-          ],
-          [
-            -12.5520493,
-            15.0321387
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.4528361,
-            14.921813
-          ],
-          [
-            -12.4664992,
-            14.989726
-          ],
-          [
-            -12.5313548,
-            15.0261823
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.4544667,
-            14.8946677
-          ],
-          [
-            -12.4528361,
-            14.921813
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.4201051,
-            14.8604818
-          ],
-          [
-            -12.4544667,
-            14.8946677
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.2402835,
-            14.7647189
-          ],
-          [
-            -12.2814901,
-            14.7734698
-          ],
-          [
-            -12.3303577,
-            14.8282677
-          ],
-          [
-            -12.3679528,
-            14.8277212
-          ],
-          [
-            -12.4201051,
-            14.8604818
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0553382,
-            14.7209909
-          ],
-          [
-            -12.1040938,
-            14.7430967
-          ],
-          [
-            -12.130075,
-            14.7759818
-          ],
-          [
-            -12.1718231,
-            14.7612484
-          ],
-          [
-            -12.2402835,
-            14.7647189
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.8039232,
-            15.2560551
-          ],
-          [
-            -11.8017452,
-            15.2248918
-          ],
-          [
-            -11.835788,
-            15.184728
-          ],
-          [
-            -11.809837,
-            15.139148
-          ],
-          [
-            -11.8446136,
-            15.0933807
-          ],
-          [
-            -11.8269453,
-            15.0713239
-          ],
-          [
-            -11.8413949,
-            15.042503
-          ],
-          [
-            -11.806701,
-            15.0493137
-          ],
-          [
-            -11.7870065,
-            15.0274521
-          ],
-          [
-            -11.816436,
-            14.940468
-          ],
-          [
-            -11.7995417,
-            14.8949916
-          ],
-          [
-            -11.8250577,
-            14.8938465
-          ],
-          [
-            -11.8284588,
-            14.8727243
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.8284588,
-            14.8727243
-          ],
-          [
-            -11.8489678,
-            14.8544884
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.8489678,
-            14.8544884
-          ],
-          [
-            -11.896634,
-            14.8220325
-          ],
-          [
-            -11.9297681,
-            14.8193288
-          ],
-          [
-            -11.93643,
-            14.781769
-          ],
-          [
-            -11.960718,
-            14.76702
-          ],
-          [
-            -12.0423219,
-            14.7681176
-          ],
-          [
-            -12.0553382,
-            14.7209909
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.7544478,
-            15.3800104
-          ],
-          [
-            -11.7667871,
-            15.3360396
-          ],
-          [
-            -11.7931742,
-            15.3203583
-          ],
-          [
-            -11.8039232,
-            15.2560551
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.7043503,
-            15.4918144
-          ],
-          [
-            -11.736754,
-            15.468301
-          ],
-          [
-            -11.7544478,
-            15.3800104
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.708066,
-            15.5371548
-          ],
-          [
-            -11.7043503,
-            15.4918144
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.6791428,
-            15.5345048
-          ],
-          [
-            -11.708066,
-            15.5371548
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.676897,
-            15.5347162
-          ],
-          [
-            -11.6791428,
-            15.5345048
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.6660855,
-            15.5373837
-          ],
-          [
-            -11.676897,
-            15.5347162
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.6056451,
-            15.5337763
-          ],
-          [
-            -11.6403365,
-            15.5210871
-          ],
-          [
-            -11.6660855,
-            15.5373837
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.3588589,
-            15.5312471
-          ],
-          [
-            -11.359968,
-            15.559406
-          ],
-          [
-            -11.409779,
-            15.636065
-          ],
-          [
-            -11.448073,
-            15.643786
-          ],
-          [
-            -11.516258,
-            15.640372
-          ],
-          [
-            -11.493382,
-            15.613304
-          ],
-          [
-            -11.518612,
-            15.5924
-          ],
-          [
-            -11.546669,
-            15.593398
-          ],
-          [
-            -11.6056451,
-            15.5337763
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.33965,
-            15.5263436
-          ],
-          [
-            -11.3588589,
-            15.5312471
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.3387983,
-            15.5202826
-          ],
-          [
-            -11.33965,
-            15.5263436
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.99108,
-            15.228304
-          ],
-          [
-            -11.202045,
-            15.39727
-          ],
-          [
-            -11.251729,
-            15.419339
-          ],
-          [
-            -11.3387983,
-            15.5202826
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.9201866,
-            15.1327516
-          ],
-          [
-            -10.954124,
-            15.160197
-          ],
-          [
-            -10.99108,
-            15.228304
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.9201866,
-            15.1327516
-          ],
-          [
-            -10.8938153,
-            15.1126562
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.587819,
-            15.429101
-          ],
-          [
-            -10.638907,
-            15.420146
-          ],
-          [
-            -10.705203,
-            15.443455
-          ],
-          [
-            -10.726371,
-            15.436659
-          ],
-          [
-            -10.715326,
-            15.371172
-          ],
-          [
-            -10.737486,
-            15.336835
-          ],
-          [
-            -10.8218344,
-            15.2851164
-          ],
-          [
-            -10.8329066,
-            15.2146671
-          ],
-          [
-            -10.8670028,
-            15.1984127
-          ],
-          [
-            -10.8938153,
-            15.1126562
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.584852,
-            15.4289388
-          ],
-          [
-            -10.587819,
-            15.429101
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.5813,
-            15.428114
-          ],
-          [
-            -10.584852,
-            15.4289388
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.991505,
-            15.371827
-          ],
-          [
-            -10.064754,
-            15.361625
-          ],
-          [
-            -10.129813,
-            15.373398
-          ],
-          [
-            -10.1674742,
-            15.4022444
-          ],
-          [
-            -10.183919,
-            15.395394
-          ],
-          [
-            -10.308482,
-            15.443602
-          ],
-          [
-            -10.419483,
-            15.432908
-          ],
-          [
-            -10.518879,
-            15.451214
-          ],
-          [
-            -10.5813,
-            15.428114
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -9.1409583,
-            15.5016171
-          ],
-          [
-            -9.331251,
-            15.501607
-          ],
-          [
-            -9.309575,
-            15.693527
-          ],
-          [
-            -9.331025,
-            15.702785
-          ],
-          [
-            -9.446854,
-            15.605695
-          ],
-          [
-            -9.401019,
-            15.438838
-          ],
-          [
-            -9.685061,
-            15.427097
-          ],
-          [
-            -9.72209,
-            15.407679
-          ],
-          [
-            -9.753881,
-            15.419649
-          ],
-          [
-            -9.780927,
-            15.41424
-          ],
-          [
-            -9.799068,
-            15.389191
-          ],
-          [
-            -9.922402,
-            15.400078
-          ],
-          [
-            -9.991505,
-            15.371827
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.998277,
-            15.5004588
-          ],
-          [
-            -9.1409583,
-            15.5016171
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.3085379,
-            15.5000024
-          ],
-          [
-            -8.998277,
-            15.5004588
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.5,
-            15.5
-          ],
-          [
-            -6.3085379,
-            15.5000024
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.6334771,
-            16.7343527
-          ],
-          [
-            -5.609034,
-            16.500149
-          ],
-          [
-            -5.333333,
-            16.333333
-          ],
-          [
-            -5.5,
-            15.5
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.3541002,
-            23.1582274
-          ],
-          [
-            -5.6334771,
-            16.7343527
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.4045985,
-            23.5597676
-          ],
-          [
-            -6.3541002,
-            23.1582274
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -6.489894,
-            24.269449
-          ],
-          [
-            -6.4045985,
-            23.5597676
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.8333344,
-            25.0000001
-          ],
-          [
-            -6.57188,
-            25.000072
-          ],
-          [
-            -6.489894,
-            24.269449
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -5.668261,
-            25.513483
-          ],
-          [
-            -4.8333344,
-            25.0000001
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.668117,
-            27.314942
-          ],
-          [
-            -5.668261,
-            25.513483
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.668117,
-            27.314942
-          ],
-          [
-            -8.667599,
-            27.1361285
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.667599,
-            27.1361285
-          ],
-          [
-            -8.6669003,
-            26.7399139
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.6669003,
-            26.7399139
-          ],
-          [
-            -8.6668829,
-            26.7294392
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.6668829,
-            26.7294392
-          ],
-          [
-            -8.666944,
-            26.333333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.666944,
-            26.333333
-          ],
-          [
-            -8.666944,
-            26.000278
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -8.666944,
-            26.000278
-          ],
-          [
-            -10.633889,
-            26.0
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.633889,
-            26.0
-          ],
-          [
-            -10.8810767,
-            25.9998604
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -10.8810767,
-            25.9998604
-          ],
-          [
-            -11.348381,
-            25.9989086
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.348381,
-            25.9989086
-          ],
-          [
-            -11.6156977,
-            25.9987102
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.6156977,
-            25.9987102
-          ],
-          [
-            -11.6722911,
-            25.9989398
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.6722911,
-            25.9989398
-          ],
-          [
-            -11.9534657,
-            25.9994908
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.9534657,
-            25.9994908
-          ],
-          [
-            -12.000556,
-            26.0
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.000556,
-            26.0
-          ],
-          [
-            -12.000541,
-            25.9963352
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.000541,
-            25.9963352
-          ],
-          [
-            -12.0005539,
-            25.970532
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0005539,
-            25.970532
-          ],
-          [
-            -12.0002808,
-            25.867
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0002808,
-            25.867
-          ],
-          [
-            -12.0001565,
-            25.7513019
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0001565,
-            25.7513019
-          ],
-          [
-            -12.0005565,
-            25.488477
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0005565,
-            25.488477
-          ],
-          [
-            -12.0002782,
-            25.3489565
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0002782,
-            25.3489565
-          ],
-          [
-            -12.0002856,
-            25.3482765
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0002856,
-            25.3482765
-          ],
-          [
-            -11.9999959,
-            25.2804671
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -11.9999959,
-            25.2804671
-          ],
-          [
-            -12.0001322,
-            24.8820828
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0001322,
-            24.8820828
-          ],
-          [
-            -12.0,
-            24.385432
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.0,
-            24.385432
-          ],
-          [
-            -12.000278,
-            23.454444
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.000278,
-            23.454444
-          ],
-          [
-            -12.155833,
-            23.416389
-          ],
-          [
-            -12.365833,
-            23.318611
-          ],
-          [
-            -12.571389,
-            23.291389
-          ],
-          [
-            -12.8727721,
-            23.1028362
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.8727721,
-            23.1028362
-          ],
-          [
-            -12.998333,
-            23.024722
-          ],
-          [
-            -13.105278,
-            22.893056
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.105278,
-            22.893056
-          ],
-          [
-            -13.1502902,
-            22.7575125
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.1502902,
-            22.7575125
-          ],
-          [
-            -13.083986,
-            22.5366741
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.083986,
-            22.5366741
-          ],
-          [
-            -13.0649381,
-            22.2980803
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.0649381,
-            22.2980803
-          ],
-          [
-            -13.053333,
-            22.119722
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.053333,
-            22.119722
-          ],
-          [
-            -13.0251602,
-            21.7079495
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.0251602,
-            21.7079495
-          ],
-          [
-            -13.015556,
-            21.576667
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.015556,
-            21.576667
-          ],
-          [
-            -12.9996371,
-            21.3367176
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -12.9996371,
-            21.3367176
-          ],
-          [
-            -13.541667,
-            21.340833
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -13.541667,
-            21.340833
-          ],
-          [
-            -14.3011889,
-            21.3417403
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.3011889,
-            21.3417403
-          ],
-          [
-            -14.4113344,
-            21.3411109
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.4113344,
-            21.3411109
-          ],
-          [
-            -14.7255635,
-            21.338611
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.7255635,
-            21.338611
-          ],
-          [
-            -14.7837657,
-            21.3380599
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.7837657,
-            21.3380599
-          ],
-          [
-            -14.7878446,
-            21.338056
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -14.7878446,
-            21.338056
-          ],
-          [
-            -15.0405656,
-            21.3370952
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.0405656,
-            21.3370952
-          ],
-          [
-            -15.1678757,
-            21.336944
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.1678757,
-            21.336944
-          ],
-          [
-            -15.2657407,
-            21.3375
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.2657407,
-            21.3375
-          ],
-          [
-            -15.7176125,
-            21.338333
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.7176125,
-            21.338333
-          ],
-          [
-            -15.8055707,
-            21.3384851
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.8055707,
-            21.3384851
-          ],
-          [
-            -15.9239611,
-            21.3392415
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.9239611,
-            21.3392415
-          ],
-          [
-            -15.9755956,
-            21.3390244
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.9755956,
-            21.3390244
-          ],
-          [
-            -15.992004,
-            21.338889
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -15.992004,
-            21.338889
-          ],
-          [
-            -16.567778,
-            21.339167
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.567778,
-            21.339167
-          ],
-          [
-            -16.8789938,
-            21.3350596
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.8789938,
-            21.3350596
-          ],
-          [
-            -16.8923163,
-            21.3348298
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.8923163,
-            21.3348298
-          ],
-          [
-            -16.9254524,
-            21.3343351
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.9254524,
-            21.3343351
-          ],
-          [
-            -16.9471856,
-            21.3341747
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.9471856,
-            21.3341747
-          ],
-          [
-            -16.9479368,
-            21.3341692
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.9479368,
-            21.3341692
-          ],
-          [
-            -16.9486079,
-            21.3335343
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.9486079,
-            21.3335343
-          ],
-          [
-            -16.9525367,
-            21.3171338
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.9525367,
-            21.3171338
-          ],
-          [
-            -16.9599452,
-            21.2845203
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -16.9599452,
-            21.2845203
-          ],
-          [
-            -16.9935999,
-            21.13782
-          ],
-          [
-            -17.026535,
-            21.0679094
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -17.026535,
-            21.0679094
-          ],
-          [
-            -17.0320904,
-            21.0581504
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -17.0320904,
-            21.0581504
-          ],
-          [
-            -17.0613755,
-            20.912806
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -17.0613755,
-            20.912806
-          ],
-          [
-            -17.049762,
-            20.7701123
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "iso-3166-1": "MR",
-        "iso-3166-2": null,
-        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
-        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
-      },
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -17.049762,
-            20.7701123
-          ],
-          [
-            -17.2359609,
-            20.667252
-          ]
-        ]
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -17.235961,
+              20.667252
+            ],
+            [
+              -17.049762,
+              20.770112
+            ],
+            [
+              -17.049762,
+              20.770112
+            ],
+            [
+              -17.061376,
+              20.912806
+            ],
+            [
+              -17.061376,
+              20.912806
+            ],
+            [
+              -17.03209,
+              21.05815
+            ],
+            [
+              -17.03209,
+              21.05815
+            ],
+            [
+              -17.026535,
+              21.067909
+            ],
+            [
+              -17.026535,
+              21.067909
+            ],
+            [
+              -16.9936,
+              21.13782
+            ],
+            [
+              -16.959945,
+              21.28452
+            ],
+            [
+              -16.959945,
+              21.28452
+            ],
+            [
+              -16.952537,
+              21.317134
+            ],
+            [
+              -16.952537,
+              21.317134
+            ],
+            [
+              -16.948608,
+              21.333534
+            ],
+            [
+              -16.948608,
+              21.333534
+            ],
+            [
+              -16.947937,
+              21.334169
+            ],
+            [
+              -16.947937,
+              21.334169
+            ],
+            [
+              -16.947186,
+              21.334175
+            ],
+            [
+              -16.947186,
+              21.334175
+            ],
+            [
+              -16.925452,
+              21.334335
+            ],
+            [
+              -16.925452,
+              21.334335
+            ],
+            [
+              -16.892316,
+              21.33483
+            ],
+            [
+              -16.892316,
+              21.33483
+            ],
+            [
+              -16.878994,
+              21.33506
+            ],
+            [
+              -16.878994,
+              21.33506
+            ],
+            [
+              -16.567778,
+              21.339167
+            ],
+            [
+              -16.567778,
+              21.339167
+            ],
+            [
+              -15.992004,
+              21.338889
+            ],
+            [
+              -15.992004,
+              21.338889
+            ],
+            [
+              -15.975596,
+              21.339024
+            ],
+            [
+              -15.975596,
+              21.339024
+            ],
+            [
+              -15.923961,
+              21.339241
+            ],
+            [
+              -15.923961,
+              21.339241
+            ],
+            [
+              -15.805571,
+              21.338485
+            ],
+            [
+              -15.805571,
+              21.338485
+            ],
+            [
+              -15.717612,
+              21.338333
+            ],
+            [
+              -15.717612,
+              21.338333
+            ],
+            [
+              -15.265741,
+              21.3375
+            ],
+            [
+              -15.265741,
+              21.3375
+            ],
+            [
+              -15.167876,
+              21.336944
+            ],
+            [
+              -15.167876,
+              21.336944
+            ],
+            [
+              -15.040566,
+              21.337095
+            ],
+            [
+              -15.040566,
+              21.337095
+            ],
+            [
+              -14.787845,
+              21.338056
+            ],
+            [
+              -14.787845,
+              21.338056
+            ],
+            [
+              -14.783766,
+              21.33806
+            ],
+            [
+              -14.783766,
+              21.33806
+            ],
+            [
+              -14.725563,
+              21.338611
+            ],
+            [
+              -14.725563,
+              21.338611
+            ],
+            [
+              -14.411334,
+              21.341111
+            ],
+            [
+              -14.411334,
+              21.341111
+            ],
+            [
+              -14.301189,
+              21.34174
+            ],
+            [
+              -14.301189,
+              21.34174
+            ],
+            [
+              -13.541667,
+              21.340833
+            ],
+            [
+              -13.541667,
+              21.340833
+            ],
+            [
+              -12.999637,
+              21.336718
+            ],
+            [
+              -12.999637,
+              21.336718
+            ],
+            [
+              -13.015556,
+              21.576667
+            ],
+            [
+              -13.015556,
+              21.576667
+            ],
+            [
+              -13.02516,
+              21.70795
+            ],
+            [
+              -13.02516,
+              21.70795
+            ],
+            [
+              -13.053333,
+              22.119722
+            ],
+            [
+              -13.053333,
+              22.119722
+            ],
+            [
+              -13.064938,
+              22.29808
+            ],
+            [
+              -13.064938,
+              22.29808
+            ],
+            [
+              -13.083986,
+              22.536674
+            ],
+            [
+              -13.083986,
+              22.536674
+            ],
+            [
+              -13.15029,
+              22.757513
+            ],
+            [
+              -13.15029,
+              22.757513
+            ],
+            [
+              -13.105278,
+              22.893056
+            ],
+            [
+              -13.105278,
+              22.893056
+            ],
+            [
+              -12.998333,
+              23.024722
+            ],
+            [
+              -12.872772,
+              23.102836
+            ],
+            [
+              -12.872772,
+              23.102836
+            ],
+            [
+              -12.571389,
+              23.291389
+            ],
+            [
+              -12.365833,
+              23.318611
+            ],
+            [
+              -12.155833,
+              23.416389
+            ],
+            [
+              -12.000278,
+              23.454444
+            ],
+            [
+              -12.000278,
+              23.454444
+            ],
+            [
+              -12.0,
+              24.385432
+            ],
+            [
+              -12.0,
+              24.385432
+            ],
+            [
+              -12.000132,
+              24.882083
+            ],
+            [
+              -12.000132,
+              24.882083
+            ],
+            [
+              -11.999996,
+              25.280467
+            ],
+            [
+              -11.999996,
+              25.280467
+            ],
+            [
+              -12.000286,
+              25.348277
+            ],
+            [
+              -12.000286,
+              25.348277
+            ],
+            [
+              -12.000278,
+              25.348956
+            ],
+            [
+              -12.000278,
+              25.348956
+            ],
+            [
+              -12.000557,
+              25.488477
+            ],
+            [
+              -12.000557,
+              25.488477
+            ],
+            [
+              -12.000156,
+              25.751302
+            ],
+            [
+              -12.000156,
+              25.751302
+            ],
+            [
+              -12.000281,
+              25.867
+            ],
+            [
+              -12.000281,
+              25.867
+            ],
+            [
+              -12.000554,
+              25.970532
+            ],
+            [
+              -12.000554,
+              25.970532
+            ],
+            [
+              -12.000541,
+              25.996335
+            ],
+            [
+              -12.000541,
+              25.996335
+            ],
+            [
+              -12.000556,
+              26.0
+            ],
+            [
+              -12.000556,
+              26.0
+            ],
+            [
+              -11.953466,
+              25.999491
+            ],
+            [
+              -11.953466,
+              25.999491
+            ],
+            [
+              -11.672291,
+              25.99894
+            ],
+            [
+              -11.672291,
+              25.99894
+            ],
+            [
+              -11.615698,
+              25.99871
+            ],
+            [
+              -11.615698,
+              25.99871
+            ],
+            [
+              -11.348381,
+              25.998909
+            ],
+            [
+              -11.348381,
+              25.998909
+            ],
+            [
+              -10.881077,
+              25.99986
+            ],
+            [
+              -10.881077,
+              25.99986
+            ],
+            [
+              -10.633889,
+              26.0
+            ],
+            [
+              -10.633889,
+              26.0
+            ],
+            [
+              -8.666944,
+              26.000278
+            ],
+            [
+              -8.666944,
+              26.000278
+            ],
+            [
+              -8.666944,
+              26.333333
+            ],
+            [
+              -8.666944,
+              26.333333
+            ],
+            [
+              -8.666883,
+              26.729439
+            ],
+            [
+              -8.666883,
+              26.729439
+            ],
+            [
+              -8.6669,
+              26.739914
+            ],
+            [
+              -8.6669,
+              26.739914
+            ],
+            [
+              -8.667599,
+              27.136129
+            ],
+            [
+              -8.667599,
+              27.136129
+            ],
+            [
+              -8.668117,
+              27.314942
+            ],
+            [
+              -8.668117,
+              27.314942
+            ],
+            [
+              -5.668261,
+              25.513483
+            ],
+            [
+              -5.668261,
+              25.513483
+            ],
+            [
+              -4.833334,
+              25.0
+            ],
+            [
+              -4.833334,
+              25.0
+            ],
+            [
+              -6.57188,
+              25.000072
+            ],
+            [
+              -6.489894,
+              24.269449
+            ],
+            [
+              -6.489894,
+              24.269449
+            ],
+            [
+              -6.404598,
+              23.559768
+            ],
+            [
+              -6.404598,
+              23.559768
+            ],
+            [
+              -6.3541,
+              23.158227
+            ],
+            [
+              -6.3541,
+              23.158227
+            ],
+            [
+              -5.633477,
+              16.734353
+            ],
+            [
+              -5.633477,
+              16.734353
+            ],
+            [
+              -5.609034,
+              16.500149
+            ],
+            [
+              -5.333333,
+              16.333333
+            ],
+            [
+              -5.5,
+              15.5
+            ],
+            [
+              -5.5,
+              15.5
+            ],
+            [
+              -6.308538,
+              15.500002
+            ],
+            [
+              -6.308538,
+              15.500002
+            ],
+            [
+              -8.998277,
+              15.500459
+            ],
+            [
+              -8.998277,
+              15.500459
+            ],
+            [
+              -9.140958,
+              15.501617
+            ],
+            [
+              -9.140958,
+              15.501617
+            ],
+            [
+              -9.331251,
+              15.501607
+            ],
+            [
+              -9.309575,
+              15.693527
+            ],
+            [
+              -9.331025,
+              15.702785
+            ],
+            [
+              -9.446854,
+              15.605695
+            ],
+            [
+              -9.401019,
+              15.438838
+            ],
+            [
+              -9.685061,
+              15.427097
+            ],
+            [
+              -9.72209,
+              15.407679
+            ],
+            [
+              -9.753881,
+              15.419649
+            ],
+            [
+              -9.780927,
+              15.41424
+            ],
+            [
+              -9.799068,
+              15.389191
+            ],
+            [
+              -9.922402,
+              15.400078
+            ],
+            [
+              -9.991505,
+              15.371827
+            ],
+            [
+              -9.991505,
+              15.371827
+            ],
+            [
+              -10.064754,
+              15.361625
+            ],
+            [
+              -10.129813,
+              15.373398
+            ],
+            [
+              -10.167474,
+              15.402244
+            ],
+            [
+              -10.183919,
+              15.395394
+            ],
+            [
+              -10.308482,
+              15.443602
+            ],
+            [
+              -10.419483,
+              15.432908
+            ],
+            [
+              -10.518879,
+              15.451214
+            ],
+            [
+              -10.5813,
+              15.428114
+            ],
+            [
+              -10.5813,
+              15.428114
+            ],
+            [
+              -10.584852,
+              15.428939
+            ],
+            [
+              -10.584852,
+              15.428939
+            ],
+            [
+              -10.587819,
+              15.429101
+            ],
+            [
+              -10.587819,
+              15.429101
+            ],
+            [
+              -10.638907,
+              15.420146
+            ],
+            [
+              -10.705203,
+              15.443455
+            ],
+            [
+              -10.726371,
+              15.436659
+            ],
+            [
+              -10.715326,
+              15.371172
+            ],
+            [
+              -10.737486,
+              15.336835
+            ],
+            [
+              -10.821834,
+              15.285116
+            ],
+            [
+              -10.832907,
+              15.214667
+            ],
+            [
+              -10.867003,
+              15.198413
+            ],
+            [
+              -10.893815,
+              15.112656
+            ],
+            [
+              -10.893815,
+              15.112656
+            ],
+            [
+              -10.920187,
+              15.132752
+            ],
+            [
+              -10.920187,
+              15.132752
+            ],
+            [
+              -10.954124,
+              15.160197
+            ],
+            [
+              -10.99108,
+              15.228304
+            ],
+            [
+              -10.99108,
+              15.228304
+            ],
+            [
+              -11.202045,
+              15.39727
+            ],
+            [
+              -11.251729,
+              15.419339
+            ],
+            [
+              -11.338798,
+              15.520283
+            ],
+            [
+              -11.338798,
+              15.520283
+            ],
+            [
+              -11.33965,
+              15.526344
+            ],
+            [
+              -11.33965,
+              15.526344
+            ],
+            [
+              -11.358859,
+              15.531247
+            ],
+            [
+              -11.358859,
+              15.531247
+            ],
+            [
+              -11.359968,
+              15.559406
+            ],
+            [
+              -11.409779,
+              15.636065
+            ],
+            [
+              -11.448073,
+              15.643786
+            ],
+            [
+              -11.516258,
+              15.640372
+            ],
+            [
+              -11.493382,
+              15.613304
+            ],
+            [
+              -11.518612,
+              15.5924
+            ],
+            [
+              -11.546669,
+              15.593398
+            ],
+            [
+              -11.605645,
+              15.533776
+            ],
+            [
+              -11.605645,
+              15.533776
+            ],
+            [
+              -11.640337,
+              15.521087
+            ],
+            [
+              -11.666085,
+              15.537384
+            ],
+            [
+              -11.666085,
+              15.537384
+            ],
+            [
+              -11.676897,
+              15.534716
+            ],
+            [
+              -11.676897,
+              15.534716
+            ],
+            [
+              -11.679143,
+              15.534505
+            ],
+            [
+              -11.679143,
+              15.534505
+            ],
+            [
+              -11.708066,
+              15.537155
+            ],
+            [
+              -11.708066,
+              15.537155
+            ],
+            [
+              -11.70435,
+              15.491814
+            ],
+            [
+              -11.70435,
+              15.491814
+            ],
+            [
+              -11.736754,
+              15.468301
+            ],
+            [
+              -11.754448,
+              15.38001
+            ],
+            [
+              -11.754448,
+              15.38001
+            ],
+            [
+              -11.766787,
+              15.33604
+            ],
+            [
+              -11.793174,
+              15.320358
+            ],
+            [
+              -11.803923,
+              15.256055
+            ],
+            [
+              -11.803923,
+              15.256055
+            ],
+            [
+              -11.801745,
+              15.224892
+            ],
+            [
+              -11.835788,
+              15.184728
+            ],
+            [
+              -11.809837,
+              15.139148
+            ],
+            [
+              -11.844614,
+              15.093381
+            ],
+            [
+              -11.826945,
+              15.071324
+            ],
+            [
+              -11.841395,
+              15.042503
+            ],
+            [
+              -11.806701,
+              15.049314
+            ],
+            [
+              -11.787007,
+              15.027452
+            ],
+            [
+              -11.816436,
+              14.940468
+            ],
+            [
+              -11.799542,
+              14.894992
+            ],
+            [
+              -11.825058,
+              14.893847
+            ],
+            [
+              -11.828459,
+              14.872724
+            ],
+            [
+              -11.828459,
+              14.872724
+            ],
+            [
+              -11.848968,
+              14.854488
+            ],
+            [
+              -11.848968,
+              14.854488
+            ],
+            [
+              -11.896634,
+              14.822033
+            ],
+            [
+              -11.929768,
+              14.819329
+            ],
+            [
+              -11.93643,
+              14.781769
+            ],
+            [
+              -11.960718,
+              14.76702
+            ],
+            [
+              -12.042322,
+              14.768118
+            ],
+            [
+              -12.055338,
+              14.720991
+            ],
+            [
+              -12.055338,
+              14.720991
+            ],
+            [
+              -12.104094,
+              14.743097
+            ],
+            [
+              -12.130075,
+              14.775982
+            ],
+            [
+              -12.171823,
+              14.761248
+            ],
+            [
+              -12.240284,
+              14.764719
+            ],
+            [
+              -12.240284,
+              14.764719
+            ],
+            [
+              -12.28149,
+              14.77347
+            ],
+            [
+              -12.330358,
+              14.828268
+            ],
+            [
+              -12.367953,
+              14.827721
+            ],
+            [
+              -12.420105,
+              14.860482
+            ],
+            [
+              -12.420105,
+              14.860482
+            ],
+            [
+              -12.454467,
+              14.894668
+            ],
+            [
+              -12.454467,
+              14.894668
+            ],
+            [
+              -12.452836,
+              14.921813
+            ],
+            [
+              -12.452836,
+              14.921813
+            ],
+            [
+              -12.466499,
+              14.989726
+            ],
+            [
+              -12.531355,
+              15.026182
+            ],
+            [
+              -12.531355,
+              15.026182
+            ],
+            [
+              -12.552049,
+              15.032139
+            ],
+            [
+              -12.552049,
+              15.032139
+            ],
+            [
+              -12.606215,
+              15.082902
+            ],
+            [
+              -12.663915,
+              15.109067
+            ],
+            [
+              -12.691297,
+              15.084219
+            ],
+            [
+              -12.691297,
+              15.084219
+            ],
+            [
+              -12.695839,
+              15.08818
+            ],
+            [
+              -12.695839,
+              15.08818
+            ],
+            [
+              -12.701537,
+              15.098128
+            ],
+            [
+              -12.701537,
+              15.098128
+            ],
+            [
+              -12.746052,
+              15.131211
+            ],
+            [
+              -12.746052,
+              15.131211
+            ],
+            [
+              -12.790722,
+              15.151848
+            ],
+            [
+              -12.78837,
+              15.183437
+            ],
+            [
+              -12.78837,
+              15.183437
+            ],
+            [
+              -12.802807,
+              15.214373
+            ],
+            [
+              -12.846301,
+              15.198496
+            ],
+            [
+              -12.856453,
+              15.214835
+            ],
+            [
+              -12.856453,
+              15.214835
+            ],
+            [
+              -12.897961,
+              15.249204
+            ],
+            [
+              -12.892011,
+              15.269102
+            ],
+            [
+              -12.892011,
+              15.269102
+            ],
+            [
+              -12.875085,
+              15.267283
+            ],
+            [
+              -12.875085,
+              15.267283
+            ],
+            [
+              -12.859973,
+              15.255829
+            ],
+            [
+              -12.859973,
+              15.255829
+            ],
+            [
+              -12.84346,
+              15.261557
+            ],
+            [
+              -12.836207,
+              15.290009
+            ],
+            [
+              -12.886196,
+              15.335814
+            ],
+            [
+              -12.932315,
+              15.342393
+            ],
+            [
+              -12.948196,
+              15.365705
+            ],
+            [
+              -12.948448,
+              15.414227
+            ],
+            [
+              -12.924924,
+              15.441623
+            ],
+            [
+              -12.960002,
+              15.443938
+            ],
+            [
+              -12.960002,
+              15.443938
+            ],
+            [
+              -12.964898,
+              15.50013
+            ],
+            [
+              -13.017642,
+              15.482362
+            ],
+            [
+              -13.017642,
+              15.482362
+            ],
+            [
+              -13.056669,
+              15.478302
+            ],
+            [
+              -13.102229,
+              15.497253
+            ],
+            [
+              -13.085782,
+              15.556606
+            ],
+            [
+              -13.085782,
+              15.556606
+            ],
+            [
+              -13.093232,
+              15.569944
+            ],
+            [
+              -13.093232,
+              15.569944
+            ],
+            [
+              -13.088445,
+              15.582361
+            ],
+            [
+              -13.165308,
+              15.615141
+            ],
+            [
+              -13.165308,
+              15.615141
+            ],
+            [
+              -13.190373,
+              15.626394
+            ],
+            [
+              -13.222588,
+              15.609158
+            ],
+            [
+              -13.23895,
+              15.637355
+            ],
+            [
+              -13.23895,
+              15.637355
+            ],
+            [
+              -13.252521,
+              15.671454
+            ],
+            [
+              -13.252521,
+              15.671454
+            ],
+            [
+              -13.21801,
+              15.675165
+            ],
+            [
+              -13.207616,
+              15.693653
+            ],
+            [
+              -13.219513,
+              15.704609
+            ],
+            [
+              -13.219513,
+              15.704609
+            ],
+            [
+              -13.2922,
+              15.766543
+            ],
+            [
+              -13.287726,
+              15.789754
+            ],
+            [
+              -13.265245,
+              15.789379
+            ],
+            [
+              -13.302831,
+              15.836536
+            ],
+            [
+              -13.302831,
+              15.836536
+            ],
+            [
+              -13.30007,
+              15.87077
+            ],
+            [
+              -13.335121,
+              15.895433
+            ],
+            [
+              -13.312283,
+              15.923256
+            ],
+            [
+              -13.337983,
+              15.934143
+            ],
+            [
+              -13.337983,
+              15.934143
+            ],
+            [
+              -13.351267,
+              15.948005
+            ],
+            [
+              -13.351267,
+              15.948005
+            ],
+            [
+              -13.378416,
+              16.015031
+            ],
+            [
+              -13.375774,
+              16.054703
+            ],
+            [
+              -13.440987,
+              16.081528
+            ],
+            [
+              -13.459763,
+              16.10895
+            ],
+            [
+              -13.486004,
+              16.081727
+            ],
+            [
+              -13.486004,
+              16.081727
+            ],
+            [
+              -13.515092,
+              16.102501
+            ],
+            [
+              -13.474695,
+              16.131675
+            ],
+            [
+              -13.490222,
+              16.146989
+            ],
+            [
+              -13.490222,
+              16.146989
+            ],
+            [
+              -13.51843,
+              16.125039
+            ],
+            [
+              -13.546943,
+              16.132915
+            ],
+            [
+              -13.546943,
+              16.132915
+            ],
+            [
+              -13.68059,
+              16.094625
+            ],
+            [
+              -13.68059,
+              16.094625
+            ],
+            [
+              -13.717807,
+              16.136292
+            ],
+            [
+              -13.717807,
+              16.136292
+            ],
+            [
+              -13.704021,
+              16.162878
+            ],
+            [
+              -13.704021,
+              16.162878
+            ],
+            [
+              -13.718534,
+              16.181523
+            ],
+            [
+              -13.746731,
+              16.150849
+            ],
+            [
+              -13.798071,
+              16.143069
+            ],
+            [
+              -13.842101,
+              16.108213
+            ],
+            [
+              -13.842101,
+              16.108213
+            ],
+            [
+              -13.878527,
+              16.154643
+            ],
+            [
+              -13.875649,
+              16.19504
+            ],
+            [
+              -13.911664,
+              16.195541
+            ],
+            [
+              -13.92078,
+              16.230227
+            ],
+            [
+              -13.972368,
+              16.222407
+            ],
+            [
+              -13.972368,
+              16.222407
+            ],
+            [
+              -13.951951,
+              16.270222
+            ],
+            [
+              -13.987297,
+              16.275246
+            ],
+            [
+              -13.990863,
+              16.304382
+            ],
+            [
+              -13.957453,
+              16.314824
+            ],
+            [
+              -13.99526,
+              16.345918
+            ],
+            [
+              -14.027121,
+              16.34767
+            ],
+            [
+              -14.027121,
+              16.34767
+            ],
+            [
+              -14.071056,
+              16.406156
+            ],
+            [
+              -14.139163,
+              16.454587
+            ],
+            [
+              -14.133217,
+              16.477466
+            ],
+            [
+              -14.149109,
+              16.471215
+            ],
+            [
+              -14.149109,
+              16.471215
+            ],
+            [
+              -14.199543,
+              16.508693
+            ],
+            [
+              -14.199543,
+              16.508693
+            ],
+            [
+              -14.202649,
+              16.512129
+            ],
+            [
+              -14.202649,
+              16.512129
+            ],
+            [
+              -14.200001,
+              16.531516
+            ],
+            [
+              -14.23838,
+              16.546613
+            ],
+            [
+              -14.256928,
+              16.514253
+            ],
+            [
+              -14.256928,
+              16.514253
+            ],
+            [
+              -14.27688,
+              16.583534
+            ],
+            [
+              -14.333282,
+              16.569617
+            ],
+            [
+              -14.334008,
+              16.641099
+            ],
+            [
+              -14.404657,
+              16.632059
+            ],
+            [
+              -14.420033,
+              16.652526
+            ],
+            [
+              -14.448339,
+              16.622881
+            ],
+            [
+              -14.513316,
+              16.623593
+            ],
+            [
+              -14.513316,
+              16.623593
+            ],
+            [
+              -14.545256,
+              16.643744
+            ],
+            [
+              -14.551924,
+              16.624324
+            ],
+            [
+              -14.551924,
+              16.624324
+            ],
+            [
+              -14.567022,
+              16.62273
+            ],
+            [
+              -14.567022,
+              16.62273
+            ],
+            [
+              -14.62338,
+              16.628972
+            ],
+            [
+              -14.64016,
+              16.617225
+            ],
+            [
+              -14.649035,
+              16.649959
+            ],
+            [
+              -14.726605,
+              16.646561
+            ],
+            [
+              -14.734197,
+              16.619312
+            ],
+            [
+              -14.74906,
+              16.624189
+            ],
+            [
+              -14.74906,
+              16.624189
+            ],
+            [
+              -14.766454,
+              16.655753
+            ],
+            [
+              -14.788012,
+              16.628863
+            ],
+            [
+              -14.813226,
+              16.6537
+            ],
+            [
+              -14.826347,
+              16.634614
+            ],
+            [
+              -14.861365,
+              16.636166
+            ],
+            [
+              -14.878449,
+              16.660166
+            ],
+            [
+              -14.897671,
+              16.629999
+            ],
+            [
+              -14.913107,
+              16.648449
+            ],
+            [
+              -14.946622,
+              16.636477
+            ],
+            [
+              -14.946622,
+              16.636477
+            ],
+            [
+              -14.95434,
+              16.656164
+            ],
+            [
+              -14.95434,
+              16.656164
+            ],
+            [
+              -14.954021,
+              16.657611
+            ],
+            [
+              -14.954021,
+              16.657611
+            ],
+            [
+              -14.952995,
+              16.661845
+            ],
+            [
+              -14.952995,
+              16.661845
+            ],
+            [
+              -14.953508,
+              16.678044
+            ],
+            [
+              -14.986029,
+              16.691904
+            ],
+            [
+              -15.005724,
+              16.640346
+            ],
+            [
+              -15.052641,
+              16.627509
+            ],
+            [
+              -15.066621,
+              16.647642
+            ],
+            [
+              -15.066621,
+              16.647642
+            ],
+            [
+              -15.092462,
+              16.677688
+            ],
+            [
+              -15.117168,
+              16.654089
+            ],
+            [
+              -15.116995,
+              16.634986
+            ],
+            [
+              -15.077872,
+              16.622399
+            ],
+            [
+              -15.103711,
+              16.588535
+            ],
+            [
+              -15.103711,
+              16.588535
+            ],
+            [
+              -15.126793,
+              16.577482
+            ],
+            [
+              -15.169711,
+              16.589173
+            ],
+            [
+              -15.229604,
+              16.552331
+            ],
+            [
+              -15.301216,
+              16.574314
+            ],
+            [
+              -15.333015,
+              16.560751
+            ],
+            [
+              -15.333015,
+              16.560751
+            ],
+            [
+              -15.406487,
+              16.534764
+            ],
+            [
+              -15.429096,
+              16.545185
+            ],
+            [
+              -15.436025,
+              16.56948
+            ],
+            [
+              -15.436025,
+              16.56948
+            ],
+            [
+              -15.451474,
+              16.587183
+            ],
+            [
+              -15.451474,
+              16.587183
+            ],
+            [
+              -15.471406,
+              16.590177
+            ],
+            [
+              -15.512749,
+              16.563298
+            ],
+            [
+              -15.50722,
+              16.52761
+            ],
+            [
+              -15.50722,
+              16.52761
+            ],
+            [
+              -15.512071,
+              16.522756
+            ],
+            [
+              -15.512071,
+              16.522756
+            ],
+            [
+              -15.547916,
+              16.509135
+            ],
+            [
+              -15.623057,
+              16.524616
+            ],
+            [
+              -15.631051,
+              16.490072
+            ],
+            [
+              -15.631051,
+              16.490072
+            ],
+            [
+              -15.673828,
+              16.478652
+            ],
+            [
+              -15.673828,
+              16.478652
+            ],
+            [
+              -15.696065,
+              16.471417
+            ],
+            [
+              -15.696065,
+              16.471417
+            ],
+            [
+              -15.708298,
+              16.472261
+            ],
+            [
+              -15.708298,
+              16.472261
+            ],
+            [
+              -15.792956,
+              16.497757
+            ],
+            [
+              -15.792956,
+              16.497757
+            ],
+            [
+              -15.812205,
+              16.506997
+            ],
+            [
+              -15.812205,
+              16.506997
+            ],
+            [
+              -15.858533,
+              16.490642
+            ],
+            [
+              -15.867052,
+              16.512519
+            ],
+            [
+              -15.895976,
+              16.515125
+            ],
+            [
+              -15.963398,
+              16.483023
+            ],
+            [
+              -16.002295,
+              16.500811
+            ],
+            [
+              -16.051767,
+              16.477063
+            ],
+            [
+              -16.10243,
+              16.523133
+            ],
+            [
+              -16.109465,
+              16.552554
+            ],
+            [
+              -16.151928,
+              16.547234
+            ],
+            [
+              -16.151928,
+              16.547234
+            ],
+            [
+              -16.18851,
+              16.513391
+            ],
+            [
+              -16.250082,
+              16.525727
+            ],
+            [
+              -16.282414,
+              16.509685
+            ],
+            [
+              -16.310306,
+              16.409319
+            ],
+            [
+              -16.332042,
+              16.397508
+            ],
+            [
+              -16.33202,
+              16.348988
+            ],
+            [
+              -16.366322,
+              16.314888
+            ],
+            [
+              -16.353794,
+              16.279877
+            ],
+            [
+              -16.353794,
+              16.279877
+            ],
+            [
+              -16.372289,
+              16.23305
+            ],
+            [
+              -16.407989,
+              16.214154
+            ],
+            [
+              -16.407989,
+              16.214154
+            ],
+            [
+              -16.414684,
+              16.215762
+            ],
+            [
+              -16.414684,
+              16.215762
+            ],
+            [
+              -16.414763,
+              16.215767
+            ],
+            [
+              -16.414763,
+              16.215767
+            ],
+            [
+              -16.426476,
+              16.215463
+            ],
+            [
+              -16.426476,
+              16.215463
+            ],
+            [
+              -16.454649,
+              16.180072
+            ],
+            [
+              -16.443719,
+              16.103345
+            ],
+            [
+              -16.477126,
+              16.065649
+            ],
+            [
+              -16.477126,
+              16.065649
+            ],
+            [
+              -16.487205,
+              16.055311
+            ],
+            [
+              -16.487205,
+              16.055311
+            ],
+            [
+              -16.48946,
+              16.057213
+            ],
+            [
+              -16.48946,
+              16.057213
+            ],
+            [
+              -16.488971,
+              16.06099
+            ],
+            [
+              -16.488971,
+              16.06099
+            ],
+            [
+              -16.49183,
+              16.069328
+            ],
+            [
+              -16.49183,
+              16.069328
+            ],
+            [
+              -16.493944,
+              16.072346
+            ],
+            [
+              -16.493944,
+              16.072346
+            ],
+            [
+              -16.494992,
+              16.07256
+            ],
+            [
+              -16.494992,
+              16.07256
+            ],
+            [
+              -16.496058,
+              16.073001
+            ],
+            [
+              -16.496058,
+              16.073001
+            ],
+            [
+              -16.496428,
+              16.073426
+            ],
+            [
+              -16.496428,
+              16.073426
+            ],
+            [
+              -16.496951,
+              16.07396
+            ],
+            [
+              -16.496951,
+              16.07396
+            ],
+            [
+              -16.501394,
+              16.069324
+            ],
+            [
+              -16.501394,
+              16.069324
+            ],
+            [
+              -16.5049,
+              16.066394
+            ],
+            [
+              -16.5049,
+              16.066394
+            ],
+            [
+              -16.508302,
+              16.06638
+            ],
+            [
+              -16.508302,
+              16.06638
+            ],
+            [
+              -16.508712,
+              16.066413
+            ],
+            [
+              -16.508712,
+              16.066413
+            ],
+            [
+              -16.717128,
+              16.06723
+            ],
+            [
+              -16.717128,
+              16.06723
+            ],
+            [
+              -16.72727,
+              16.298834
+            ],
+            [
+              -16.659597,
+              16.530218
+            ],
+            [
+              -16.642166,
+              16.672229
+            ],
+            [
+              -16.349965,
+              17.376293
+            ],
+            [
+              -16.272695,
+              17.622119
+            ],
+            [
+              -16.233156,
+              18.06289
+            ],
+            [
+              -16.26129,
+              18.40435
+            ],
+            [
+              -16.336656,
+              18.601388
+            ],
+            [
+              -16.389759,
+              18.870685
+            ],
+            [
+              -16.440508,
+              18.976432
+            ],
+            [
+              -16.48696,
+              19.030872
+            ],
+            [
+              -16.625272,
+              19.120158
+            ],
+            [
+              -16.738249,
+              19.299681
+            ],
+            [
+              -17.235961,
+              20.667252
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso-3166-1": "MR",
+        "iso-3166-2": null,
+        "flag": "http://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
+        "name": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
+        "id": "MR"
       }
     }
   ]
